@@ -1,0 +1,14 @@
+<application>
+  <component name="FileTypeManager" version="18">
+    <extensionMap>
+      <mapping ext="docker" type="Dockerfile" />
+      <mapping pattern=".php_cs" type="PHP" />
+      <mapping pattern=".env2" type="PLAIN_TEXT" />
+      <mapping pattern=".env_old" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern=".env1" type="PLAIN_TEXT" />
+      <mapping pattern="asda" type="TypeScript JSX" />
+      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>
