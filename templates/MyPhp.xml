@@ -1,0 +1,42 @@
+<templateSet group="MyPhp">
+  <template name="pfhan" value="public function handle($PARAMETERS$)&#10;{&#10;    $END$&#10;}" description="public function handle() {}" toReformat="true" toShortenFQNames="true">
+    <variable name="PARAMETERS" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="rtest" value="Route::post('test', function() {&#10;    $END$&#10;});" description="Route::get('test', fnc);" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="PHP Expression" value="true" />
+      <option name="PHP Statement" value="true" />
+    </context>
+  </template>
+  <template name="thre" value="throw new \Exception($END$);" description="throw new \Exception()" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="PHP Expression" value="true" />
+      <option name="PHP Statement" value="true" />
+    </context>
+  </template>
+  <template name="fnc" value="function ($PARAMETERS$) {&#10;    $END$&#10;}" description="function () {}" toReformat="false" toShortenFQNames="true">
+    <variable name="PARAMETERS" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="clsns" value="$CLASS_FQN$" description="current class full namespace" toReformat="false" toShortenFQNames="false">
+    <variable name="CLASS_FQN" expression="phpQualifiedClassName()" defaultValue="" alwaysStopAt="false" />
+  </template>
+  <template name="clsn" value="$CLASS_NAME$" description="current class name" toReformat="false" toShortenFQNames="false">
+    <variable name="CLASS_NAME" expression="phpClassName()" defaultValue="" alwaysStopAt="false" />
+  </template>
+  <template name="r" value="return" description="return" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="rt" value="return $this;" description="return $this" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+</templateSet>

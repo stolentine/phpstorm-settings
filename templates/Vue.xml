@@ -1,0 +1,3 @@
+<templateSet group="Vue">
+  <template name="clg" value="console.log($END$)" description="console.log()" toReformat="false" toShortenFQNames="true" />
+</templateSet>
