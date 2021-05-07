@@ -45,4 +45,9 @@
       <option name="PHP Statement" value="true" />
     </context>
   </template>
+  <template name="handle" value="public function handle()&#10;{&#10;    $END$&#10;}" description="public function handle()" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
 </templateSet>
