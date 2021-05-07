@@ -3,113 +3,6 @@
     <option name="columnAlignerHistory">
       <list>
         <ColumnAlignerModel>
-          <option name="added" value="1608200140847" />
-          <option name="columnSortOrder" value="" />
-          <option name="maxSeparatorsPerLine" value="" />
-          <option name="separators">
-            <list>
-              <option value="=&gt;" />
-            </list>
-          </option>
-          <option name="sequentialProcessing" value="true" />
-          <option name="sortSettings">
-            <SortSettings>
-              <option name="ignoreLeadingSpaces" value="false" />
-              <option name="preserveLeadingSpaces" value="false" />
-            </SortSettings>
-          </option>
-          <option name="trimLines" value="true" />
-        </ColumnAlignerModel>
-        <ColumnAlignerModel>
-          <option name="added" value="1608200147636" />
-          <option name="columnSortOrder" value="" />
-          <option name="maxSeparatorsPerLine" value="" />
-          <option name="separators">
-            <list>
-              <option value="=&gt;" />
-            </list>
-          </option>
-          <option name="sequentialProcessing" value="true" />
-          <option name="sortSettings">
-            <SortSettings>
-              <option name="ignoreLeadingSpaces" value="false" />
-              <option name="preserveLeadingSpaces" value="false" />
-            </SortSettings>
-          </option>
-          <option name="trimLines" value="true" />
-        </ColumnAlignerModel>
-        <ColumnAlignerModel>
-          <option name="added" value="1608200154037" />
-          <option name="columnSortOrder" value="" />
-          <option name="maxSeparatorsPerLine" value="" />
-          <option name="separators">
-            <list>
-              <option value="=&gt;" />
-            </list>
-          </option>
-          <option name="sequentialProcessing" value="true" />
-          <option name="sortSettings">
-            <SortSettings>
-              <option name="ignoreLeadingSpaces" value="false" />
-              <option name="preserveLeadingSpaces" value="false" />
-            </SortSettings>
-          </option>
-          <option name="trimLines" value="true" />
-        </ColumnAlignerModel>
-        <ColumnAlignerModel>
-          <option name="added" value="1608200163892" />
-          <option name="columnSortOrder" value="" />
-          <option name="maxSeparatorsPerLine" value="" />
-          <option name="separators">
-            <list>
-              <option value="=&gt;" />
-            </list>
-          </option>
-          <option name="sequentialProcessing" value="true" />
-          <option name="sortSettings">
-            <SortSettings>
-              <option name="ignoreLeadingSpaces" value="false" />
-              <option name="preserveLeadingSpaces" value="false" />
-            </SortSettings>
-          </option>
-          <option name="trimLines" value="true" />
-        </ColumnAlignerModel>
-        <ColumnAlignerModel>
-          <option name="added" value="1608202026459" />
-          <option name="columnSortOrder" value="" />
-          <option name="maxSeparatorsPerLine" value="" />
-          <option name="separators">
-            <list>
-              <option value="=&gt;" />
-            </list>
-          </option>
-          <option name="sequentialProcessing" value="true" />
-          <option name="sortSettings">
-            <SortSettings>
-              <option name="ignoreLeadingSpaces" value="false" />
-              <option name="preserveLeadingSpaces" value="false" />
-            </SortSettings>
-          </option>
-          <option name="trimLines" value="true" />
-        </ColumnAlignerModel>
-        <ColumnAlignerModel>
-          <option name="added" value="1608202033765" />
-          <option name="columnSortOrder" value="" />
-          <option name="maxSeparatorsPerLine" value="" />
-          <option name="separators">
-            <list>
-              <option value="=&gt;" />
-            </list>
-          </option>
-          <option name="sequentialProcessing" value="true" />
-          <option name="sortSettings">
-            <SortSettings>
-              <option name="preserveLeadingSpaces" value="false" />
-            </SortSettings>
-          </option>
-          <option name="trimLines" value="true" />
-        </ColumnAlignerModel>
-        <ColumnAlignerModel>
           <option name="added" value="1608202081098" />
           <option name="columnSortOrder" value="" />
           <option name="maxSeparatorsPerLine" value="" />
@@ -264,6 +157,68 @@
         </ColumnAlignerModel>
         <ColumnAlignerModel>
           <option name="added" value="1616426975754" />
+          <option name="columnSortOrder" value="" />
+          <option name="maxSeparatorsPerLine" value="" />
+          <option name="separators">
+            <list>
+              <option value="=&gt;" />
+            </list>
+          </option>
+        </ColumnAlignerModel>
+        <ColumnAlignerModel>
+          <option name="added" value="1618834636946" />
+          <option name="columnSortOrder" value="" />
+          <option name="maxSeparatorsPerLine" value="" />
+          <option name="separators">
+            <list>
+              <option value="=&gt;" />
+            </list>
+          </option>
+        </ColumnAlignerModel>
+        <ColumnAlignerModel>
+          <option name="added" value="1619186784422" />
+          <option name="columnSortOrder" value="" />
+          <option name="maxSeparatorsPerLine" value="" />
+          <option name="separators">
+            <list>
+              <option value=":" />
+              <option value="&quot;" />
+            </list>
+          </option>
+        </ColumnAlignerModel>
+        <ColumnAlignerModel>
+          <option name="added" value="1619186949620" />
+          <option name="columnSortOrder" value="" />
+          <option name="maxSeparatorsPerLine" value="" />
+          <option name="separators">
+            <list>
+              <option value=":" />
+              <option value="&quot;" />
+            </list>
+          </option>
+        </ColumnAlignerModel>
+        <ColumnAlignerModel>
+          <option name="added" value="1619435180437" />
+          <option name="columnSortOrder" value="" />
+          <option name="maxSeparatorsPerLine" value="" />
+          <option name="separators">
+            <list>
+              <option value="=&gt;" />
+            </list>
+          </option>
+        </ColumnAlignerModel>
+        <ColumnAlignerModel>
+          <option name="added" value="1619438762767" />
+          <option name="columnSortOrder" value="" />
+          <option name="maxSeparatorsPerLine" value="" />
+          <option name="separators">
+            <list>
+              <option value="=&gt;" />
+            </list>
+          </option>
+        </ColumnAlignerModel>
+        <ColumnAlignerModel>
+          <option name="added" value="1619876997152" />
           <option name="columnSortOrder" value="" />
           <option name="maxSeparatorsPerLine" value="" />
           <option name="separators">

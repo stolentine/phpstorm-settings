@@ -5,7 +5,7 @@
       <option name="PHP" value="true" />
     </context>
   </template>
-  <template name="rtest" value="Route::post('test', function() {&#10;    $END$&#10;});" description="Route::get('test', fnc);" toReformat="true" toShortenFQNames="true">
+  <template name="rtest" value="Route::get('test', function() {&#10;    $END$&#10;});" description="Route::get('test', fnc);" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="PHP Expression" value="true" />
       <option name="PHP Statement" value="true" />
@@ -37,6 +37,12 @@
   <template name="rt" value="return $this;" description="return $this" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="rptest" value="Route::post('test', function() {&#10;    $END$&#10;});" description="Route::post('test', fnc);" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="PHP Expression" value="true" />
+      <option name="PHP Statement" value="true" />
     </context>
   </template>
 </templateSet>
