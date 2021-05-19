@@ -1,7 +1,9 @@
 <code_scheme name="Default copy123" version="173">
-  <PostgresCodeStyleSettings version="2">
-    <option name="KEYWORD_CASE" value="0" />
-    <option name="TYPE_CASE" value="0" />
+  <PostgresCodeStyleSettings version="5">
+    <option name="USE_GENERAL_STYLE" value="false" />
+    <option name="KEYWORD_CASE" value="2" />
+    <option name="TYPE_CASE" value="2" />
+    <option name="CUSTOM_TYPE_CASE" value="2" />
     <option name="QUERY_SECTION_1ST_WORD_ALIGN" value="8" />
     <option name="QUERY_EL_COMMA" value="2" />
     <option name="QUERY_IN_ONE_STRING" value="0" />
@@ -27,4 +29,16 @@
   <editorconfig>
     <option name="ENABLED" value="false" />
   </editorconfig>
+  <codeStyleSettings language="HTML">
+    <indentOptions>
+      <option name="INDENT_SIZE" value="2" />
+      <option name="CONTINUATION_INDENT_SIZE" value="2" />
+      <option name="TAB_SIZE" value="2" />
+    </indentOptions>
+  </codeStyleSettings>
+  <codeStyleSettings language="Vue">
+    <indentOptions>
+      <option name="CONTINUATION_INDENT_SIZE" value="2" />
+    </indentOptions>
+  </codeStyleSettings>
 </code_scheme>
