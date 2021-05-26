@@ -6,4 +6,10 @@
       <option name="Vue" value="true" />
     </context>
   </template>
+  <template name="vcomponents" value="components: {&#10;  $key$,&#10;},&#10;&#10;" description="Vue components" toReformat="true" toShortenFQNames="true">
+    <variable name="key" expression="" defaultValue="&quot;key&quot;" alwaysStopAt="true" />
+    <context>
+      <option name="Vue" value="true" />
+    </context>
+  </template>
 </templateSet>
