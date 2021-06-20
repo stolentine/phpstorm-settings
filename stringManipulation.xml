@@ -1,0 +1,588 @@
+<application>
+  <component name="StringManipulationState">
+    <option name="columnAlignerHistory">
+      <list>
+        <ColumnAlignerModel>
+          <option name="added" value="1608202081098" />
+          <option name="columnSortOrder" value="" />
+          <option name="maxSeparatorsPerLine" value="" />
+          <option name="separators">
+            <list>
+              <option value="=&gt;" />
+            </list>
+          </option>
+          <option name="sequentialProcessing" value="true" />
+          <option name="sortSettings">
+            <SortSettings>
+              <option name="preserveLeadingSpaces" value="false" />
+            </SortSettings>
+          </option>
+          <option name="trimLines" value="true" />
+        </ColumnAlignerModel>
+        <ColumnAlignerModel>
+          <option name="added" value="1608202136645" />
+          <option name="columnSortOrder" value="" />
+          <option name="maxSeparatorsPerLine" value="" />
+          <option name="separators">
+            <list>
+              <option value="=&gt;" />
+            </list>
+          </option>
+          <option name="sequentialProcessing" value="true" />
+          <option name="sortSettings">
+            <SortSettings>
+              <option name="preserveLeadingSpaces" value="false" />
+            </SortSettings>
+          </option>
+          <option name="trimLines" value="true" />
+        </ColumnAlignerModel>
+        <ColumnAlignerModel>
+          <option name="added" value="1608202494808" />
+          <option name="columnSortOrder" value="" />
+          <option name="maxSeparatorsPerLine" value="" />
+          <option name="separators">
+            <list>
+              <option value="=&gt;" />
+            </list>
+          </option>
+          <option name="sequentialProcessing" value="true" />
+          <option name="sortSettings">
+            <SortSettings>
+              <option name="preserveLeadingSpaces" value="false" />
+            </SortSettings>
+          </option>
+          <option name="trimLines" value="true" />
+        </ColumnAlignerModel>
+        <ColumnAlignerModel>
+          <option name="added" value="1608283928063" />
+          <option name="columnSortOrder" value="" />
+          <option name="maxSeparatorsPerLine" value="" />
+          <option name="separators">
+            <list>
+              <option value=":" />
+              <option value="&quot;" />
+            </list>
+          </option>
+        </ColumnAlignerModel>
+        <ColumnAlignerModel>
+          <option name="added" value="1608284042301" />
+          <option name="columnSortOrder" value="" />
+          <option name="maxSeparatorsPerLine" value="" />
+          <option name="separators">
+            <list>
+              <option value=":" />
+              <option value="&quot;" />
+            </list>
+          </option>
+        </ColumnAlignerModel>
+        <ColumnAlignerModel>
+          <option name="added" value="1608291580214" />
+          <option name="columnSortOrder" value="" />
+          <option name="maxSeparatorsPerLine" value="" />
+          <option name="separators">
+            <list>
+              <option value="=&gt;" />
+            </list>
+          </option>
+        </ColumnAlignerModel>
+        <ColumnAlignerModel>
+          <option name="added" value="1608552182316" />
+          <option name="columnSortOrder" value="" />
+          <option name="maxSeparatorsPerLine" value="" />
+          <option name="separators">
+            <list>
+              <option value="=&gt;" />
+            </list>
+          </option>
+        </ColumnAlignerModel>
+        <ColumnAlignerModel>
+          <option name="added" value="1608833810202" />
+          <option name="columnSortOrder" value="" />
+          <option name="maxSeparatorsPerLine" value="" />
+          <option name="separators">
+            <list>
+              <option value="=&gt;" />
+            </list>
+          </option>
+        </ColumnAlignerModel>
+        <ColumnAlignerModel>
+          <option name="added" value="1612365790872" />
+          <option name="columnSortOrder" value="" />
+          <option name="maxSeparatorsPerLine" value="" />
+          <option name="separators">
+            <list>
+              <option value="=&gt;" />
+            </list>
+          </option>
+        </ColumnAlignerModel>
+        <ColumnAlignerModel>
+          <option name="added" value="1612813528229" />
+          <option name="columnSortOrder" value="" />
+          <option name="maxSeparatorsPerLine" value="" />
+          <option name="separators">
+            <list>
+              <option value="=&gt;" />
+            </list>
+          </option>
+        </ColumnAlignerModel>
+        <ColumnAlignerModel>
+          <option name="added" value="1614183409711" />
+          <option name="columnSortOrder" value="" />
+          <option name="maxSeparatorsPerLine" value="" />
+          <option name="separators">
+            <list>
+              <option value="=&gt;" />
+            </list>
+          </option>
+        </ColumnAlignerModel>
+        <ColumnAlignerModel>
+          <option name="added" value="1615994539019" />
+          <option name="columnSortOrder" value="" />
+          <option name="maxSeparatorsPerLine" value="" />
+          <option name="separators">
+            <list>
+              <option value="=&gt;" />
+            </list>
+          </option>
+        </ColumnAlignerModel>
+        <ColumnAlignerModel>
+          <option name="added" value="1616402041164" />
+          <option name="columnSortOrder" value="" />
+          <option name="maxSeparatorsPerLine" value="" />
+          <option name="separators">
+            <list>
+              <option value="=" />
+            </list>
+          </option>
+        </ColumnAlignerModel>
+        <ColumnAlignerModel>
+          <option name="added" value="1616426975754" />
+          <option name="columnSortOrder" value="" />
+          <option name="maxSeparatorsPerLine" value="" />
+          <option name="separators">
+            <list>
+              <option value="=&gt;" />
+            </list>
+          </option>
+        </ColumnAlignerModel>
+        <ColumnAlignerModel>
+          <option name="added" value="1618834636946" />
+          <option name="columnSortOrder" value="" />
+          <option name="maxSeparatorsPerLine" value="" />
+          <option name="separators">
+            <list>
+              <option value="=&gt;" />
+            </list>
+          </option>
+        </ColumnAlignerModel>
+        <ColumnAlignerModel>
+          <option name="added" value="1619186784422" />
+          <option name="columnSortOrder" value="" />
+          <option name="maxSeparatorsPerLine" value="" />
+          <option name="separators">
+            <list>
+              <option value=":" />
+              <option value="&quot;" />
+            </list>
+          </option>
+        </ColumnAlignerModel>
+        <ColumnAlignerModel>
+          <option name="added" value="1619186949620" />
+          <option name="columnSortOrder" value="" />
+          <option name="maxSeparatorsPerLine" value="" />
+          <option name="separators">
+            <list>
+              <option value=":" />
+              <option value="&quot;" />
+            </list>
+          </option>
+        </ColumnAlignerModel>
+        <ColumnAlignerModel>
+          <option name="added" value="1619435180437" />
+          <option name="columnSortOrder" value="" />
+          <option name="maxSeparatorsPerLine" value="" />
+          <option name="separators">
+            <list>
+              <option value="=&gt;" />
+            </list>
+          </option>
+        </ColumnAlignerModel>
+        <ColumnAlignerModel>
+          <option name="added" value="1619438762767" />
+          <option name="columnSortOrder" value="" />
+          <option name="maxSeparatorsPerLine" value="" />
+          <option name="separators">
+            <list>
+              <option value="=&gt;" />
+            </list>
+          </option>
+        </ColumnAlignerModel>
+        <ColumnAlignerModel>
+          <option name="added" value="1619876997152" />
+          <option name="columnSortOrder" value="" />
+          <option name="maxSeparatorsPerLine" value="" />
+          <option name="separators">
+            <list>
+              <option value="=&gt;" />
+            </list>
+          </option>
+        </ColumnAlignerModel>
+      </list>
+    </option>
+    <option name="customActionModels">
+      <list>
+        <CustomActionModel>
+          <option name="id" value="StringManipulation.SwitchStyleAction" />
+          <option name="name" value="Switch case" />
+          <option name="steps">
+            <list>
+              <Step>
+                <option name="enabled" value="false" />
+                <option name="style" value="_UNKNOWN" />
+              </Step>
+              <Step>
+                <option name="style" value="CAMEL_CASE" />
+              </Step>
+              <Step>
+                <option name="style" value="PASCAL_CASE" />
+              </Step>
+              <Step>
+                <option name="style" value="SNAKE_CASE" />
+              </Step>
+              <Step>
+                <option name="style" value="KEBAB_LOWERCASE" />
+              </Step>
+              <Step>
+                <option name="enabled" value="false" />
+                <option name="style" value="DOT" />
+              </Step>
+              <Step>
+                <option name="enabled" value="false" />
+                <option name="style" value="KEBAB_UPPERCASE" />
+              </Step>
+              <Step>
+                <option name="enabled" value="false" />
+                <option name="style" value="_SINGLE_WORD_CAPITALIZED" />
+              </Step>
+              <Step>
+                <option name="enabled" value="false" />
+                <option name="style" value="SCREAMING_SNAKE_CASE" />
+              </Step>
+              <Step>
+                <option name="enabled" value="false" />
+                <option name="style" value="_ALL_UPPER_CASE" />
+              </Step>
+              <Step>
+                <option name="enabled" value="false" />
+                <option name="style" value="WORD_LOWERCASE" />
+              </Step>
+              <Step>
+                <option name="enabled" value="false" />
+                <option name="style" value="SENTENCE_CASE" />
+              </Step>
+              <Step>
+                <option name="enabled" value="false" />
+                <option name="style" value="WORD_CAPITALIZED" />
+              </Step>
+            </list>
+          </option>
+        </CustomActionModel>
+        <CustomActionModel>
+          <option name="id" value="StringManipulation.fca7e469-dc3c-4a3a-8a26-1613f9faab8c" />
+          <option name="name" value="PascalCase" />
+          <option name="steps">
+            <list>
+              <Step>
+                <option name="enabled" value="false" />
+                <option name="style" value="_UNKNOWN" />
+              </Step>
+              <Step>
+                <option name="enabled" value="false" />
+                <option name="style" value="CAMEL_CASE" />
+              </Step>
+              <Step>
+                <option name="enabled" value="false" />
+                <option name="style" value="KEBAB_LOWERCASE" />
+              </Step>
+              <Step>
+                <option name="enabled" value="false" />
+                <option name="style" value="KEBAB_UPPERCASE" />
+              </Step>
+              <Step>
+                <option name="enabled" value="false" />
+                <option name="style" value="SNAKE_CASE" />
+              </Step>
+              <Step>
+                <option name="enabled" value="false" />
+                <option name="style" value="_SINGLE_WORD_CAPITALIZED" />
+              </Step>
+              <Step>
+                <option name="enabled" value="false" />
+                <option name="style" value="SCREAMING_SNAKE_CASE" />
+              </Step>
+              <Step>
+                <option name="enabled" value="false" />
+                <option name="style" value="DOT" />
+              </Step>
+              <Step>
+                <option name="enabled" value="false" />
+                <option name="style" value="_ALL_UPPER_CASE" />
+              </Step>
+              <Step>
+                <option name="enabled" value="false" />
+                <option name="style" value="WORD_LOWERCASE" />
+              </Step>
+              <Step>
+                <option name="enabled" value="false" />
+                <option name="style" value="SENTENCE_CASE" />
+              </Step>
+              <Step>
+                <option name="enabled" value="false" />
+                <option name="style" value="WORD_CAPITALIZED" />
+              </Step>
+              <Step>
+                <option name="style" value="PASCAL_CASE" />
+              </Step>
+            </list>
+          </option>
+        </CustomActionModel>
+        <CustomActionModel>
+          <option name="id" value="StringManipulation.d8dc4433-fca2-40e2-adf2-bcb9caa2fe29" />
+          <option name="name" value="camelCase" />
+          <option name="steps">
+            <list>
+              <Step>
+                <option name="enabled" value="false" />
+                <option name="style" value="_UNKNOWN" />
+              </Step>
+              <Step>
+                <option name="style" value="CAMEL_CASE" />
+              </Step>
+              <Step>
+                <option name="enabled" value="false" />
+                <option name="style" value="KEBAB_LOWERCASE" />
+              </Step>
+              <Step>
+                <option name="enabled" value="false" />
+                <option name="style" value="KEBAB_UPPERCASE" />
+              </Step>
+              <Step>
+                <option name="enabled" value="false" />
+                <option name="style" value="SNAKE_CASE" />
+              </Step>
+              <Step>
+                <option name="enabled" value="false" />
+                <option name="style" value="_SINGLE_WORD_CAPITALIZED" />
+              </Step>
+              <Step>
+                <option name="enabled" value="false" />
+                <option name="style" value="SCREAMING_SNAKE_CASE" />
+              </Step>
+              <Step>
+                <option name="enabled" value="false" />
+                <option name="style" value="DOT" />
+              </Step>
+              <Step>
+                <option name="enabled" value="false" />
+                <option name="style" value="_ALL_UPPER_CASE" />
+              </Step>
+              <Step>
+                <option name="enabled" value="false" />
+                <option name="style" value="WORD_LOWERCASE" />
+              </Step>
+              <Step>
+                <option name="enabled" value="false" />
+                <option name="style" value="SENTENCE_CASE" />
+              </Step>
+              <Step>
+                <option name="enabled" value="false" />
+                <option name="style" value="WORD_CAPITALIZED" />
+              </Step>
+              <Step>
+                <option name="enabled" value="false" />
+                <option name="style" value="PASCAL_CASE" />
+              </Step>
+            </list>
+          </option>
+        </CustomActionModel>
+        <CustomActionModel>
+          <option name="id" value="StringManipulation.7725678d-6790-4894-87f1-04ba00c05f9d" />
+          <option name="name" value="snake_case" />
+          <option name="steps">
+            <list>
+              <Step>
+                <option name="enabled" value="false" />
+                <option name="style" value="_UNKNOWN" />
+              </Step>
+              <Step>
+                <option name="enabled" value="false" />
+                <option name="style" value="CAMEL_CASE" />
+              </Step>
+              <Step>
+                <option name="enabled" value="false" />
+                <option name="style" value="KEBAB_LOWERCASE" />
+              </Step>
+              <Step>
+                <option name="enabled" value="false" />
+                <option name="style" value="KEBAB_UPPERCASE" />
+              </Step>
+              <Step>
+                <option name="style" value="SNAKE_CASE" />
+              </Step>
+              <Step>
+                <option name="enabled" value="false" />
+                <option name="style" value="_SINGLE_WORD_CAPITALIZED" />
+              </Step>
+              <Step>
+                <option name="enabled" value="false" />
+                <option name="style" value="SCREAMING_SNAKE_CASE" />
+              </Step>
+              <Step>
+                <option name="enabled" value="false" />
+                <option name="style" value="DOT" />
+              </Step>
+              <Step>
+                <option name="enabled" value="false" />
+                <option name="style" value="_ALL_UPPER_CASE" />
+              </Step>
+              <Step>
+                <option name="enabled" value="false" />
+                <option name="style" value="WORD_LOWERCASE" />
+              </Step>
+              <Step>
+                <option name="enabled" value="false" />
+                <option name="style" value="SENTENCE_CASE" />
+              </Step>
+              <Step>
+                <option name="enabled" value="false" />
+                <option name="style" value="WORD_CAPITALIZED" />
+              </Step>
+              <Step>
+                <option name="enabled" value="false" />
+                <option name="style" value="PASCAL_CASE" />
+              </Step>
+            </list>
+          </option>
+        </CustomActionModel>
+        <CustomActionModel>
+          <option name="id" value="StringManipulation.515ffba2-acd0-4b74-a1b6-96e32b3db866" />
+          <option name="name" value="kebab-case" />
+          <option name="steps">
+            <list>
+              <Step>
+                <option name="enabled" value="false" />
+                <option name="style" value="_UNKNOWN" />
+              </Step>
+              <Step>
+                <option name="enabled" value="false" />
+                <option name="style" value="CAMEL_CASE" />
+              </Step>
+              <Step>
+                <option name="style" value="KEBAB_LOWERCASE" />
+              </Step>
+              <Step>
+                <option name="enabled" value="false" />
+                <option name="style" value="KEBAB_UPPERCASE" />
+              </Step>
+              <Step>
+                <option name="enabled" value="false" />
+                <option name="style" value="SNAKE_CASE" />
+              </Step>
+              <Step>
+                <option name="enabled" value="false" />
+                <option name="style" value="_SINGLE_WORD_CAPITALIZED" />
+              </Step>
+              <Step>
+                <option name="enabled" value="false" />
+                <option name="style" value="SCREAMING_SNAKE_CASE" />
+              </Step>
+              <Step>
+                <option name="enabled" value="false" />
+                <option name="style" value="DOT" />
+              </Step>
+              <Step>
+                <option name="enabled" value="false" />
+                <option name="style" value="_ALL_UPPER_CASE" />
+              </Step>
+              <Step>
+                <option name="enabled" value="false" />
+                <option name="style" value="WORD_LOWERCASE" />
+              </Step>
+              <Step>
+                <option name="enabled" value="false" />
+                <option name="style" value="SENTENCE_CASE" />
+              </Step>
+              <Step>
+                <option name="enabled" value="false" />
+                <option name="style" value="WORD_CAPITALIZED" />
+              </Step>
+              <Step>
+                <option name="enabled" value="false" />
+                <option name="style" value="PASCAL_CASE" />
+              </Step>
+            </list>
+          </option>
+        </CustomActionModel>
+        <CustomActionModel>
+          <option name="id" value="StringManipulation.b435496d-70c9-4b15-85d2-05a8b2576444" />
+          <option name="name" value="dot.case" />
+          <option name="steps">
+            <list>
+              <Step>
+                <option name="enabled" value="false" />
+                <option name="style" value="_UNKNOWN" />
+              </Step>
+              <Step>
+                <option name="enabled" value="false" />
+                <option name="style" value="CAMEL_CASE" />
+              </Step>
+              <Step>
+                <option name="enabled" value="false" />
+                <option name="style" value="KEBAB_LOWERCASE" />
+              </Step>
+              <Step>
+                <option name="enabled" value="false" />
+                <option name="style" value="KEBAB_UPPERCASE" />
+              </Step>
+              <Step>
+                <option name="enabled" value="false" />
+                <option name="style" value="SNAKE_CASE" />
+              </Step>
+              <Step>
+                <option name="enabled" value="false" />
+                <option name="style" value="_SINGLE_WORD_CAPITALIZED" />
+              </Step>
+              <Step>
+                <option name="enabled" value="false" />
+                <option name="style" value="SCREAMING_SNAKE_CASE" />
+              </Step>
+              <Step>
+                <option name="style" value="DOT" />
+              </Step>
+              <Step>
+                <option name="enabled" value="false" />
+                <option name="style" value="_ALL_UPPER_CASE" />
+              </Step>
+              <Step>
+                <option name="enabled" value="false" />
+                <option name="style" value="WORD_LOWERCASE" />
+              </Step>
+              <Step>
+                <option name="enabled" value="false" />
+                <option name="style" value="SENTENCE_CASE" />
+              </Step>
+              <Step>
+                <option name="enabled" value="false" />
+                <option name="style" value="WORD_CAPITALIZED" />
+              </Step>
+              <Step>
+                <option name="enabled" value="false" />
+                <option name="style" value="PASCAL_CASE" />
+              </Step>
+            </list>
+          </option>
+        </CustomActionModel>
+      </list>
+    </option>
+  </component>
+</application>
