@@ -1,0 +1,11 @@
+<keymap version="1" name="Windows copy" parent="$default">
+  <action id="StringManipulation.AlignToColumns">
+    <keyboard-shortcut first-keystroke="shift ctrl alt a" />
+  </action>
+  <action id="StringManipulation.SwitchStyleAction">
+    <keyboard-shortcut first-keystroke="alt u" />
+  </action>
+  <action id="osmedile.intellij.stringmanip.SwitchCasePopup">
+    <keyboard-shortcut first-keystroke="shift alt u" />
+  </action>
+</keymap>
