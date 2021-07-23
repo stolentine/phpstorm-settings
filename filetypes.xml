@@ -8,6 +8,7 @@
       <mapping pattern="group-smile-mobile" type="AUTO_DETECTED" />
       <mapping pattern="unity default resources" type="AUTO_DETECTED" />
       <mapping pattern="a" type="AUTO_DETECTED" />
+      <mapping pattern="github-token" type="AUTO_DETECTED" />
       <mapping pattern="unity_builtin_extra" type="AUTO_DETECTED" />
       <mapping ext="docker" type="Dockerfile" />
       <mapping pattern=".php_cs" type="PHP" />
