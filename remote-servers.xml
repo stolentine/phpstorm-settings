@@ -5,11 +5,5 @@
         <option name="apiUrl" value="unix:///var/run/docker.sock" />
       </configuration>
     </remote-server>
-    <remote-server name="Docker Testing" type="docker">
-      <configuration>
-        <option name="apiUrl" value="unix:///var/run/docker.sock" />
-        <option name="certificatesPath" />
-      </configuration>
-    </remote-server>
   </component>
 </application>
