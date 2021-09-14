@@ -1,20 +1,22 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
-      <mapping pattern="emoji-haha" type="AUTO_DETECTED" />
+      <mapping pattern="unity_builtin_extra" type="AUTO_DETECTED" />
       <mapping pattern="2102021" type="AUTO_DETECTED" />
+      <mapping pattern="group-smile-mobile" type="AUTO_DETECTED" />
+      <mapping pattern="emoji-haha" type="AUTO_DETECTED" />
+      <mapping pattern="github-token" type="AUTO_DETECTED" />
       <mapping pattern="drop-down.swg" type="AUTO_DETECTED" />
       <mapping pattern="sd" type="AUTO_DETECTED" />
-      <mapping pattern="group-smile-mobile" type="AUTO_DETECTED" />
       <mapping pattern="unity default resources" type="AUTO_DETECTED" />
       <mapping pattern="a" type="AUTO_DETECTED" />
-      <mapping pattern="unity_builtin_extra" type="AUTO_DETECTED" />
       <mapping ext="docker" type="Dockerfile" />
       <mapping pattern=".php_cs" type="PHP" />
+      <mapping pattern=".bash_history" type="PLAIN_TEXT" />
       <mapping pattern=".env2" type="PLAIN_TEXT" />
-      <mapping pattern=".env_old" type="PLAIN_TEXT" />
-      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern=".env1" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern=".env_old" type="PLAIN_TEXT" />
       <mapping ext="dll" type="PLAIN_TEXT" />
       <mapping ext="assets" type="PLAIN_TEXT" />
       <mapping ext="br" type="PLAIN_TEXT" />

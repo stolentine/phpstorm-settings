@@ -55,4 +55,26 @@
       <option name="PHP" value="true" />
     </context>
   </template>
+  <template name="execute" value="public function execute($PARAMETERS$)&#10;{&#10;    $END$&#10;}" description="public function handle()" toReformat="false" toShortenFQNames="true">
+    <variable name="PARAMETERS" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="nm" value="namespace $path$;" description="auto namespace" toReformat="false" toShortenFQNames="true">
+    <variable name="path" expression="regularExpression(regularExpression(capitalize(fileRelativePath()), &quot;/&quot;, escapeString(&quot;\\&quot;)), escapeString(&quot;\\[^\\]*?$&quot;), &quot;&quot;)" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="d" value="dd($END$);" description="dd();" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="dd" value="dd($END$);" description="dd();" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
 </templateSet>
