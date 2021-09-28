@@ -6,6 +6,7 @@
       <mapping pattern="group-smile-mobile" type="AUTO_DETECTED" />
       <mapping pattern="emoji-haha" type="AUTO_DETECTED" />
       <mapping pattern="github-token" type="AUTO_DETECTED" />
+      <mapping pattern="lol" type="AUTO_DETECTED" />
       <mapping pattern="drop-down.swg" type="AUTO_DETECTED" />
       <mapping pattern="sd" type="AUTO_DETECTED" />
       <mapping pattern="unity default resources" type="AUTO_DETECTED" />
