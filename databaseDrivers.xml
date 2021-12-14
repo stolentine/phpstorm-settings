@@ -4,7 +4,7 @@
       <artifact id="MySQL Connector/J 8" name="MySQL Connector/J 8" use="true" />
     </driver>
     <driver id="postgresql">
-      <artifact id="PostgreSQL" name="PostgreSQL" use="true" version="42.2.5" />
+      <artifact id="PostgreSQL" name="PostgreSQL" use="true" version="42.2.22" />
     </driver>
     <driver id="vertica">
       <artifact id="Vertica" name="Vertica" use="true" version="9.2.0" />
