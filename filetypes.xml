@@ -24,8 +24,8 @@
       <mapping ext="dll" type="PLAIN_TEXT" />
       <mapping ext="assets" type="PLAIN_TEXT" />
       <mapping ext="br" type="PLAIN_TEXT" />
-      <mapping ext="conf" type="PLAIN_TEXT" />
       <mapping pattern="asda" type="TypeScript JSX" />
+      <removed_mapping ext="conf" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="conf" approved="true" type="SmartyConfig" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
     </extensionMap>
