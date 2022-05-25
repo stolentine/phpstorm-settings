@@ -1,9 +1,0 @@
-<application>
-  <component name="ExportableFileTemplateSettings">
-    <code_templates>
-      <template name="PHP Fluent Setter Method.php" reformat="true" live-template-enabled="true" enabled="true" />
-      <template name="PHP Getter Method.php" reformat="true" live-template-enabled="true" enabled="true" />
-      <template name="PHP Setter Method.php" reformat="true" live-template-enabled="true" enabled="true" />
-    </code_templates>
-  </component>
-</application>
