@@ -77,4 +77,10 @@
       <option name="PHP" value="true" />
     </context>
   </template>
+  <template name="nmm" value="namespace $path$;" description="auto namespace" toReformat="false" toShortenFQNames="true">
+    <variable name="path" expression="capitalize(regularExpression(regularExpression(regularExpression(fileRelativePath(), &quot;/&quot;, escapeString(&quot;\\&quot;)), escapeString(&quot;\\[^\\]*?$&quot;), &quot;&quot;), escapeString(&quot;^[^\\]*\\&quot;), escapeString(&quot;&quot;)))" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
 </templateSet>
