@@ -29,7 +29,7 @@
   <template name="clsn" value="$CLASS_NAME$" description="current class name" toReformat="false" toShortenFQNames="false">
     <variable name="CLASS_NAME" expression="phpClassName()" defaultValue="" alwaysStopAt="false" />
   </template>
-  <template name="r" value="return" description="return" toReformat="false" toShortenFQNames="true">
+  <template name="r" value="return " description="return" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="PHP" value="true" />
     </context>
