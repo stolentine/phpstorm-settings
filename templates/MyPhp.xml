@@ -83,4 +83,19 @@
       <option name="PHP" value="true" />
     </context>
   </template>
+  <template name="prir" value="private readonly " description="private readonly" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="pubr" value="public readonly " description="public readonly" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="pror" value="protected readonly " description="protected readonly" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
 </templateSet>
