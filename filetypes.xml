@@ -15,6 +15,7 @@
       <mapping pattern="a" type="AUTO_DETECTED" />
       <mapping pattern="php-cs-fixer.sh" type="AUTO_DETECTED" />
       <mapping pattern="awd" type="AUTO_DETECTED" />
+      <mapping ext="meta" type="AUTO_DETECTED" />
       <mapping ext="docker" type="Dockerfile" />
       <mapping pattern=".php_cs" type="PHP" />
       <mapping pattern=".bash_history" type="PLAIN_TEXT" />
