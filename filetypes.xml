@@ -19,6 +19,7 @@
       <mapping ext="meta" type="AUTO_DETECTED" />
       <mapping ext="docker" type="Dockerfile" />
       <mapping pattern=".php_cs" type="PHP" />
+      <mapping pattern=".set_host123.tmp" type="PLAIN_TEXT" />
       <mapping pattern=".bash_history" type="PLAIN_TEXT" />
       <mapping pattern=".env2" type="PLAIN_TEXT" />
       <mapping pattern=".env1" type="PLAIN_TEXT" />
