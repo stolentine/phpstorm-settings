@@ -1,0 +1,101 @@
+<templateSet group="MyPhp">
+  <template name="pfhan" value="public function handle($PARAMETERS$)&#10;{&#10;    $END$&#10;}" description="public function handle() {}" toReformat="true" toShortenFQNames="true">
+    <variable name="PARAMETERS" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="rtest" value="Route::get('test', function() {&#10;    $END$&#10;});" description="Route::get('test', fnc);" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="PHP Expression" value="true" />
+      <option name="PHP Statement" value="true" />
+    </context>
+  </template>
+  <template name="thre" value="throw new \Exception($END$);" description="throw new \Exception()" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="PHP Expression" value="true" />
+      <option name="PHP Statement" value="true" />
+    </context>
+  </template>
+  <template name="fnc" value="function ($PARAMETERS$) {&#10;    $END$&#10;}" description="function () {}" toReformat="false" toShortenFQNames="true">
+    <variable name="PARAMETERS" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="clsns" value="$CLASS_FQN$" description="current class full namespace" toReformat="false" toShortenFQNames="false">
+    <variable name="CLASS_FQN" expression="phpQualifiedClassName()" defaultValue="" alwaysStopAt="false" />
+  </template>
+  <template name="clsn" value="$CLASS_NAME$" description="current class name" toReformat="false" toShortenFQNames="false">
+    <variable name="CLASS_NAME" expression="phpClassName()" defaultValue="" alwaysStopAt="false" />
+  </template>
+  <template name="r" value="return " description="return" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="rt" value="return $this;" description="return $this" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="rptest" value="Route::post('test', function() {&#10;    $END$&#10;});" description="Route::post('test', fnc);" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="PHP Expression" value="true" />
+      <option name="PHP Statement" value="true" />
+    </context>
+  </template>
+  <template name="handle" value="public function handle()&#10;{&#10;    $END$&#10;}" description="public function handle()" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="__" value="public function __construct(&#10;    $END$&#10;) {&#10;}" description="short __construct" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="execute" value="public function execute($PARAMETERS$)&#10;{&#10;    $END$&#10;}" description="public function handle()" toReformat="false" toShortenFQNames="true">
+    <variable name="PARAMETERS" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="nm" value="namespace $path$;" description="auto namespace" toReformat="false" toShortenFQNames="true">
+    <variable name="path" expression="regularExpression(regularExpression(capitalize(fileRelativePath()), &quot;/&quot;, escapeString(&quot;\\&quot;)), escapeString(&quot;\\[^\\]*?$&quot;), &quot;&quot;)" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="d" value="dd($END$);" description="dd();" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="dd" value="dd($END$);" description="dd();" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="nmm" value="namespace $path$;" description="auto namespace" toReformat="false" toShortenFQNames="true">
+    <variable name="path" expression="capitalize(regularExpression(regularExpression(regularExpression(fileRelativePath(), &quot;/&quot;, escapeString(&quot;\\&quot;)), escapeString(&quot;\\[^\\]*?$&quot;), &quot;&quot;), escapeString(&quot;^[^\\]*\\&quot;), escapeString(&quot;&quot;)))" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="prir" value="private readonly " description="private readonly" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="pubr" value="public readonly " description="public readonly" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="pror" value="protected readonly " description="protected readonly" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+</templateSet>
