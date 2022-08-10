@@ -7,17 +7,13 @@
   <component name="PhpInterpretersPhpInfoCache">
     <phpInfoCache>
       <interpreter name="PHP 8.1">
-        <phpinfo binary_type="PHP" php_cli="/usr/bin/php8.1" path_separator=":" version="8.1.5">
-          <additional_php_ini>/etc/php/8.1/cli/conf.d/10-opcache.ini, /etc/php/8.1/cli/conf.d/10-pdo.ini, /etc/php/8.1/cli/conf.d/15-xml.ini, /etc/php/8.1/cli/conf.d/20-calendar.ini, /etc/php/8.1/cli/conf.d/20-ctype.ini, /etc/php/8.1/cli/conf.d/20-curl.ini, /etc/php/8.1/cli/conf.d/20-dom.ini, /etc/php/8.1/cli/conf.d/20-exif.ini, /etc/php/8.1/cli/conf.d/20-ffi.ini, /etc/php/8.1/cli/conf.d/20-fileinfo.ini, /etc/php/8.1/cli/conf.d/20-ftp.ini, /etc/php/8.1/cli/conf.d/20-gettext.ini, /etc/php/8.1/cli/conf.d/20-iconv.ini, /etc/php/8.1/cli/conf.d/20-pdo_pgsql.ini, /etc/php/8.1/cli/conf.d/20-pgsql.ini, /etc/php/8.1/cli/conf.d/20-phar.ini, /etc/php/8.1/cli/conf.d/20-posix.ini, /etc/php/8.1/cli/conf.d/20-readline.ini, /etc/php/8.1/cli/conf.d/20-shmop.ini, /etc/php/8.1/cli/conf.d/20-simplexml.ini, /etc/php/8.1/cli/conf.d/20-sockets.ini, /etc/php/8.1/cli/conf.d/20-sysvmsg.ini, /etc/php/8.1/cli/conf.d/20-sysvsem.ini, /etc/php/8.1/cli/conf.d/20-sysvshm.ini, /etc/php/8.1/cli/conf.d/20-tokenizer.ini, /etc/php/8.1/cli/conf.d/20-xdebug.ini, /etc/php/8.1/cli/conf.d/20-xmlreader.ini, /etc/php/8.1/cli/conf.d/20-xmlwriter.ini, /etc/php/8.1/cli/conf.d/20-xsl.ini, /etc/php/8.1/cli/conf.d/20-zip.ini, /etc/php/8.1/cli/conf.d/swoole.ini</additional_php_ini>
+        <phpinfo binary_type="PHP" php_cli="/usr/bin/php8.1" path_separator=":" version="8.1.2">
+          <additional_php_ini>/etc/php/8.1/cli/conf.d/10-opcache.ini, /etc/php/8.1/cli/conf.d/10-pdo.ini, /etc/php/8.1/cli/conf.d/20-calendar.ini, /etc/php/8.1/cli/conf.d/20-ctype.ini, /etc/php/8.1/cli/conf.d/20-exif.ini, /etc/php/8.1/cli/conf.d/20-ffi.ini, /etc/php/8.1/cli/conf.d/20-fileinfo.ini, /etc/php/8.1/cli/conf.d/20-ftp.ini, /etc/php/8.1/cli/conf.d/20-gettext.ini, /etc/php/8.1/cli/conf.d/20-iconv.ini, /etc/php/8.1/cli/conf.d/20-phar.ini, /etc/php/8.1/cli/conf.d/20-posix.ini, /etc/php/8.1/cli/conf.d/20-readline.ini, /etc/php/8.1/cli/conf.d/20-shmop.ini, /etc/php/8.1/cli/conf.d/20-sockets.ini, /etc/php/8.1/cli/conf.d/20-sysvmsg.ini, /etc/php/8.1/cli/conf.d/20-sysvsem.ini, /etc/php/8.1/cli/conf.d/20-sysvshm.ini, /etc/php/8.1/cli/conf.d/20-tokenizer.ini</additional_php_ini>
           <configuration_file>/etc/php/8.1/cli/php.ini</configuration_file>
           <configuration_options>
             <configuration_option name="include_path" value=".:/usr/share/php" />
           </configuration_options>
-          <debuggers>
-            <debugger_info debugger="xdebug" debugger_version="3.1.2">
-              <debug_extensions />
-            </debugger_info>
-          </debuggers>
+          <debuggers />
           <loaded_extensions>
             <extension name="Core" />
             <extension name="FFI" />
@@ -25,13 +21,10 @@
             <extension name="Phar" />
             <extension name="Reflection" />
             <extension name="SPL" />
-            <extension name="SimpleXML" />
             <extension name="Zend OPcache" />
             <extension name="calendar" />
             <extension name="ctype" />
-            <extension name="curl" />
             <extension name="date" />
-            <extension name="dom" />
             <extension name="exif" />
             <extension name="fileinfo" />
             <extension name="filter" />
@@ -44,8 +37,6 @@
             <extension name="openssl" />
             <extension name="pcntl" />
             <extension name="pcre" />
-            <extension name="pdo_pgsql" />
-            <extension name="pgsql" />
             <extension name="posix" />
             <extension name="readline" />
             <extension name="session" />
@@ -53,17 +44,10 @@
             <extension name="sockets" />
             <extension name="sodium" />
             <extension name="standard" />
-            <extension name="swoole" />
             <extension name="sysvmsg" />
             <extension name="sysvsem" />
             <extension name="sysvshm" />
             <extension name="tokenizer" />
-            <extension name="xdebug" />
-            <extension name="xml" />
-            <extension name="xmlreader" />
-            <extension name="xmlwriter" />
-            <extension name="xsl" />
-            <extension name="zip" />
             <extension name="zlib" />
           </loaded_extensions>
         </phpinfo>

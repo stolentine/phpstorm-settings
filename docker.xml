@@ -1,6 +1,8 @@
 <application>
   <component name="DockerSettings">
-    <option name="dockerComposePath" value="/usr/local/bin/docker-compose" />
+    <option name="dockerComposePath" value="/usr/bin/docker-compose" />
     <option name="dockerMachinePath" value="" />
+    <option name="dockerPath" value="/usr/bin/docker" />
+    <option name="useComposeV2" value="true" />
   </component>
 </application>
