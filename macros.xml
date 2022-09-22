@@ -1,0 +1,53 @@
+<application>
+  <component name="ActionMacroManager">
+    <macro name="create module">
+      <action id="NewDir" />
+      <typing text-keycode="65:1;80:0;80:0;76:0;73:0;67:0;65:0;84:0;73:0;79:0;78:0">Application</typing>
+      <shortuct text="ENTER" />
+      <action id="NewDir" />
+      <typing text-keycode="67:1;79:0;77:0;77:0;65:0;78:0;68:0">Command</typing>
+      <shortuct text="ENTER" />
+      <action id="Tree-selectPrevious" />
+      <action id="Tree-selectPrevious" />
+      <action id="NewDir" />
+      <typing text-keycode="73:1;78:0;70:0;82:0;65:0;83:0;84:0;82:0;85:0;67:0;84:0;85:0;82:0;69:0">Infrastructure</typing>
+      <shortuct text="ENTER" />
+      <action id="NewDir" />
+      <typing text-keycode="65:1;68:0;65:0;80:0;84:0;79:0;82:0">Adaptor</typing>
+      <shortuct text="ENTER" />
+      <action id="Tree-selectPrevious" />
+      <action id="NewDir" />
+      <typing text-keycode="80:1;82:0;79:0;86:0;73:0;68:0;69:0;82:0">Provider</typing>
+      <shortuct text="ENTER" />
+      <action id="NewFile" />
+      <typing text-keycode="83:1;69:0;82:0;86:0;73:0;67:0;69:0;80:1;82:0;79:0;86:0;73:0;68:0;69:0;82:0;46:0;80:0;72:0;80:0">ServiceProvider.php</typing>
+      <shortuct text="ENTER" />
+      <action id="$SelectAll" />
+      <action id="EditorBackSpace" />
+      <typing text-keycode="44:1;47:1">&lt;?</typing>
+      <action id="EditorEnter" />
+      <action id="EditorEnter" />
+      <typing text-keycode="78:0;77:0;77:0">nmm</typing>
+      <action id="EditorChooseLookupItemReplace" />
+      <action id="NextTemplateVariable" />
+      <action id="EditorEnter" />
+      <action id="EditorEnter" />
+      <typing text-keycode="85:0;83:0;69:0;32:0;65:1;80:0;80:0;92:0;86:1;69:0;78:0;68:0;79:0;82:0;92:0;76:1;65:0;82:0;65:0;86:0;69:0;76:0;92:0;83:1;69:0;82:0;86:0;73:0;67:0;69:0;80:1;82:0;79:0;86:0;73:0;68:0;69:0;82:0;92:0;77:1;79:0;68:0;85:0;76:0;69:0;83:1;69:0;82:0;86:0;73:0;67:0;69:0;80:1;82:0;79:0;86:0;73:0;68:0;69:0;82:0;59:0">use&amp;#x20;App\Vendor\Laravel\ServiceProvider\ModuleServiceProvider;</typing>
+      <action id="EditorEnter" />
+      <action id="EditorEnter" />
+      <typing text-keycode="67:0;76:0;65:0;83:0;83:0;32:0;83:1;69:0;82:0;86:0;73:0;67:0;69:0;80:1;82:0;79:0;86:0;73:0;68:0;69:0;82:0;32:0;69:0;88:0;84:0;69:0;78:0;68:0;83:0;32:0;77:1;79:0;68:0;85:0;76:0;69:0;83:1;69:0;82:0;86:0;73:0;67:0;69:0;80:1;82:0;79:0;86:0;73:0;68:0;69:0;82:0;32:0">class&amp;#x20;ServiceProvider&amp;#x20;extends&amp;#x20;ModuleServiceProvider&amp;#x20;</typing>
+      <action id="EditorEnter" />
+      <typing text-keycode="91:1">{</typing>
+      <action id="EditorEnter" />
+      <typing text-keycode="80:0;85:0;66:0;76:0;73:0;67:0;32:0;65:0;82:0;82:0;65:0;89:0;32:0;52:1;66:0;73:0;78:0;68:0;73:0;78:0;71:0;83:0;32:0;61:0;32:0;91:0">public&amp;#x20;array&amp;#x20;$bindings&amp;#x20;=&amp;#x20;[</typing>
+      <action id="EditorEnter" />
+      <typing text-keycode="47:0;47:0;72:0;65:0;78:0;68:0;76:0;69:0;82:0;83:0">//handlers</typing>
+      <action id="EditorEnter" />
+      <action id="EditorEnter" />
+      <typing text-keycode="47:0;47:0;65:0;68:0;65:0;80:0;84:0;79:0;82:0;83:0">//adaptors</typing>
+      <action id="EditorEnter" />
+      <action id="EditorDown" />
+      <typing text-keycode="59:0">;</typing>
+    </macro>
+  </component>
+</application>

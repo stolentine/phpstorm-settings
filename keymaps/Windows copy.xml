@@ -1,4 +1,7 @@
 <keymap version="1" name="Windows copy" parent="$default">
+  <action id="Macros">
+    <keyboard-shortcut first-keystroke="ctrl alt 1" />
+  </action>
   <action id="StringManipulation.AlignToColumns">
     <keyboard-shortcut first-keystroke="shift ctrl alt a" />
   </action>
