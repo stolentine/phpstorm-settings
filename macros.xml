@@ -49,5 +49,23 @@
       <action id="EditorDown" />
       <typing text-keycode="59:0">;</typing>
     </macro>
+    <macro name="rename dir">
+      <action id="NewFile" />
+      <typing text-keycode="80:0;72:0;80:0;46:0;80:0;72:0;80:0">php.php</typing>
+      <shortuct text="ENTER" />
+      <typing text-keycode="44:1;47:1;32:0;78:0;77:0;77:0">&lt;?&amp;#x20;nmm</typing>
+      <action id="EditorChooseLookupItemReplace" />
+      <action id="NextTemplateVariable" />
+      <action id="EditorLeft" />
+      <action id="RenameElement" />
+      <action id="EditorRight" />
+      <shortuct text="ENTER" />
+      <action id="EditorEnter" />
+      <action id="ActivateProjectToolWindow" />
+      <action id="Tree-selectPrevious" />
+      <action id="Tree-selectNext" />
+      <action id="$Delete" />
+      <shortuct text="ENTER" />
+    </macro>
   </component>
 </application>
