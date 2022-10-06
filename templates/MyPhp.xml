@@ -39,18 +39,14 @@
       <option name="PHP Statement" value="true" />
     </context>
   </template>
-  <template name="handle" value="public function handle()&#10;{&#10;    $END$&#10;}" description="public function handle()" toReformat="false" toShortenFQNames="true">
+  <template name="hndl" value="public function handle($PARAMETERS$): $RETURN_TYPE$&#10;{&#10;    $END$&#10;}" description="public function handle()" toReformat="false" toShortenFQNames="true">
+    <variable name="PARAMETERS" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="RETURN_TYPE" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="PHP" value="true" />
     </context>
   </template>
   <template name="__" value="public function __construct(&#10;    $END$&#10;) {&#10;}" description="short __construct" toReformat="false" toShortenFQNames="true">
-    <context>
-      <option name="PHP" value="true" />
-    </context>
-  </template>
-  <template name="execute" value="public function execute($PARAMETERS$)&#10;{&#10;    $END$&#10;}" description="public function handle()" toReformat="false" toShortenFQNames="true">
-    <variable name="PARAMETERS" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="PHP" value="true" />
     </context>
@@ -61,7 +57,7 @@
       <option name="PHP" value="true" />
     </context>
   </template>
-  <template name="d" value="dd($END$);" description="dd();" toReformat="false" toShortenFQNames="true">
+  <template name="dds" value="dd($SELECTION$);" description="dd();" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="PHP" value="true" />
     </context>
@@ -92,20 +88,22 @@
       <option name="PHP" value="true" />
     </context>
   </template>
-  <template name="test" value="public function test$PARAMETERS$()&#10;{&#10;    $END$&#10;}" description="public function test() {}" toReformat="true" toShortenFQNames="true">
-    <variable name="PARAMETERS" expression="" defaultValue="" alwaysStopAt="true" />
+  <template name="test" value="public function test$NAME$(): void&#10;{&#10;    $END$&#10;}" description="public function test() {}" toReformat="true" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="PHP" value="true" />
     </context>
   </template>
-  <template name="ihandle" value="public function handle($PARAMETERS$);$END$" description="public function handle();" toReformat="false" toShortenFQNames="true">
+  <template name="ihndl" value="public function handle($PARAMETERS$): $RETURN_TYPE$;&#10;$END$" description="public function handle();" toReformat="false" toShortenFQNames="true">
     <variable name="PARAMETERS" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="RETURN_TYPE" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="PHP" value="true" />
     </context>
   </template>
-  <template name="fncu" value="function ($PARAMETERS$) use($PARAMETERS$) {&#10;    $END$&#10;}" description="function () use() {}" toReformat="false" toShortenFQNames="true">
+  <template name="fncu" value="function ($PARAMETERS$) use($USE$) {&#10;    $END$&#10;}" description="function () use() {}" toReformat="false" toShortenFQNames="true">
     <variable name="PARAMETERS" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="USE" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="PHP" value="true" />
     </context>
