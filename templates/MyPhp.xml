@@ -1,10 +1,4 @@
 <templateSet group="MyPhp">
-  <template name="pfhan" value="public function handle($PARAMETERS$)&#10;{&#10;    $END$&#10;}" description="public function handle() {}" toReformat="true" toShortenFQNames="true">
-    <variable name="PARAMETERS" expression="" defaultValue="" alwaysStopAt="true" />
-    <context>
-      <option name="PHP" value="true" />
-    </context>
-  </template>
   <template name="rtest" value="Route::get('test', function() {&#10;    $END$&#10;});" description="Route::get('test', fnc);" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="PHP Expression" value="true" />
@@ -105,6 +99,12 @@
     </context>
   </template>
   <template name="ihandle" value="public function handle($PARAMETERS$);$END$" description="public function handle();" toReformat="false" toShortenFQNames="true">
+    <variable name="PARAMETERS" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="fncu" value="function ($PARAMETERS$) use($PARAMETERS$) {&#10;    $END$&#10;}" description="function () use() {}" toReformat="false" toShortenFQNames="true">
     <variable name="PARAMETERS" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="PHP" value="true" />
