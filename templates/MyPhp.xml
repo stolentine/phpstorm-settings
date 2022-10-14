@@ -108,11 +108,4 @@
       <option name="PHP" value="true" />
     </context>
   </template>
-  <template name="ttt" value="$NAME_FULL$&#10;$NAME_LOVER$" description="ttt" toReformat="false" toShortenFQNames="true">
-    <variable name="NAME_FULL" expression="" defaultValue="" alwaysStopAt="true" />
-    <variable name="NAME_LOVER" expression="decapitalize(NAME_FULL)" defaultValue="" alwaysStopAt="true" />
-    <context>
-      <option name="PHP" value="true" />
-    </context>
-  </template>
 </templateSet>
