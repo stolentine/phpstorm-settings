@@ -28,6 +28,7 @@
       <mapping pattern=".phpmetrics" type="PLAIN_TEXT" />
       <mapping ext="dll" type="PLAIN_TEXT" />
       <mapping ext="assets" type="PLAIN_TEXT" />
+      <mapping ext="dbf" type="PLAIN_TEXT" />
       <mapping ext="br" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
       <mapping pattern="asda" type="TypeScript JSX" />
