@@ -27,10 +27,13 @@
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern=".env_old" type="PLAIN_TEXT" />
       <mapping pattern=".phpmetrics" type="PLAIN_TEXT" />
+      <mapping ext="mat" type="PLAIN_TEXT" />
       <mapping ext="fb2" type="PLAIN_TEXT" />
       <mapping ext="dll" type="PLAIN_TEXT" />
       <mapping ext="assets" type="PLAIN_TEXT" />
       <mapping ext="dbf" type="PLAIN_TEXT" />
+      <mapping ext="so" type="PLAIN_TEXT" />
+      <mapping ext="dex" type="PLAIN_TEXT" />
       <mapping ext="br" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
       <mapping pattern="asda" type="TypeScript JSX" />
