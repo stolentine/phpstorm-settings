@@ -17,6 +17,7 @@
       <mapping pattern="php-cs-fixer.sh" type="AUTO_DETECTED" />
       <mapping pattern="awd" type="AUTO_DETECTED" />
       <mapping ext="meta" type="AUTO_DETECTED" />
+      <mapping ext="fb" type="AUTO_DETECTED" />
       <mapping ext="docker" type="Dockerfile" />
       <mapping pattern=".php_cs" type="PHP" />
       <mapping pattern=".set_host123.tmp" type="PLAIN_TEXT" />
@@ -26,6 +27,7 @@
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern=".env_old" type="PLAIN_TEXT" />
       <mapping pattern=".phpmetrics" type="PLAIN_TEXT" />
+      <mapping ext="fb2" type="PLAIN_TEXT" />
       <mapping ext="dll" type="PLAIN_TEXT" />
       <mapping ext="assets" type="PLAIN_TEXT" />
       <mapping ext="dbf" type="PLAIN_TEXT" />
