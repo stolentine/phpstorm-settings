@@ -18,6 +18,7 @@
       <mapping pattern="awd" type="AUTO_DETECTED" />
       <mapping ext="meta" type="AUTO_DETECTED" />
       <mapping ext="fb" type="AUTO_DETECTED" />
+      <mapping ext="14gsr3" type="AUTO_DETECTED" />
       <mapping ext="docker" type="Dockerfile" />
       <mapping pattern=".php_cs" type="PHP" />
       <mapping pattern=".gitattributes" type="PLAIN_TEXT" />
