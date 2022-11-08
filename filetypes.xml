@@ -33,6 +33,7 @@
       <mapping ext="fb2" type="PLAIN_TEXT" />
       <mapping ext="class" type="PLAIN_TEXT" />
       <mapping ext="dll" type="PLAIN_TEXT" />
+      <mapping ext="a9oqss" type="PLAIN_TEXT" />
       <mapping ext="assets" type="PLAIN_TEXT" />
       <mapping ext="dbf" type="PLAIN_TEXT" />
       <mapping ext="so" type="PLAIN_TEXT" />
