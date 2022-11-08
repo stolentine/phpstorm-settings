@@ -8,13 +8,10 @@
     <keyboard-shortcut first-keystroke="shift ctrl alt a" />
   </action>
   <action id="StringManipulation.SwitchStyleAction">
-    <keyboard-shortcut first-keystroke="alt u" />
+    <keyboard-shortcut first-keystroke="ctrl alt u" />
   </action>
   <action id="SurroundWith">
     <keyboard-shortcut first-keystroke="ctrl alt released r" />
   </action>
   <action id="osmedile.intellij.stringmanip.PopupChoiceAction" />
-  <action id="osmedile.intellij.stringmanip.SwitchCasePopup">
-    <keyboard-shortcut first-keystroke="shift alt u" />
-  </action>
 </keymap>
