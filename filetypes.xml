@@ -41,6 +41,7 @@
       <mapping ext="so" type="PLAIN_TEXT" />
       <mapping ext="dex" type="PLAIN_TEXT" />
       <mapping ext="br" type="PLAIN_TEXT" />
+      <mapping ext="z" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
       <mapping pattern="asda" type="TypeScript JSX" />
       <removed_mapping ext="conf" approved="true" type="SmartyConfig" />
