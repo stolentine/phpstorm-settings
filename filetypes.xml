@@ -45,8 +45,6 @@
       <mapping pattern="asda" type="TypeScript JSX" />
       <removed_mapping ext="conf" approved="true" type="Nginx Configuration" />
       <removed_mapping ext="conf" approved="true" type="SmartyConfig" />
-      <removed_mapping ext="conf" approved="true" type="SmartyConfig" />
-      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
