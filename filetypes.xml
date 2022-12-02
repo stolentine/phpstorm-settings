@@ -5,6 +5,7 @@
       <mapping pattern="unity_builtin_extra" type="AUTO_DETECTED" />
       <mapping pattern="asdxfg" type="AUTO_DETECTED" />
       <mapping pattern="112" type="AUTO_DETECTED" />
+      <mapping pattern="tmp" type="AUTO_DETECTED" />
       <mapping pattern="2102021" type="AUTO_DETECTED" />
       <mapping pattern="group-smile-mobile" type="AUTO_DETECTED" />
       <mapping pattern="emoji-haha" type="AUTO_DETECTED" />
