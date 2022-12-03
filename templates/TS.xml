@@ -7,7 +7,7 @@
       <option name="TypeScript" value="true" />
     </context>
   </template>
-  <template name="privf" value="private $NAME$($PARAMETERS$): $RETURN$ {&#10;    $END$&#10;}" description="private function" toReformat="false" toShortenFQNames="true">
+  <template name="prif" value="private $NAME$($PARAMETERS$): $RETURN$ {&#10;    $END$&#10;}" description="private function" toReformat="false" toShortenFQNames="true">
     <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="PARAMETERS" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="RETURN" expression="" defaultValue="" alwaysStopAt="true" />
