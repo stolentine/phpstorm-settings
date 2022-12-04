@@ -31,4 +31,14 @@
       <option name="TypeScript" value="true" />
     </context>
   </template>
+  <template name="pubr" value="public readonly $END$" description="public readonly" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+  <template name="pivr" value="private readonly $END$" description="private readonly" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
 </templateSet>
