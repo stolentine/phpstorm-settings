@@ -36,7 +36,7 @@
       <option name="TypeScript" value="true" />
     </context>
   </template>
-  <template name="pivr" value="private readonly $END$" description="private readonly" toReformat="false" toShortenFQNames="true">
+  <template name="prir" value="private readonly $END$" description="private readonly" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="TypeScript" value="true" />
     </context>
