@@ -3,5 +3,6 @@
     <option name="OPEN_IN_PREVIEW_TAB_IF_POSSIBLE" value="true" />
     <option name="OVERRIDE_NONIDEA_LAF_FONTS" value="true" />
     <option name="PRESENTATION_MODE_FONT_SIZE" value="14" />
+    <option name="SEPARATE_MAIN_MENU" value="true" />
   </component>
 </application>
