@@ -18,8 +18,8 @@
       <mapping pattern="php-cs-fixer.sh" type="AUTO_DETECTED" />
       <mapping pattern="awd" type="AUTO_DETECTED" />
       <mapping ext="meta" type="AUTO_DETECTED" />
-      <mapping ext="14gsr3" type="AUTO_DETECTED" />
       <mapping ext="fb" type="AUTO_DETECTED" />
+      <mapping ext="14gsr3" type="AUTO_DETECTED" />
       <mapping ext="docker" type="Dockerfile" />
       <mapping pattern=".php_cs" type="PHP" />
       <mapping pattern=".gitattributes" type="PLAIN_TEXT" />
@@ -30,19 +30,19 @@
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern=".env_old" type="PLAIN_TEXT" />
       <mapping pattern=".phpmetrics" type="PLAIN_TEXT" />
-      <mapping ext="conf" type="PLAIN_TEXT" />
-      <mapping ext="dex" type="PLAIN_TEXT" />
-      <mapping ext="br" type="PLAIN_TEXT" />
-      <mapping ext="so" type="PLAIN_TEXT" />
       <mapping ext="mat" type="PLAIN_TEXT" />
-      <mapping ext="a9oqss" type="PLAIN_TEXT" />
-      <mapping ext="z" type="PLAIN_TEXT" />
-      <mapping ext="assets" type="PLAIN_TEXT" />
-      <mapping ext="dbf" type="PLAIN_TEXT" />
+      <mapping ext="fb2" type="PLAIN_TEXT" />
+      <mapping ext="ttf" type="PLAIN_TEXT" />
       <mapping ext="class" type="PLAIN_TEXT" />
       <mapping ext="dll" type="PLAIN_TEXT" />
-      <mapping ext="ttf" type="PLAIN_TEXT" />
-      <mapping ext="fb2" type="PLAIN_TEXT" />
+      <mapping ext="a9oqss" type="PLAIN_TEXT" />
+      <mapping ext="assets" type="PLAIN_TEXT" />
+      <mapping ext="dbf" type="PLAIN_TEXT" />
+      <mapping ext="so" type="PLAIN_TEXT" />
+      <mapping ext="dex" type="PLAIN_TEXT" />
+      <mapping ext="br" type="PLAIN_TEXT" />
+      <mapping ext="z" type="PLAIN_TEXT" />
+      <mapping ext="conf" type="PLAIN_TEXT" />
       <mapping pattern="asda" type="TypeScript JSX" />
       <removed_mapping ext="conf" approved="true" type="Nginx Configuration" />
       <removed_mapping ext="conf" approved="true" type="SmartyConfig" />
