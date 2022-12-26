@@ -4,6 +4,8 @@
       <map>
         <entry key="RenderedDoc" value="true" />
         <entry key="SwOpenInHttpClientLineMarkerProvider" value="true" />
+        <entry key="com.goide.go.GoGotoSuperHandler$GoSuperMarkerProvider" value="true" />
+        <entry key="com.goide.go.GoInheritorsSearch$GoInheritorMarkerProvider" value="true" />
         <entry key="com.intellij.execution.lineMarker.RunLineMarkerProvider" value="true" />
         <entry key="com.intellij.httpClient.http.request.codeInsight.HttpRequestDiffLineMarkerProvider" value="true" />
         <entry key="com.intellij.lang.javascript.highlighting.JSRecursiveCallLineMarkerProvider" value="true" />
