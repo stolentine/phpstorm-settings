@@ -48,7 +48,6 @@
       <removed_mapping ext="conf" approved="true" type="Nginx Configuration" />
       <removed_mapping ext="conf" approved="true" type="SmartyConfig" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
-      <mapping pattern=".php_cs" type="PHP" />
     </extensionMap>
   </component>
 </application>
