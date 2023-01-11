@@ -1,7 +1,8 @@
 <application>
   <component name="SshConfigs">
     <configs>
-      <sshConfig authType="PASSWORD" host="5.53.126.91" id="4586dbf8-7113-4fda-9f60-f728c2ef9d73" port="22" nameFormat="DESCRIPTIVE" username="topcargo_app" useOpenSSHConfig="true" />
+      <sshConfig authType="PASSWORD" host="5.188.117.162" id="4586dbf8-7113-4fda-9f60-f728c2ef9d73" port="22" nameFormat="DESCRIPTIVE" username="bonus_app" useOpenSSHConfig="false" />
+      <sshConfig authType="PASSWORD" host="5.188.117.162" id="817ac6b9-20e5-495b-8990-d199fc327a43" port="22" nameFormat="DESCRIPTIVE" username="bonus_app" useOpenSSHConfig="true" />
     </configs>
   </component>
 </application>
