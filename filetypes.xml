@@ -30,7 +30,6 @@
       <mapping pattern=".env1" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern=".env_old" type="PLAIN_TEXT" />
-      <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern=".phpmetrics" type="PLAIN_TEXT" />
       <mapping ext="dex" type="PLAIN_TEXT" />
       <mapping ext="br" type="PLAIN_TEXT" />
@@ -53,6 +52,7 @@
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="sh" approved="true" type="Shell Script" />
       <removed_mapping ext="zsh" approved="true" type="Shell Script" />
+      <removed_mapping pattern=".env" approved="true" type=".env file" />
     </extensionMap>
   </component>
 </application>
