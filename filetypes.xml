@@ -38,13 +38,13 @@
       <mapping ext="class" type="PLAIN_TEXT" />
       <mapping ext="dll" type="PLAIN_TEXT" />
       <mapping ext="fb2" type="PLAIN_TEXT" />
-      <mapping ext="conf" type="PLAIN_TEXT" />
       <mapping ext="mat" type="PLAIN_TEXT" />
       <mapping ext="a9oqss" type="PLAIN_TEXT" />
       <mapping ext="assets" type="PLAIN_TEXT" />
       <mapping ext="dbf" type="PLAIN_TEXT" />
       <mapping ext="ttf" type="PLAIN_TEXT" />
       <mapping pattern="asda" type="TypeScript JSX" />
+      <mapping ext="conf" type="nginx" />
       <removed_mapping ext="bash" approved="true" type="Shell Script" />
       <removed_mapping ext="conf" approved="true" type="Nginx Configuration" />
       <removed_mapping ext="conf" approved="true" type="Nginx Configuration Pro" />
