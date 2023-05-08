@@ -113,4 +113,10 @@
       <option name="PHP" value="true" />
     </context>
   </template>
+  <template name="anm" value="namespace App\$path$;" description="auto namespace" toReformat="false" toShortenFQNames="true">
+    <variable name="path" expression="regularExpression(regularExpression(capitalize(fileRelativePath()), &quot;/&quot;, escapeString(&quot;\\&quot;)), escapeString(&quot;\\[^\\]*?$&quot;), &quot;&quot;)" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
 </templateSet>
