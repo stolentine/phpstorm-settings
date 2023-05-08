@@ -122,6 +122,18 @@
           <option name="groupName" value="Vue" />
           <option name="key" value="vdata" />
         </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="BashSupport Pro Hidden" />
+          <option name="key" value="shell_for" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="BashSupport Pro Hidden" />
+          <option name="key" value="shell_until" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="BashSupport Pro Hidden" />
+          <option name="key" value="shell_while" />
+        </TemplateKey>
       </list>
     </option>
   </component>
