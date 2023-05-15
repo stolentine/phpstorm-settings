@@ -14,4 +14,7 @@
     <keyboard-shortcut first-keystroke="ctrl alt released r" />
   </action>
   <action id="osmedile.intellij.stringmanip.PopupChoiceAction" />
+  <action id="uuidgenerator.random">
+    <keyboard-shortcut first-keystroke="alt u" />
+  </action>
 </keymap>
