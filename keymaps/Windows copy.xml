@@ -4,7 +4,7 @@
     <keyboard-shortcut first-keystroke="ctrl alt 1" />
   </action>
   <action id="PhpNewClass">
-    <keyboard-shortcut first-keystroke="shift back_slash" />
+    <keyboard-shortcut first-keystroke="ctrl alt back_slash" />
   </action>
   <action id="ShowUmlDiagramPopup" />
   <action id="StringManipulation.AlignToColumns">
