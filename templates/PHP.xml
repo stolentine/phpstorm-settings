@@ -1,5 +1,5 @@
 <templateSet group="PHP">
-  <template name="fn" value="fn ($PARAMETERS$) =&gt; $END$" description="fn () =&gt;" toReformat="false" toShortenFQNames="true">
+  <template name="fn" value="fn($PARAMETERS$) =&gt; $END$" description="fn () =&gt;" toReformat="false" toShortenFQNames="true">
     <variable name="PARAMETERS" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="PHP" value="true" />
