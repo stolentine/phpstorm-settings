@@ -51,6 +51,7 @@
       <removed_mapping ext="conf" approved="true" type="Nginx Configuration Pro" />
       <removed_mapping ext="conf" approved="true" type="SmartyConfig" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="pdf" approved="true" type="Native" />
       <removed_mapping ext="sh" approved="true" type="Shell Script" />
       <removed_mapping ext="zsh" approved="true" type="Shell Script" />
       <removed_mapping pattern=".env" approved="true" type=".env file" />
