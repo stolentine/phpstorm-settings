@@ -1,5 +1,19 @@
 <application>
   <component name="bashsupport-pro.local">
-    <option name="startupCounter" value="2" />
+    <option name="shellInterpreters">
+      <list>
+        <interpreter>
+          <option name="independentPath" value="/usr/bin/sh" />
+          <option name="mapping" value="None" />
+          <option name="type" value="shell" />
+        </interpreter>
+        <interpreter>
+          <option name="independentPath" value="/usr/bin/bash" />
+          <option name="mapping" value="None" />
+          <option name="type" value="bash" />
+        </interpreter>
+      </list>
+    </option>
+    <option name="startupCounter" value="3" />
   </component>
 </application>
