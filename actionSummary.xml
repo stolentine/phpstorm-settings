@@ -1,16 +1,40 @@
 <application>
   <component name="ActionsLocalSummary">
+    <e n="EditorCopy">
+      <i c="2" l="1693321685961" />
+    </e>
+    <e n="EditorLeft">
+      <i c="3" l="1693321675649" />
+    </e>
+    <e n="EditorLeftWithSelection">
+      <i c="1" l="1693321670960" />
+    </e>
+    <e n="EditorPaste">
+      <i c="2" l="1693321687232" />
+    </e>
+    <e n="EditorRight">
+      <i c="25" l="1693321672867" />
+    </e>
     <e n="GotoDeclaration">
       <i c="1" l="1693320419494" />
     </e>
     <e n="MoreRunToolbarActions">
       <i c="1" l="1693320321992" />
     </e>
+    <e n="Replace">
+      <i c="1" l="1693321684668" />
+    </e>
+    <e n="SaveAll">
+      <i c="1" l="1693321703045" />
+    </e>
     <e n="SettingsEntryPoint">
       <i c="1" l="1693320318168" />
     </e>
     <e n="TerminalNewPredefinedSession">
       <i c="1" l="1693320367225" />
+    </e>
+    <e n="ToggleLineBreakpoint">
+      <i c="1" l="1693321480135" />
     </e>
     <e n="WelcomeScreen.OpenDirectoryProject">
       <i c="1" l="1693320243925" />
@@ -26,6 +50,12 @@
     </e>
     <e n="com.intellij.toolWindow.ShowMoreToolWindowsAction">
       <i c="1" l="1693320335600" />
+    </e>
+    <e n="com.intellij.toolWindow.ToolWindowHeader$ShowOptionsAction">
+      <i c="1" l="1693320580058" />
+    </e>
+    <e n="com.intellij.xdebugger.impl.breakpoints.RemoveBreakpointGutterIconAction">
+      <i c="1" l="1693321481430" />
     </e>
   </component>
 </application>
