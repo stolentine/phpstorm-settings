@@ -1,34 +1,112 @@
 <application>
   <component name="ActionsLocalSummary">
+    <e n="$Delete">
+      <i c="1" l="1693323725911" />
+    </e>
+    <e n="$SelectAll">
+      <i c="1" l="1693322363137" />
+    </e>
+    <e n="$Undo">
+      <i c="38" l="1693323066934" />
+    </e>
+    <e n="CloseAllEditorsButActive">
+      <i c="1" l="1693322622059" />
+    </e>
+    <e n="CommentByLineComment">
+      <i c="1" l="1693323583446" />
+    </e>
+    <e n="Docker.AddDockerConnection">
+      <i c="1" l="1693322998621" />
+    </e>
+    <e n="EditorBackSpace">
+      <i c="63" l="1693323848058" />
+    </e>
+    <e n="EditorChooseLookupItem">
+      <i c="46" l="1693323842129" />
+    </e>
+    <e n="EditorChooseLookupItemReplace">
+      <i c="4" l="1693323811882" />
+    </e>
     <e n="EditorCopy">
-      <i c="2" l="1693321685961" />
+      <i c="18" l="1693323832291" />
+    </e>
+    <e n="EditorCut">
+      <i c="35" l="1693323859314" />
+    </e>
+    <e n="EditorDown">
+      <i c="47" l="1693323849294" />
+    </e>
+    <e n="EditorEnter">
+      <i c="27" l="1693323851392" />
     </e>
     <e n="EditorLeft">
-      <i c="3" l="1693321675649" />
+      <i c="103" l="1693323847162" />
     </e>
     <e n="EditorLeftWithSelection">
-      <i c="1" l="1693321670960" />
+      <i c="26" l="1693323797174" />
+    </e>
+    <e n="EditorNextWord">
+      <i c="2" l="1693322324078" />
+    </e>
+    <e n="EditorNextWordWithSelection">
+      <i c="2" l="1693322281213" />
     </e>
     <e n="EditorPaste">
-      <i c="2" l="1693321687232" />
+      <i c="37" l="1693323833090" />
+    </e>
+    <e n="EditorPreviousWord">
+      <i c="3" l="1693322324446" />
+    </e>
+    <e n="EditorPreviousWordWithSelection">
+      <i c="10" l="1693322531946" />
     </e>
     <e n="EditorRight">
-      <i c="25" l="1693321672867" />
+      <i c="114" l="1693323839694" />
+    </e>
+    <e n="EditorRightWithSelection">
+      <i c="2" l="1693323498528" />
+    </e>
+    <e n="EditorUp">
+      <i c="26" l="1693323802215" />
+    </e>
+    <e n="EditorUpWithSelection">
+      <i c="10" l="1693322168861" />
+    </e>
+    <e n="Find">
+      <i c="2" l="1693323674571" />
     </e>
     <e n="GotoDeclaration">
-      <i c="1" l="1693320419494" />
+      <i c="11" l="1693323486856" />
     </e>
     <e n="MoreRunToolbarActions">
       <i c="1" l="1693320321992" />
+    </e>
+    <e n="NextTemplateVariable">
+      <i c="2" l="1693323506182" />
+    </e>
+    <e n="ReformatCode">
+      <i c="1" l="1693322329305" />
+    </e>
+    <e n="RenameElement">
+      <i c="2" l="1693323502523" />
     </e>
     <e n="Replace">
       <i c="1" l="1693321684668" />
     </e>
     <e n="SaveAll">
-      <i c="1" l="1693321703045" />
+      <i c="18" l="1693323859531" />
+    </e>
+    <e n="SelectInProjectView">
+      <i c="2" l="1693323722331" />
+    </e>
+    <e n="ServiceView.AddService">
+      <i c="1" l="1693322996017" />
     </e>
     <e n="SettingsEntryPoint">
       <i c="1" l="1693320318168" />
+    </e>
+    <e n="ShowIntentionActions">
+      <i c="3" l="1693322350991" />
     </e>
     <e n="TerminalNewPredefinedSession">
       <i c="1" l="1693320367225" />
@@ -39,11 +117,17 @@
     <e n="WelcomeScreen.OpenDirectoryProject">
       <i c="1" l="1693320243925" />
     </e>
+    <e n="com.intellij.docker.action.containers.CreateTerminalAction">
+      <i c="1" l="1693323742724" />
+    </e>
     <e n="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
-      <i c="2" l="1693320439750" />
+      <i c="5" l="1693322374222" />
+    </e>
+    <e n="com.intellij.openapi.ui.DialogWrapper$5">
+      <i c="1" l="1693323726992" />
     </e>
     <e n="com.intellij.openapi.wm.impl.SquareAnActionButton">
-      <i c="7" l="1693320278329" />
+      <i c="10" l="1693323738836" />
     </e>
     <e n="com.intellij.openapi.wm.impl.customFrameDecorations.header.toolbar.MainMenuButton$ShowMenuAction">
       <i c="3" l="1693320312021" />
@@ -51,8 +135,14 @@
     <e n="com.intellij.toolWindow.ShowMoreToolWindowsAction">
       <i c="1" l="1693320335600" />
     </e>
+    <e n="com.intellij.toolWindow.ToolWindowHeader$HideAction">
+      <i c="2" l="1693323758104" />
+    </e>
     <e n="com.intellij.toolWindow.ToolWindowHeader$ShowOptionsAction">
       <i c="1" l="1693320580058" />
+    </e>
+    <e n="com.intellij.ui.ScrollingUtil$ListMoveDownAction">
+      <i c="1" l="1693322197906" />
     </e>
     <e n="com.intellij.xdebugger.impl.breakpoints.RemoveBreakpointGutterIconAction">
       <i c="1" l="1693321481430" />

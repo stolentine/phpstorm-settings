@@ -8,6 +8,7 @@
   <component name="PropertyService"><![CDATA[{
   "keyToString": {
     "CWM_LOGGING_VERSION": "1",
+    "FindSplitterProportion": "0.32981277",
     "LAST_CALCULATED_COLOR_INDEX_KEY": "6",
     "PhpStorm.InitialConfiguration": "true",
     "appcds.runOnSecondStart": "PS-232.9559.64-075e75228adb978789db7c9f3836c4850df14374076a3a2ee0a9acbd73cb533a",
@@ -24,6 +25,7 @@
     "fileTypeChangedCounter": "1",
     "fontSizeToResetConsole": "16.25",
     "fontSizeToResetEditor": "16.25",
+    "got.it.tooltip.reader.mode.got.it": "1",
     "ide.memory.adjusted": "true",
     "ide.updates.previous.build.number": "PS-232.9559.64",
     "input.method.disabler.muted": "true",

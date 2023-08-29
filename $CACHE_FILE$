@@ -4,14 +4,26 @@
   </component>
   <component name="PhpLanguageFeatureUsagesStatistics">
     <project hash="8ec5ffe1">
+      <feature name="TRAITS" />
       <feature name="SHORT_ARRAY_SYNTAX" />
+      <feature name="IMMEDIATE_DEREFERENCING" />
+      <feature name="CLASS_NAME_CONST" />
+      <feature name="VARIADIC_FUNCTIONS" />
       <feature name="RETURN_TYPES" />
       <feature name="SCALAR_TYPE_HINTS" />
+      <feature name="COALESCE_OPERATOR" />
+      <feature name="RETURN_VOID" />
+      <feature name="NULLABLES" />
+      <feature name="CLASS_CONSTANT_VISIBILITY" />
       <feature name="TRAILING_COMMA_IN_FUNCTION_CALL" />
+      <feature name="ARROW_FUNCTION_SYNTAX" />
+      <feature name="UNION_TYPES" />
       <feature name="NAMESPACED_NAME_AS_SINGLE_TOKEN" />
+      <feature name="NULLSAFE_DEREFERENCING" />
       <feature name="TRAILING_COMMA_IN_PARAMETER_LIST" />
       <feature name="NAMED_ARGUMENTS" />
       <feature name="PROPERTY_PROMOTION" />
+      <feature name="READONLY_PROPERTIES" />
       <feature name="READONLY_CLASSES" />
     </project>
   </component>
