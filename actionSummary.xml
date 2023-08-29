@@ -9,6 +9,9 @@
     <e n="$Undo">
       <i c="38" l="1693323066934" />
     </e>
+    <e n="CloseAllEditors">
+      <i c="1" l="1693324028548" />
+    </e>
     <e n="CloseAllEditorsButActive">
       <i c="1" l="1693322622059" />
     </e>
@@ -19,7 +22,7 @@
       <i c="1" l="1693322998621" />
     </e>
     <e n="EditorBackSpace">
-      <i c="63" l="1693323848058" />
+      <i c="85" l="1693323929633" />
     </e>
     <e n="EditorChooseLookupItem">
       <i c="46" l="1693323842129" />
@@ -75,6 +78,9 @@
     <e n="Find">
       <i c="2" l="1693323674571" />
     </e>
+    <e n="Git.Commit.And.Push.Executor">
+      <i c="1" l="1693323935221" />
+    </e>
     <e n="GotoDeclaration">
       <i c="11" l="1693323486856" />
     </e>
@@ -127,7 +133,7 @@
       <i c="1" l="1693323726992" />
     </e>
     <e n="com.intellij.openapi.wm.impl.SquareAnActionButton">
-      <i c="10" l="1693323738836" />
+      <i c="12" l="1693324026425" />
     </e>
     <e n="com.intellij.openapi.wm.impl.customFrameDecorations.header.toolbar.MainMenuButton$ShowMenuAction">
       <i c="3" l="1693320312021" />
