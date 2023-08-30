@@ -1,7 +1,13 @@
 <application>
   <component name="ActionsLocalSummary">
+    <e n="$Cut">
+      <i c="1" l="1693403940726" />
+    </e>
     <e n="$Delete">
       <i c="1" l="1693323725911" />
+    </e>
+    <e n="$Paste">
+      <i c="1" l="1693403943739" />
     </e>
     <e n="$SelectAll">
       <i c="1" l="1693322363137" />
@@ -95,6 +101,9 @@
     </e>
     <e n="MoreRunToolbarActions">
       <i c="3" l="1693401224014" />
+    </e>
+    <e n="NewDir">
+      <i c="1" l="1693403908809" />
     </e>
     <e n="NextTemplateVariable">
       <i c="5" l="1693401138942" />

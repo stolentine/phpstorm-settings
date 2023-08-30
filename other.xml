@@ -57,6 +57,7 @@
 }]]></component>
   <component name="TerminalCommandHistoryManager">
     <command-history-files>
+      <command-history-file filename="docs-history" project-path="$USER_HOME$/projects/docs" last-access-time="1693401537472" />
       <command-history-file filename="topcargo-history" project-path="$USER_HOME$/projects/topcargo" last-access-time="1693320271852" />
     </command-history-files>
   </component>

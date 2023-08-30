@@ -3,6 +3,7 @@
     <modules />
   </component>
   <component name="PhpLanguageFeatureUsagesStatistics">
+    <project hash="d9d1ab95" />
     <project hash="8ec5ffe1">
       <feature name="TRAITS" />
       <feature name="SHORT_ARRAY_SYNTAX" />
