@@ -13,7 +13,7 @@
       <i c="1" l="1693322363137" />
     </e>
     <e n="$Undo">
-      <i c="49" l="1693408123570" />
+      <i c="55" l="1693410140319" />
     </e>
     <e n="BraceOrQuoteOut">
       <i c="1" l="1693404861417" />
@@ -31,34 +31,34 @@
       <i c="2" l="1693404922342" />
     </e>
     <e n="CommentByLineComment">
-      <i c="4" l="1693407885919" />
+      <i c="5" l="1693409243225" />
     </e>
     <e n="Docker.AddDockerConnection">
       <i c="1" l="1693322998621" />
     </e>
     <e n="EditorBackSpace">
-      <i c="195" l="1693408705717" />
+      <i c="217" l="1693410143274" />
     </e>
     <e n="EditorChooseLookupItem">
-      <i c="85" l="1693408710427" />
+      <i c="108" l="1693410132374" />
     </e>
     <e n="EditorChooseLookupItemReplace">
-      <i c="7" l="1693408083060" />
+      <i c="8" l="1693408972200" />
     </e>
     <e n="EditorCopy">
-      <i c="49" l="1693408530382" />
+      <i c="61" l="1693410146663" />
     </e>
     <e n="EditorCut">
-      <i c="72" l="1693408630133" />
+      <i c="92" l="1693410136069" />
     </e>
     <e n="EditorDelete">
       <i c="5" l="1693408242050" />
     </e>
     <e n="EditorDown">
-      <i c="95" l="1693408691473" />
+      <i c="123" l="1693410136782" />
     </e>
     <e n="EditorEnter">
-      <i c="87" l="1693408646624" />
+      <i c="118" l="1693410117509" />
     </e>
     <e n="EditorEscape">
       <i c="1" l="1693404847964" />
@@ -67,40 +67,40 @@
       <i c="2" l="1693404714475" />
     </e>
     <e n="EditorLeft">
-      <i c="499" l="1693408665815" />
+      <i c="554" l="1693410131071" />
     </e>
     <e n="EditorLeftWithSelection">
-      <i c="121" l="1693408664381" />
+      <i c="124" l="1693409528962" />
     </e>
     <e n="EditorNextWord">
       <i c="6" l="1693397948916" />
     </e>
     <e n="EditorNextWordWithSelection">
-      <i c="3" l="1693408662693" />
+      <i c="4" l="1693410127875" />
     </e>
     <e n="EditorPaste">
-      <i c="97" l="1693408644467" />
+      <i c="116" l="1693410149425" />
     </e>
     <e n="EditorPreviousWord">
       <i c="3" l="1693322324446" />
     </e>
     <e n="EditorPreviousWordWithSelection">
-      <i c="12" l="1693408662226" />
+      <i c="13" l="1693409710196" />
     </e>
     <e n="EditorRight">
-      <i c="538" l="1693408707887" />
+      <i c="625" l="1693410133465" />
     </e>
     <e n="EditorRightWithSelection">
       <i c="122" l="1693408662929" />
     </e>
     <e n="EditorTab">
-      <i c="7" l="1693408255288" />
+      <i c="11" l="1693409245841" />
     </e>
     <e n="EditorUp">
-      <i c="49" l="1693408646055" />
+      <i c="113" l="1693410135799" />
     </e>
     <e n="EditorUpWithSelection">
-      <i c="16" l="1693408253193" />
+      <i c="17" l="1693409305698" />
     </e>
     <e n="FileChooser.GotoProject">
       <i c="1" l="1693401510370" />
@@ -115,7 +115,7 @@
       <i c="2" l="1693404947296" />
     </e>
     <e n="GotoDeclaration">
-      <i c="19" l="1693408694090" />
+      <i c="31" l="1693410074234" />
     </e>
     <e n="MoreRunToolbarActions">
       <i c="4" l="1693405190565" />
@@ -130,7 +130,7 @@
       <i c="3" l="1693405055169" />
     </e>
     <e n="ReformatCode">
-      <i c="2" l="1693404711892" />
+      <i c="4" l="1693409269728" />
     </e>
     <e n="RenameElement">
       <i c="4" l="1693403949499" />
@@ -142,7 +142,7 @@
       <i c="1" l="1693405087124" />
     </e>
     <e n="SaveAll">
-      <i c="24" l="1693408711129" />
+      <i c="25" l="1693410150170" />
     </e>
     <e n="SearchEverywhere">
       <i c="1" l="1693397876314" />
@@ -157,7 +157,7 @@
       <i c="1" l="1693320318168" />
     </e>
     <e n="ShowIntentionActions">
-      <i c="3" l="1693322350991" />
+      <i c="4" l="1693409438116" />
     </e>
     <e n="ShowSettings">
       <i c="1" l="1693405376662" />
@@ -175,7 +175,7 @@
       <i c="1" l="1693320243925" />
     </e>
     <e n="com.intellij.codeInsight.daemon.NavigateAction">
-      <i c="1" l="1693408587361" />
+      <i c="2" l="1693409577201" />
     </e>
     <e n="com.intellij.docker.action.containers.CreateTerminalAction">
       <i c="2" l="1693407622974" />
@@ -193,7 +193,7 @@
       <i c="1" l="1693397877155" />
     </e>
     <e n="com.intellij.openapi.ui.DialogWrapper$5">
-      <i c="4" l="1693405249482" />
+      <i c="5" l="1693409646783" />
     </e>
     <e n="com.intellij.openapi.wm.impl.SquareAnActionButton">
       <i c="22" l="1693407617722" />
