@@ -5,7 +5,7 @@
         <entry key="$USER_HOME$/projects/topcargo">
           <value>
             <RecentProjectMetaInfo frameTitle="topcargo – ProfilesService.php" opened="true" projectWorkspaceId="2PVsHbwxtqMCnpEKyWKNXLGglU0">
-              <option name="activationTimestamp" value="1693404642572" />
+              <option name="activationTimestamp" value="1693408452277" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="build" value="PS-232.9559.64" />
               <option name="buildTimestamp" value="1692986629123" />
@@ -20,11 +20,15 @@
         </entry>
         <entry key="$USER_HOME$/projects/bonus-community/monolith">
           <value>
-            <RecentProjectMetaInfo displayName="monolith, bonus-community..." opened="true" projectWorkspaceId="2S9iRz9zTMZpxIaG9ndFICFb3mR">
-              <option name="activationTimestamp" value="1693401575587" />
+            <RecentProjectMetaInfo displayName="monolith, bonus-community..." frameTitle="monolith – settings.md [monolith]" projectWorkspaceId="2S9iRz9zTMZpxIaG9ndFICFb3mR">
+              <option name="activationTimestamp" value="1693405249562" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="build" value="PS-232.9559.64" />
               <option name="buildTimestamp" value="1692986632084" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="7" />
+              </option>
+              <frame x="236" y="53" width="1400" height="1000" extendedState="6" />
               <option name="productionCode" value="PS" />
               <option name="projectOpenTimestamp" value="1693401463602" />
             </RecentProjectMetaInfo>
@@ -32,21 +36,22 @@
         </entry>
         <entry key="$USER_HOME$/projects/docs">
           <value>
-            <RecentProjectMetaInfo opened="true" projectWorkspaceId="2UhpBbuOtDBUyybXJQQVVEfXt65">
-              <option name="activationTimestamp" value="1693404948776" />
+            <RecentProjectMetaInfo frameTitle="docs – Commit" projectWorkspaceId="2UhpBbuOtDBUyybXJQQVVEfXt65">
+              <option name="activationTimestamp" value="1693405265352" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="build" value="PS-232.9559.64" />
               <option name="buildTimestamp" value="1692986632084" />
               <option name="colorInfo">
                 <RecentProjectColorInfo associatedIndex="8" />
               </option>
+              <frame x="2126" y="149" width="1400" height="1000" extendedState="6" />
               <option name="productionCode" value="PS" />
-              <option name="projectOpenTimestamp" value="1693401532015" />
+              <option name="projectOpenTimestamp" value="1693405058309" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
       </map>
     </option>
-    <option name="lastOpenedProject" value="$USER_HOME$/projects/docs" />
+    <option name="lastOpenedProject" value="$USER_HOME$/projects/topcargo" />
   </component>
 </application>

@@ -4,7 +4,7 @@
       <i c="1" l="1693403940726" />
     </e>
     <e n="$Delete">
-      <i c="2" l="1693404642242" />
+      <i c="3" l="1693405248988" />
     </e>
     <e n="$Paste">
       <i c="1" l="1693403943739" />
@@ -13,46 +13,52 @@
       <i c="1" l="1693322363137" />
     </e>
     <e n="$Undo">
-      <i c="47" l="1693404845264" />
+      <i c="49" l="1693408123570" />
     </e>
     <e n="BraceOrQuoteOut">
       <i c="1" l="1693404861417" />
     </e>
+    <e n="ChangesView.GroupBy.Directory">
+      <i c="1" l="1693405169148" />
+    </e>
+    <e n="ChangesView.Revert">
+      <i c="1" l="1693405172678" />
+    </e>
     <e n="CloseAllEditors">
-      <i c="1" l="1693324028548" />
+      <i c="2" l="1693405371973" />
     </e>
     <e n="CloseAllEditorsButActive">
       <i c="2" l="1693404922342" />
     </e>
     <e n="CommentByLineComment">
-      <i c="1" l="1693323583446" />
+      <i c="4" l="1693407885919" />
     </e>
     <e n="Docker.AddDockerConnection">
       <i c="1" l="1693322998621" />
     </e>
     <e n="EditorBackSpace">
-      <i c="168" l="1693404885189" />
+      <i c="195" l="1693408705717" />
     </e>
     <e n="EditorChooseLookupItem">
-      <i c="54" l="1693404844236" />
+      <i c="85" l="1693408710427" />
     </e>
     <e n="EditorChooseLookupItemReplace">
-      <i c="6" l="1693397894707" />
+      <i c="7" l="1693408083060" />
     </e>
     <e n="EditorCopy">
-      <i c="32" l="1693404887564" />
+      <i c="49" l="1693408530382" />
     </e>
     <e n="EditorCut">
-      <i c="48" l="1693404700490" />
+      <i c="72" l="1693408630133" />
     </e>
     <e n="EditorDelete">
-      <i c="1" l="1693404680578" />
+      <i c="5" l="1693408242050" />
     </e>
     <e n="EditorDown">
-      <i c="79" l="1693404897725" />
+      <i c="95" l="1693408691473" />
     </e>
     <e n="EditorEnter">
-      <i c="47" l="1693404859596" />
+      <i c="87" l="1693408646624" />
     </e>
     <e n="EditorEscape">
       <i c="1" l="1693404847964" />
@@ -61,40 +67,40 @@
       <i c="2" l="1693404714475" />
     </e>
     <e n="EditorLeft">
-      <i c="441" l="1693404896426" />
+      <i c="499" l="1693408665815" />
     </e>
     <e n="EditorLeftWithSelection">
-      <i c="57" l="1693404891258" />
+      <i c="121" l="1693408664381" />
     </e>
     <e n="EditorNextWord">
       <i c="6" l="1693397948916" />
     </e>
     <e n="EditorNextWordWithSelection">
-      <i c="2" l="1693322281213" />
+      <i c="3" l="1693408662693" />
     </e>
     <e n="EditorPaste">
-      <i c="64" l="1693404887972" />
+      <i c="97" l="1693408644467" />
     </e>
     <e n="EditorPreviousWord">
       <i c="3" l="1693322324446" />
     </e>
     <e n="EditorPreviousWordWithSelection">
-      <i c="11" l="1693397946184" />
+      <i c="12" l="1693408662226" />
     </e>
     <e n="EditorRight">
-      <i c="479" l="1693404895201" />
+      <i c="538" l="1693408707887" />
     </e>
     <e n="EditorRightWithSelection">
-      <i c="120" l="1693404690794" />
+      <i c="122" l="1693408662929" />
     </e>
     <e n="EditorTab">
-      <i c="6" l="1693404863036" />
+      <i c="7" l="1693408255288" />
     </e>
     <e n="EditorUp">
-      <i c="38" l="1693404893897" />
+      <i c="49" l="1693408646055" />
     </e>
     <e n="EditorUpWithSelection">
-      <i c="12" l="1693404887177" />
+      <i c="16" l="1693408253193" />
     </e>
     <e n="FileChooser.GotoProject">
       <i c="1" l="1693401510370" />
@@ -109,19 +115,19 @@
       <i c="2" l="1693404947296" />
     </e>
     <e n="GotoDeclaration">
-      <i c="15" l="1693398035260" />
+      <i c="19" l="1693408694090" />
     </e>
     <e n="MoreRunToolbarActions">
-      <i c="3" l="1693401224014" />
+      <i c="4" l="1693405190565" />
     </e>
     <e n="NewDir">
       <i c="1" l="1693403908809" />
     </e>
     <e n="NextTemplateVariable">
-      <i c="5" l="1693401138942" />
+      <i c="7" l="1693408076904" />
     </e>
     <e n="OpenFile">
-      <i c="2" l="1693401502844" />
+      <i c="3" l="1693405055169" />
     </e>
     <e n="ReformatCode">
       <i c="2" l="1693404711892" />
@@ -132,14 +138,17 @@
     <e n="Replace">
       <i c="1" l="1693321684668" />
     </e>
+    <e n="RevealIn">
+      <i c="1" l="1693405087124" />
+    </e>
     <e n="SaveAll">
-      <i c="20" l="1693398014997" />
+      <i c="24" l="1693408711129" />
     </e>
     <e n="SearchEverywhere">
       <i c="1" l="1693397876314" />
     </e>
     <e n="SelectInProjectView">
-      <i c="3" l="1693398038864" />
+      <i c="4" l="1693407591542" />
     </e>
     <e n="ServiceView.AddService">
       <i c="1" l="1693322996017" />
@@ -150,44 +159,56 @@
     <e n="ShowIntentionActions">
       <i c="3" l="1693322350991" />
     </e>
+    <e n="ShowSettings">
+      <i c="1" l="1693405376662" />
+    </e>
     <e n="TerminalNewPredefinedSession">
       <i c="1" l="1693320367225" />
     </e>
     <e n="ToggleLineBreakpoint">
       <i c="3" l="1693404675023" />
     </e>
+    <e n="Vcs.Push">
+      <i c="1" l="1693405208594" />
+    </e>
     <e n="WelcomeScreen.OpenDirectoryProject">
       <i c="1" l="1693320243925" />
     </e>
+    <e n="com.intellij.codeInsight.daemon.NavigateAction">
+      <i c="1" l="1693408587361" />
+    </e>
     <e n="com.intellij.docker.action.containers.CreateTerminalAction">
-      <i c="1" l="1693323742724" />
+      <i c="2" l="1693407622974" />
     </e>
     <e n="com.intellij.execution.lineMarker.LineMarkerActionWrapper">
       <i c="3" l="1693401172925" />
     </e>
+    <e n="com.intellij.openapi.actionSystem.DefaultActionGroup">
+      <i c="1" l="1693405168232" />
+    </e>
     <e n="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
-      <i c="9" l="1693404923806" />
+      <i c="10" l="1693407759478" />
     </e>
     <e n="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
       <i c="1" l="1693397877155" />
     </e>
     <e n="com.intellij.openapi.ui.DialogWrapper$5">
-      <i c="3" l="1693404642483" />
+      <i c="4" l="1693405249482" />
     </e>
     <e n="com.intellij.openapi.wm.impl.SquareAnActionButton">
-      <i c="15" l="1693404926318" />
+      <i c="22" l="1693407617722" />
     </e>
     <e n="com.intellij.openapi.wm.impl.customFrameDecorations.header.toolbar.MainMenuButton$ShowMenuAction">
-      <i c="6" l="1693401501442" />
+      <i c="13" l="1693405373036" />
     </e>
     <e n="com.intellij.toolWindow.ShowMoreToolWindowsAction">
       <i c="1" l="1693320335600" />
     </e>
     <e n="com.intellij.toolWindow.ToolWindowHeader$HideAction">
-      <i c="2" l="1693323758104" />
+      <i c="3" l="1693405364101" />
     </e>
     <e n="com.intellij.toolWindow.ToolWindowHeader$ShowOptionsAction">
-      <i c="1" l="1693320580058" />
+      <i c="2" l="1693405194038" />
     </e>
     <e n="com.intellij.ui.AnActionButton$AnActionButtonWrapper">
       <i c="1" l="1693401263111" />

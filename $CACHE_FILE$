@@ -19,6 +19,7 @@
       <feature name="NULLABLES" />
       <feature name="CLASS_CONSTANT_VISIBILITY" />
       <feature name="TRAILING_COMMA_IN_FUNCTION_CALL" />
+      <feature name="SPREAD_OPERATOR_IN_ARRAY" />
       <feature name="COALESCE_ASSIGN" />
       <feature name="ARROW_FUNCTION_SYNTAX" />
       <feature name="UNION_TYPES" />

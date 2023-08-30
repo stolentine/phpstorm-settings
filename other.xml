@@ -21,10 +21,11 @@
     "experimental.ui.first.switch": "true",
     "experimental.ui.on.first.startup": "true",
     "experimental.ui.used.version": "232.9559.64",
-    "file.gist.reindex.count": "5",
+    "file.gist.reindex.count": "7",
     "fileTypeChangedCounter": "1",
     "fontSizeToResetConsole": "16.25",
     "fontSizeToResetEditor": "16.25",
+    "got.it.tooltip.php.terminal.customization": "1",
     "got.it.tooltip.reader.mode.got.it": "1",
     "ide.memory.adjusted": "true",
     "ide.updates.previous.build.number": "PS-232.9559.64",
@@ -57,8 +58,8 @@
 }]]></component>
   <component name="TerminalCommandHistoryManager">
     <command-history-files>
-      <command-history-file filename="docs-history" project-path="$USER_HOME$/projects/docs" last-access-time="1693401537472" />
-      <command-history-file filename="topcargo-history" project-path="$USER_HOME$/projects/topcargo" last-access-time="1693320271852" />
+      <command-history-file filename="docs-history" project-path="$USER_HOME$/projects/docs" last-access-time="1693405058308" />
+      <command-history-file filename="topcargo-history" project-path="$USER_HOME$/projects/topcargo" last-access-time="1693407612855" />
     </command-history-files>
   </component>
 </application>
