@@ -22,7 +22,7 @@
       <i c="1" l="1693322998621" />
     </e>
     <e n="EditorBackSpace">
-      <i c="95" l="1693397941502" />
+      <i c="102" l="1693401519712" />
     </e>
     <e n="EditorChooseLookupItem">
       <i c="52" l="1693397986969" />
@@ -34,19 +34,19 @@
       <i c="24" l="1693398011554" />
     </e>
     <e n="EditorCut">
-      <i c="38" l="1693397971547" />
+      <i c="39" l="1693401394218" />
     </e>
     <e n="EditorDown">
       <i c="47" l="1693323849294" />
     </e>
     <e n="EditorEnter">
-      <i c="34" l="1693397990932" />
+      <i c="35" l="1693401165189" />
     </e>
     <e n="EditorLeft">
       <i c="120" l="1693397990645" />
     </e>
     <e n="EditorLeftWithSelection">
-      <i c="26" l="1693323797174" />
+      <i c="27" l="1693401393211" />
     </e>
     <e n="EditorNextWord">
       <i c="6" l="1693397948916" />
@@ -55,7 +55,7 @@
       <i c="2" l="1693322281213" />
     </e>
     <e n="EditorPaste">
-      <i c="46" l="1693398014706" />
+      <i c="47" l="1693401395384" />
     </e>
     <e n="EditorPreviousWord">
       <i c="3" l="1693322324446" />
@@ -78,6 +78,12 @@
     <e n="EditorUpWithSelection">
       <i c="10" l="1693322168861" />
     </e>
+    <e n="FileChooser.GotoProject">
+      <i c="1" l="1693401510370" />
+    </e>
+    <e n="FileChooser.NewFolder">
+      <i c="1" l="1693401517272" />
+    </e>
     <e n="Find">
       <i c="2" l="1693323674571" />
     </e>
@@ -85,19 +91,22 @@
       <i c="1" l="1693323935221" />
     </e>
     <e n="GotoDeclaration">
-      <i c="14" l="1693397973416" />
+      <i c="15" l="1693398035260" />
     </e>
     <e n="MoreRunToolbarActions">
-      <i c="1" l="1693320321992" />
+      <i c="3" l="1693401224014" />
     </e>
     <e n="NextTemplateVariable">
-      <i c="4" l="1693397893086" />
+      <i c="5" l="1693401138942" />
+    </e>
+    <e n="OpenFile">
+      <i c="2" l="1693401502844" />
     </e>
     <e n="ReformatCode">
       <i c="1" l="1693322329305" />
     </e>
     <e n="RenameElement">
-      <i c="2" l="1693323502523" />
+      <i c="3" l="1693401132649" />
     </e>
     <e n="Replace">
       <i c="1" l="1693321684668" />
@@ -109,7 +118,7 @@
       <i c="1" l="1693397876314" />
     </e>
     <e n="SelectInProjectView">
-      <i c="2" l="1693323722331" />
+      <i c="3" l="1693398038864" />
     </e>
     <e n="ServiceView.AddService">
       <i c="1" l="1693322996017" />
@@ -133,10 +142,10 @@
       <i c="1" l="1693323742724" />
     </e>
     <e n="com.intellij.execution.lineMarker.LineMarkerActionWrapper">
-      <i c="2" l="1693397840574" />
+      <i c="3" l="1693401172925" />
     </e>
     <e n="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
-      <i c="7" l="1693397975940" />
+      <i c="8" l="1693398027440" />
     </e>
     <e n="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
       <i c="1" l="1693397877155" />
@@ -145,10 +154,10 @@
       <i c="2" l="1693397898264" />
     </e>
     <e n="com.intellij.openapi.wm.impl.SquareAnActionButton">
-      <i c="12" l="1693324026425" />
+      <i c="14" l="1693401537344" />
     </e>
     <e n="com.intellij.openapi.wm.impl.customFrameDecorations.header.toolbar.MainMenuButton$ShowMenuAction">
-      <i c="3" l="1693320312021" />
+      <i c="6" l="1693401501442" />
     </e>
     <e n="com.intellij.toolWindow.ShowMoreToolWindowsAction">
       <i c="1" l="1693320335600" />
@@ -159,11 +168,20 @@
     <e n="com.intellij.toolWindow.ToolWindowHeader$ShowOptionsAction">
       <i c="1" l="1693320580058" />
     </e>
+    <e n="com.intellij.ui.AnActionButton$AnActionButtonWrapper">
+      <i c="1" l="1693401263111" />
+    </e>
+    <e n="com.intellij.ui.CommonActionsPanel$RemoveButton">
+      <i c="5" l="1693401242409" />
+    </e>
     <e n="com.intellij.ui.ScrollingUtil$ListMoveDownAction">
       <i c="1" l="1693322197906" />
     </e>
     <e n="com.intellij.xdebugger.impl.breakpoints.RemoveBreakpointGutterIconAction">
       <i c="1" l="1693321481430" />
+    </e>
+    <e n="editRunConfigurations">
+      <i c="1" l="1693401226027" />
     </e>
   </component>
 </application>

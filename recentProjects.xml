@@ -5,7 +5,7 @@
         <entry key="$USER_HOME$/projects/topcargo">
           <value>
             <RecentProjectMetaInfo frameTitle="topcargo – ProfilesService.php" opened="true" projectWorkspaceId="2PVsHbwxtqMCnpEKyWKNXLGglU0">
-              <option name="activationTimestamp" value="1693397898410" />
+              <option name="activationTimestamp" value="1693401531680" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="build" value="PS-232.9559.64" />
               <option name="buildTimestamp" value="1692986629123" />
@@ -18,8 +18,35 @@
             </RecentProjectMetaInfo>
           </value>
         </entry>
+        <entry key="$USER_HOME$/projects/bonus-community/monolith">
+          <value>
+            <RecentProjectMetaInfo displayName="monolith, bonus-community..." opened="true" projectWorkspaceId="2S9iRz9zTMZpxIaG9ndFICFb3mR">
+              <option name="activationTimestamp" value="1693401575587" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="PS-232.9559.64" />
+              <option name="buildTimestamp" value="1692986632084" />
+              <option name="productionCode" value="PS" />
+              <option name="projectOpenTimestamp" value="1693401463602" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/projects/docs">
+          <value>
+            <RecentProjectMetaInfo opened="true" projectWorkspaceId="2UhpBbuOtDBUyybXJQQVVEfXt65">
+              <option name="activationTimestamp" value="1693401573585" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="PS-232.9559.64" />
+              <option name="buildTimestamp" value="1692986632084" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="8" />
+              </option>
+              <option name="productionCode" value="PS" />
+              <option name="projectOpenTimestamp" value="1693401532015" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
       </map>
     </option>
-    <option name="lastOpenedProject" value="$USER_HOME$/projects/topcargo" />
+    <option name="lastOpenedProject" value="$USER_HOME$/projects/bonus-community/monolith" />
   </component>
 </application>

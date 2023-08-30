@@ -6,12 +6,14 @@
     <project hash="8ec5ffe1">
       <feature name="TRAITS" />
       <feature name="SHORT_ARRAY_SYNTAX" />
+      <feature name="THIS_IN_CLOSURE" />
       <feature name="IMMEDIATE_DEREFERENCING" />
       <feature name="CLASS_NAME_CONST" />
       <feature name="VARIADIC_FUNCTIONS" />
       <feature name="RETURN_TYPES" />
       <feature name="SCALAR_TYPE_HINTS" />
       <feature name="COALESCE_OPERATOR" />
+      <feature name="UNIFORM_VARIABLE_SYNTAX" />
       <feature name="RETURN_VOID" />
       <feature name="NULLABLES" />
       <feature name="CLASS_CONSTANT_VISIBILITY" />
@@ -23,9 +25,19 @@
       <feature name="NULLSAFE_DEREFERENCING" />
       <feature name="TRAILING_COMMA_IN_PARAMETER_LIST" />
       <feature name="NAMED_ARGUMENTS" />
+      <feature name="CLASS_NAME_LITERAL_ON_OBJECT" />
       <feature name="PROPERTY_PROMOTION" />
       <feature name="READONLY_PROPERTIES" />
       <feature name="READONLY_CLASSES" />
+    </project>
+    <project hash="a3a92642">
+      <feature name="SHORT_ARRAY_SYNTAX" />
+      <feature name="CLASS_NAME_CONST" />
+      <feature name="RETURN_TYPES" />
+      <feature name="SCALAR_TYPE_HINTS" />
+      <feature name="COALESCE_OPERATOR" />
+      <feature name="TRAILING_COMMA_IN_PARAMETER_LIST" />
+      <feature name="READONLY_PROPERTIES" />
     </project>
   </component>
   <component name="PluginAdvertiserExtensions">{

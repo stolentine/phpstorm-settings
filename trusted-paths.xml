@@ -2,6 +2,8 @@
   <component name="Trusted.Paths">
     <option name="TRUSTED_PROJECT_PATHS">
       <map>
+        <entry key="$USER_HOME$/projects/bonus-community/monolith" value="true" />
+        <entry key="$USER_HOME$/projects/docs" value="true" />
         <entry key="$USER_HOME$/projects/topcargo" value="true" />
       </map>
     </option>
