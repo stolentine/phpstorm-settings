@@ -16,6 +16,7 @@
       <feature name="NULLABLES" />
       <feature name="CLASS_CONSTANT_VISIBILITY" />
       <feature name="TRAILING_COMMA_IN_FUNCTION_CALL" />
+      <feature name="COALESCE_ASSIGN" />
       <feature name="ARROW_FUNCTION_SYNTAX" />
       <feature name="UNION_TYPES" />
       <feature name="NAMESPACED_NAME_AS_SINGLE_TOKEN" />
@@ -5215,6 +5216,14 @@
           {
             "pluginIdString": "com.anritsu.intellij.plugin.dtl",
             "nullablePluginName": "Dtl"
+          }
+        ]
+      },
+      "*.dto": {
+        "dataSet": [
+          {
+            "pluginIdString": "net.fallingangel.jimmer-dto",
+            "nullablePluginName": "JimmerDTO"
           }
         ]
       },
@@ -19529,7 +19538,8 @@
           }
         ]
       }
-    }
+    },
+    "lastUpdateTime": 1693397343840
   },
   "dependencies": {
     "featureMap": {
@@ -21133,432 +21143,433 @@
           }
         ]
       }
-    }
+    },
+    "lastUpdateTime": 1693397343953
   }
 }]]></component>
-  <component name="PluginFeatureService"><![CDATA[{
-  "features": {
-    "com.intellij.facetType": {
+  <component name="PluginFeatureService">{
+  &quot;features&quot;: {
+    &quot;com.intellij.facetType&quot;: {
     },
-    "dependencySupport": {
-      "featureMap": {
-        "javascript:npm:postcss": {
-          "displayName": "PostCSS",
-          "pluginData": {
-            "pluginIdString": "org.intellij.plugins.postcss",
-            "nullablePluginName": "PostCSS",
-            "isBundled": true
+    &quot;dependencySupport&quot;: {
+      &quot;featureMap&quot;: {
+        &quot;javascript:npm:postcss&quot;: {
+          &quot;displayName&quot;: &quot;PostCSS&quot;,
+          &quot;pluginData&quot;: {
+            &quot;pluginIdString&quot;: &quot;org.intellij.plugins.postcss&quot;,
+            &quot;nullablePluginName&quot;: &quot;PostCSS&quot;,
+            &quot;isBundled&quot;: true
           }
         },
-        "executable:docker": {
-          "displayName": "executable:docker",
-          "pluginData": {
-            "pluginIdString": "Docker",
-            "nullablePluginName": "Docker",
-            "isBundled": true
+        &quot;executable:docker&quot;: {
+          &quot;displayName&quot;: &quot;executable:docker&quot;,
+          &quot;pluginData&quot;: {
+            &quot;pluginIdString&quot;: &quot;Docker&quot;,
+            &quot;nullablePluginName&quot;: &quot;Docker&quot;,
+            &quot;isBundled&quot;: true
           }
         },
-        "executable:podman": {
-          "displayName": "executable:podman",
-          "pluginData": {
-            "pluginIdString": "Docker",
-            "nullablePluginName": "Docker",
-            "isBundled": true
+        &quot;executable:podman&quot;: {
+          &quot;displayName&quot;: &quot;executable:podman&quot;,
+          &quot;pluginData&quot;: {
+            &quot;pluginIdString&quot;: &quot;Docker&quot;,
+            &quot;nullablePluginName&quot;: &quot;Docker&quot;,
+            &quot;isBundled&quot;: true
           }
         },
-        "javascript:npm:react": {
-          "displayName": "React",
-          "pluginData": {
-            "pluginIdString": "JavaScript",
-            "nullablePluginName": "JavaScript and TypeScript",
-            "isBundled": true
+        &quot;javascript:npm:react&quot;: {
+          &quot;displayName&quot;: &quot;React&quot;,
+          &quot;pluginData&quot;: {
+            &quot;pluginIdString&quot;: &quot;JavaScript&quot;,
+            &quot;nullablePluginName&quot;: &quot;JavaScript and TypeScript&quot;,
+            &quot;isBundled&quot;: true
           }
         },
-        "javascript:npm:webpack": {
-          "displayName": "Webpack",
-          "pluginData": {
-            "pluginIdString": "intellij.webpack",
-            "nullablePluginName": "Webpack",
-            "isBundled": true
+        &quot;javascript:npm:webpack&quot;: {
+          &quot;displayName&quot;: &quot;Webpack&quot;,
+          &quot;pluginData&quot;: {
+            &quot;pluginIdString&quot;: &quot;intellij.webpack&quot;,
+            &quot;nullablePluginName&quot;: &quot;Webpack&quot;,
+            &quot;isBundled&quot;: true
           }
         },
-        "javascript:npm:vite": {
-          "displayName": "Vite",
-          "pluginData": {
-            "pluginIdString": "intellij.vitejs",
-            "nullablePluginName": "Vite",
-            "isBundled": true
+        &quot;javascript:npm:vite&quot;: {
+          &quot;displayName&quot;: &quot;Vite&quot;,
+          &quot;pluginData&quot;: {
+            &quot;pluginIdString&quot;: &quot;intellij.vitejs&quot;,
+            &quot;nullablePluginName&quot;: &quot;Vite&quot;,
+            &quot;isBundled&quot;: true
           }
         },
-        "javascript:npm:vue": {
-          "displayName": "Vue.js",
-          "pluginData": {
-            "pluginIdString": "org.jetbrains.plugins.vue",
-            "nullablePluginName": "Vue.js",
-            "isBundled": true
+        &quot;javascript:npm:vue&quot;: {
+          &quot;displayName&quot;: &quot;Vue.js&quot;,
+          &quot;pluginData&quot;: {
+            &quot;pluginIdString&quot;: &quot;org.jetbrains.plugins.vue&quot;,
+            &quot;nullablePluginName&quot;: &quot;Vue.js&quot;,
+            &quot;isBundled&quot;: true
           }
         },
-        "javascript:npm:nuxt": {
-          "displayName": "Nuxt",
-          "pluginData": {
-            "pluginIdString": "org.jetbrains.plugins.vue",
-            "nullablePluginName": "Vue.js",
-            "isBundled": true
+        &quot;javascript:npm:nuxt&quot;: {
+          &quot;displayName&quot;: &quot;Nuxt&quot;,
+          &quot;pluginData&quot;: {
+            &quot;pluginIdString&quot;: &quot;org.jetbrains.plugins.vue&quot;,
+            &quot;nullablePluginName&quot;: &quot;Vue.js&quot;,
+            &quot;isBundled&quot;: true
           }
         },
-        "javascript:npm:tslint": {
-          "displayName": "TSLint",
-          "pluginData": {
-            "pluginIdString": "tslint",
-            "nullablePluginName": "TSLint",
-            "isBundled": true
+        &quot;javascript:npm:tslint&quot;: {
+          &quot;displayName&quot;: &quot;TSLint&quot;,
+          &quot;pluginData&quot;: {
+            &quot;pluginIdString&quot;: &quot;tslint&quot;,
+            &quot;nullablePluginName&quot;: &quot;TSLint&quot;,
+            &quot;isBundled&quot;: true
           }
         },
-        "javascript:npm:styled-components": {
-          "displayName": "Styled Components",
-          "pluginData": {
-            "pluginIdString": "com.deadlock.scsyntax",
-            "nullablePluginName": "Styled Components & Styled JSX",
-            "isBundled": true
+        &quot;javascript:npm:styled-components&quot;: {
+          &quot;displayName&quot;: &quot;Styled Components&quot;,
+          &quot;pluginData&quot;: {
+            &quot;pluginIdString&quot;: &quot;com.deadlock.scsyntax&quot;,
+            &quot;nullablePluginName&quot;: &quot;Styled Components &amp; Styled JSX&quot;,
+            &quot;isBundled&quot;: true
           }
         },
-        "javascript:npm:prettier": {
-          "displayName": "Prettier",
-          "pluginData": {
-            "pluginIdString": "intellij.prettierJS",
-            "nullablePluginName": "Prettier",
-            "isBundled": true
+        &quot;javascript:npm:prettier&quot;: {
+          &quot;displayName&quot;: &quot;Prettier&quot;,
+          &quot;pluginData&quot;: {
+            &quot;pluginIdString&quot;: &quot;intellij.prettierJS&quot;,
+            &quot;nullablePluginName&quot;: &quot;Prettier&quot;,
+            &quot;isBundled&quot;: true
           }
         },
-        "javascript:npm:next": {
-          "displayName": "Next.js",
-          "pluginData": {
-            "pluginIdString": "intellij.nextjs",
-            "nullablePluginName": "Next.js Support",
-            "isBundled": true
+        &quot;javascript:npm:next&quot;: {
+          &quot;displayName&quot;: &quot;Next.js&quot;,
+          &quot;pluginData&quot;: {
+            &quot;pluginIdString&quot;: &quot;intellij.nextjs&quot;,
+            &quot;nullablePluginName&quot;: &quot;Next.js Support&quot;,
+            &quot;isBundled&quot;: true
           }
         }
       }
     },
-    "com.intellij.configurationType": {
-      "featureMap": {
-        "CompoundRunConfigurationType": {
-          "displayName": "Compound",
-          "pluginData": {
-            "pluginIdString": "com.intellij",
-            "nullablePluginName": "IDEA CORE",
-            "isBundled": true
+    &quot;com.intellij.configurationType&quot;: {
+      &quot;featureMap&quot;: {
+        &quot;CompoundRunConfigurationType&quot;: {
+          &quot;displayName&quot;: &quot;Compound&quot;,
+          &quot;pluginData&quot;: {
+            &quot;pluginIdString&quot;: &quot;com.intellij&quot;,
+            &quot;nullablePluginName&quot;: &quot;IDEA CORE&quot;,
+            &quot;isBundled&quot;: true
           }
         },
-        "nginx.configuration.type": {
-          "displayName": "nginx server",
-          "pluginData": {
-            "pluginIdString": "ideanginx9",
-            "nullablePluginName": "nginx Support"
+        &quot;nginx.configuration.type&quot;: {
+          &quot;displayName&quot;: &quot;nginx server&quot;,
+          &quot;pluginData&quot;: {
+            &quot;pluginIdString&quot;: &quot;ideanginx9&quot;,
+            &quot;nullablePluginName&quot;: &quot;nginx Support&quot;
           }
         },
-        "ShConfigurationType": {
-          "displayName": "Shell Script (by BashSupport Pro)",
-          "pluginData": {
-            "pluginIdString": "pro.bashsupport",
-            "nullablePluginName": "BashSupport Pro"
+        &quot;ShConfigurationType&quot;: {
+          &quot;displayName&quot;: &quot;Shell Script (by BashSupport Pro)&quot;,
+          &quot;pluginData&quot;: {
+            &quot;pluginIdString&quot;: &quot;pro.bashsupport&quot;,
+            &quot;nullablePluginName&quot;: &quot;BashSupport Pro&quot;
           }
         },
-        "MAKEFILE_TARGET_RUN_CONFIGURATION": {
-          "displayName": "Makefile Target",
-          "pluginData": {
-            "pluginIdString": "name.kropp.intellij.makefile",
-            "nullablePluginName": "Makefile Language",
-            "isBundled": true
+        &quot;MAKEFILE_TARGET_RUN_CONFIGURATION&quot;: {
+          &quot;displayName&quot;: &quot;Makefile Target&quot;,
+          &quot;pluginData&quot;: {
+            &quot;pluginIdString&quot;: &quot;name.kropp.intellij.makefile&quot;,
+            &quot;nullablePluginName&quot;: &quot;Makefile Language&quot;,
+            &quot;isBundled&quot;: true
           }
         },
-        "HttpClient.HttpRequestRunConfigurationType": {
-          "displayName": "HTTP Request",
-          "pluginData": {
-            "pluginIdString": "com.jetbrains.restClient",
-            "nullablePluginName": "HTTP Client",
-            "isBundled": true
+        &quot;HttpClient.HttpRequestRunConfigurationType&quot;: {
+          &quot;displayName&quot;: &quot;HTTP Request&quot;,
+          &quot;pluginData&quot;: {
+            &quot;pluginIdString&quot;: &quot;com.jetbrains.restClient&quot;,
+            &quot;nullablePluginName&quot;: &quot;HTTP Client&quot;,
+            &quot;isBundled&quot;: true
           }
         },
-        "SwaggerCodegen": {
-          "displayName": "OpenAPI/Swagger Code Generator",
-          "pluginData": {
-            "pluginIdString": "com.intellij.swagger",
-            "nullablePluginName": "OpenAPI Specifications",
-            "isBundled": true
+        &quot;SwaggerCodegen&quot;: {
+          &quot;displayName&quot;: &quot;OpenAPI/Swagger Code Generator&quot;,
+          &quot;pluginData&quot;: {
+            &quot;pluginIdString&quot;: &quot;com.intellij.swagger&quot;,
+            &quot;nullablePluginName&quot;: &quot;OpenAPI Specifications&quot;,
+            &quot;isBundled&quot;: true
           }
         },
-        "XSLT": {
-          "displayName": "XSLT",
-          "pluginData": {
-            "pluginIdString": "XPathView",
-            "nullablePluginName": "XPathView + XSLT",
-            "isBundled": true
+        &quot;XSLT&quot;: {
+          &quot;displayName&quot;: &quot;XSLT&quot;,
+          &quot;pluginData&quot;: {
+            &quot;pluginIdString&quot;: &quot;XPathView&quot;,
+            &quot;nullablePluginName&quot;: &quot;XPathView + XSLT&quot;,
+            &quot;isBundled&quot;: true
           }
         },
-        "JavaScriptTestRunnerJest": {
-          "displayName": "Jest",
-          "pluginData": {
-            "pluginIdString": "JavaScript",
-            "nullablePluginName": "JavaScript and TypeScript",
-            "isBundled": true
+        &quot;JavaScriptTestRunnerJest&quot;: {
+          &quot;displayName&quot;: &quot;Jest&quot;,
+          &quot;pluginData&quot;: {
+            &quot;pluginIdString&quot;: &quot;JavaScript&quot;,
+            &quot;nullablePluginName&quot;: &quot;JavaScript and TypeScript&quot;,
+            &quot;isBundled&quot;: true
           }
         },
-        "JavaScriptTestRunnerVitest": {
-          "displayName": "Vitest",
-          "pluginData": {
-            "pluginIdString": "JavaScript",
-            "nullablePluginName": "JavaScript and TypeScript",
-            "isBundled": true
+        &quot;JavaScriptTestRunnerVitest&quot;: {
+          &quot;displayName&quot;: &quot;Vitest&quot;,
+          &quot;pluginData&quot;: {
+            &quot;pluginIdString&quot;: &quot;JavaScript&quot;,
+            &quot;nullablePluginName&quot;: &quot;JavaScript and TypeScript&quot;,
+            &quot;isBundled&quot;: true
           }
         },
-        "JavaScriptTestRunnerProtractor": {
-          "displayName": "Protractor",
-          "pluginData": {
-            "pluginIdString": "JavaScript",
-            "nullablePluginName": "JavaScript and TypeScript",
-            "isBundled": true
+        &quot;JavaScriptTestRunnerProtractor&quot;: {
+          &quot;displayName&quot;: &quot;Protractor&quot;,
+          &quot;pluginData&quot;: {
+            &quot;pluginIdString&quot;: &quot;JavaScript&quot;,
+            &quot;nullablePluginName&quot;: &quot;JavaScript and TypeScript&quot;,
+            &quot;isBundled&quot;: true
           }
         },
-        "js.build_tools.grunt": {
-          "displayName": "Grunt.js",
-          "pluginData": {
-            "pluginIdString": "JavaScript",
-            "nullablePluginName": "JavaScript and TypeScript",
-            "isBundled": true
+        &quot;js.build_tools.grunt&quot;: {
+          &quot;displayName&quot;: &quot;Grunt.js&quot;,
+          &quot;pluginData&quot;: {
+            &quot;pluginIdString&quot;: &quot;JavaScript&quot;,
+            &quot;nullablePluginName&quot;: &quot;JavaScript and TypeScript&quot;,
+            &quot;isBundled&quot;: true
           }
         },
-        "js.build_tools.gulp": {
-          "displayName": "Gulp.js",
-          "pluginData": {
-            "pluginIdString": "JavaScript",
-            "nullablePluginName": "JavaScript and TypeScript",
-            "isBundled": true
+        &quot;js.build_tools.gulp&quot;: {
+          &quot;displayName&quot;: &quot;Gulp.js&quot;,
+          &quot;pluginData&quot;: {
+            &quot;pluginIdString&quot;: &quot;JavaScript&quot;,
+            &quot;nullablePluginName&quot;: &quot;JavaScript and TypeScript&quot;,
+            &quot;isBundled&quot;: true
           }
         },
-        "js.build_tools.npm": {
-          "displayName": "npm",
-          "pluginData": {
-            "pluginIdString": "JavaScript",
-            "nullablePluginName": "JavaScript and TypeScript",
-            "isBundled": true
+        &quot;js.build_tools.npm&quot;: {
+          &quot;displayName&quot;: &quot;npm&quot;,
+          &quot;pluginData&quot;: {
+            &quot;pluginIdString&quot;: &quot;JavaScript&quot;,
+            &quot;nullablePluginName&quot;: &quot;JavaScript and TypeScript&quot;,
+            &quot;isBundled&quot;: true
           }
         },
-        "NodeWebKit": {
-          "displayName": "NW.js",
-          "pluginData": {
-            "pluginIdString": "JavaScriptDebugger",
-            "nullablePluginName": "JavaScript Debugger",
-            "isBundled": true
+        &quot;NodeWebKit&quot;: {
+          &quot;displayName&quot;: &quot;NW.js&quot;,
+          &quot;pluginData&quot;: {
+            &quot;pluginIdString&quot;: &quot;JavaScriptDebugger&quot;,
+            &quot;nullablePluginName&quot;: &quot;JavaScript Debugger&quot;,
+            &quot;isBundled&quot;: true
           }
         },
-        "ChromiumRemoteDebugType": {
-          "displayName": "Attach to Node.js/Chrome",
-          "pluginData": {
-            "pluginIdString": "JavaScriptDebugger",
-            "nullablePluginName": "JavaScript Debugger",
-            "isBundled": true
+        &quot;ChromiumRemoteDebugType&quot;: {
+          &quot;displayName&quot;: &quot;Attach to Node.js/Chrome&quot;,
+          &quot;pluginData&quot;: {
+            &quot;pluginIdString&quot;: &quot;JavaScriptDebugger&quot;,
+            &quot;nullablePluginName&quot;: &quot;JavaScript Debugger&quot;,
+            &quot;isBundled&quot;: true
           }
         },
-        "FirefoxRemoteDebugType": {
-          "displayName": "Firefox Remote",
-          "pluginData": {
-            "pluginIdString": "JavaScriptDebugger",
-            "nullablePluginName": "JavaScript Debugger",
-            "isBundled": true
+        &quot;FirefoxRemoteDebugType&quot;: {
+          &quot;displayName&quot;: &quot;Firefox Remote&quot;,
+          &quot;pluginData&quot;: {
+            &quot;pluginIdString&quot;: &quot;JavaScriptDebugger&quot;,
+            &quot;nullablePluginName&quot;: &quot;JavaScript Debugger&quot;,
+            &quot;isBundled&quot;: true
           }
         },
-        "ReactNative": {
-          "displayName": "React Native",
-          "pluginData": {
-            "pluginIdString": "JavaScriptDebugger",
-            "nullablePluginName": "JavaScript Debugger",
-            "isBundled": true
+        &quot;ReactNative&quot;: {
+          &quot;displayName&quot;: &quot;React Native&quot;,
+          &quot;pluginData&quot;: {
+            &quot;pluginIdString&quot;: &quot;JavaScriptDebugger&quot;,
+            &quot;nullablePluginName&quot;: &quot;JavaScript Debugger&quot;,
+            &quot;isBundled&quot;: true
           }
         },
-        "JavascriptDebugType": {
-          "displayName": "JavaScript Debug",
-          "pluginData": {
-            "pluginIdString": "JavaScriptDebugger",
-            "nullablePluginName": "JavaScript Debugger",
-            "isBundled": true
+        &quot;JavascriptDebugType&quot;: {
+          &quot;displayName&quot;: &quot;JavaScript Debug&quot;,
+          &quot;pluginData&quot;: {
+            &quot;pluginIdString&quot;: &quot;JavaScriptDebugger&quot;,
+            &quot;nullablePluginName&quot;: &quot;JavaScript Debugger&quot;,
+            &quot;isBundled&quot;: true
           }
         },
-        "PhpLocalRunConfigurationType": {
-          "displayName": "PHP Script",
-          "pluginData": {
-            "pluginIdString": "com.jetbrains.php",
-            "nullablePluginName": "PHP",
-            "isBundled": true
+        &quot;PhpLocalRunConfigurationType&quot;: {
+          &quot;displayName&quot;: &quot;PHP Script&quot;,
+          &quot;pluginData&quot;: {
+            &quot;pluginIdString&quot;: &quot;com.jetbrains.php&quot;,
+            &quot;nullablePluginName&quot;: &quot;PHP&quot;,
+            &quot;isBundled&quot;: true
           }
         },
-        "PHPUnitRunConfigurationType": {
-          "displayName": "PHPUnit",
-          "pluginData": {
-            "pluginIdString": "com.jetbrains.php",
-            "nullablePluginName": "PHP",
-            "isBundled": true
+        &quot;PHPUnitRunConfigurationType&quot;: {
+          &quot;displayName&quot;: &quot;PHPUnit&quot;,
+          &quot;pluginData&quot;: {
+            &quot;pluginIdString&quot;: &quot;com.jetbrains.php&quot;,
+            &quot;nullablePluginName&quot;: &quot;PHP&quot;,
+            &quot;isBundled&quot;: true
           }
         },
-        "PhpWebAppRunConfigurationType": {
-          "displayName": "PHP Web Page",
-          "pluginData": {
-            "pluginIdString": "com.jetbrains.php",
-            "nullablePluginName": "PHP",
-            "isBundled": true
+        &quot;PhpWebAppRunConfigurationType&quot;: {
+          &quot;displayName&quot;: &quot;PHP Web Page&quot;,
+          &quot;pluginData&quot;: {
+            &quot;pluginIdString&quot;: &quot;com.jetbrains.php&quot;,
+            &quot;nullablePluginName&quot;: &quot;PHP&quot;,
+            &quot;isBundled&quot;: true
           }
         },
-        "PhpHttpRequestRunConfigurationType": {
-          "displayName": "PHP HTTP Request",
-          "pluginData": {
-            "pluginIdString": "com.jetbrains.php",
-            "nullablePluginName": "PHP",
-            "isBundled": true
+        &quot;PhpHttpRequestRunConfigurationType&quot;: {
+          &quot;displayName&quot;: &quot;PHP HTTP Request&quot;,
+          &quot;pluginData&quot;: {
+            &quot;pluginIdString&quot;: &quot;com.jetbrains.php&quot;,
+            &quot;nullablePluginName&quot;: &quot;PHP&quot;,
+            &quot;isBundled&quot;: true
           }
         },
-        "PhpRemoteDebugRunConfigurationType": {
-          "displayName": "PHP Remote Debug",
-          "pluginData": {
-            "pluginIdString": "com.jetbrains.php",
-            "nullablePluginName": "PHP",
-            "isBundled": true
+        &quot;PhpRemoteDebugRunConfigurationType&quot;: {
+          &quot;displayName&quot;: &quot;PHP Remote Debug&quot;,
+          &quot;pluginData&quot;: {
+            &quot;pluginIdString&quot;: &quot;com.jetbrains.php&quot;,
+            &quot;nullablePluginName&quot;: &quot;PHP&quot;,
+            &quot;isBundled&quot;: true
           }
         },
-        "PhpBuiltInWebServerConfigurationType": {
-          "displayName": "PHP Built-in Web Server",
-          "pluginData": {
-            "pluginIdString": "com.jetbrains.php",
-            "nullablePluginName": "PHP",
-            "isBundled": true
+        &quot;PhpBuiltInWebServerConfigurationType&quot;: {
+          &quot;displayName&quot;: &quot;PHP Built-in Web Server&quot;,
+          &quot;pluginData&quot;: {
+            &quot;pluginIdString&quot;: &quot;com.jetbrains.php&quot;,
+            &quot;nullablePluginName&quot;: &quot;PHP&quot;,
+            &quot;isBundled&quot;: true
           }
         },
-        "RoboRunConfigurationType": {
-          "displayName": "Robo",
-          "pluginData": {
-            "pluginIdString": "com.jetbrains.php",
-            "nullablePluginName": "PHP",
-            "isBundled": true
+        &quot;RoboRunConfigurationType&quot;: {
+          &quot;displayName&quot;: &quot;Robo&quot;,
+          &quot;pluginData&quot;: {
+            &quot;pluginIdString&quot;: &quot;com.jetbrains.php&quot;,
+            &quot;nullablePluginName&quot;: &quot;PHP&quot;,
+            &quot;isBundled&quot;: true
           }
         },
-        "ComposerRunConfigurationType": {
-          "displayName": "Composer Script",
-          "pluginData": {
-            "pluginIdString": "com.jetbrains.php",
-            "nullablePluginName": "PHP",
-            "isBundled": true
+        &quot;ComposerRunConfigurationType&quot;: {
+          &quot;displayName&quot;: &quot;Composer Script&quot;,
+          &quot;pluginData&quot;: {
+            &quot;pluginIdString&quot;: &quot;com.jetbrains.php&quot;,
+            &quot;nullablePluginName&quot;: &quot;PHP&quot;,
+            &quot;isBundled&quot;: true
           }
         },
-        "PhpBehatConfigurationType": {
-          "displayName": "Behat",
-          "pluginData": {
-            "pluginIdString": "com.jetbrains.php.behat",
-            "nullablePluginName": "Behat Support",
-            "isBundled": true
+        &quot;PhpBehatConfigurationType&quot;: {
+          &quot;displayName&quot;: &quot;Behat&quot;,
+          &quot;pluginData&quot;: {
+            &quot;pluginIdString&quot;: &quot;com.jetbrains.php.behat&quot;,
+            &quot;nullablePluginName&quot;: &quot;Behat Support&quot;,
+            &quot;isBundled&quot;: true
           }
         },
-        "PhpSpecConfigurationType": {
-          "displayName": "PHPSpec",
-          "pluginData": {
-            "pluginIdString": "com.jetbrains.php.phpspec",
-            "nullablePluginName": "PHPSpec BDD Framework",
-            "isBundled": true
+        &quot;PhpSpecConfigurationType&quot;: {
+          &quot;displayName&quot;: &quot;PHPSpec&quot;,
+          &quot;pluginData&quot;: {
+            &quot;pluginIdString&quot;: &quot;com.jetbrains.php.phpspec&quot;,
+            &quot;nullablePluginName&quot;: &quot;PHPSpec BDD Framework&quot;,
+            &quot;isBundled&quot;: true
           }
         },
-        "RectorRunConfigurationType": {
-          "displayName": "Rector",
-          "pluginData": {
-            "pluginIdString": "com.jetbrains.php.rector",
-            "nullablePluginName": "Rector Support",
-            "isBundled": true
+        &quot;RectorRunConfigurationType&quot;: {
+          &quot;displayName&quot;: &quot;Rector&quot;,
+          &quot;pluginData&quot;: {
+            &quot;pluginIdString&quot;: &quot;com.jetbrains.php.rector&quot;,
+            &quot;nullablePluginName&quot;: &quot;Rector Support&quot;,
+            &quot;isBundled&quot;: true
           }
         },
-        "bashpro.bats-core": {
-          "displayName": "bats-core",
-          "pluginData": {
-            "pluginIdString": "pro.bashsupport",
-            "nullablePluginName": "BashSupport Pro"
+        &quot;bashpro.bats-core&quot;: {
+          &quot;displayName&quot;: &quot;bats-core&quot;,
+          &quot;pluginData&quot;: {
+            &quot;pluginIdString&quot;: &quot;pro.bashsupport&quot;,
+            &quot;nullablePluginName&quot;: &quot;BashSupport Pro&quot;
           }
         },
-        "BashConfigurationType": {
-          "displayName": "Legacy BashSupport",
-          "pluginData": {
-            "pluginIdString": "pro.bashsupport",
-            "nullablePluginName": "BashSupport Pro"
+        &quot;BashConfigurationType&quot;: {
+          &quot;displayName&quot;: &quot;Legacy BashSupport&quot;,
+          &quot;pluginData&quot;: {
+            &quot;pluginIdString&quot;: &quot;pro.bashsupport&quot;,
+            &quot;nullablePluginName&quot;: &quot;BashSupport Pro&quot;
           }
         },
-        "BashProRunConfiguration": {
-          "displayName": "BashSupport Pro",
-          "pluginData": {
-            "pluginIdString": "pro.bashsupport",
-            "nullablePluginName": "BashSupport Pro"
+        &quot;BashProRunConfiguration&quot;: {
+          &quot;displayName&quot;: &quot;BashSupport Pro&quot;,
+          &quot;pluginData&quot;: {
+            &quot;pluginIdString&quot;: &quot;pro.bashsupport&quot;,
+            &quot;nullablePluginName&quot;: &quot;BashSupport Pro&quot;
           }
         },
-        "DatabaseScript": {
-          "displayName": "Database Script",
-          "pluginData": {
-            "pluginIdString": "com.intellij.database",
-            "nullablePluginName": "Database Tools and SQL",
-            "isBundled": true
+        &quot;DatabaseScript&quot;: {
+          &quot;displayName&quot;: &quot;Database Script&quot;,
+          &quot;pluginData&quot;: {
+            &quot;pluginIdString&quot;: &quot;com.intellij.database&quot;,
+            &quot;nullablePluginName&quot;: &quot;Database Tools and SQL&quot;,
+            &quot;isBundled&quot;: true
           }
         },
-        "TSqltConfigurationType": {
-          "displayName": "tSQLt Test",
-          "pluginData": {
-            "pluginIdString": "com.intellij.database",
-            "nullablePluginName": "Database Tools and SQL",
-            "isBundled": true
+        &quot;TSqltConfigurationType&quot;: {
+          &quot;displayName&quot;: &quot;tSQLt Test&quot;,
+          &quot;pluginData&quot;: {
+            &quot;pluginIdString&quot;: &quot;com.intellij.database&quot;,
+            &quot;nullablePluginName&quot;: &quot;Database Tools and SQL&quot;,
+            &quot;isBundled&quot;: true
           }
         },
-        "UtPlSqlConfigurationType": {
-          "displayName": "utPLSQL Test",
-          "pluginData": {
-            "pluginIdString": "com.intellij.database",
-            "nullablePluginName": "Database Tools and SQL",
-            "isBundled": true
+        &quot;UtPlSqlConfigurationType&quot;: {
+          &quot;displayName&quot;: &quot;utPLSQL Test&quot;,
+          &quot;pluginData&quot;: {
+            &quot;pluginIdString&quot;: &quot;com.intellij.database&quot;,
+            &quot;nullablePluginName&quot;: &quot;Database Tools and SQL&quot;,
+            &quot;isBundled&quot;: true
           }
         },
-        "cucumber.js": {
-          "displayName": "Cucumber.js",
-          "pluginData": {
-            "pluginIdString": "cucumber-javascript",
-            "nullablePluginName": "Cucumber.js",
-            "isBundled": true
+        &quot;cucumber.js&quot;: {
+          &quot;displayName&quot;: &quot;Cucumber.js&quot;,
+          &quot;pluginData&quot;: {
+            &quot;pluginIdString&quot;: &quot;cucumber-javascript&quot;,
+            &quot;nullablePluginName&quot;: &quot;Cucumber.js&quot;,
+            &quot;isBundled&quot;: true
           }
         },
-        "NodeJSConfigurationType": {
-          "displayName": "Node.js",
-          "pluginData": {
-            "pluginIdString": "NodeJS",
-            "nullablePluginName": "Node.js",
-            "isBundled": true
+        &quot;NodeJSConfigurationType&quot;: {
+          &quot;displayName&quot;: &quot;Node.js&quot;,
+          &quot;pluginData&quot;: {
+            &quot;pluginIdString&quot;: &quot;NodeJS&quot;,
+            &quot;nullablePluginName&quot;: &quot;Node.js&quot;,
+            &quot;isBundled&quot;: true
           }
         },
-        "NodeunitConfigurationType": {
-          "displayName": "Nodeunit",
-          "pluginData": {
-            "pluginIdString": "NodeJS",
-            "nullablePluginName": "Node.js",
-            "isBundled": true
+        &quot;NodeunitConfigurationType&quot;: {
+          &quot;displayName&quot;: &quot;Nodeunit&quot;,
+          &quot;pluginData&quot;: {
+            &quot;pluginIdString&quot;: &quot;NodeJS&quot;,
+            &quot;nullablePluginName&quot;: &quot;Node.js&quot;,
+            &quot;isBundled&quot;: true
           }
         },
-        "mocha-javascript-test-runner": {
-          "displayName": "Mocha",
-          "pluginData": {
-            "pluginIdString": "NodeJS",
-            "nullablePluginName": "Node.js",
-            "isBundled": true
+        &quot;mocha-javascript-test-runner&quot;: {
+          &quot;displayName&quot;: &quot;Mocha&quot;,
+          &quot;pluginData&quot;: {
+            &quot;pluginIdString&quot;: &quot;NodeJS&quot;,
+            &quot;nullablePluginName&quot;: &quot;Node.js&quot;,
+            &quot;isBundled&quot;: true
           }
         },
-        "docker-deploy": {
-          "displayName": "Docker",
-          "pluginData": {
-            "pluginIdString": "com.intellij",
-            "nullablePluginName": "IDEA CORE",
-            "isBundled": true
+        &quot;docker-deploy&quot;: {
+          &quot;displayName&quot;: &quot;Docker&quot;,
+          &quot;pluginData&quot;: {
+            &quot;pluginIdString&quot;: &quot;com.intellij&quot;,
+            &quot;nullablePluginName&quot;: &quot;IDEA CORE&quot;,
+            &quot;isBundled&quot;: true
           }
         }
       }
     }
   }
-}]]></component>
+}</component>
 </application>
