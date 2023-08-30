@@ -13,7 +13,7 @@
       <i c="1" l="1693322363137" />
     </e>
     <e n="$Undo">
-      <i c="68" l="1693411626689" />
+      <i c="69" l="1693412096759" />
     </e>
     <e n="BraceOrQuoteOut">
       <i c="1" l="1693404861417" />
@@ -31,7 +31,7 @@
       <i c="2" l="1693404922342" />
     </e>
     <e n="CloseAllToTheRight">
-      <i c="1" l="1693410741006" />
+      <i c="2" l="1693412562594" />
     </e>
     <e n="CommentByLineComment">
       <i c="7" l="1693411224341" />
@@ -40,28 +40,28 @@
       <i c="1" l="1693322998621" />
     </e>
     <e n="EditorBackSpace">
-      <i c="300" l="1693411668322" />
+      <i c="317" l="1693412343339" />
     </e>
     <e n="EditorChooseLookupItem">
-      <i c="143" l="1693411722761" />
+      <i c="156" l="1693412340685" />
     </e>
     <e n="EditorChooseLookupItemReplace">
       <i c="9" l="1693411472223" />
     </e>
     <e n="EditorCopy">
-      <i c="116" l="1693411716258" />
+      <i c="135" l="1693412568998" />
     </e>
     <e n="EditorCut">
-      <i c="113" l="1693411727044" />
+      <i c="143" l="1693412494114" />
     </e>
     <e n="EditorDelete">
-      <i c="5" l="1693408242050" />
+      <i c="6" l="1693412109592" />
     </e>
     <e n="EditorDown">
-      <i c="162" l="1693411636638" />
+      <i c="177" l="1693412346841" />
     </e>
     <e n="EditorEnter">
-      <i c="166" l="1693411720832" />
+      <i c="177" l="1693412437743" />
     </e>
     <e n="EditorEscape">
       <i c="2" l="1693411483200" />
@@ -70,31 +70,31 @@
       <i c="2" l="1693404714475" />
     </e>
     <e n="EditorLeft">
-      <i c="657" l="1693411693432" />
+      <i c="681" l="1693412342572" />
     </e>
     <e n="EditorLeftWithSelection">
-      <i c="148" l="1693411693551" />
+      <i c="151" l="1693412248902" />
     </e>
     <e n="EditorNextWord">
-      <i c="12" l="1693410905862" />
+      <i c="22" l="1693412292920" />
     </e>
     <e n="EditorNextWordWithSelection">
-      <i c="11" l="1693411450475" />
+      <i c="12" l="1693412201582" />
     </e>
     <e n="EditorPaste">
-      <i c="184" l="1693411719426" />
+      <i c="204" l="1693412571474" />
     </e>
     <e n="EditorPreviousWord">
-      <i c="3" l="1693322324446" />
+      <i c="8" l="1693412293378" />
     </e>
     <e n="EditorPreviousWordWithSelection">
-      <i c="17" l="1693410781314" />
+      <i c="19" l="1693412220404" />
     </e>
     <e n="EditorRight">
-      <i c="780" l="1693411623585" />
+      <i c="800" l="1693412347741" />
     </e>
     <e n="EditorRightWithSelection">
-      <i c="125" l="1693411035203" />
+      <i c="126" l="1693412220922" />
     </e>
     <e n="EditorStartNewLine">
       <i c="1" l="1693411092316" />
@@ -103,13 +103,16 @@
       <i c="17" l="1693411290191" />
     </e>
     <e n="EditorUp">
-      <i c="141" l="1693411724930" />
+      <i c="157" l="1693412342237" />
     </e>
     <e n="EditorUpWithSelection">
       <i c="20" l="1693411653932" />
     </e>
     <e n="ExpandLiveTemplateByTab">
       <i c="1" l="1693411721262" />
+    </e>
+    <e n="ExtractMethod">
+      <i c="1" l="1693411885483" />
     </e>
     <e n="FileChooser.GotoProject">
       <i c="1" l="1693401510370" />
@@ -124,7 +127,7 @@
       <i c="2" l="1693404947296" />
     </e>
     <e n="GotoDeclaration">
-      <i c="48" l="1693411561411" />
+      <i c="57" l="1693412567377" />
     </e>
     <e n="MoreRunToolbarActions">
       <i c="4" l="1693405190565" />
@@ -133,7 +136,7 @@
       <i c="1" l="1693403908809" />
     </e>
     <e n="NextTemplateVariable">
-      <i c="8" l="1693411567718" />
+      <i c="9" l="1693411890528" />
     </e>
     <e n="OpenFile">
       <i c="3" l="1693405055169" />
@@ -154,13 +157,13 @@
       <i c="1" l="1693405087124" />
     </e>
     <e n="SaveAll">
-      <i c="27" l="1693411727298" />
+      <i c="31" l="1693412572113" />
     </e>
     <e n="SearchEverywhere">
       <i c="1" l="1693397876314" />
     </e>
     <e n="SelectInProjectView">
-      <i c="5" l="1693411657835" />
+      <i c="7" l="1693411766645" />
     </e>
     <e n="ServiceView.AddService">
       <i c="1" l="1693322996017" />
@@ -169,7 +172,7 @@
       <i c="1" l="1693320318168" />
     </e>
     <e n="ShowIntentionActions">
-      <i c="14" l="1693411709745" />
+      <i c="15" l="1693412415553" />
     </e>
     <e n="ShowSettings">
       <i c="1" l="1693405376662" />
@@ -208,7 +211,7 @@
       <i c="7" l="1693411719928" />
     </e>
     <e n="com.intellij.openapi.wm.impl.SquareAnActionButton">
-      <i c="22" l="1693407617722" />
+      <i c="23" l="1693412511799" />
     </e>
     <e n="com.intellij.openapi.wm.impl.customFrameDecorations.header.toolbar.MainMenuButton$ShowMenuAction">
       <i c="13" l="1693405373036" />

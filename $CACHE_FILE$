@@ -11,6 +11,7 @@
       <feature name="IMMEDIATE_DEREFERENCING" />
       <feature name="CLASS_NAME_CONST" />
       <feature name="VARIADIC_FUNCTIONS" />
+      <feature name="ARGUMENT_UNPACKING" />
       <feature name="RETURN_TYPES" />
       <feature name="SCALAR_TYPE_HINTS" />
       <feature name="COALESCE_OPERATOR" />
