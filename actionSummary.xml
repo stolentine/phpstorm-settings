@@ -40,7 +40,7 @@
       <i c="1" l="1693322998621" />
     </e>
     <e n="EditorBackSpace">
-      <i c="412" l="1693484113225" />
+      <i c="440" l="1693484922379" />
     </e>
     <e n="EditorChooseLookupItem">
       <i c="186" l="1693484229919" />
@@ -49,22 +49,22 @@
       <i c="10" l="1693483612444" />
     </e>
     <e n="EditorCopy">
-      <i c="211" l="1693484221218" />
+      <i c="215" l="1693484915772" />
     </e>
     <e n="EditorCut">
-      <i c="207" l="1693484198349" />
+      <i c="248" l="1693484906681" />
     </e>
     <e n="EditorDelete">
       <i c="24" l="1693483286486" />
     </e>
     <e n="EditorDown">
-      <i c="1113" l="1693484116108" />
+      <i c="1323" l="1693484927066" />
     </e>
     <e n="EditorDownWithSelection">
       <i c="11" l="1693484226079" />
     </e>
     <e n="EditorEnter">
-      <i c="234" l="1693484228082" />
+      <i c="237" l="1693484309315" />
     </e>
     <e n="EditorEscape">
       <i c="7" l="1693484218328" />
@@ -73,31 +73,34 @@
       <i c="2" l="1693404714475" />
     </e>
     <e n="EditorLeft">
-      <i c="996" l="1693484213340" />
+      <i c="1062" l="1693484928141" />
     </e>
     <e n="EditorLeftWithSelection">
-      <i c="220" l="1693484093575" />
+      <i c="226" l="1693484853615" />
     </e>
     <e n="EditorNextWord">
-      <i c="56" l="1693484211415" />
+      <i c="61" l="1693484877938" />
     </e>
     <e n="EditorNextWordWithSelection">
       <i c="39" l="1693483820137" />
     </e>
     <e n="EditorPaste">
-      <i c="308" l="1693484230994" />
+      <i c="317" l="1693484916735" />
+    </e>
+    <e n="EditorPasteFromX11">
+      <i c="1" l="1693484785678" />
     </e>
     <e n="EditorPreviousWord">
-      <i c="40" l="1693484216523" />
+      <i c="43" l="1693484878320" />
     </e>
     <e n="EditorPreviousWordWithSelection">
       <i c="23" l="1693484214152" />
     </e>
     <e n="EditorRight">
-      <i c="992" l="1693484210893" />
+      <i c="1051" l="1693484919071" />
     </e>
     <e n="EditorRightWithSelection">
-      <i c="211" l="1693484205089" />
+      <i c="221" l="1693484884974" />
     </e>
     <e n="EditorScrollUp">
       <i c="1" l="1693483110327" />
@@ -109,10 +112,10 @@
       <i c="18" l="1693483610607" />
     </e>
     <e n="EditorUp">
-      <i c="1060" l="1693484117038" />
+      <i c="1217" l="1693484917245" />
     </e>
     <e n="EditorUpWithSelection">
-      <i c="44" l="1693484227233" />
+      <i c="60" l="1693484874349" />
     </e>
     <e n="ExpandLiveTemplateByTab">
       <i c="1" l="1693411721262" />
@@ -136,7 +139,7 @@
       <i c="2" l="1693404947296" />
     </e>
     <e n="GotoDeclaration">
-      <i c="60" l="1693482923530" />
+      <i c="61" l="1693484311914" />
     </e>
     <e n="IntroduceConstant">
       <i c="1" l="1693483403660" />
@@ -184,7 +187,7 @@
       <i c="1" l="1693320318168" />
     </e>
     <e n="ShowIntentionActions">
-      <i c="19" l="1693483392090" />
+      <i c="20" l="1693484301840" />
     </e>
     <e n="ShowSettings">
       <i c="1" l="1693405376662" />

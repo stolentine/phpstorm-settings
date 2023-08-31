@@ -31,6 +31,7 @@
       <feature name="TRAILING_COMMA_IN_PARAMETER_LIST" />
       <feature name="NAMED_ARGUMENTS" />
       <feature name="CLASS_NAME_LITERAL_ON_OBJECT" />
+      <feature name="ATTRIBUTES" />
       <feature name="PROPERTY_PROMOTION" />
       <feature name="ENUM_CLASSES" />
       <feature name="READONLY_PROPERTIES" />
