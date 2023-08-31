@@ -9,6 +9,7 @@
       <feature name="SHORT_ARRAY_SYNTAX" />
       <feature name="THIS_IN_CLOSURE" />
       <feature name="SELF_IN_CLOSURE" />
+      <feature name="STATIC_IN_CLOSURE" />
       <feature name="IMMEDIATE_DEREFERENCING" />
       <feature name="CLASS_NAME_CONST" />
       <feature name="VARIADIC_FUNCTIONS" />
