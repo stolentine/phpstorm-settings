@@ -30,6 +30,7 @@
       <feature name="NAMED_ARGUMENTS" />
       <feature name="CLASS_NAME_LITERAL_ON_OBJECT" />
       <feature name="PROPERTY_PROMOTION" />
+      <feature name="ENUM_CLASSES" />
       <feature name="READONLY_PROPERTIES" />
       <feature name="READONLY_CLASSES" />
     </project>
