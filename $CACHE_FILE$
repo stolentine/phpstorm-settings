@@ -8,6 +8,7 @@
       <feature name="TRAITS" />
       <feature name="SHORT_ARRAY_SYNTAX" />
       <feature name="THIS_IN_CLOSURE" />
+      <feature name="SELF_IN_CLOSURE" />
       <feature name="IMMEDIATE_DEREFERENCING" />
       <feature name="CLASS_NAME_CONST" />
       <feature name="VARIADIC_FUNCTIONS" />
@@ -15,6 +16,7 @@
       <feature name="RETURN_TYPES" />
       <feature name="SCALAR_TYPE_HINTS" />
       <feature name="COALESCE_OPERATOR" />
+      <feature name="KEYWORD_NAMES" />
       <feature name="UNIFORM_VARIABLE_SYNTAX" />
       <feature name="RETURN_VOID" />
       <feature name="NULLABLES" />
