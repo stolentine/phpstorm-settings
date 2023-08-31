@@ -40,31 +40,31 @@
       <i c="1" l="1693322998621" />
     </e>
     <e n="EditorBackSpace">
-      <i c="440" l="1693484922379" />
+      <i c="451" l="1693485947683" />
     </e>
     <e n="EditorChooseLookupItem">
-      <i c="186" l="1693484229919" />
+      <i c="190" l="1693485924985" />
     </e>
     <e n="EditorChooseLookupItemReplace">
       <i c="10" l="1693483612444" />
     </e>
     <e n="EditorCopy">
-      <i c="215" l="1693484915772" />
+      <i c="222" l="1693485205224" />
     </e>
     <e n="EditorCut">
-      <i c="248" l="1693484906681" />
+      <i c="249" l="1693485290294" />
     </e>
     <e n="EditorDelete">
       <i c="24" l="1693483286486" />
     </e>
     <e n="EditorDown">
-      <i c="1323" l="1693484927066" />
+      <i c="1488" l="1693485255714" />
     </e>
     <e n="EditorDownWithSelection">
       <i c="11" l="1693484226079" />
     </e>
     <e n="EditorEnter">
-      <i c="237" l="1693484309315" />
+      <i c="239" l="1693485080408" />
     </e>
     <e n="EditorEscape">
       <i c="7" l="1693484218328" />
@@ -73,34 +73,34 @@
       <i c="2" l="1693404714475" />
     </e>
     <e n="EditorLeft">
-      <i c="1062" l="1693484928141" />
+      <i c="1291" l="1693485216033" />
     </e>
     <e n="EditorLeftWithSelection">
-      <i c="226" l="1693484853615" />
+      <i c="243" l="1693485975819" />
     </e>
     <e n="EditorNextWord">
-      <i c="61" l="1693484877938" />
+      <i c="121" l="1693485212199" />
     </e>
     <e n="EditorNextWordWithSelection">
-      <i c="39" l="1693483820137" />
+      <i c="44" l="1693485082657" />
     </e>
     <e n="EditorPaste">
-      <i c="317" l="1693484916735" />
+      <i c="328" l="1693485205889" />
     </e>
     <e n="EditorPasteFromX11">
       <i c="1" l="1693484785678" />
     </e>
     <e n="EditorPreviousWord">
-      <i c="43" l="1693484878320" />
+      <i c="68" l="1693485212507" />
     </e>
     <e n="EditorPreviousWordWithSelection">
-      <i c="23" l="1693484214152" />
+      <i c="29" l="1693485207767" />
     </e>
     <e n="EditorRight">
-      <i c="1051" l="1693484919071" />
+      <i c="1181" l="1693485215289" />
     </e>
     <e n="EditorRightWithSelection">
-      <i c="221" l="1693484884974" />
+      <i c="223" l="1693485105228" />
     </e>
     <e n="EditorScrollUp">
       <i c="1" l="1693483110327" />
@@ -109,10 +109,10 @@
       <i c="1" l="1693411092316" />
     </e>
     <e n="EditorTab">
-      <i c="18" l="1693483610607" />
+      <i c="19" l="1693485922984" />
     </e>
     <e n="EditorUp">
-      <i c="1217" l="1693484917245" />
+      <i c="1269" l="1693485293217" />
     </e>
     <e n="EditorUpWithSelection">
       <i c="60" l="1693484874349" />
@@ -196,7 +196,7 @@
       <i c="1" l="1693320367225" />
     </e>
     <e n="ToggleLineBreakpoint">
-      <i c="3" l="1693404675023" />
+      <i c="4" l="1693485963812" />
     </e>
     <e n="Vcs.Push">
       <i c="1" l="1693405208594" />
@@ -229,7 +229,7 @@
       <i c="7" l="1693411719928" />
     </e>
     <e n="com.intellij.openapi.wm.impl.SquareAnActionButton">
-      <i c="29" l="1693483342727" />
+      <i c="33" l="1693485788301" />
     </e>
     <e n="com.intellij.openapi.wm.impl.customFrameDecorations.header.toolbar.MainMenuButton$ShowMenuAction">
       <i c="13" l="1693405373036" />
@@ -238,10 +238,10 @@
       <i c="1" l="1693320335600" />
     </e>
     <e n="com.intellij.toolWindow.ToolWindowHeader$HideAction">
-      <i c="5" l="1693483154855" />
+      <i c="8" l="1693485888779" />
     </e>
     <e n="com.intellij.toolWindow.ToolWindowHeader$ShowOptionsAction">
-      <i c="2" l="1693405194038" />
+      <i c="3" l="1693485301770" />
     </e>
     <e n="com.intellij.ui.AnActionButton$AnActionButtonWrapper">
       <i c="1" l="1693401263111" />
@@ -253,7 +253,7 @@
       <i c="5" l="1693411120169" />
     </e>
     <e n="com.intellij.xdebugger.impl.breakpoints.RemoveBreakpointGutterIconAction">
-      <i c="1" l="1693321481430" />
+      <i c="2" l="1693485965326" />
     </e>
     <e n="editRunConfigurations">
       <i c="1" l="1693401226027" />
