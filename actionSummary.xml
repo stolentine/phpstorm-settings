@@ -7,7 +7,7 @@
       <i c="2" l="1693833516781" />
     </e>
     <e n="$Delete">
-      <i c="26" l="1693833789894" />
+      <i c="32" l="1693835769801" />
     </e>
     <e n="$Paste">
       <i c="9" l="1693590857690" />
@@ -19,7 +19,7 @@
       <i c="3" l="1693817021303" />
     </e>
     <e n="$Undo">
-      <i c="244" l="1693834268797" />
+      <i c="247" l="1693834718285" />
     </e>
     <e n="Annotate">
       <i c="2" l="1693563559872" />
@@ -31,7 +31,7 @@
       <i c="1" l="1693405169148" />
     </e>
     <e n="ChangesView.Revert">
-      <i c="1" l="1693405172678" />
+      <i c="3" l="1693835859491" />
     </e>
     <e n="CloseAllEditors">
       <i c="6" l="1693825667573" />
@@ -94,7 +94,7 @@
       <i c="21" l="1693564306316" />
     </e>
     <e n="EditorEnter">
-      <i c="654" l="1693834588901" />
+      <i c="656" l="1693834691888" />
     </e>
     <e n="EditorEscape">
       <i c="18" l="1693834261854" />
@@ -115,7 +115,7 @@
       <i c="109" l="1693592096932" />
     </e>
     <e n="EditorPaste">
-      <i c="979" l="1693834580388" />
+      <i c="980" l="1693834692094" />
     </e>
     <e n="EditorPasteFromX11">
       <i c="1" l="1693484785678" />
@@ -277,7 +277,7 @@
       <i c="1" l="1693590918558" />
     </e>
     <e n="Vcs.Push">
-      <i c="3" l="1693832737010" />
+      <i c="4" l="1693835785720" />
     </e>
     <e n="WelcomeScreen.OpenDirectoryProject">
       <i c="1" l="1693320243925" />
@@ -318,14 +318,17 @@
     <e n="com.intellij.openapi.actionSystem.DefaultActionGroup">
       <i c="2" l="1693496303015" />
     </e>
+    <e n="com.intellij.openapi.actionSystem.EmptyAction$MyDelegatingAction">
+      <i c="1" l="1693835758870" />
+    </e>
     <e n="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
-      <i c="28" l="1693593132671" />
+      <i c="30" l="1693835865426" />
     </e>
     <e n="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
       <i c="3" l="1693502614220" />
     </e>
     <e n="com.intellij.openapi.ui.DialogWrapper$5">
-      <i c="34" l="1693834272755" />
+      <i c="40" l="1693835770140" />
     </e>
     <e n="com.intellij.openapi.vcs.changes.ignore.actions.CreateNewIgnoreFileAction">
       <i c="1" l="1693834195335" />

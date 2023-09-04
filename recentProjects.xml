@@ -52,14 +52,15 @@
         </entry>
         <entry key="$USER_HOME$/projects/wbtech">
           <value>
-            <RecentProjectMetaInfo opened="true" projectWorkspaceId="2UviuVZOkl1At7utSOTEt3brgtS">
-              <option name="activationTimestamp" value="1693834584696" />
+            <RecentProjectMetaInfo frameTitle="wbtech – Commit" opened="true" projectWorkspaceId="2UviuVZOkl1At7utSOTEt3brgtS">
+              <option name="activationTimestamp" value="1693835920002" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="build" value="PS-232.9559.64" />
               <option name="buildTimestamp" value="1692986604606" />
               <option name="colorInfo">
                 <RecentProjectColorInfo associatedIndex="0" />
               </option>
+              <frame x="1920" y="0" width="2560" height="1396" extendedState="6" />
               <option name="productionCode" value="PS" />
               <option name="projectOpenTimestamp" value="1693826677574" />
             </RecentProjectMetaInfo>
