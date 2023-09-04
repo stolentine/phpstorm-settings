@@ -34,7 +34,7 @@
       <i c="1" l="1693405172678" />
     </e>
     <e n="CloseAllEditors">
-      <i c="5" l="1693818567274" />
+      <i c="6" l="1693825667573" />
     </e>
     <e n="CloseAllEditorsButActive">
       <i c="9" l="1693592177820" />
@@ -48,11 +48,17 @@
     <e n="CommentByLineComment">
       <i c="31" l="1693818589428" />
     </e>
+    <e n="Console.TableResult.Reload">
+      <i c="1" l="1693819222558" />
+    </e>
     <e n="DatabaseView.AddActionGroupPopup">
       <i c="1" l="1693818844688" />
     </e>
     <e n="DatabaseView.PropertiesAction">
       <i c="2" l="1693818691163" />
+    </e>
+    <e n="DatabaseView.Refresh">
+      <i c="1" l="1693819060728" />
     </e>
     <e n="Docker.AddDockerConnection">
       <i c="1" l="1693322998621" />
@@ -73,7 +79,7 @@
       <i c="50" l="1693589575777" />
     </e>
     <e n="EditorCopy">
-      <i c="650" l="1693818661837" />
+      <i c="651" l="1693819266679" />
     </e>
     <e n="EditorCut">
       <i c="774" l="1693818572482" />
@@ -304,7 +310,7 @@
       <i c="1" l="1693510320461" />
     </e>
     <e n="com.intellij.openapi.wm.impl.SquareAnActionButton">
-      <i c="114" l="1693818621042" />
+      <i c="115" l="1693825669273" />
     </e>
     <e n="com.intellij.openapi.wm.impl.customFrameDecorations.header.toolbar.MainMenuButton$ShowMenuAction">
       <i c="14" l="1693816430079" />
