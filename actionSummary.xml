@@ -19,7 +19,7 @@
       <i c="3" l="1693817021303" />
     </e>
     <e n="$Undo">
-      <i c="238" l="1693818037378" />
+      <i c="239" l="1693826656170" />
     </e>
     <e n="Annotate">
       <i c="2" l="1693563559872" />
@@ -70,7 +70,7 @@
       <i c="1" l="1693817931340" />
     </e>
     <e n="EditorBackSpace">
-      <i c="1495" l="1693817021789" />
+      <i c="1496" l="1693826666671" />
     </e>
     <e n="EditorChooseLookupItem">
       <i c="767" l="1693592230500" />
@@ -115,7 +115,7 @@
       <i c="109" l="1693592096932" />
     </e>
     <e n="EditorPaste">
-      <i c="971" l="1693818975059" />
+      <i c="972" l="1693826655294" />
     </e>
     <e n="EditorPasteFromX11">
       <i c="1" l="1693484785678" />
@@ -166,10 +166,10 @@
       <i c="1" l="1693411885483" />
     </e>
     <e n="FileChooser.GotoProject">
-      <i c="1" l="1693401510370" />
+      <i c="2" l="1693826649529" />
     </e>
     <e n="FileChooser.NewFolder">
-      <i c="1" l="1693401517272" />
+      <i c="2" l="1693826653799" />
     </e>
     <e n="Find">
       <i c="9" l="1693564849097" />
@@ -196,7 +196,7 @@
       <i c="68" l="1693590583806" />
     </e>
     <e n="OpenFile">
-      <i c="4" l="1693816432147" />
+      <i c="5" l="1693826639080" />
     </e>
     <e n="PhpNewClass">
       <i c="17" l="1693590628791" />
@@ -310,10 +310,10 @@
       <i c="1" l="1693510320461" />
     </e>
     <e n="com.intellij.openapi.wm.impl.SquareAnActionButton">
-      <i c="115" l="1693825669273" />
+      <i c="118" l="1693826750406" />
     </e>
     <e n="com.intellij.openapi.wm.impl.customFrameDecorations.header.toolbar.MainMenuButton$ShowMenuAction">
-      <i c="14" l="1693816430079" />
+      <i c="15" l="1693826636767" />
     </e>
     <e n="com.intellij.toolWindow.ShowMoreToolWindowsAction">
       <i c="2" l="1693496313991" />
