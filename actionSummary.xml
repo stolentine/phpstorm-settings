@@ -16,10 +16,10 @@
       <i c="7" l="1693507275057" />
     </e>
     <e n="$SelectAll">
-      <i c="1" l="1693322363137" />
+      <i c="3" l="1693817021303" />
     </e>
     <e n="$Undo">
-      <i c="236" l="1693593022844" />
+      <i c="238" l="1693818037378" />
     </e>
     <e n="Annotate">
       <i c="2" l="1693563559872" />
@@ -34,7 +34,7 @@
       <i c="1" l="1693405172678" />
     </e>
     <e n="CloseAllEditors">
-      <i c="3" l="1693592884875" />
+      <i c="5" l="1693818567274" />
     </e>
     <e n="CloseAllEditorsButActive">
       <i c="9" l="1693592177820" />
@@ -46,13 +46,25 @@
       <i c="1" l="1693496249503" />
     </e>
     <e n="CommentByLineComment">
-      <i c="30" l="1693591806053" />
+      <i c="31" l="1693818589428" />
+    </e>
+    <e n="DatabaseView.AddActionGroupPopup">
+      <i c="1" l="1693818844688" />
+    </e>
+    <e n="DatabaseView.PropertiesAction">
+      <i c="2" l="1693818691163" />
     </e>
     <e n="Docker.AddDockerConnection">
       <i c="1" l="1693322998621" />
     </e>
+    <e n="Docker.RemoteServer.DisconnectServer">
+      <i c="1" l="1693817929810" />
+    </e>
+    <e n="Docker.RemoteServers.ConnectServer">
+      <i c="1" l="1693817931340" />
+    </e>
     <e n="EditorBackSpace">
-      <i c="1494" l="1693593384191" />
+      <i c="1495" l="1693817021789" />
     </e>
     <e n="EditorChooseLookupItem">
       <i c="767" l="1693592230500" />
@@ -61,10 +73,10 @@
       <i c="50" l="1693589575777" />
     </e>
     <e n="EditorCopy">
-      <i c="646" l="1693592871065" />
+      <i c="650" l="1693818661837" />
     </e>
     <e n="EditorCut">
-      <i c="770" l="1693592378580" />
+      <i c="774" l="1693818572482" />
     </e>
     <e n="EditorDelete">
       <i c="42" l="1693587256058" />
@@ -97,7 +109,7 @@
       <i c="109" l="1693592096932" />
     </e>
     <e n="EditorPaste">
-      <i c="963" l="1693593380817" />
+      <i c="971" l="1693818975059" />
     </e>
     <e n="EditorPasteFromX11">
       <i c="1" l="1693484785678" />
@@ -178,7 +190,7 @@
       <i c="68" l="1693590583806" />
     </e>
     <e n="OpenFile">
-      <i c="3" l="1693405055169" />
+      <i c="4" l="1693816432147" />
     </e>
     <e n="PhpNewClass">
       <i c="17" l="1693590628791" />
@@ -202,13 +214,13 @@
       <i c="1" l="1693502612846" />
     </e>
     <e n="SaveAll">
-      <i c="109" l="1693592876708" />
+      <i c="110" l="1693816659352" />
     </e>
     <e n="SearchEverywhere">
       <i c="1" l="1693397876314" />
     </e>
     <e n="SelectInProjectView">
-      <i c="19" l="1693592824586" />
+      <i c="20" l="1693818048574" />
     </e>
     <e n="ServiceView.AddService">
       <i c="1" l="1693322996017" />
@@ -224,6 +236,9 @@
     </e>
     <e n="StringManipulation.SwitchStyleAction">
       <i c="1" l="1693505987770" />
+    </e>
+    <e n="Terminal.NewTab">
+      <i c="1" l="1693817003651" />
     </e>
     <e n="TerminalNewPredefinedSession">
       <i c="1" l="1693320367225" />
@@ -249,8 +264,14 @@
     <e n="com.intellij.codeInsight.daemon.impl.DaemonTooltipWithActionRenderer$addActionsRow$2">
       <i c="2" l="1693576335687" />
     </e>
+    <e n="com.intellij.database.dataSource.LocalDataSourceManager$3">
+      <i c="1" l="1693818849208" />
+    </e>
     <e n="com.intellij.docker.action.containers.CreateTerminalAction">
-      <i c="5" l="1693593477387" />
+      <i c="6" l="1693818356555" />
+    </e>
+    <e n="com.intellij.docker.action.containers.StartContainerAction">
+      <i c="2" l="1693817042033" />
     </e>
     <e n="com.intellij.execution.lineMarker.LineMarkerActionWrapper">
       <i c="15" l="1693510434577" />
@@ -283,22 +304,22 @@
       <i c="1" l="1693510320461" />
     </e>
     <e n="com.intellij.openapi.wm.impl.SquareAnActionButton">
-      <i c="87" l="1693593473449" />
+      <i c="114" l="1693818621042" />
     </e>
     <e n="com.intellij.openapi.wm.impl.customFrameDecorations.header.toolbar.MainMenuButton$ShowMenuAction">
-      <i c="13" l="1693405373036" />
+      <i c="14" l="1693816430079" />
     </e>
     <e n="com.intellij.toolWindow.ShowMoreToolWindowsAction">
       <i c="2" l="1693496313991" />
     </e>
     <e n="com.intellij.toolWindow.ToolWindowHeader$HideAction">
-      <i c="29" l="1693591175813" />
+      <i c="31" l="1693818475299" />
     </e>
     <e n="com.intellij.toolWindow.ToolWindowHeader$ShowOptionsAction">
       <i c="3" l="1693485301770" />
     </e>
     <e n="com.intellij.ui.AnActionButton$AnActionButtonWrapper">
-      <i c="1" l="1693401263111" />
+      <i c="3" l="1693819000784" />
     </e>
     <e n="com.intellij.ui.CommonActionsPanel$AddButton">
       <i c="3" l="1693564686826" />

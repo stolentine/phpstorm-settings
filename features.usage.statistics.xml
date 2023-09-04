@@ -23,11 +23,11 @@
     <feature id="editing.copy.line" count="27" last-shown="0" last-used="1693591130433" shown-count="0" />
     <feature id="navigation.find.in.files" count="5" last-shown="0" last-used="1693592890918" shown-count="0" />
     <feature id="db.copy.table" count="0" last-shown="0" last-used="0" shown-count="0" />
-    <feature id="ui.hide.tool.window" count="29" last-shown="0" last-used="1693591175820" shown-count="0" />
+    <feature id="ui.hide.tool.window" count="31" last-shown="0" last-used="1693818475304" shown-count="0" />
     <feature id="navigation.find.replace.in.files.toggle" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="intentions.check.regexp" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="profiler.open.snapshot" count="0" last-shown="0" last-used="0" shown-count="0" />
-    <feature id="codeassists.comment.line" count="30" last-shown="0" last-used="1693591806079" shown-count="0" />
+    <feature id="codeassists.comment.line" count="31" last-shown="0" last-used="1693818589460" shown-count="0" />
     <feature id="SearchEverywhere" count="1" last-shown="0" last-used="1693397876539" shown-count="0" />
     <feature id="editor.delete.line" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="navigation.inheritance.hierarchy" count="0" last-shown="0" last-used="0" shown-count="0" />
@@ -72,7 +72,7 @@
     <feature id="codeassists.overrideimplement" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="db.console.run.intention" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="db.diff" count="0" last-shown="0" last-used="0" shown-count="0" />
-    <feature id="ui.close.all.editors" count="3" last-shown="0" last-used="1693592884899" shown-count="0" />
+    <feature id="ui.close.all.editors" count="5" last-shown="0" last-used="1693818567310" shown-count="0" />
     <feature id="navigation.popup.wildcards" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="refactoring.introduceVariable" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="refactoring.extractMethod" count="1" last-shown="0" last-used="1693411885950" shown-count="0" />
