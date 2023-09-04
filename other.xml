@@ -23,7 +23,7 @@
     "experimental.ui.first.switch": "true",
     "experimental.ui.on.first.startup": "true",
     "experimental.ui.used.version": "232.9559.64",
-    "file.gist.reindex.count": "40",
+    "file.gist.reindex.count": "41",
     "fileTypeChangedCounter": "1",
     "fontSizeToResetConsole": "16.25",
     "fontSizeToResetEditor": "16.25",
@@ -65,7 +65,7 @@
       <command-history-file filename="docs-history" project-path="$USER_HOME$/projects/docs" last-access-time="1693405058308" />
       <command-history-file filename="monolith-history" project-path="$USER_HOME$/projects/bonus-community/monolith" last-access-time="1693816704548" />
       <command-history-file filename="topcargo-history" project-path="$USER_HOME$/projects/topcargo" last-access-time="1693592460601" />
-      <command-history-file filename="wbtech-history" project-path="$USER_HOME$/projects/wbtech" last-access-time="1693826750462" />
+      <command-history-file filename="wbtech-history1" project-path="$USER_HOME$/projects/wbtech" last-access-time="1693833967533" />
     </command-history-files>
   </component>
 </application>
