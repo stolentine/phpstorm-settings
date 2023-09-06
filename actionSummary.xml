@@ -7,7 +7,7 @@
       <i c="2" l="1693833516781" />
     </e>
     <e n="$Delete">
-      <i c="32" l="1693835769801" />
+      <i c="34" l="1694000581193" />
     </e>
     <e n="$Paste">
       <i c="9" l="1693590857690" />
@@ -313,13 +313,13 @@
       <i c="1" l="1693497869740" />
     </e>
     <e n="com.intellij.ide.browsers.actions.BaseOpenInBrowserAction">
-      <i c="1" l="1693826921525" />
+      <i c="3" l="1694000637858" />
     </e>
     <e n="com.intellij.openapi.actionSystem.DefaultActionGroup">
       <i c="2" l="1693496303015" />
     </e>
     <e n="com.intellij.openapi.actionSystem.EmptyAction$MyDelegatingAction">
-      <i c="1" l="1693835758870" />
+      <i c="2" l="1694000562693" />
     </e>
     <e n="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
       <i c="30" l="1693835865426" />
@@ -337,7 +337,7 @@
       <i c="1" l="1693510320461" />
     </e>
     <e n="com.intellij.openapi.wm.impl.SquareAnActionButton">
-      <i c="126" l="1693833967465" />
+      <i c="130" l="1694000594038" />
     </e>
     <e n="com.intellij.openapi.wm.impl.customFrameDecorations.header.toolbar.MainMenuButton$ShowMenuAction">
       <i c="15" l="1693826636767" />

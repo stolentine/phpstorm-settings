@@ -16872,6 +16872,14 @@
           }
         ]
       },
+      "*.vdf": {
+        "dataSet": [
+          {
+            "pluginIdString": "it.czerwinski.ide.plugins.valve",
+            "nullablePluginName": "Valve Data Format"
+          }
+        ]
+      },
       "*.vdi": {
         "dataSet": [
           {
@@ -17256,6 +17264,14 @@
           {
             "pluginIdString": "WGSL",
             "nullablePluginName": "WGSL Support"
+          }
+        ]
+      },
+      "*.whl": {
+        "dataSet": [
+          {
+            "pluginIdString": "com.github.camork.fileExpander",
+            "nullablePluginName": "File Expander"
           }
         ]
       },
@@ -19574,7 +19590,7 @@
         ]
       }
     },
-    "lastUpdateTime": 1693816297669
+    "lastUpdateTime": 1694000539335
   },
   "dependencies": {
     "featureMap": {
@@ -21179,7 +21195,7 @@
         ]
       }
     },
-    "lastUpdateTime": 1693816297778
+    "lastUpdateTime": 1694000539459
   }
 }]]></component>
   <component name="PluginFeatureService">{
