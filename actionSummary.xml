@@ -145,7 +145,7 @@
       <i c="3" l="1693593038718" />
     </e>
     <e n="EditorTab">
-      <i c="42" l="1694017028429" />
+      <i c="44" l="1694017127895" />
     </e>
     <e n="EditorToggleCase">
       <i c="1" l="1693505988778" />
@@ -160,7 +160,7 @@
       <i c="173" l="1694016867256" />
     </e>
     <e n="ExpandLiveTemplateByTab">
-      <i c="11" l="1693588564342" />
+      <i c="12" l="1694017059922" />
     </e>
     <e n="ExtractMethod">
       <i c="1" l="1693411885483" />
@@ -220,7 +220,7 @@
       <i c="1" l="1694016736695" />
     </e>
     <e n="NextTemplateVariable">
-      <i c="68" l="1693590583806" />
+      <i c="77" l="1694017064586" />
     </e>
     <e n="OpenFile">
       <i c="6" l="1694001884594" />
@@ -322,7 +322,7 @@
       <i c="1" l="1693497869740" />
     </e>
     <e n="com.intellij.ide.browsers.actions.BaseOpenInBrowserAction">
-      <i c="3" l="1694000637858" />
+      <i c="4" l="1694017085524" />
     </e>
     <e n="com.intellij.openapi.actionSystem.DefaultActionGroup">
       <i c="2" l="1693496303015" />
@@ -343,7 +343,7 @@
       <i c="1" l="1693834195335" />
     </e>
     <e n="com.intellij.openapi.vcs.changes.ignore.actions.IgnoreFileAction">
-      <i c="1" l="1694003321107" />
+      <i c="2" l="1694017161892" />
     </e>
     <e n="com.intellij.openapi.vcs.ex.LocalLineStatusTrackerImpl$LocalLineStatusMarkerRenderer$RollbackLineStatusRangeAction">
       <i c="1" l="1693510320461" />
