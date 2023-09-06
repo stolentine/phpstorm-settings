@@ -25,7 +25,7 @@
     "experimental.ui.first.switch": "true",
     "experimental.ui.on.first.startup": "true",
     "experimental.ui.used.version": "232.9559.64",
-    "file.gist.reindex.count": "41",
+    "file.gist.reindex.count": "43",
     "fileTypeChangedCounter": "1",
     "fontSizeToResetConsole": "16.25",
     "fontSizeToResetEditor": "16.25",
@@ -44,10 +44,10 @@
   },
   "keyToStringList": {
     "file.chooser.recent.files": [
+      "/home/stolentine/projects/topcargo",
       "/home/stolentine/projects/wbtech",
       "/home/stolentine/projects/bonus-community/monolith",
-      "/home/stolentine/projects/docs",
-      "/home/stolentine/projects/topcargo"
+      "/home/stolentine/projects/docs"
     ],
     "fileTypeDetectors": [
       "pro.bashsupport.ra",

@@ -2,22 +2,6 @@
   <component name="RecentProjectsManager">
     <option name="additionalInfo">
       <map>
-        <entry key="$USER_HOME$/projects/topcargo">
-          <value>
-            <RecentProjectMetaInfo frameTitle="topcargo" projectWorkspaceId="2PVsHbwxtqMCnpEKyWKNXLGglU0">
-              <option name="activationTimestamp" value="1693816441665" />
-              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="build" value="PS-232.9559.64" />
-              <option name="buildTimestamp" value="1692986629123" />
-              <option name="colorInfo">
-                <RecentProjectColorInfo associatedIndex="6" />
-              </option>
-              <frame x="1920" y="0" width="2560" height="1396" extendedState="6" />
-              <option name="productionCode" value="PS" />
-              <option name="projectOpenTimestamp" value="1693320254826" />
-            </RecentProjectMetaInfo>
-          </value>
-        </entry>
         <entry key="$USER_HOME$/projects/docs">
           <value>
             <RecentProjectMetaInfo frameTitle="docs – Commit" projectWorkspaceId="2UhpBbuOtDBUyybXJQQVVEfXt65">
@@ -53,7 +37,7 @@
         <entry key="$USER_HOME$/projects/wbtech">
           <value>
             <RecentProjectMetaInfo frameTitle="wbtech – package.json" opened="true">
-              <option name="activationTimestamp" value="1694020268091" />
+              <option name="activationTimestamp" value="1694023026329" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="build" value="PS-232.9559.64" />
               <option name="buildTimestamp" value="1692986604606" />
@@ -63,6 +47,22 @@
               <frame x="0" y="0" width="1920" height="1047" extendedState="6" />
               <option name="productionCode" value="PS" />
               <option name="projectOpenTimestamp" value="1693826677574" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/projects/topcargo">
+          <value>
+            <RecentProjectMetaInfo frameTitle="topcargo" opened="true" projectWorkspaceId="2PVsHbwxtqMCnpEKyWKNXLGglU0">
+              <option name="activationTimestamp" value="1694022374424" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="PS-232.9559.64" />
+              <option name="buildTimestamp" value="1692986593522" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="6" />
+              </option>
+              <frame x="1920" y="0" width="2560" height="1396" extendedState="6" />
+              <option name="productionCode" value="PS" />
+              <option name="projectOpenTimestamp" value="1694021635805" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
