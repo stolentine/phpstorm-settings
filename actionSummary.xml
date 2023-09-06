@@ -16,7 +16,7 @@
       <i c="7" l="1693507275057" />
     </e>
     <e n="$SelectAll">
-      <i c="3" l="1693817021303" />
+      <i c="4" l="1694016354784" />
     </e>
     <e n="$Undo">
       <i c="247" l="1693834718285" />
@@ -70,16 +70,16 @@
       <i c="1" l="1693817931340" />
     </e>
     <e n="EditorBackSpace">
-      <i c="1517" l="1694003250712" />
+      <i c="1539" l="1694016824738" />
     </e>
     <e n="EditorChooseLookupItem">
-      <i c="768" l="1693834592267" />
+      <i c="769" l="1694016820306" />
     </e>
     <e n="EditorChooseLookupItemReplace">
       <i c="51" l="1693834590133" />
     </e>
     <e n="EditorCopy">
-      <i c="652" l="1693834259700" />
+      <i c="653" l="1694017041266" />
     </e>
     <e n="EditorCut">
       <i c="776" l="1693834168520" />
@@ -88,13 +88,13 @@
       <i c="43" l="1694003251556" />
     </e>
     <e n="EditorDown">
-      <i c="3558" l="1693592693800" />
+      <i c="3575" l="1694017028789" />
     </e>
     <e n="EditorDownWithSelection">
       <i c="21" l="1693564306316" />
     </e>
     <e n="EditorEnter">
-      <i c="656" l="1693834691888" />
+      <i c="663" l="1694017035571" />
     </e>
     <e n="EditorEscape">
       <i c="18" l="1693834261854" />
@@ -103,10 +103,10 @@
       <i c="3" l="1693564010710" />
     </e>
     <e n="EditorLeft">
-      <i c="2851" l="1694003248844" />
+      <i c="2864" l="1694017028256" />
     </e>
     <e n="EditorLeftWithSelection">
-      <i c="541" l="1693592693153" />
+      <i c="577" l="1694016875421" />
     </e>
     <e n="EditorNextWord">
       <i c="237" l="1693592187836" />
@@ -115,7 +115,7 @@
       <i c="109" l="1693592096932" />
     </e>
     <e n="EditorPaste">
-      <i c="980" l="1693834692094" />
+      <i c="986" l="1694017047454" />
     </e>
     <e n="EditorPasteFromX11">
       <i c="1" l="1693484785678" />
@@ -127,10 +127,10 @@
       <i c="123" l="1693593029467" />
     </e>
     <e n="EditorRight">
-      <i c="2572" l="1693833071024" />
+      <i c="2640" l="1694017033049" />
     </e>
     <e n="EditorRightWithSelection">
-      <i c="502" l="1693593023727" />
+      <i c="506" l="1694016725776" />
     </e>
     <e n="EditorScrollDown">
       <i c="10" l="1693589527834" />
@@ -145,7 +145,7 @@
       <i c="3" l="1693593038718" />
     </e>
     <e n="EditorTab">
-      <i c="40" l="1693591532191" />
+      <i c="42" l="1694017028429" />
     </e>
     <e n="EditorToggleCase">
       <i c="1" l="1693505988778" />
@@ -154,10 +154,10 @@
       <i c="2" l="1693505796743" />
     </e>
     <e n="EditorUp">
-      <i c="3090" l="1693592219667" />
+      <i c="3107" l="1694017032248" />
     </e>
     <e n="EditorUpWithSelection">
-      <i c="172" l="1693592189276" />
+      <i c="173" l="1694016867256" />
     </e>
     <e n="ExpandLiveTemplateByTab">
       <i c="11" l="1693588564342" />
@@ -181,7 +181,7 @@
       <i c="2" l="1693834262526" />
     </e>
     <e n="Git.Add">
-      <i c="2" l="1693834202128" />
+      <i c="4" l="1694003328482" />
     </e>
     <e n="Git.Commit.And.Push.Executor">
       <i c="17" l="1693833810972" />
@@ -204,6 +204,9 @@
     <e n="MoreRunToolbarActions">
       <i c="4" l="1693405190565" />
     </e>
+    <e n="MoveStatementUp">
+      <i c="1" l="1694016871924" />
+    </e>
     <e n="NewDir">
       <i c="12" l="1694002335214" />
     </e>
@@ -211,7 +214,10 @@
       <i c="1" l="1693834265055" />
     </e>
     <e n="NewFile">
-      <i c="4" l="1694001989512" />
+      <i c="6" l="1694017047066" />
+    </e>
+    <e n="NewJavaScriptFile">
+      <i c="1" l="1694016736695" />
     </e>
     <e n="NextTemplateVariable">
       <i c="68" l="1693590583806" />
@@ -325,22 +331,25 @@
       <i c="2" l="1694000562693" />
     </e>
     <e n="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
-      <i c="31" l="1694001875658" />
+      <i c="34" l="1694015816633" />
     </e>
     <e n="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
       <i c="3" l="1693502614220" />
     </e>
     <e n="com.intellij.openapi.ui.DialogWrapper$5">
-      <i c="40" l="1693835770140" />
+      <i c="43" l="1694017049197" />
     </e>
     <e n="com.intellij.openapi.vcs.changes.ignore.actions.CreateNewIgnoreFileAction">
       <i c="1" l="1693834195335" />
+    </e>
+    <e n="com.intellij.openapi.vcs.changes.ignore.actions.IgnoreFileAction">
+      <i c="1" l="1694003321107" />
     </e>
     <e n="com.intellij.openapi.vcs.ex.LocalLineStatusTrackerImpl$LocalLineStatusMarkerRenderer$RollbackLineStatusRangeAction">
       <i c="1" l="1693510320461" />
     </e>
     <e n="com.intellij.openapi.wm.impl.SquareAnActionButton">
-      <i c="133" l="1694003224136" />
+      <i c="135" l="1694003307955" />
     </e>
     <e n="com.intellij.openapi.wm.impl.customFrameDecorations.header.toolbar.MainMenuButton$ShowMenuAction">
       <i c="16" l="1694001882496" />
