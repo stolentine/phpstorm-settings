@@ -11,6 +11,7 @@
     "FindSplitterProportion": "0.32981277",
     "LAST_CALCULATED_COLOR_INDEX_KEY": "1",
     "LAST_EXTRACTOR_SCRIPTS_CLEANUP_VERSION/data/extractors": "PS-232.9559.64",
+    "LayoutCode.optimizeImports": "false",
     "MemberChooser.showClasses": "true",
     "PhpStorm.InitialConfiguration": "true",
     "TextEditorWithPreview.SplitterProportionKey": "0.62481314",

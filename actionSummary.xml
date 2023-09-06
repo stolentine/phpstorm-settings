@@ -7,7 +7,7 @@
       <i c="2" l="1693833516781" />
     </e>
     <e n="$Delete">
-      <i c="34" l="1694000581193" />
+      <i c="35" l="1694020218582" />
     </e>
     <e n="$Paste">
       <i c="9" l="1693590857690" />
@@ -37,7 +37,7 @@
       <i c="6" l="1693825667573" />
     </e>
     <e n="CloseAllEditorsButActive">
-      <i c="9" l="1693592177820" />
+      <i c="10" l="1694020133248" />
     </e>
     <e n="CloseAllToTheRight">
       <i c="4" l="1693587611790" />
@@ -70,31 +70,31 @@
       <i c="1" l="1693817931340" />
     </e>
     <e n="EditorBackSpace">
-      <i c="1539" l="1694016824738" />
+      <i c="1544" l="1694020171773" />
     </e>
     <e n="EditorChooseLookupItem">
-      <i c="769" l="1694016820306" />
+      <i c="770" l="1694020157873" />
     </e>
     <e n="EditorChooseLookupItemReplace">
       <i c="51" l="1693834590133" />
     </e>
     <e n="EditorCopy">
-      <i c="653" l="1694017041266" />
+      <i c="654" l="1694020172112" />
     </e>
     <e n="EditorCut">
-      <i c="776" l="1693834168520" />
+      <i c="777" l="1694020053694" />
     </e>
     <e n="EditorDelete">
       <i c="43" l="1694003251556" />
     </e>
     <e n="EditorDown">
-      <i c="3575" l="1694017028789" />
+      <i c="3580" l="1694020065183" />
     </e>
     <e n="EditorDownWithSelection">
       <i c="21" l="1693564306316" />
     </e>
     <e n="EditorEnter">
-      <i c="663" l="1694017035571" />
+      <i c="665" l="1694020139222" />
     </e>
     <e n="EditorEscape">
       <i c="18" l="1693834261854" />
@@ -103,19 +103,19 @@
       <i c="3" l="1693564010710" />
     </e>
     <e n="EditorLeft">
-      <i c="2864" l="1694017028256" />
+      <i c="2873" l="1694020077166" />
     </e>
     <e n="EditorLeftWithSelection">
       <i c="577" l="1694016875421" />
     </e>
     <e n="EditorNextWord">
-      <i c="237" l="1693592187836" />
+      <i c="243" l="1694020179498" />
     </e>
     <e n="EditorNextWordWithSelection">
       <i c="109" l="1693592096932" />
     </e>
     <e n="EditorPaste">
-      <i c="986" l="1694017047454" />
+      <i c="989" l="1694020172539" />
     </e>
     <e n="EditorPasteFromX11">
       <i c="1" l="1693484785678" />
@@ -124,13 +124,13 @@
       <i c="163" l="1693592184678" />
     </e>
     <e n="EditorPreviousWordWithSelection">
-      <i c="123" l="1693593029467" />
+      <i c="125" l="1694020180301" />
     </e>
     <e n="EditorRight">
-      <i c="2640" l="1694017033049" />
+      <i c="2650" l="1694020178021" />
     </e>
     <e n="EditorRightWithSelection">
-      <i c="506" l="1694016725776" />
+      <i c="510" l="1694020175650" />
     </e>
     <e n="EditorScrollDown">
       <i c="10" l="1693589527834" />
@@ -145,7 +145,7 @@
       <i c="3" l="1693593038718" />
     </e>
     <e n="EditorTab">
-      <i c="44" l="1694017127895" />
+      <i c="46" l="1694020272280" />
     </e>
     <e n="EditorToggleCase">
       <i c="1" l="1693505988778" />
@@ -154,7 +154,7 @@
       <i c="2" l="1693505796743" />
     </e>
     <e n="EditorUp">
-      <i c="3107" l="1694017032248" />
+      <i c="3109" l="1694020173346" />
     </e>
     <e n="EditorUpWithSelection">
       <i c="173" l="1694016867256" />
@@ -193,7 +193,7 @@
       <i c="1" l="1693832794918" />
     </e>
     <e n="GotoDeclaration">
-      <i c="145" l="1693592849236" />
+      <i c="146" l="1694020244614" />
     </e>
     <e n="IntroduceConstant">
       <i c="1" l="1693483403660" />
@@ -229,7 +229,7 @@
       <i c="17" l="1693590628791" />
     </e>
     <e n="ReformatCode">
-      <i c="14" l="1693591537472" />
+      <i c="16" l="1694020237607" />
     </e>
     <e n="RenameElement">
       <i c="38" l="1693833069956" />
@@ -247,7 +247,7 @@
       <i c="1" l="1693502612846" />
     </e>
     <e n="SaveAll">
-      <i c="112" l="1693834592671" />
+      <i c="113" l="1694020281769" />
     </e>
     <e n="SearchEverywhere">
       <i c="1" l="1693397876314" />
@@ -281,6 +281,9 @@
     </e>
     <e n="Tree-selectNext">
       <i c="17" l="1693590923548" />
+    </e>
+    <e n="Tree-selectNextExtendSelection">
+      <i c="3" l="1694020217794" />
     </e>
     <e n="Tree-selectPrevious">
       <i c="1" l="1693590918558" />
@@ -322,7 +325,7 @@
       <i c="1" l="1693497869740" />
     </e>
     <e n="com.intellij.ide.browsers.actions.BaseOpenInBrowserAction">
-      <i c="4" l="1694017085524" />
+      <i c="5" l="1694020261991" />
     </e>
     <e n="com.intellij.openapi.actionSystem.DefaultActionGroup">
       <i c="2" l="1693496303015" />
@@ -337,7 +340,7 @@
       <i c="3" l="1693502614220" />
     </e>
     <e n="com.intellij.openapi.ui.DialogWrapper$5">
-      <i c="43" l="1694017049197" />
+      <i c="46" l="1694020239001" />
     </e>
     <e n="com.intellij.openapi.vcs.changes.ignore.actions.CreateNewIgnoreFileAction">
       <i c="1" l="1693834195335" />
