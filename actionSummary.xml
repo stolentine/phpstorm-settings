@@ -268,7 +268,7 @@
       <i c="61" l="1694022735343" />
     </e>
     <e n="ShowSettings">
-      <i c="1" l="1693405376662" />
+      <i c="2" l="1694106728450" />
     </e>
     <e n="StringManipulation.SwitchStyleAction">
       <i c="1" l="1693505987770" />
@@ -302,6 +302,9 @@
     </e>
     <e n="com.intellij.codeInsight.daemon.impl.DaemonTooltipWithActionRenderer$addActionsRow$2">
       <i c="2" l="1693576335687" />
+    </e>
+    <e n="com.intellij.codeInsight.template.impl.TemplateListPanel$8">
+      <i c="1" l="1694106759966" />
     </e>
     <e n="com.intellij.database.dataSource.LocalDataSourceManager$3">
       <i c="1" l="1693818849208" />
@@ -358,7 +361,7 @@
       <i c="135" l="1694003307955" />
     </e>
     <e n="com.intellij.openapi.wm.impl.customFrameDecorations.header.toolbar.MainMenuButton$ShowMenuAction">
-      <i c="17" l="1694021625127" />
+      <i c="18" l="1694106725991" />
     </e>
     <e n="com.intellij.toolWindow.ShowMoreToolWindowsAction">
       <i c="2" l="1693496313991" />
