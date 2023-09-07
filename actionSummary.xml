@@ -48,9 +48,6 @@
     <e n="CommentByLineComment">
       <i c="32" l="1694021550254" />
     </e>
-    <e n="ConfigureIcs">
-      <i c="1" l="1694106621269" />
-    </e>
     <e n="Console.TableResult.Reload">
       <i c="1" l="1693819222558" />
     </e>
@@ -204,9 +201,6 @@
     <e n="LocalHistory.ShowHistory">
       <i c="1" l="1694001901230" />
     </e>
-    <e n="MergeSettings">
-      <i c="1" l="1694106580230" />
-    </e>
     <e n="MoreRunToolbarActions">
       <i c="4" l="1693405190565" />
     </e>
@@ -269,9 +263,6 @@
     </e>
     <e n="SettingsEntryPoint">
       <i c="1" l="1693320318168" />
-    </e>
-    <e n="SettingsSyncOpenSettingsAction">
-      <i c="1" l="1694106597138" />
     </e>
     <e n="ShowIntentionActions">
       <i c="61" l="1694022735343" />
@@ -367,7 +358,7 @@
       <i c="135" l="1694003307955" />
     </e>
     <e n="com.intellij.openapi.wm.impl.customFrameDecorations.header.toolbar.MainMenuButton$ShowMenuAction">
-      <i c="21" l="1694106611278" />
+      <i c="17" l="1694021625127" />
     </e>
     <e n="com.intellij.toolWindow.ShowMoreToolWindowsAction">
       <i c="2" l="1693496313991" />
