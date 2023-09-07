@@ -119,9 +119,4 @@
       <option name="PHP" value="true" />
     </context>
   </template>
-  <template name="pppp" value="protected readonly " description="protected readonly" toReformat="false" toShortenFQNames="true">
-    <context>
-      <option name="PHP" value="true" />
-    </context>
-  </template>
 </templateSet>
