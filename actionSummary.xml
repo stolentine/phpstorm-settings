@@ -1,16 +1,16 @@
 <application>
   <component name="ActionsLocalSummary">
     <e n="$Copy">
-      <i c="9" l="1694174661626" />
+      <i c="10" l="1694179571093" />
     </e>
     <e n="$Cut">
       <i c="2" l="1693833516781" />
     </e>
     <e n="$Delete">
-      <i c="37" l="1694174659881" />
+      <i c="38" l="1694179579355" />
     </e>
     <e n="$Paste">
-      <i c="12" l="1694174661865" />
+      <i c="13" l="1694179571292" />
     </e>
     <e n="$Redo">
       <i c="8" l="1694110685617" />
@@ -19,7 +19,7 @@
       <i c="10" l="1694170991131" />
     </e>
     <e n="$Undo">
-      <i c="384" l="1694179294549" />
+      <i c="389" l="1694179520775" />
     </e>
     <e n="ActivateHierarchyToolWindow">
       <i c="1" l="1694106872138" />
@@ -85,10 +85,10 @@
       <i c="59" l="1694178655028" />
     </e>
     <e n="EditorCopy">
-      <i c="779" l="1694179485410" />
+      <i c="780" l="1694179584998" />
     </e>
     <e n="EditorCut">
-      <i c="906" l="1694179404025" />
+      <i c="908" l="1694179521200" />
     </e>
     <e n="EditorDelete">
       <i c="53" l="1694178538923" />
@@ -100,7 +100,7 @@
       <i c="32" l="1694170231450" />
     </e>
     <e n="EditorEnter">
-      <i c="804" l="1694179393738" />
+      <i c="805" l="1694179704464" />
     </e>
     <e n="EditorEscape">
       <i c="19" l="1694170246768" />
@@ -124,7 +124,7 @@
       <i c="117" l="1694174678767" />
     </e>
     <e n="EditorPaste">
-      <i c="1189" l="1694179485877" />
+      <i c="1191" l="1694179585365" />
     </e>
     <e n="EditorPasteFromX11">
       <i c="1" l="1693484785678" />
@@ -136,7 +136,7 @@
       <i c="141" l="1694176826994" />
     </e>
     <e n="EditorRight">
-      <i c="2952" l="1694179258065" />
+      <i c="2953" l="1694179572465" />
     </e>
     <e n="EditorRightWithSelection">
       <i c="534" l="1694178589542" />
@@ -244,7 +244,7 @@
       <i c="17" l="1693590628791" />
     </e>
     <e n="ReformatCode">
-      <i c="20" l="1694176222104" />
+      <i c="22" l="1694179701905" />
     </e>
     <e n="RenameElement">
       <i c="44" l="1694176156302" />
@@ -367,7 +367,7 @@
       <i c="4" l="1694108268166" />
     </e>
     <e n="com.intellij.openapi.ui.DialogWrapper$5">
-      <i c="49" l="1694174660310" />
+      <i c="50" l="1694179579661" />
     </e>
     <e n="com.intellij.openapi.vcs.changes.ignore.actions.CreateNewIgnoreFileAction">
       <i c="1" l="1693834195335" />
@@ -391,7 +391,7 @@
       <i c="6" l="1694106912548" />
     </e>
     <e n="com.intellij.toolWindow.ToolWindowHeader$HideAction">
-      <i c="33" l="1694106854478" />
+      <i c="34" l="1694179765212" />
     </e>
     <e n="com.intellij.toolWindow.ToolWindowHeader$ShowOptionsAction">
       <i c="3" l="1693485301770" />
