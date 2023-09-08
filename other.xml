@@ -16,7 +16,7 @@
     "PhpStorm.InitialConfiguration": "true",
     "SettingsSearchHistory": "theme\nthem",
     "TextEditorWithPreview.SplitterProportionKey": "0.62481314",
-    "appcds.runOnSecondStart": "PS-232.9559.64-d4a4e640d2e2910b1f8417a1f2196a1687d8a4c92d1d763f9ade09f5822f7372",
+    "appcds.runOnSecondStart": "PS-232.9559.64-31049b27dc7658e919888721e4c4237b409ce8bf2b731d0f916301ff3b83f011",
     "bundled.plugins.list.saved.version": "PS-232.9559.64",
     "com.intellij.history.integration.ui.views.DirectoryHistoryDialog.0": "300",
     "do.not.show.again.docker.missing.shell.plugin.notification": "true",
@@ -64,12 +64,12 @@
     ]
   }
 }]]></component>
-  <component name="ShownTips"><![CDATA[{
-  "tipsOrderSeed": 1694106724847
-}]]></component>
+  <component name="ShownTips">{
+  &quot;tipsOrderSeed&quot;: 1694106724847
+}</component>
   <component name="TerminalCommandHistoryManager">
     <command-history-files>
-      <command-history-file filename="wbtech-history" project-path="$USER_HOME$/projects/wbtech" last-access-time="1694106902093" />
+      <command-history-file filename="wbtech-history" project-path="$USER_HOME$/projects/wbtech" last-access-time="1694168435291" />
     </command-history-files>
   </component>
 </application>

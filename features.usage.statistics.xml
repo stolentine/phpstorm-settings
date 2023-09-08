@@ -27,7 +27,7 @@
     <feature id="navigation.find.replace.in.files.toggle" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="intentions.check.regexp" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="profiler.open.snapshot" count="0" last-shown="0" last-used="0" shown-count="0" />
-    <feature id="codeassists.comment.line" count="37" last-shown="0" last-used="1694110989033" shown-count="0" />
+    <feature id="codeassists.comment.line" count="39" last-shown="0" last-used="1694168928809" shown-count="0" />
     <feature id="SearchEverywhere" count="1" last-shown="0" last-used="1693397876539" shown-count="0" />
     <feature id="editor.delete.line" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="navigation.inheritance.hierarchy" count="0" last-shown="0" last-used="0" shown-count="0" />
@@ -79,7 +79,7 @@
     <feature id="codeassists.javadoc.external" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="codeassists.surroundwith.expression" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="codeassists.generate.code" count="2" last-shown="0" last-used="1693834262548" shown-count="0" />
-    <feature id="navigation.goto.declaration" count="152" last-shown="0" last-used="1694110011085" shown-count="0" />
+    <feature id="navigation.goto.declaration" count="153" last-shown="0" last-used="1694168953100" shown-count="0" />
     <feature id="editing.completion.finishByDotEtc" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="ui.open.project.tool.window" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="editing.join.lines" count="0" last-shown="0" last-used="0" shown-count="0" />
