@@ -26,7 +26,7 @@
     "experimental.ui.first.switch": "true",
     "experimental.ui.on.first.startup": "true",
     "experimental.ui.used.version": "232.9559.64",
-    "file.gist.reindex.count": "1",
+    "file.gist.reindex.count": "3",
     "fileTypeChangedCounter": "1",
     "fontSizeToResetConsole": "16.25",
     "fontSizeToResetEditor": "16.25",
@@ -70,6 +70,7 @@
   <component name="TerminalCommandHistoryManager">
     <command-history-files>
       <command-history-file filename="wbtech-history" project-path="$USER_HOME$/projects/wbtech" last-access-time="1694168435291" />
+      <command-history-file filename="wbtech-history1" project-path="$USER_HOME$/projects/wbtech" last-access-time="1694169663392" />
     </command-history-files>
   </component>
 </application>
