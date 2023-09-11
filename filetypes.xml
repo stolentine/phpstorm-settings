@@ -26,6 +26,7 @@
       <mapping pattern=".gitattributes" type="PLAIN_TEXT" />
       <mapping pattern=".set_host123.tmp" type="PLAIN_TEXT" />
       <mapping pattern=".bash_history" type="PLAIN_TEXT" />
+      <mapping pattern="._CoFoSansPixel-Regular.woff2" type="PLAIN_TEXT" />
       <mapping pattern=".env2" type="PLAIN_TEXT" />
       <mapping pattern=".env1" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
@@ -40,6 +41,7 @@
       <mapping ext="dll" type="PLAIN_TEXT" />
       <mapping ext="geojson" type="PLAIN_TEXT" />
       <mapping ext="fb2" type="PLAIN_TEXT" />
+      <mapping ext="woff2" type="PLAIN_TEXT" />
       <mapping ext="mat" type="PLAIN_TEXT" />
       <mapping ext="a9oqss" type="PLAIN_TEXT" />
       <mapping ext="assets" type="PLAIN_TEXT" />

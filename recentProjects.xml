@@ -37,12 +37,12 @@
         <entry key="$USER_HOME$/projects/wbtech">
           <value>
             <RecentProjectMetaInfo frameTitle="wbtech" opened="true">
-              <option name="activationTimestamp" value="1694188770668" />
+              <option name="activationTimestamp" value="1694430473678" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="build" value="PS-232.9559.64" />
               <option name="buildTimestamp" value="1692986604606" />
               <option name="colorInfo">
-                <RecentProjectColorInfo />
+                <RecentProjectColorInfo associatedIndex="2" />
               </option>
               <frame x="1920" y="0" width="2560" height="1396" extendedState="6" />
               <option name="productionCode" value="PS" />
