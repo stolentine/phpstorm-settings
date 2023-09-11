@@ -69,9 +69,7 @@
 }</component>
   <component name="TerminalCommandHistoryManager">
     <command-history-files>
-      <command-history-file filename="wbtech-history" project-path="$USER_HOME$/projects/wbtech" last-access-time="1694168435291" />
       <command-history-file filename="wbtech-history2" project-path="$USER_HOME$/projects/wbtech" last-access-time="1694430046520" />
-      <command-history-file filename="wbtech-history1" project-path="$USER_HOME$/projects/wbtech" last-access-time="1694169663392" />
     </command-history-files>
   </component>
 </application>
