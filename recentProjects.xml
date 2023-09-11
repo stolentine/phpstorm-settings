@@ -37,7 +37,7 @@
         <entry key="$USER_HOME$/projects/wbtech">
           <value>
             <RecentProjectMetaInfo frameTitle="wbtech" opened="true">
-              <option name="activationTimestamp" value="1694438606295" />
+              <option name="activationTimestamp" value="1694443527962" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="build" value="PS-232.9559.64" />
               <option name="buildTimestamp" value="1692986604606" />
@@ -68,8 +68,8 @@
         </entry>
         <entry key="$USER_HOME$/projects/wbday">
           <value>
-            <RecentProjectMetaInfo frameTitle="wbday – main.css" projectWorkspaceId="2N3qqZ0lBPrzOkSctPV1J7LvWtd">
-              <option name="activationTimestamp" value="1694434458889" />
+            <RecentProjectMetaInfo frameTitle="wbday – main.css" opened="true" projectWorkspaceId="2N3qqZ0lBPrzOkSctPV1J7LvWtd">
+              <option name="activationTimestamp" value="1694443433805" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="build" value="PS-232.9559.64" />
               <option name="buildTimestamp" value="1692986620363" />
@@ -78,7 +78,7 @@
               </option>
               <frame x="2500" y="198" width="1400" height="1000" />
               <option name="productionCode" value="PS" />
-              <option name="projectOpenTimestamp" value="1694433664097" />
+              <option name="projectOpenTimestamp" value="1694442217414" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
