@@ -19,7 +19,7 @@
       <i c="13" l="1694430323837" />
     </e>
     <e n="$Undo">
-      <i c="398" l="1694432083015" />
+      <i c="400" l="1694433990602" />
     </e>
     <e n="ActivateHierarchyToolWindow">
       <i c="1" l="1694106872138" />
@@ -52,7 +52,7 @@
       <i c="1" l="1693496249503" />
     </e>
     <e n="CommentByLineComment">
-      <i c="81" l="1694432124150" />
+      <i c="84" l="1694434342996" />
     </e>
     <e n="Console.TableResult.Reload">
       <i c="1" l="1693819222558" />
@@ -76,31 +76,31 @@
       <i c="1" l="1693817931340" />
     </e>
     <e n="EditorBackSpace">
-      <i c="1972" l="1694432209140" />
+      <i c="2000" l="1694434340709" />
     </e>
     <e n="EditorChooseLookupItem">
-      <i c="851" l="1694432171414" />
+      <i c="861" l="1694434341836" />
     </e>
     <e n="EditorChooseLookupItemReplace">
-      <i c="61" l="1694182695076" />
+      <i c="62" l="1694434250476" />
     </e>
     <e n="EditorCopy">
-      <i c="815" l="1694432211579" />
+      <i c="823" l="1694434291286" />
     </e>
     <e n="EditorCut">
-      <i c="939" l="1694432185548" />
+      <i c="955" l="1694434015625" />
     </e>
     <e n="EditorDelete">
       <i c="54" l="1694182261695" />
     </e>
     <e n="EditorDown">
-      <i c="3776" l="1694432113238" />
+      <i c="3786" l="1694434335343" />
     </e>
     <e n="EditorDownWithSelection">
       <i c="32" l="1694170231450" />
     </e>
     <e n="EditorEnter">
-      <i c="838" l="1694432135704" />
+      <i c="863" l="1694434248920" />
     </e>
     <e n="EditorEscape">
       <i c="19" l="1694170246768" />
@@ -109,7 +109,7 @@
       <i c="5" l="1694175019933" />
     </e>
     <e n="EditorLeft">
-      <i c="3341" l="1694432042968" />
+      <i c="3349" l="1694434329239" />
     </e>
     <e n="EditorLeftWithSelection">
       <i c="655" l="1694432044618" />
@@ -124,7 +124,7 @@
       <i c="124" l="1694432156501" />
     </e>
     <e n="EditorPaste">
-      <i c="1238" l="1694432212755" />
+      <i c="1250" l="1694434291670" />
     </e>
     <e n="EditorPasteFromX11">
       <i c="1" l="1693484785678" />
@@ -136,10 +136,10 @@
       <i c="142" l="1694432156800" />
     </e>
     <e n="EditorRight">
-      <i c="3035" l="1694432060131" />
+      <i c="3048" l="1694434248640" />
     </e>
     <e n="EditorRightWithSelection">
-      <i c="538" l="1694182902626" />
+      <i c="540" l="1694434326287" />
     </e>
     <e n="EditorScrollDown">
       <i c="10" l="1693589527834" />
@@ -154,7 +154,7 @@
       <i c="3" l="1693593038718" />
     </e>
     <e n="EditorTab">
-      <i c="70" l="1694432034096" />
+      <i c="73" l="1694433638048" />
     </e>
     <e n="EditorToggleCase">
       <i c="1" l="1693505988778" />
@@ -163,13 +163,13 @@
       <i c="2" l="1693505796743" />
     </e>
     <e n="EditorUp">
-      <i c="3286" l="1694183143399" />
+      <i c="3294" l="1694434342331" />
     </e>
     <e n="EditorUpWithSelection">
       <i c="176" l="1694020674131" />
     </e>
     <e n="ExpandLiveTemplateByTab">
-      <i c="18" l="1694176852712" />
+      <i c="20" l="1694433465886" />
     </e>
     <e n="ExtractMethod">
       <i c="1" l="1693411885483" />
@@ -238,7 +238,7 @@
       <i c="79" l="1694176164641" />
     </e>
     <e n="OpenFile">
-      <i c="7" l="1694021628868" />
+      <i c="8" l="1694433654436" />
     </e>
     <e n="PhpNewClass">
       <i c="17" l="1693590628791" />
@@ -268,7 +268,7 @@
       <i c="1" l="1693502612846" />
     </e>
     <e n="SaveAll">
-      <i c="152" l="1694432226030" />
+      <i c="155" l="1694434343535" />
     </e>
     <e n="SearchEverywhere">
       <i c="1" l="1693397876314" />
@@ -382,10 +382,13 @@
       <i c="2" l="1694106885342" />
     </e>
     <e n="com.intellij.openapi.wm.impl.SquareAnActionButton">
-      <i c="167" l="1694430046385" />
+      <i c="168" l="1694433666737" />
     </e>
     <e n="com.intellij.openapi.wm.impl.customFrameDecorations.header.toolbar.MainMenuButton$ShowMenuAction">
-      <i c="21" l="1694107422402" />
+      <i c="22" l="1694433652943" />
+    </e>
+    <e n="com.intellij.psi.css.browse.CssColorGutterRenderer$1">
+      <i c="1" l="1694434293233" />
     </e>
     <e n="com.intellij.toolWindow.ShowMoreToolWindowsAction">
       <i c="6" l="1694106912548" />
