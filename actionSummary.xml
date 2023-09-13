@@ -208,7 +208,7 @@
       <i c="9" l="1694537411443" />
     </e>
     <e n="Git.Commit.And.Push.Executor">
-      <i c="55" l="1694563681160" />
+      <i c="57" l="1694565492355" />
     </e>
     <e n="Git.Log.Branches.Settings">
       <i c="1" l="1693832810200" />
@@ -382,7 +382,7 @@
       <i c="1" l="1693497869740" />
     </e>
     <e n="com.intellij.ide.browsers.actions.BaseOpenInBrowserAction">
-      <i c="10" l="1694467026522" />
+      <i c="11" l="1694564056709" />
     </e>
     <e n="com.intellij.openapi.actionSystem.DefaultActionGroup">
       <i c="3" l="1694443758868" />
