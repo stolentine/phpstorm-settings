@@ -27,7 +27,7 @@
     "experimental.ui.first.switch": "true",
     "experimental.ui.on.first.startup": "true",
     "experimental.ui.used.version": "232.9559.64",
-    "file.gist.reindex.count": "17",
+    "file.gist.reindex.count": "21",
     "fileTypeChangedCounter": "3",
     "fontSizeToResetConsole": "16.25",
     "fontSizeToResetEditor": "16.25",
@@ -48,10 +48,10 @@
   },
   "keyToStringList": {
     "file.chooser.recent.files": [
-      "/home/stolentine/projects/wbday",
       "/home/stolentine/projects/topcargo",
-      "/home/stolentine/projects/wbtech",
       "/home/stolentine/projects/bonus-community/monolith",
+      "/home/stolentine/projects/wbday",
+      "/home/stolentine/projects/wbtech",
       "/home/stolentine/projects/docs"
     ],
     "fileTypeDetectors": [
@@ -72,7 +72,7 @@
 }</component>
   <component name="TerminalCommandHistoryManager">
     <command-history-files>
-      <command-history-file filename="wbtech-history" project-path="$USER_HOME$/projects/wbtech" last-access-time="1694563702151" />
+      <command-history-file filename="wbtech-history" project-path="$USER_HOME$/projects/wbtech" last-access-time="1694620353315" />
     </command-history-files>
   </component>
 </application>
