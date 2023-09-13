@@ -52,8 +52,8 @@
         </entry>
         <entry key="$USER_HOME$/projects/bonus-community/monolith">
           <value>
-            <RecentProjectMetaInfo displayName="monolith, bonus-community..." frameTitle="monolith – bc.identity.contactVerificationCodes [prod]" opened="true" projectWorkspaceId="2S9iRz9zTMZpxIaG9ndFICFb3mR">
-              <option name="activationTimestamp" value="1694623357216" />
+            <RecentProjectMetaInfo displayName="monolith, bonus-community..." frameTitle="monolith" opened="true" projectWorkspaceId="2S9iRz9zTMZpxIaG9ndFICFb3mR">
+              <option name="activationTimestamp" value="1694630612607" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="build" value="PS-232.9559.64" />
               <option name="buildTimestamp" value="1692986608582" />
@@ -68,8 +68,8 @@
         </entry>
         <entry key="$USER_HOME$/projects/topcargo">
           <value>
-            <RecentProjectMetaInfo frameTitle="topcargo – .env" opened="true" projectWorkspaceId="2PVsHbwxtqMCnpEKyWKNXLGglU0">
-              <option name="activationTimestamp" value="1694623613312" />
+            <RecentProjectMetaInfo frameTitle="topcargo – CreateRequest.php" projectWorkspaceId="2PVsHbwxtqMCnpEKyWKNXLGglU0">
+              <option name="activationTimestamp" value="1694623810056" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="build" value="PS-232.9559.64" />
               <option name="buildTimestamp" value="1692986608582" />
@@ -82,8 +82,24 @@
             </RecentProjectMetaInfo>
           </value>
         </entry>
+        <entry key="$USER_HOME$/projects/bc-mobile">
+          <value>
+            <RecentProjectMetaInfo frameTitle="bc-mobile – profile.dart" projectWorkspaceId="2VLmRs2Gw2rhP0Ntk6x8rWxym2e">
+              <option name="activationTimestamp" value="1694630496767" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="PS-232.9559.64" />
+              <option name="buildTimestamp" value="1692986608582" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="4" />
+              </option>
+              <frame x="2500" y="198" width="1400" height="1000" extendedState="6" />
+              <option name="productionCode" value="PS" />
+              <option name="projectOpenTimestamp" value="1694623729988" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
       </map>
     </option>
-    <option name="lastOpenedProject" value="$USER_HOME$/projects/topcargo" />
+    <option name="lastOpenedProject" value="$USER_HOME$/projects/bonus-community/monolith" />
   </component>
 </application>

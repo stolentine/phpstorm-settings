@@ -7,7 +7,7 @@
       <i c="2" l="1693833516781" />
     </e>
     <e n="$Delete">
-      <i c="65" l="1694568296448" />
+      <i c="66" l="1694630574469" />
     </e>
     <e n="$Paste">
       <i c="33" l="1694567175728" />
@@ -19,7 +19,7 @@
       <i c="87" l="1694623206730" />
     </e>
     <e n="$Undo">
-      <i c="767" l="1694622636219" />
+      <i c="769" l="1694625187840" />
     </e>
     <e n="ActivateHierarchyToolWindow">
       <i c="1" l="1694106872138" />
@@ -37,7 +37,7 @@
       <i c="2" l="1694443759588" />
     </e>
     <e n="ChangesView.Revert">
-      <i c="3" l="1693835859491" />
+      <i c="4" l="1694630580252" />
     </e>
     <e n="CloseAllEditors">
       <i c="11" l="1694568323130" />
@@ -46,7 +46,7 @@
       <i c="10" l="1694020133248" />
     </e>
     <e n="CloseAllToTheRight">
-      <i c="23" l="1694621869899" />
+      <i c="24" l="1694630509893" />
     </e>
     <e n="CodeCompletion">
       <i c="1" l="1694438438085" />
@@ -64,7 +64,7 @@
       <i c="10" l="1694623282600" />
     </e>
     <e n="Console.TableResult.Reload">
-      <i c="3" l="1694623152862" />
+      <i c="4" l="1694624653637" />
     </e>
     <e n="Console.TableResult.Submit">
       <i c="10" l="1694623283535" />
@@ -76,7 +76,7 @@
       <i c="3" l="1694620444173" />
     </e>
     <e n="DatabaseView.Refresh">
-      <i c="2" l="1694620438820" />
+      <i c="3" l="1694624570265" />
     </e>
     <e n="Docker.AddDockerConnection">
       <i c="1" l="1693322998621" />
@@ -88,7 +88,7 @@
       <i c="1" l="1693817931340" />
     </e>
     <e n="EditorBackSpace">
-      <i c="3425" l="1694623612135" />
+      <i c="3428" l="1694630588821" />
     </e>
     <e n="EditorChooseLookupItem">
       <i c="1339" l="1694623240984" />
@@ -97,7 +97,7 @@
       <i c="101" l="1694560598613" />
     </e>
     <e n="EditorCopy">
-      <i c="1635" l="1694623206971" />
+      <i c="1637" l="1694624629027" />
     </e>
     <e n="EditorCut">
       <i c="1773" l="1694622630614" />
@@ -115,7 +115,7 @@
       <i c="1" l="1694536827930" />
     </e>
     <e n="EditorEnter">
-      <i c="1919" l="1694622623694" />
+      <i c="1920" l="1694625025184" />
     </e>
     <e n="EditorEscape">
       <i c="26" l="1694623613514" />
@@ -142,7 +142,7 @@
       <i c="1" l="1694558643199" />
     </e>
     <e n="EditorPaste">
-      <i c="2751" l="1694623277651" />
+      <i c="2753" l="1694624524150" />
     </e>
     <e n="EditorPasteFromX11">
       <i c="4" l="1694517339853" />
@@ -208,7 +208,7 @@
       <i c="23" l="1694563528003" />
     </e>
     <e n="FindInPath">
-      <i c="9" l="1694622902944" />
+      <i c="12" l="1694625268668" />
     </e>
     <e n="Generate">
       <i c="2" l="1693834262526" />
@@ -217,7 +217,7 @@
       <i c="9" l="1694537411443" />
     </e>
     <e n="Git.Commit.And.Push.Executor">
-      <i c="58" l="1694568341079" />
+      <i c="59" l="1694630593293" />
     </e>
     <e n="Git.Log.Branches.Settings">
       <i c="1" l="1693832810200" />
@@ -226,7 +226,7 @@
       <i c="1" l="1693832794918" />
     </e>
     <e n="GotoDeclaration">
-      <i c="305" l="1694622519211" />
+      <i c="308" l="1694624227441" />
     </e>
     <e n="HideAllWindows">
       <i c="5" l="1694532370940" />
@@ -274,7 +274,7 @@
       <i c="86" l="1694547239906" />
     </e>
     <e n="OpenFile">
-      <i c="14" l="1694622528100" />
+      <i c="15" l="1694623725951" />
     </e>
     <e n="PhpNewClass">
       <i c="17" l="1693590628791" />
@@ -310,7 +310,7 @@
       <i c="1" l="1693397876314" />
     </e>
     <e n="SelectInProjectView">
-      <i c="30" l="1694622650981" />
+      <i c="31" l="1694624212532" />
     </e>
     <e n="ServiceView.AddService">
       <i c="1" l="1693322996017" />
@@ -373,7 +373,7 @@
       <i c="2" l="1694620408967" />
     </e>
     <e n="com.intellij.database.run.ui.grid.GridEditorPanelBase$ApplyAction">
-      <i c="14" l="1694623279397" />
+      <i c="16" l="1694624602120" />
     </e>
     <e n="com.intellij.docker.action.containers.CreateTerminalAction">
       <i c="7" l="1694567767636" />
@@ -397,7 +397,7 @@
       <i c="5" l="1693565017419" />
     </e>
     <e n="com.intellij.find.impl.FindPopupPanel$MyEnterAction">
-      <i c="1" l="1693497869740" />
+      <i c="2" l="1694624739414" />
     </e>
     <e n="com.intellij.ide.browsers.actions.BaseOpenInBrowserAction">
       <i c="11" l="1694564056709" />
@@ -409,7 +409,7 @@
       <i c="2" l="1694000562693" />
     </e>
     <e n="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
-      <i c="117" l="1694621878335" />
+      <i c="120" l="1694630511098" />
     </e>
     <e n="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
       <i c="23" l="1694561666863" />
@@ -430,10 +430,10 @@
       <i c="2" l="1694106885342" />
     </e>
     <e n="com.intellij.openapi.wm.impl.SquareAnActionButton">
-      <i c="193" l="1694621100168" />
+      <i c="198" l="1694630517113" />
     </e>
     <e n="com.intellij.openapi.wm.impl.customFrameDecorations.header.toolbar.MainMenuButton$ShowMenuAction">
-      <i c="31" l="1694623601553" />
+      <i c="32" l="1694623724772" />
     </e>
     <e n="com.intellij.psi.css.browse.CssColorGutterRenderer$1">
       <i c="13" l="1694532271700" />
@@ -442,7 +442,7 @@
       <i c="6" l="1694106912548" />
     </e>
     <e n="com.intellij.toolWindow.ToolWindowHeader$HideAction">
-      <i c="37" l="1694183297351" />
+      <i c="38" l="1694623812849" />
     </e>
     <e n="com.intellij.toolWindow.ToolWindowHeader$ShowOptionsAction">
       <i c="3" l="1693485301770" />
@@ -460,7 +460,7 @@
       <i c="5" l="1693411120169" />
     </e>
     <e n="com.intellij.ui.ScrollingUtil$TableMoveDownAction">
-      <i c="8" l="1694457749909" />
+      <i c="10" l="1694624739045" />
     </e>
     <e n="com.intellij.xdebugger.impl.breakpoints.RemoveBreakpointGutterIconAction">
       <i c="5" l="1694622027565" />
