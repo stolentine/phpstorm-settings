@@ -19601,7 +19601,7 @@
         ]
       }
     },
-    "lastUpdateTime": 1694429452920
+    "lastUpdateTime": 1694567065052
   },
   "dependencies": {
     "featureMap": {
@@ -21198,7 +21198,7 @@
         ]
       }
     },
-    "lastUpdateTime": 1694429453049
+    "lastUpdateTime": 1694567065186
   }
 }]]></component>
   <component name="PluginFeatureService">{
@@ -21682,6 +21682,384 @@
         <option name="lastDeliveredChunkUniqueId" value="php-laravel_framework-244665e02735-6c9dcb21" />
         <option name="lastDownloadDate" value="2023-09-08T13:20:42.143440718+03:00[Europe/Moscow]" />
         <option name="lastDownloadSize" value="1945148" />
+      </entry>
+      <entry>
+        <option name="indexId" value="phpunit/php-code-coverage==9.2" />
+        <option name="indexKind" value="php" />
+        <option name="lastDeliveredChunkUniqueId" value="php-phpunit_php_code_coverage-244665e02735-ad60936e" />
+        <option name="lastDownloadDate" value="2023-09-13T04:04:21.064027144+03:00[Europe/Moscow]" />
+        <option name="lastDownloadSize" value="574928" />
+      </entry>
+      <entry>
+        <option name="indexId" value="nesbot/carbon==2.6" />
+        <option name="indexKind" value="php" />
+        <option name="lastDeliveredChunkUniqueId" value="php-nesbot_carbon-244665e02735-47987ddc" />
+        <option name="lastDownloadDate" value="2023-09-13T04:04:22.135751423+03:00[Europe/Moscow]" />
+        <option name="lastDownloadSize" value="697248" />
+      </entry>
+      <entry>
+        <option name="indexId" value="phpunit/phpunit==9.5" />
+        <option name="indexKind" value="php" />
+        <option name="lastDeliveredChunkUniqueId" value="php-phpunit_phpunit-244665e02735-af10f284" />
+        <option name="lastDownloadDate" value="2023-09-13T04:04:22.88367942+03:00[Europe/Moscow]" />
+        <option name="lastDownloadSize" value="490600" />
+      </entry>
+      <entry>
+        <option name="indexId" value="doctrine/inflector==2.0" />
+        <option name="indexKind" value="php" />
+        <option name="lastDeliveredChunkUniqueId" value="php-doctrine_inflector-244665e02735-647efcfd" />
+        <option name="lastDownloadDate" value="2023-09-13T04:04:24.685565901+03:00[Europe/Moscow]" />
+        <option name="lastDownloadSize" value="4206484" />
+      </entry>
+      <entry>
+        <option name="indexId" value="fakerphp/faker==1.2" />
+        <option name="indexKind" value="php" />
+        <option name="lastDeliveredChunkUniqueId" value="php-fakerphp_faker-244665e02735-476e11d4" />
+        <option name="lastDownloadDate" value="2023-09-13T04:04:26.483930682+03:00[Europe/Moscow]" />
+        <option name="lastDownloadSize" value="4371644" />
+      </entry>
+      <entry>
+        <option name="indexId" value="friendsofphp/php-cs-fixer==3.0" />
+        <option name="indexKind" value="php" />
+        <option name="lastDeliveredChunkUniqueId" value="php-friendsofphp_php_cs_fixer-244665e02735-f5b47b67" />
+        <option name="lastDownloadDate" value="2023-09-13T04:04:27.501063864+03:00[Europe/Moscow]" />
+        <option name="lastDownloadSize" value="690584" />
+      </entry>
+      <entry>
+        <option name="indexId" value="symfony/console==6.1" />
+        <option name="indexKind" value="php" />
+        <option name="lastDeliveredChunkUniqueId" value="php-symfony_console-244665e02735-b5baf9d7" />
+        <option name="lastDownloadDate" value="2023-09-13T04:04:28.397417611+03:00[Europe/Moscow]" />
+        <option name="lastDownloadSize" value="241100" />
+      </entry>
+      <entry>
+        <option name="indexId" value="nunomaduro/termwind==1.1" />
+        <option name="indexKind" value="php" />
+        <option name="lastDeliveredChunkUniqueId" value="php-nunomaduro_termwind-244665e02735-7e021d57" />
+        <option name="lastDownloadDate" value="2023-09-13T04:04:29.272772507+03:00[Europe/Moscow]" />
+        <option name="lastDownloadSize" value="96704" />
+      </entry>
+      <entry>
+        <option name="indexId" value="symfony/http-kernel==6.1" />
+        <option name="indexKind" value="php" />
+        <option name="lastDeliveredChunkUniqueId" value="php-symfony_http_kernel-244665e02735-33342b26" />
+        <option name="lastDownloadDate" value="2023-09-13T04:04:30.183024944+03:00[Europe/Moscow]" />
+        <option name="lastDownloadSize" value="269208" />
+      </entry>
+      <entry>
+        <option name="indexId" value="symfony/property-access==6.1" />
+        <option name="indexKind" value="php" />
+        <option name="lastDeliveredChunkUniqueId" value="php-symfony_property_access-244665e02735-0a86e4e2" />
+        <option name="lastDownloadDate" value="2023-09-13T04:04:31.071127952+03:00[Europe/Moscow]" />
+        <option name="lastDownloadSize" value="59868" />
+      </entry>
+      <entry>
+        <option name="indexId" value="league/commonmark==2.3" />
+        <option name="indexKind" value="php" />
+        <option name="lastDeliveredChunkUniqueId" value="php-league_commonmark-244665e02735-62faaec2" />
+        <option name="lastDownloadDate" value="2023-09-13T04:04:31.961385377+03:00[Europe/Moscow]" />
+        <option name="lastDownloadSize" value="314204" />
+      </entry>
+      <entry>
+        <option name="indexId" value="ramsey/uuid==4.1" />
+        <option name="indexKind" value="php" />
+        <option name="lastDeliveredChunkUniqueId" value="php-ramsey_uuid-244665e02735-5c51337a" />
+        <option name="lastDownloadDate" value="2023-09-13T04:04:32.792205511+03:00[Europe/Moscow]" />
+        <option name="lastDownloadSize" value="161056" />
+      </entry>
+      <entry>
+        <option name="indexId" value="php-http/client-common==2.6" />
+        <option name="indexKind" value="php" />
+        <option name="lastDeliveredChunkUniqueId" value="php-php_http_client_common-244665e02735-f91ac03d" />
+        <option name="lastDownloadDate" value="2023-09-13T04:04:33.589665172+03:00[Europe/Moscow]" />
+        <option name="lastDownloadSize" value="103844" />
+      </entry>
+      <entry>
+        <option name="indexId" value="nunomaduro/collision==6.1" />
+        <option name="indexKind" value="php" />
+        <option name="lastDeliveredChunkUniqueId" value="php-nunomaduro_collision-244665e02735-1ac8530c" />
+        <option name="lastDownloadDate" value="2023-09-13T04:04:34.359291959+03:00[Europe/Moscow]" />
+        <option name="lastDownloadSize" value="86300" />
+      </entry>
+      <entry>
+        <option name="indexId" value="doctrine/dbal==3.4" />
+        <option name="indexKind" value="php" />
+        <option name="lastDeliveredChunkUniqueId" value="php-doctrine_dbal-244665e02735-2274b569" />
+        <option name="lastDownloadDate" value="2023-09-13T04:04:35.346672829+03:00[Europe/Moscow]" />
+        <option name="lastDownloadSize" value="534456" />
+      </entry>
+      <entry>
+        <option name="indexId" value="symfony/translation==6.1" />
+        <option name="indexKind" value="php" />
+        <option name="lastDeliveredChunkUniqueId" value="php-symfony_translation-244665e02735-03be0610" />
+        <option name="lastDownloadDate" value="2023-09-13T04:04:36.255213715+03:00[Europe/Moscow]" />
+        <option name="lastDownloadSize" value="190664" />
+      </entry>
+      <entry>
+        <option name="indexId" value="symfony/css-selector==6.0" />
+        <option name="indexKind" value="php" />
+        <option name="lastDeliveredChunkUniqueId" value="php-symfony_css_selector-244665e02735-bc8dfc24" />
+        <option name="lastDownloadDate" value="2023-09-13T04:04:37.249357311+03:00[Europe/Moscow]" />
+        <option name="lastDownloadSize" value="80920" />
+      </entry>
+      <entry>
+        <option name="indexId" value="symfony/error-handler==6.2" />
+        <option name="indexKind" value="php" />
+        <option name="lastDeliveredChunkUniqueId" value="php-symfony_error_handler-244665e02735-8a267631" />
+        <option name="lastDownloadDate" value="2023-09-13T04:04:38.421203287+03:00[Europe/Moscow]" />
+        <option name="lastDownloadSize" value="180224" />
+      </entry>
+      <entry>
+        <option name="indexId" value="guzzlehttp/psr7==2.4" />
+        <option name="indexKind" value="php" />
+        <option name="lastDeliveredChunkUniqueId" value="php-guzzlehttp_psr7-244665e02735-e20488ed" />
+        <option name="lastDownloadDate" value="2023-09-13T04:04:39.332497896+03:00[Europe/Moscow]" />
+        <option name="lastDownloadSize" value="180348" />
+      </entry>
+      <entry>
+        <option name="indexId" value="phpdocumentor/reflection-docblock==5.1" />
+        <option name="indexKind" value="php" />
+        <option name="lastDeliveredChunkUniqueId" value="php-phpdocumentor_reflection_docblock-244665e02735-2b5bda5e" />
+        <option name="lastDownloadDate" value="2023-09-13T04:04:40.398843804+03:00[Europe/Moscow]" />
+        <option name="lastDownloadSize" value="94504" />
+      </entry>
+      <entry>
+        <option name="indexId" value="symfony/mime==6.2" />
+        <option name="indexKind" value="php" />
+        <option name="lastDeliveredChunkUniqueId" value="php-symfony_mime-244665e02735-5f0b429c" />
+        <option name="lastDownloadDate" value="2023-09-13T04:04:41.415877602+03:00[Europe/Moscow]" />
+        <option name="lastDownloadSize" value="286476" />
+      </entry>
+      <entry>
+        <option name="indexId" value="symfony/var-dumper==5.4" />
+        <option name="indexKind" value="php" />
+        <option name="lastDeliveredChunkUniqueId" value="php-symfony_var_dumper-244665e02735-00057e8a" />
+        <option name="lastDownloadDate" value="2023-09-13T04:04:42.418263325+03:00[Europe/Moscow]" />
+        <option name="lastDownloadSize" value="186024" />
+      </entry>
+      <entry>
+        <option name="indexId" value="symfony/mailer==6.2" />
+        <option name="indexKind" value="php" />
+        <option name="lastDeliveredChunkUniqueId" value="php-symfony_mailer-244665e02735-10d998e0" />
+        <option name="lastDownloadDate" value="2023-09-13T04:04:43.245231115+03:00[Europe/Moscow]" />
+        <option name="lastDownloadSize" value="104432" />
+      </entry>
+      <entry>
+        <option name="indexId" value="dragonmantank/cron-expression==3.3" />
+        <option name="indexKind" value="php" />
+        <option name="lastDeliveredChunkUniqueId" value="php-dragonmantank_cron_expression-244665e02735-4fdfcb58" />
+        <option name="lastDownloadDate" value="2023-09-13T04:04:44.039748896+03:00[Europe/Moscow]" />
+        <option name="lastDownloadSize" value="60816" />
+      </entry>
+      <entry>
+        <option name="indexId" value="phar-io/version==3.0" />
+        <option name="indexKind" value="php" />
+        <option name="lastDeliveredChunkUniqueId" value="php-phar_io_version-244665e02735-fb1dae6b" />
+        <option name="lastDownloadDate" value="2023-09-13T04:04:44.921885273+03:00[Europe/Moscow]" />
+        <option name="lastDownloadSize" value="62628" />
+      </entry>
+      <entry>
+        <option name="indexId" value="symfony/string==6.0" />
+        <option name="indexKind" value="php" />
+        <option name="lastDeliveredChunkUniqueId" value="php-symfony_string-244665e02735-838c3892" />
+        <option name="lastDownloadDate" value="2023-09-13T04:04:45.83933366+03:00[Europe/Moscow]" />
+        <option name="lastDownloadSize" value="108468" />
+      </entry>
+      <entry>
+        <option name="indexId" value="symfony/property-info==6.0" />
+        <option name="indexKind" value="php" />
+        <option name="lastDeliveredChunkUniqueId" value="php-symfony_property_info-244665e02735-655608a2" />
+        <option name="lastDownloadDate" value="2023-09-13T04:04:46.65430035+03:00[Europe/Moscow]" />
+        <option name="lastDownloadSize" value="77536" />
+      </entry>
+      <entry>
+        <option name="indexId" value="mockery/mockery==1.5" />
+        <option name="indexKind" value="php" />
+        <option name="lastDeliveredChunkUniqueId" value="php-mockery_mockery-244665e02735-4f92f4b5" />
+        <option name="lastDownloadDate" value="2023-09-13T04:04:47.649874856+03:00[Europe/Moscow]" />
+        <option name="lastDownloadSize" value="195952" />
+      </entry>
+      <entry>
+        <option name="indexId" value="nette/utils==2.5" />
+        <option name="indexKind" value="php" />
+        <option name="lastDeliveredChunkUniqueId" value="php-nette_utils-244665e02735-d6c5a1f3" />
+        <option name="lastDownloadDate" value="2023-09-13T04:04:48.468244625+03:00[Europe/Moscow]" />
+        <option name="lastDownloadSize" value="106552" />
+      </entry>
+      <entry>
+        <option name="indexId" value="symfony/http-client==6.1" />
+        <option name="indexKind" value="php" />
+        <option name="lastDeliveredChunkUniqueId" value="php-symfony_http_client-244665e02735-de26dec6" />
+        <option name="lastDownloadDate" value="2023-09-13T04:04:49.380585971+03:00[Europe/Moscow]" />
+        <option name="lastDownloadSize" value="168552" />
+      </entry>
+      <entry>
+        <option name="indexId" value="symfony/psr-http-message-bridge==2.0" />
+        <option name="indexKind" value="php" />
+        <option name="lastDeliveredChunkUniqueId" value="php-symfony_psr_http_message_bridge-244665e02735-1caa6881" />
+        <option name="lastDownloadDate" value="2023-09-13T04:04:50.378755886+03:00[Europe/Moscow]" />
+        <option name="lastDownloadSize" value="71264" />
+      </entry>
+      <entry>
+        <option name="indexId" value="symfony/event-dispatcher==3.4" />
+        <option name="indexKind" value="php" />
+        <option name="lastDeliveredChunkUniqueId" value="php-symfony_event_dispatcher-244665e02735-6d5d87a7" />
+        <option name="lastDownloadDate" value="2023-09-13T04:04:51.353822507+03:00[Europe/Moscow]" />
+        <option name="lastDownloadSize" value="76716" />
+      </entry>
+      <entry>
+        <option name="indexId" value="lcobucci/jwt==3.2" />
+        <option name="indexKind" value="php" />
+        <option name="lastDeliveredChunkUniqueId" value="php-lcobucci_jwt-244665e02735-cfe770a4" />
+        <option name="lastDownloadDate" value="2023-09-13T04:04:52.621596928+03:00[Europe/Moscow]" />
+        <option name="lastDownloadSize" value="159040" />
+      </entry>
+      <entry>
+        <option name="indexId" value="symfony/http-foundation==5.4" />
+        <option name="indexKind" value="php" />
+        <option name="lastDeliveredChunkUniqueId" value="php-symfony_http_foundation-244665e02735-c23d24e7" />
+        <option name="lastDownloadDate" value="2023-09-13T04:04:53.771505919+03:00[Europe/Moscow]" />
+        <option name="lastDownloadSize" value="223752" />
+      </entry>
+      <entry>
+        <option name="indexId" value="guzzlehttp/guzzle==7.4" />
+        <option name="indexKind" value="php" />
+        <option name="lastDeliveredChunkUniqueId" value="php-guzzlehttp_guzzle-244665e02735-9a47a481" />
+        <option name="lastDownloadDate" value="2023-09-13T04:04:54.741846376+03:00[Europe/Moscow]" />
+        <option name="lastDownloadSize" value="163720" />
+      </entry>
+      <entry>
+        <option name="indexId" value="symfony/serializer==6.0" />
+        <option name="indexKind" value="php" />
+        <option name="lastDeliveredChunkUniqueId" value="php-symfony_serializer-244665e02735-784bf656" />
+        <option name="lastDownloadDate" value="2023-09-13T04:04:55.986538986+03:00[Europe/Moscow]" />
+        <option name="lastDownloadSize" value="175324" />
+      </entry>
+      <entry>
+        <option name="indexId" value="egulias/email-validator==3.1" />
+        <option name="indexKind" value="php" />
+        <option name="lastDeliveredChunkUniqueId" value="php-egulias_email_validator-244665e02735-5ff5faf2" />
+        <option name="lastDownloadDate" value="2023-09-13T04:04:56.942819761+03:00[Europe/Moscow]" />
+        <option name="lastDownloadSize" value="118572" />
+      </entry>
+      <entry>
+        <option name="indexId" value="voku/portable-ascii==1.6" />
+        <option name="indexKind" value="php" />
+        <option name="lastDeliveredChunkUniqueId" value="php-voku_portable_ascii-244665e02735-c2a56fbd" />
+        <option name="lastDownloadDate" value="2023-09-13T04:04:57.971427612+03:00[Europe/Moscow]" />
+        <option name="lastDownloadSize" value="210756" />
+      </entry>
+      <entry>
+        <option name="indexId" value="react/promise==2.8" />
+        <option name="indexKind" value="php" />
+        <option name="lastDeliveredChunkUniqueId" value="php-react_promise-244665e02735-e7309141" />
+        <option name="lastDownloadDate" value="2023-09-13T04:04:59.077154785+03:00[Europe/Moscow]" />
+        <option name="lastDownloadSize" value="57820" />
+      </entry>
+      <entry>
+        <option name="indexId" value="nikic/php-parser==4.1" />
+        <option name="indexKind" value="php" />
+        <option name="lastDeliveredChunkUniqueId" value="php-nikic_php_parser-244665e02735-b51a2097" />
+        <option name="lastDownloadDate" value="2023-09-13T04:05:00.238268897+03:00[Europe/Moscow]" />
+        <option name="lastDownloadSize" value="296752" />
+      </entry>
+      <entry>
+        <option name="indexId" value="symfony/options-resolver==6.1" />
+        <option name="indexKind" value="php" />
+        <option name="lastDeliveredChunkUniqueId" value="php-symfony_options_resolver-244665e02735-9481daf6" />
+        <option name="lastDownloadDate" value="2023-09-13T04:05:01.185490388+03:00[Europe/Moscow]" />
+        <option name="lastDownloadSize" value="52376" />
+      </entry>
+      <entry>
+        <option name="indexId" value="doctrine/annotations==1.4" />
+        <option name="indexKind" value="php" />
+        <option name="lastDeliveredChunkUniqueId" value="php-doctrine_annotations-244665e02735-795c9879" />
+        <option name="lastDownloadDate" value="2023-09-13T04:05:02.255696876+03:00[Europe/Moscow]" />
+        <option name="lastDownloadSize" value="79512" />
+      </entry>
+      <entry>
+        <option name="indexId" value="monolog/monolog==2.0" />
+        <option name="indexKind" value="php" />
+        <option name="lastDeliveredChunkUniqueId" value="php-monolog_monolog-244665e02735-da3ed1cb" />
+        <option name="lastDownloadDate" value="2023-09-13T04:05:03.313917054+03:00[Europe/Moscow]" />
+        <option name="lastDownloadSize" value="231376" />
+      </entry>
+      <entry>
+        <option name="indexId" value="guzzlehttp/promises==1.0" />
+        <option name="indexKind" value="php" />
+        <option name="lastDeliveredChunkUniqueId" value="php-guzzlehttp_promises-244665e02735-0f1d110c" />
+        <option name="lastDownloadDate" value="2023-09-13T04:05:04.382079651+03:00[Europe/Moscow]" />
+        <option name="lastDownloadSize" value="81792" />
+      </entry>
+      <entry>
+        <option name="indexId" value="sebastian/comparator==2.0" />
+        <option name="indexKind" value="php" />
+        <option name="lastDeliveredChunkUniqueId" value="php-sebastian_comparator-244665e02735-433aab74" />
+        <option name="lastDownloadDate" value="2023-09-13T04:05:05.345615824+03:00[Europe/Moscow]" />
+        <option name="lastDownloadSize" value="66536" />
+      </entry>
+      <entry>
+        <option name="indexId" value="paragonie/random_compat==2.0" />
+        <option name="indexKind" value="php" />
+        <option name="lastDeliveredChunkUniqueId" value="php-paragonie_random_compat-244665e02735-8ee518a3" />
+        <option name="lastDownloadDate" value="2023-09-13T04:05:06.229478707+03:00[Europe/Moscow]" />
+        <option name="lastDownloadSize" value="69032" />
+      </entry>
+      <entry>
+        <option name="indexId" value="symfony/finder==6.0" />
+        <option name="indexKind" value="php" />
+        <option name="lastDeliveredChunkUniqueId" value="php-symfony_finder-244665e02735-8dad4e87" />
+        <option name="lastDownloadDate" value="2023-09-13T04:05:07.336028171+03:00[Europe/Moscow]" />
+        <option name="lastDownloadSize" value="64132" />
+      </entry>
+      <entry>
+        <option name="indexId" value="symfony/yaml==6.0" />
+        <option name="indexKind" value="php" />
+        <option name="lastDeliveredChunkUniqueId" value="php-symfony_yaml-244665e02735-435991ee" />
+        <option name="lastDownloadDate" value="2023-09-13T04:05:08.791429134+03:00[Europe/Moscow]" />
+        <option name="lastDownloadSize" value="71188" />
+      </entry>
+      <entry>
+        <option name="indexId" value="symfony/http-client-contracts==3.1" />
+        <option name="indexKind" value="php" />
+        <option name="lastDeliveredChunkUniqueId" value="php-symfony_http_client_contracts-244665e02735-feb52009" />
+        <option name="lastDownloadDate" value="2023-09-13T04:05:09.812534396+03:00[Europe/Moscow]" />
+        <option name="lastDownloadSize" value="56236" />
+      </entry>
+      <entry>
+        <option name="indexId" value="vlucas/phpdotenv==5.5" />
+        <option name="indexKind" value="php" />
+        <option name="lastDeliveredChunkUniqueId" value="php-vlucas_phpdotenv-244665e02735-7a0807fd" />
+        <option name="lastDownloadDate" value="2023-09-13T04:05:10.940297751+03:00[Europe/Moscow]" />
+        <option name="lastDownloadSize" value="73588" />
+      </entry>
+      <entry>
+        <option name="indexId" value="symfony/routing==6.1" />
+        <option name="indexKind" value="php" />
+        <option name="lastDeliveredChunkUniqueId" value="php-symfony_routing-244665e02735-4c465b31" />
+        <option name="lastDownloadDate" value="2023-09-13T04:05:12.096948271+03:00[Europe/Moscow]" />
+        <option name="lastDownloadSize" value="146596" />
+      </entry>
+      <entry>
+        <option name="indexId" value="league/flysystem==2.4" />
+        <option name="indexKind" value="php" />
+        <option name="lastDeliveredChunkUniqueId" value="php-league_flysystem-244665e02735-68a48625" />
+        <option name="lastDownloadDate" value="2023-09-13T04:05:13.218197193+03:00[Europe/Moscow]" />
+        <option name="lastDownloadSize" value="81276" />
+      </entry>
+      <entry>
+        <option name="indexId" value="symfony/filesystem==5.4" />
+        <option name="indexKind" value="php" />
+        <option name="lastDeliveredChunkUniqueId" value="php-symfony_filesystem-244665e02735-7a63a2b8" />
+        <option name="lastDownloadDate" value="2023-09-13T04:05:14.129456954+03:00[Europe/Moscow]" />
+        <option name="lastDownloadSize" value="54232" />
+      </entry>
+      <entry>
+        <option name="indexId" value="symfony/process==6.1" />
+        <option name="indexKind" value="php" />
+        <option name="lastDeliveredChunkUniqueId" value="php-symfony_process-244665e02735-9c20da8d" />
+        <option name="lastDownloadDate" value="2023-09-13T04:05:15.109746763+03:00[Europe/Moscow]" />
+        <option name="lastDownloadSize" value="70188" />
       </entry>
     </option>
   </component>
