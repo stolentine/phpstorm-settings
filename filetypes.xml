@@ -17,6 +17,7 @@
       <mapping pattern="unity default resources" type="AUTO_DETECTED" />
       <mapping pattern="a" type="AUTO_DETECTED" />
       <mapping pattern="php-cs-fixer.sh" type="AUTO_DETECTED" />
+      <mapping pattern="2b932d3890a22d97f290706bf3b001fdee0ea7" type="AUTO_DETECTED" />
       <mapping pattern="awd" type="AUTO_DETECTED" />
       <mapping ext="meta" type="AUTO_DETECTED" />
       <mapping ext="14gsr3" type="AUTO_DETECTED" />
