@@ -48,11 +48,11 @@
   },
   "keyToStringList": {
     "file.chooser.recent.files": [
+      "/home/stolentine/projects/wbtech",
       "/home/stolentine/projects/topcargo",
       "/home/stolentine/projects/bc-mobile",
       "/home/stolentine/projects/bonus-community/monolith",
       "/home/stolentine/projects/wbday",
-      "/home/stolentine/projects/wbtech",
       "/home/stolentine/projects/docs"
     ],
     "fileTypeDetectors": [
@@ -74,7 +74,7 @@
   <component name="TerminalCommandHistoryManager">
     <command-history-files>
       <command-history-file filename="topcargo-history" project-path="$USER_HOME$/projects/topcargo" last-access-time="1694623615604" />
-      <command-history-file filename="wbtech-history" project-path="$USER_HOME$/projects/wbtech" last-access-time="1694620353315" />
+      <command-history-file filename="wbtech-history" project-path="$USER_HOME$/projects/wbtech" last-access-time="1694703762947" />
     </command-history-files>
   </component>
 </application>
