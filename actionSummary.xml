@@ -73,7 +73,7 @@
       <i c="2" l="1694620405897" />
     </e>
     <e n="DatabaseView.PropertiesAction">
-      <i c="3" l="1694620444173" />
+      <i c="4" l="1694701210664" />
     </e>
     <e n="DatabaseView.Refresh">
       <i c="3" l="1694624570265" />
@@ -97,7 +97,7 @@
       <i c="101" l="1694560598613" />
     </e>
     <e n="EditorCopy">
-      <i c="1637" l="1694624629027" />
+      <i c="1638" l="1694701276482" />
     </e>
     <e n="EditorCut">
       <i c="1773" l="1694622630614" />
@@ -142,7 +142,7 @@
       <i c="1" l="1694558643199" />
     </e>
     <e n="EditorPaste">
-      <i c="2753" l="1694624524150" />
+      <i c="2755" l="1694701264439" />
     </e>
     <e n="EditorPasteFromX11">
       <i c="4" l="1694517339853" />
@@ -274,7 +274,7 @@
       <i c="86" l="1694547239906" />
     </e>
     <e n="OpenFile">
-      <i c="15" l="1694623725951" />
+      <i c="16" l="1694701165809" />
     </e>
     <e n="PhpNewClass">
       <i c="17" l="1693590628791" />
@@ -430,10 +430,10 @@
       <i c="2" l="1694106885342" />
     </e>
     <e n="com.intellij.openapi.wm.impl.SquareAnActionButton">
-      <i c="198" l="1694630517113" />
+      <i c="199" l="1694701171796" />
     </e>
     <e n="com.intellij.openapi.wm.impl.customFrameDecorations.header.toolbar.MainMenuButton$ShowMenuAction">
-      <i c="32" l="1694623724772" />
+      <i c="33" l="1694701163155" />
     </e>
     <e n="com.intellij.psi.css.browse.CssColorGutterRenderer$1">
       <i c="13" l="1694532271700" />

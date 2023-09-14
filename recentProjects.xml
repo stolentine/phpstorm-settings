@@ -53,7 +53,7 @@
         <entry key="$USER_HOME$/projects/bonus-community/monolith">
           <value>
             <RecentProjectMetaInfo displayName="monolith, bonus-community..." frameTitle="monolith" opened="true" projectWorkspaceId="2S9iRz9zTMZpxIaG9ndFICFb3mR">
-              <option name="activationTimestamp" value="1694630612607" />
+              <option name="activationTimestamp" value="1694701169747" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="build" value="PS-232.9559.64" />
               <option name="buildTimestamp" value="1692986608582" />
@@ -63,22 +63,6 @@
               <frame x="1920" y="0" width="2560" height="1396" extendedState="6" />
               <option name="productionCode" value="PS" />
               <option name="projectOpenTimestamp" value="1694620369586" />
-            </RecentProjectMetaInfo>
-          </value>
-        </entry>
-        <entry key="$USER_HOME$/projects/topcargo">
-          <value>
-            <RecentProjectMetaInfo frameTitle="topcargo – CreateRequest.php" projectWorkspaceId="2PVsHbwxtqMCnpEKyWKNXLGglU0">
-              <option name="activationTimestamp" value="1694623810056" />
-              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="build" value="PS-232.9559.64" />
-              <option name="buildTimestamp" value="1692986608582" />
-              <option name="colorInfo">
-                <RecentProjectColorInfo associatedIndex="6" />
-              </option>
-              <frame x="1920" y="0" width="2560" height="1396" extendedState="6" />
-              <option name="productionCode" value="PS" />
-              <option name="projectOpenTimestamp" value="1694622536591" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
@@ -98,8 +82,24 @@
             </RecentProjectMetaInfo>
           </value>
         </entry>
+        <entry key="$USER_HOME$/projects/topcargo">
+          <value>
+            <RecentProjectMetaInfo frameTitle="topcargo – CreateRequest.php" opened="true" projectWorkspaceId="2PVsHbwxtqMCnpEKyWKNXLGglU0">
+              <option name="activationTimestamp" value="1694702308179" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="PS-232.9559.64" />
+              <option name="buildTimestamp" value="1692986593997" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="6" />
+              </option>
+              <frame x="1920" y="0" width="2560" height="1396" extendedState="6" />
+              <option name="productionCode" value="PS" />
+              <option name="projectOpenTimestamp" value="1694701170298" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
       </map>
     </option>
-    <option name="lastOpenedProject" value="$USER_HOME$/projects/bonus-community/monolith" />
+    <option name="lastOpenedProject" value="$USER_HOME$/projects/topcargo" />
   </component>
 </application>

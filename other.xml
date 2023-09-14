@@ -27,7 +27,7 @@
     "experimental.ui.first.switch": "true",
     "experimental.ui.on.first.startup": "true",
     "experimental.ui.used.version": "232.9559.64",
-    "file.gist.reindex.count": "21",
+    "file.gist.reindex.count": "26",
     "fileTypeChangedCounter": "3",
     "fontSizeToResetConsole": "16.25",
     "fontSizeToResetEditor": "16.25",
@@ -48,8 +48,8 @@
   },
   "keyToStringList": {
     "file.chooser.recent.files": [
-      "/home/stolentine/projects/bc-mobile",
       "/home/stolentine/projects/topcargo",
+      "/home/stolentine/projects/bc-mobile",
       "/home/stolentine/projects/bonus-community/monolith",
       "/home/stolentine/projects/wbday",
       "/home/stolentine/projects/wbtech",
