@@ -48,11 +48,11 @@
   },
   "keyToStringList": {
     "file.chooser.recent.files": [
+      "/home/stolentine/projects/wbday",
       "/home/stolentine/projects/wbtech",
       "/home/stolentine/projects/topcargo",
       "/home/stolentine/projects/bc-mobile",
       "/home/stolentine/projects/bonus-community/monolith",
-      "/home/stolentine/projects/wbday",
       "/home/stolentine/projects/docs"
     ],
     "fileTypeDetectors": [

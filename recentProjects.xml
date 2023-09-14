@@ -18,22 +18,6 @@
             </RecentProjectMetaInfo>
           </value>
         </entry>
-        <entry key="$USER_HOME$/projects/wbday">
-          <value>
-            <RecentProjectMetaInfo frameTitle="wbday – default.template.conf" projectWorkspaceId="2N3qqZ0lBPrzOkSctPV1J7LvWtd">
-              <option name="activationTimestamp" value="1694570343724" />
-              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="build" value="PS-232.9559.64" />
-              <option name="buildTimestamp" value="1692986620363" />
-              <option name="colorInfo">
-                <RecentProjectColorInfo associatedIndex="3" />
-              </option>
-              <frame x="2490" y="147" width="1400" height="1000" extendedState="6" />
-              <option name="productionCode" value="PS" />
-              <option name="projectOpenTimestamp" value="1694568884797" />
-            </RecentProjectMetaInfo>
-          </value>
-        </entry>
         <entry key="$USER_HOME$/projects/bonus-community/monolith">
           <value>
             <RecentProjectMetaInfo displayName="monolith, bonus-community..." frameTitle="monolith – RegistrationRequest.php [bonus-community]" projectWorkspaceId="2S9iRz9zTMZpxIaG9ndFICFb3mR">
@@ -85,7 +69,7 @@
         <entry key="$USER_HOME$/projects/wbtech">
           <value>
             <RecentProjectMetaInfo frameTitle="wbtech – docker-compose.yml" opened="true" projectWorkspaceId="2VFQeXttvEQDHzcyAeP1RvbeNiv">
-              <option name="activationTimestamp" value="1694706628197" />
+              <option name="activationTimestamp" value="1694716128272" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="build" value="PS-232.9559.64" />
               <option name="buildTimestamp" value="1692986593997" />
@@ -95,6 +79,22 @@
               <frame x="1920" y="0" width="2560" height="1396" extendedState="6" />
               <option name="productionCode" value="PS" />
               <option name="projectOpenTimestamp" value="1694703762951" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/projects/wbday">
+          <value>
+            <RecentProjectMetaInfo frameTitle="wbday – default.template.conf" opened="true" projectWorkspaceId="2N3qqZ0lBPrzOkSctPV1J7LvWtd">
+              <option name="activationTimestamp" value="1694715677055" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="PS-232.9559.64" />
+              <option name="buildTimestamp" value="1692986593997" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="3" />
+              </option>
+              <frame x="2490" y="147" width="1400" height="1000" extendedState="6" />
+              <option name="productionCode" value="PS" />
+              <option name="projectOpenTimestamp" value="1694715061955" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
