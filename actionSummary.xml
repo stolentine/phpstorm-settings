@@ -16,10 +16,10 @@
       <i c="28" l="1694715508556" />
     </e>
     <e n="$SelectAll">
-      <i c="132" l="1695132235121" />
+      <i c="134" l="1695136972082" />
     </e>
     <e n="$Undo">
-      <i c="945" l="1695132261682" />
+      <i c="948" l="1695135035051" />
     </e>
     <e n="ActivateHierarchyToolWindow">
       <i c="1" l="1694106872138" />
@@ -58,7 +58,7 @@
       <i c="2" l="1695064456703" />
     </e>
     <e n="CommentByLineComment">
-      <i c="317" l="1695134034203" />
+      <i c="321" l="1695137125676" />
     </e>
     <e n="Console.TableResult.DeleteRows">
       <i c="10" l="1694623282600" />
@@ -205,7 +205,7 @@
       <i c="2" l="1693826653799" />
     </e>
     <e n="Find">
-      <i c="36" l="1695133562852" />
+      <i c="37" l="1695134659533" />
     </e>
     <e n="FindInPath">
       <i c="16" l="1695133334159" />
@@ -298,13 +298,13 @@
       <i c="1" l="1694106774690" />
     </e>
     <e n="RevealIn">
-      <i c="3" l="1694454822606" />
+      <i c="4" l="1695135013020" />
     </e>
     <e n="RunAnything">
       <i c="3" l="1695043024841" />
     </e>
     <e n="SaveAll">
-      <i c="2053" l="1695134087932" />
+      <i c="2057" l="1695137029835" />
     </e>
     <e n="SearchEverywhere">
       <i c="4" l="1695130957958" />
@@ -391,7 +391,7 @@
       <i c="1" l="1694442502909" />
     </e>
     <e n="com.intellij.find.editorHeaderActions.NextOccurrenceAction">
-      <i c="12" l="1695133573021" />
+      <i c="15" l="1695134633840" />
     </e>
     <e n="com.intellij.find.editorHeaderActions.PrevOccurrenceAction">
       <i c="8" l="1695133568256" />
@@ -430,7 +430,7 @@
       <i c="2" l="1694106885342" />
     </e>
     <e n="com.intellij.openapi.wm.impl.SquareAnActionButton">
-      <i c="223" l="1695132265986" />
+      <i c="224" l="1695136159805" />
     </e>
     <e n="com.intellij.openapi.wm.impl.customFrameDecorations.header.toolbar.MainMenuButton$ShowMenuAction">
       <i c="37" l="1695133077651" />
@@ -442,7 +442,7 @@
       <i c="6" l="1694106912548" />
     </e>
     <e n="com.intellij.toolWindow.ToolWindowHeader$HideAction">
-      <i c="43" l="1695075984749" />
+      <i c="44" l="1695135598633" />
     </e>
     <e n="com.intellij.toolWindow.ToolWindowHeader$ShowOptionsAction">
       <i c="3" l="1693485301770" />
