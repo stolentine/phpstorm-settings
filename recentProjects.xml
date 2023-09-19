@@ -68,15 +68,15 @@
         </entry>
         <entry key="$USER_HOME$/projects/wbtech">
           <value>
-            <RecentProjectMetaInfo frameTitle="wbtech – n.conf" opened="true" projectWorkspaceId="2VFQeXttvEQDHzcyAeP1RvbeNiv">
-              <option name="activationTimestamp" value="1695065963588" />
+            <RecentProjectMetaInfo frameTitle="wbtech – letterAnimation.js" opened="true" projectWorkspaceId="2VFQeXttvEQDHzcyAeP1RvbeNiv">
+              <option name="activationTimestamp" value="1695129974763" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="build" value="PS-232.9559.64" />
               <option name="buildTimestamp" value="1692986593997" />
               <option name="colorInfo">
                 <RecentProjectColorInfo associatedIndex="2" />
               </option>
-              <frame x="1920" y="0" width="2560" height="1396" extendedState="6" />
+              <frame x="0" y="49" width="1706" height="930" extendedState="6" />
               <option name="productionCode" value="PS" />
               <option name="projectOpenTimestamp" value="1694703762951" />
             </RecentProjectMetaInfo>
