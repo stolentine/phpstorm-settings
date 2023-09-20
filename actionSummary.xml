@@ -88,7 +88,7 @@
       <i c="1" l="1693817931340" />
     </e>
     <e n="EditorBackSpace">
-      <i c="4150" l="1695243237160" />
+      <i c="4157" l="1695243405209" />
     </e>
     <e n="EditorChooseLookupItem">
       <i c="1491" l="1695242196409" />
@@ -100,7 +100,7 @@
       <i c="2187" l="1695242490805" />
     </e>
     <e n="EditorCut">
-      <i c="2273" l="1695242494039" />
+      <i c="2279" l="1695243257570" />
     </e>
     <e n="EditorDelete">
       <i c="214" l="1695238789707" />
@@ -172,7 +172,7 @@
       <i c="1" l="1694534402382" />
     </e>
     <e n="EditorStartNewLine">
-      <i c="7" l="1694716300021" />
+      <i c="8" l="1695243391433" />
     </e>
     <e n="EditorTab">
       <i c="188" l="1695131598777" />
@@ -217,7 +217,7 @@
       <i c="9" l="1694537411443" />
     </e>
     <e n="Git.Commit.And.Push.Executor">
-      <i c="84" l="1695238516858" />
+      <i c="85" l="1695243412700" />
     </e>
     <e n="Git.Log.Branches.Settings">
       <i c="1" l="1693832810200" />
@@ -433,7 +433,7 @@
       <i c="2" l="1694106885342" />
     </e>
     <e n="com.intellij.openapi.wm.impl.SquareAnActionButton">
-      <i c="228" l="1695239941693" />
+      <i c="229" l="1695243382406" />
     </e>
     <e n="com.intellij.openapi.wm.impl.customFrameDecorations.header.toolbar.MainMenuButton$ShowMenuAction">
       <i c="37" l="1695133077651" />
