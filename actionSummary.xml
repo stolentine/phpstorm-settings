@@ -88,7 +88,7 @@
       <i c="1" l="1693817931340" />
     </e>
     <e n="EditorBackSpace">
-      <i c="4652" l="1695415946780" />
+      <i c="4654" l="1695416562406" />
     </e>
     <e n="EditorChooseLookupItem">
       <i c="1684" l="1695416439884" />
@@ -208,7 +208,7 @@
       <i c="43" l="1695415944109" />
     </e>
     <e n="FindInPath">
-      <i c="22" l="1695414806022" />
+      <i c="23" l="1695416539003" />
     </e>
     <e n="Generate">
       <i c="2" l="1693834262526" />
@@ -217,7 +217,7 @@
       <i c="9" l="1694537411443" />
     </e>
     <e n="Git.Commit.And.Push.Executor">
-      <i c="111" l="1695414925350" />
+      <i c="113" l="1695416609736" />
     </e>
     <e n="Git.Log.Branches.Settings">
       <i c="1" l="1693832810200" />
@@ -439,7 +439,7 @@
       <i c="2" l="1694106885342" />
     </e>
     <e n="com.intellij.openapi.wm.impl.SquareAnActionButton">
-      <i c="255" l="1695415889190" />
+      <i c="256" l="1695416528519" />
     </e>
     <e n="com.intellij.openapi.wm.impl.customFrameDecorations.header.toolbar.MainMenuButton$ShowMenuAction">
       <i c="37" l="1695133077651" />

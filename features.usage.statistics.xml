@@ -21,7 +21,7 @@
     <feature id="editing.reformat.code" count="58" last-shown="0" last-used="1695414272455" shown-count="0" />
     <feature id="editing.completion.show.liveTemplates" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="editing.copy.line" count="115" last-shown="0" last-used="1695401700529" shown-count="0" />
-    <feature id="navigation.find.in.files" count="22" last-shown="0" last-used="1695414806080" shown-count="0" />
+    <feature id="navigation.find.in.files" count="23" last-shown="0" last-used="1695416539210" shown-count="0" />
     <feature id="db.copy.table" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="ui.hide.tool.window" count="47" last-shown="0" last-used="1695401322251" shown-count="0" />
     <feature id="navigation.find.replace.in.files.toggle" count="0" last-shown="0" last-used="0" shown-count="0" />
@@ -119,8 +119,8 @@
     <feature id="editing.completion.changeSorting" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="db.assign.color" count="0" last-shown="0" last-used="0" shown-count="0" />
     <completionStatsTag>
-      <option name="sparedCharacters" value="12397" />
-      <option name="invocations" value="1600" />
+      <option name="sparedCharacters" value="12407" />
+      <option name="invocations" value="1601" />
       <option name="startDate" value="1693256400000" />
       <option name="dayCount" value="18" />
       <option name="lastDate" value="1695416400000" />
