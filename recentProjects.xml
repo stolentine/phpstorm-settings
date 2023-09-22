@@ -69,14 +69,14 @@
         <entry key="$USER_HOME$/projects/wbtech">
           <value>
             <RecentProjectMetaInfo frameTitle="wbtech – index.scss" opened="true" projectWorkspaceId="2VFQeXttvEQDHzcyAeP1RvbeNiv">
-              <option name="activationTimestamp" value="1695400018510" />
+              <option name="activationTimestamp" value="1695414932079" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="build" value="PS-232.9559.64" />
               <option name="buildTimestamp" value="1692986593997" />
               <option name="colorInfo">
                 <RecentProjectColorInfo associatedIndex="2" />
               </option>
-              <frame x="205" y="59" width="1280" height="690" extendedState="6" />
+              <frame x="0" y="0" width="1920" height="1036" extendedState="6" />
               <option name="productionCode" value="PS" />
               <option name="projectOpenTimestamp" value="1694703762951" />
             </RecentProjectMetaInfo>
