@@ -88,16 +88,16 @@
       <i c="1" l="1693817931340" />
     </e>
     <e n="EditorBackSpace">
-      <i c="4647" l="1695414659269" />
+      <i c="4652" l="1695415946780" />
     </e>
     <e n="EditorChooseLookupItem">
-      <i c="1680" l="1695413591448" />
+      <i c="1684" l="1695416439884" />
     </e>
     <e n="EditorChooseLookupItemReplace">
       <i c="146" l="1695411644378" />
     </e>
     <e n="EditorCopy">
-      <i c="2427" l="1695414255359" />
+      <i c="2428" l="1695416199009" />
     </e>
     <e n="EditorCut">
       <i c="2604" l="1695413764551" />
@@ -106,7 +106,7 @@
       <i c="227" l="1695407256365" />
     </e>
     <e n="EditorDown">
-      <i c="4793" l="1695414813016" />
+      <i c="4794" l="1695416258169" />
     </e>
     <e n="EditorDownWithSelection">
       <i c="46" l="1695073871492" />
@@ -115,7 +115,7 @@
       <i c="1" l="1694536827930" />
     </e>
     <e n="EditorEnter">
-      <i c="2571" l="1695414351018" />
+      <i c="2573" l="1695416437280" />
     </e>
     <e n="EditorEscape">
       <i c="43" l="1695408283342" />
@@ -124,10 +124,10 @@
       <i c="16" l="1695407603399" />
     </e>
     <e n="EditorLeft">
-      <i c="6159" l="1695414354469" />
+      <i c="6161" l="1695416199915" />
     </e>
     <e n="EditorLeftWithSelection">
-      <i c="1841" l="1695411529121" />
+      <i c="1842" l="1695416198399" />
     </e>
     <e n="EditorLineEnd">
       <i c="2" l="1694560805415" />
@@ -142,7 +142,7 @@
       <i c="1" l="1694558643199" />
     </e>
     <e n="EditorPaste">
-      <i c="4211" l="1695414820152" />
+      <i c="4213" l="1695416234639" />
     </e>
     <e n="EditorPasteFromX11">
       <i c="5" l="1695051652456" />
@@ -154,7 +154,7 @@
       <i c="381" l="1695409789984" />
     </e>
     <e n="EditorRight">
-      <i c="6002" l="1695413187770" />
+      <i c="6023" l="1695415964358" />
     </e>
     <e n="EditorRightWithSelection">
       <i c="1265" l="1695411095079" />
@@ -184,7 +184,7 @@
       <i c="8" l="1695071558574" />
     </e>
     <e n="EditorUp">
-      <i c="4185" l="1695413764353" />
+      <i c="4186" l="1695416258988" />
     </e>
     <e n="EditorUpWithSelection">
       <i c="226" l="1695411625913" />
@@ -205,7 +205,7 @@
       <i c="2" l="1693826653799" />
     </e>
     <e n="Find">
-      <i c="42" l="1695409613722" />
+      <i c="43" l="1695415944109" />
     </e>
     <e n="FindInPath">
       <i c="22" l="1695414806022" />
@@ -226,7 +226,7 @@
       <i c="1" l="1693832794918" />
     </e>
     <e n="GotoDeclaration">
-      <i c="494" l="1695414623793" />
+      <i c="497" l="1695416434654" />
     </e>
     <e n="HideAllWindows">
       <i c="5" l="1694532370940" />
@@ -310,7 +310,7 @@
       <i c="4" l="1695145328601" />
     </e>
     <e n="SaveAll">
-      <i c="2680" l="1695414820395" />
+      <i c="2683" l="1695416440126" />
     </e>
     <e n="SearchEverywhere">
       <i c="4" l="1695130957958" />
@@ -355,7 +355,7 @@
       <i c="1" l="1693590918558" />
     </e>
     <e n="Vcs.Push">
-      <i c="5" l="1695233998432" />
+      <i c="6" l="1695415325452" />
     </e>
     <e n="Vcs.UpdateProject">
       <i c="1" l="1694522477403" />
@@ -409,7 +409,7 @@
       <i c="2" l="1694624739414" />
     </e>
     <e n="com.intellij.ide.browsers.actions.BaseOpenInBrowserAction">
-      <i c="18" l="1695401867396" />
+      <i c="20" l="1695416349216" />
     </e>
     <e n="com.intellij.openapi.actionSystem.DefaultActionGroup">
       <i c="3" l="1694443758868" />
@@ -418,7 +418,7 @@
       <i c="2" l="1694000562693" />
     </e>
     <e n="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
-      <i c="214" l="1695414634898" />
+      <i c="216" l="1695416134931" />
     </e>
     <e n="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
       <i c="27" l="1695398508480" />
@@ -439,7 +439,7 @@
       <i c="2" l="1694106885342" />
     </e>
     <e n="com.intellij.openapi.wm.impl.SquareAnActionButton">
-      <i c="254" l="1695414912637" />
+      <i c="255" l="1695415889190" />
     </e>
     <e n="com.intellij.openapi.wm.impl.customFrameDecorations.header.toolbar.MainMenuButton$ShowMenuAction">
       <i c="37" l="1695133077651" />
