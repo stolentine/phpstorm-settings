@@ -19640,7 +19640,7 @@
         ]
       }
     },
-    "lastUpdateTime": 1695388415621
+    "lastUpdateTime": 1695654398162
   },
   "dependencies": {
     "featureMap": {
@@ -20560,14 +20560,6 @@
           }
         ]
       },
-      "java:org.graalvm.nativeimage:svm": {
-        "dataSet": [
-          {
-            "pluginIdString": "com.intellij.graalvm",
-            "nullablePluginName": "GraalVM Native Debugger"
-          }
-        ]
-      },
       "java:org.grails:grails-core": {
         "dataSet": [
           {
@@ -21205,7 +21197,7 @@
         ]
       }
     },
-    "lastUpdateTime": 1695388415748
+    "lastUpdateTime": 1695654398347
   }
 }]]></component>
   <component name="PluginFeatureService">{
@@ -21684,6 +21676,10 @@
           <dependency value="@types/scheduler" />
           <dependency value="csstype" />
         </dependencies>
+      </module>
+      <module>
+        <name>@types/lodash</name>
+        <version>4.14.199</version>
       </module>
       <module>
         <name>@types/lodash</name>
