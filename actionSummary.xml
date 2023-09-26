@@ -43,7 +43,7 @@
       <i c="1" l="1695660103288" />
     </e>
     <e n="CloseAllEditors">
-      <i c="24" l="1695734368088" />
+      <i c="25" l="1695735174105" />
     </e>
     <e n="CloseAllEditorsButActive">
       <i c="17" l="1695733813103" />
@@ -90,20 +90,23 @@
     <e n="Docker.RemoteServers.ConnectServer">
       <i c="1" l="1693817931340" />
     </e>
+    <e n="Docker.RemoteServers.StopComposeApp">
+      <i c="1" l="1695734795906" />
+    </e>
     <e n="EditorBackSpace">
-      <i c="4945" l="1695733898480" />
+      <i c="4958" l="1695735588448" />
     </e>
     <e n="EditorChooseLookupItem">
-      <i c="1800" l="1695666337358" />
+      <i c="1803" l="1695735369481" />
     </e>
     <e n="EditorChooseLookupItemReplace">
       <i c="159" l="1695660772878" />
     </e>
     <e n="EditorCopy">
-      <i c="2580" l="1695733823430" />
+      <i c="2585" l="1695735364590" />
     </e>
     <e n="EditorCut">
-      <i c="2826" l="1695665987594" />
+      <i c="2827" l="1695735329429" />
     </e>
     <e n="EditorDelete">
       <i c="229" l="1695657450945" />
@@ -112,7 +115,7 @@
       <i c="1" l="1695660246956" />
     </e>
     <e n="EditorDown">
-      <i c="4881" l="1695666337133" />
+      <i c="4885" l="1695735363713" />
     </e>
     <e n="EditorDownWithSelection">
       <i c="48" l="1695665358087" />
@@ -121,7 +124,7 @@
       <i c="1" l="1694536827930" />
     </e>
     <e n="EditorEnter">
-      <i c="2846" l="1695666333655" />
+      <i c="2847" l="1695735375614" />
     </e>
     <e n="EditorEscape">
       <i c="47" l="1695733946467" />
@@ -130,7 +133,7 @@
       <i c="16" l="1695407603399" />
     </e>
     <e n="EditorLeft">
-      <i c="6343" l="1695733728204" />
+      <i c="6346" l="1695735365751" />
     </e>
     <e n="EditorLeftWithSelection">
       <i c="1883" l="1695665588574" />
@@ -148,7 +151,7 @@
       <i c="1" l="1694558643199" />
     </e>
     <e n="EditorPaste">
-      <i c="4517" l="1695733930318" />
+      <i c="4523" l="1695735585456" />
     </e>
     <e n="EditorPasteFromX11">
       <i c="5" l="1695051652456" />
@@ -157,7 +160,7 @@
       <i c="309" l="1695410577547" />
     </e>
     <e n="EditorPreviousWordWithSelection">
-      <i c="392" l="1695664501032" />
+      <i c="394" l="1695735366376" />
     </e>
     <e n="EditorRight">
       <i c="6236" l="1695733728666" />
@@ -190,7 +193,7 @@
       <i c="10" l="1695664187107" />
     </e>
     <e n="EditorUp">
-      <i c="4254" l="1695665424099" />
+      <i c="4255" l="1695735329015" />
     </e>
     <e n="EditorUpWithSelection">
       <i c="228" l="1695654991347" />
@@ -238,7 +241,7 @@
       <i c="1" l="1695654717144" />
     </e>
     <e n="GotoDeclaration">
-      <i c="514" l="1695665765049" />
+      <i c="518" l="1695735593489" />
     </e>
     <e n="HideAllWindows">
       <i c="5" l="1694532370940" />
@@ -322,13 +325,13 @@
       <i c="5" l="1695656441119" />
     </e>
     <e n="SaveAll">
-      <i c="2931" l="1695733872655" />
+      <i c="2935" l="1695735594110" />
     </e>
     <e n="SearchEverywhere">
       <i c="4" l="1695130957958" />
     </e>
     <e n="SelectInProjectView">
-      <i c="38" l="1695733754166" />
+      <i c="39" l="1695735220333" />
     </e>
     <e n="ServiceView.AddService">
       <i c="1" l="1693322996017" />
@@ -394,7 +397,7 @@
       <i c="16" l="1694624602120" />
     </e>
     <e n="com.intellij.docker.action.containers.CreateTerminalAction">
-      <i c="7" l="1694567767636" />
+      <i c="8" l="1695734854759" />
     </e>
     <e n="com.intellij.docker.action.containers.StartContainerAction">
       <i c="5" l="1694567809341" />
@@ -454,7 +457,7 @@
       <i c="2" l="1694106885342" />
     </e>
     <e n="com.intellij.openapi.wm.impl.SquareAnActionButton">
-      <i c="263" l="1695733876229" />
+      <i c="264" l="1695734790228" />
     </e>
     <e n="com.intellij.openapi.wm.impl.customFrameDecorations.header.toolbar.MainMenuButton$ShowMenuAction">
       <i c="37" l="1695133077651" />
