@@ -28,11 +28,13 @@
       <feature name="COALESCE_OPERATOR" />
       <feature name="KEYWORD_NAMES" />
       <feature name="UNIFORM_VARIABLE_SYNTAX" />
+      <feature name="ANONYMOUS_CLASSES" />
       <feature name="RETURN_VOID" />
       <feature name="NULLABLES" />
       <feature name="CLASS_CONSTANT_VISIBILITY" />
       <feature name="LIST_ASSIGN" />
       <feature name="TRAILING_COMMA_IN_FUNCTION_CALL" />
+      <feature name="FLEXIBLE_HEREDOCS" />
       <feature name="TYPED_PROPERTIES" />
       <feature name="SPREAD_OPERATOR_IN_ARRAY" />
       <feature name="COALESCE_ASSIGN" />
@@ -40,8 +42,10 @@
       <feature name="UNION_TYPES" />
       <feature name="NAMESPACED_NAME_AS_SINGLE_TOKEN" />
       <feature name="NULLSAFE_DEREFERENCING" />
+      <feature name="STATIC_RETURN_TYPE_HINT" />
       <feature name="TRAILING_COMMA_IN_PARAMETER_LIST" />
       <feature name="NAMED_ARGUMENTS" />
+      <feature name="MATCH_EXPRESSION" />
       <feature name="CLASS_NAME_LITERAL_ON_OBJECT" />
       <feature name="ATTRIBUTES" />
       <feature name="PROPERTY_PROMOTION" />
