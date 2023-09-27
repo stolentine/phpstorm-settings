@@ -7,7 +7,7 @@
       <i c="2" l="1693833516781" />
     </e>
     <e n="$Delete">
-      <i c="83" l="1695662323354" />
+      <i c="85" l="1695813689853" />
     </e>
     <e n="$Paste">
       <i c="74" l="1695733742108" />
@@ -19,7 +19,7 @@
       <i c="219" l="1695660150040" />
     </e>
     <e n="$Undo">
-      <i c="1321" l="1695813510597" />
+      <i c="1323" l="1695813733825" />
     </e>
     <e n="ActivateHierarchyToolWindow">
       <i c="1" l="1694106872138" />
@@ -94,19 +94,19 @@
       <i c="2" l="1695811537556" />
     </e>
     <e n="EditorBackSpace">
-      <i c="5005" l="1695813490190" />
+      <i c="5010" l="1695813903608" />
     </e>
     <e n="EditorChooseLookupItem">
-      <i c="1820" l="1695813566780" />
+      <i c="1829" l="1695813841120" />
     </e>
     <e n="EditorChooseLookupItemReplace">
-      <i c="160" l="1695812251565" />
+      <i c="162" l="1695813835212" />
     </e>
     <e n="EditorCopy">
-      <i c="2635" l="1695813547586" />
+      <i c="2638" l="1695813844272" />
     </e>
     <e n="EditorCut">
-      <i c="2851" l="1695813551922" />
+      <i c="2852" l="1695813738529" />
     </e>
     <e n="EditorDelete">
       <i c="231" l="1695813215279" />
@@ -115,7 +115,7 @@
       <i c="1" l="1695660246956" />
     </e>
     <e n="EditorDown">
-      <i c="4937" l="1695812967566" />
+      <i c="4947" l="1695813874394" />
     </e>
     <e n="EditorDownWithSelection">
       <i c="48" l="1695665358087" />
@@ -124,7 +124,7 @@
       <i c="2" l="1695811514550" />
     </e>
     <e n="EditorEnter">
-      <i c="2872" l="1695813565111" />
+      <i c="2876" l="1695813874972" />
     </e>
     <e n="EditorEscape">
       <i c="48" l="1695812133861" />
@@ -133,7 +133,7 @@
       <i c="16" l="1695407603399" />
     </e>
     <e n="EditorLeft">
-      <i c="6374" l="1695813350219" />
+      <i c="6382" l="1695813847566" />
     </e>
     <e n="EditorLeftWithSelection">
       <i c="1887" l="1695813251563" />
@@ -151,7 +151,7 @@
       <i c="1" l="1694558643199" />
     </e>
     <e n="EditorPaste">
-      <i c="4593" l="1695813550103" />
+      <i c="4599" l="1695813844685" />
     </e>
     <e n="EditorPasteFromX11">
       <i c="5" l="1695051652456" />
@@ -160,13 +160,13 @@
       <i c="309" l="1695410577547" />
     </e>
     <e n="EditorPreviousWordWithSelection">
-      <i c="394" l="1695735366376" />
+      <i c="395" l="1695813799199" />
     </e>
     <e n="EditorRight">
-      <i c="6298" l="1695813357664" />
+      <i c="6319" l="1695813847256" />
     </e>
     <e n="EditorRightWithSelection">
-      <i c="1332" l="1695812933153" />
+      <i c="1338" l="1695813848623" />
     </e>
     <e n="EditorScrollDown">
       <i c="14" l="1695811154253" />
@@ -184,7 +184,7 @@
       <i c="10" l="1695654990844" />
     </e>
     <e n="EditorTab">
-      <i c="232" l="1695813102931" />
+      <i c="233" l="1695813713736" />
     </e>
     <e n="EditorToggleCase">
       <i c="4" l="1695811984477" />
@@ -193,10 +193,10 @@
       <i c="10" l="1695664187107" />
     </e>
     <e n="EditorUp">
-      <i c="4265" l="1695812543924" />
+      <i c="4273" l="1695813845657" />
     </e>
     <e n="EditorUpWithSelection">
-      <i c="229" l="1695812865188" />
+      <i c="237" l="1695813902981" />
     </e>
     <e n="ExpandLiveTemplateByTab">
       <i c="185" l="1695664560990" />
@@ -241,10 +241,10 @@
       <i c="1" l="1695654717144" />
     </e>
     <e n="GotoDeclaration">
-      <i c="534" l="1695813531408" />
+      <i c="541" l="1695814024899" />
     </e>
     <e n="HideAllWindows">
-      <i c="5" l="1694532370940" />
+      <i c="7" l="1695813995904" />
     </e>
     <e n="IntroduceConstant">
       <i c="1" l="1693483403660" />
@@ -268,7 +268,7 @@
       <i c="16" l="1695406957973" />
     </e>
     <e n="NewDir">
-      <i c="45" l="1695655056909" />
+      <i c="47" l="1695813684776" />
     </e>
     <e n="NewDirectoryProject">
       <i c="1" l="1694623602676" />
@@ -298,7 +298,7 @@
       <i c="21" l="1695733608877" />
     </e>
     <e n="PhpNewClass">
-      <i c="17" l="1693590628791" />
+      <i c="18" l="1695813706833" />
     </e>
     <e n="ReformatCode">
       <i c="60" l="1695665189466" />
@@ -331,7 +331,7 @@
       <i c="4" l="1695130957958" />
     </e>
     <e n="SelectInProjectView">
-      <i c="39" l="1695735220333" />
+      <i c="42" l="1695814049382" />
     </e>
     <e n="ServiceView.AddService">
       <i c="1" l="1693322996017" />
@@ -340,7 +340,7 @@
       <i c="1" l="1693320318168" />
     </e>
     <e n="ShowIntentionActions">
-      <i c="82" l="1695812538434" />
+      <i c="83" l="1695813810269" />
     </e>
     <e n="ShowSettings">
       <i c="4" l="1694107424100" />
@@ -436,13 +436,13 @@
       <i c="2" l="1694000562693" />
     </e>
     <e n="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
-      <i c="226" l="1695733826044" />
+      <i c="230" l="1695813954049" />
     </e>
     <e n="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
       <i c="29" l="1695656442058" />
     </e>
     <e n="com.intellij.openapi.ui.DialogWrapper$5">
-      <i c="104" l="1695662323632" />
+      <i c="106" l="1695813690116" />
     </e>
     <e n="com.intellij.openapi.vcs.changes.ignore.actions.CreateNewIgnoreFileAction">
       <i c="1" l="1693834195335" />
