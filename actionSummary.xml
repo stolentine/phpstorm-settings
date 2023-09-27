@@ -19,7 +19,7 @@
       <i c="220" l="1695816656384" />
     </e>
     <e n="$Undo">
-      <i c="1325" l="1695816431179" />
+      <i c="1326" l="1695818365474" />
     </e>
     <e n="ActivateHierarchyToolWindow">
       <i c="1" l="1694106872138" />
@@ -94,19 +94,19 @@
       <i c="2" l="1695811537556" />
     </e>
     <e n="EditorBackSpace">
-      <i c="5021" l="1695816692346" />
+      <i c="5025" l="1695818289578" />
     </e>
     <e n="EditorChooseLookupItem">
-      <i c="1835" l="1695816547660" />
+      <i c="1836" l="1695818293549" />
     </e>
     <e n="EditorChooseLookupItemReplace">
       <i c="162" l="1695813835212" />
     </e>
     <e n="EditorCopy">
-      <i c="2645" l="1695816667189" />
+      <i c="2650" l="1695818357311" />
     </e>
     <e n="EditorCut">
-      <i c="2861" l="1695816540562" />
+      <i c="2866" l="1695818408767" />
     </e>
     <e n="EditorDelete">
       <i c="231" l="1695813215279" />
@@ -124,7 +124,7 @@
       <i c="2" l="1695811514550" />
     </e>
     <e n="EditorEnter">
-      <i c="2882" l="1695817462003" />
+      <i c="2885" l="1695818332937" />
     </e>
     <e n="EditorEscape">
       <i c="48" l="1695812133861" />
@@ -133,7 +133,7 @@
       <i c="16" l="1695407603399" />
     </e>
     <e n="EditorLeft">
-      <i c="6441" l="1695816533996" />
+      <i c="6445" l="1695818348836" />
     </e>
     <e n="EditorLeftWithSelection">
       <i c="1888" l="1695816326160" />
@@ -151,7 +151,7 @@
       <i c="1" l="1694558643199" />
     </e>
     <e n="EditorPaste">
-      <i c="4606" l="1695816679255" />
+      <i c="4611" l="1695818358080" />
     </e>
     <e n="EditorPasteFromX11">
       <i c="5" l="1695051652456" />
@@ -163,10 +163,10 @@
       <i c="397" l="1695816507057" />
     </e>
     <e n="EditorRight">
-      <i c="6360" l="1695816550594" />
+      <i c="6368" l="1695818415555" />
     </e>
     <e n="EditorRightWithSelection">
-      <i c="1361" l="1695816336293" />
+      <i c="1362" l="1695818413154" />
     </e>
     <e n="EditorScrollDown">
       <i c="14" l="1695811154253" />
@@ -241,7 +241,7 @@
       <i c="1" l="1695654717144" />
     </e>
     <e n="GotoDeclaration">
-      <i c="542" l="1695816468904" />
+      <i c="543" l="1695818371316" />
     </e>
     <e n="HideAllWindows">
       <i c="7" l="1695813995904" />
@@ -254,6 +254,9 @@
     </e>
     <e n="LocalHistory.ShowHistory">
       <i c="1" l="1694001901230" />
+    </e>
+    <e n="Markdown.Layout.PreviewOnly">
+      <i c="1" l="1695818311001" />
     </e>
     <e n="MoreRunToolbarActions">
       <i c="4" l="1693405190565" />
@@ -325,7 +328,7 @@
       <i c="5" l="1695656441119" />
     </e>
     <e n="SaveAll">
-      <i c="2968" l="1695816679948" />
+      <i c="2972" l="1695818417271" />
     </e>
     <e n="SearchEverywhere">
       <i c="4" l="1695130957958" />
@@ -436,7 +439,7 @@
       <i c="2" l="1694000562693" />
     </e>
     <e n="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
-      <i c="231" l="1695816164429" />
+      <i c="232" l="1695818265537" />
     </e>
     <e n="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
       <i c="29" l="1695656442058" />
