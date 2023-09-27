@@ -400,7 +400,7 @@
       <i c="8" l="1695734854759" />
     </e>
     <e n="com.intellij.docker.action.containers.StartContainerAction">
-      <i c="5" l="1694567809341" />
+      <i c="6" l="1695810497569" />
     </e>
     <e n="com.intellij.execution.lineMarker.LineMarkerActionWrapper">
       <i c="15" l="1693510434577" />
@@ -469,7 +469,7 @@
       <i c="6" l="1694106912548" />
     </e>
     <e n="com.intellij.toolWindow.ToolWindowHeader$HideAction">
-      <i c="48" l="1695733525294" />
+      <i c="49" l="1695810528320" />
     </e>
     <e n="com.intellij.toolWindow.ToolWindowHeader$ShowOptionsAction">
       <i c="3" l="1693485301770" />
