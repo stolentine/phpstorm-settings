@@ -112,7 +112,7 @@
       <i c="2" l="1695811537556" />
     </e>
     <e n="EditorBackSpace">
-      <i c="5575" l="1695927183324" />
+      <i c="5576" l="1695927410668" />
     </e>
     <e n="EditorChooseLookupItem">
       <i c="2096" l="1695926962200" />
@@ -151,7 +151,7 @@
       <i c="30" l="1695831822087" />
     </e>
     <e n="EditorLeft">
-      <i c="7104" l="1695924763053" />
+      <i c="7121" l="1695927409743" />
     </e>
     <e n="EditorLeftWithSelection">
       <i c="2102" l="1695927376222" />
@@ -160,7 +160,7 @@
       <i c="2" l="1694560805415" />
     </e>
     <e n="EditorNextWord">
-      <i c="729" l="1695921974724" />
+      <i c="731" l="1695927411315" />
     </e>
     <e n="EditorNextWordWithSelection">
       <i c="352" l="1695927380813" />
@@ -181,10 +181,10 @@
       <i c="473" l="1695927381100" />
     </e>
     <e n="EditorRight">
-      <i c="7165" l="1695927380031" />
+      <i c="7167" l="1695927409182" />
     </e>
     <e n="EditorRightWithSelection">
-      <i c="1583" l="1695923799064" />
+      <i c="1586" l="1695927410238" />
     </e>
     <e n="EditorScrollDown">
       <i c="14" l="1695811154253" />
@@ -244,7 +244,7 @@
       <i c="9" l="1694537411443" />
     </e>
     <e n="Git.Commit.And.Push.Executor">
-      <i c="137" l="1695924800723" />
+      <i c="138" l="1695927415983" />
     </e>
     <e n="Git.Log.Branches.Settings">
       <i c="1" l="1693832810200" />
@@ -346,13 +346,13 @@
       <i c="1" l="1694106774690" />
     </e>
     <e n="RevealIn">
-      <i c="6" l="1695925224205" />
+      <i c="7" l="1695928058971" />
     </e>
     <e n="RunAnything">
       <i c="5" l="1695656441119" />
     </e>
     <e n="SaveAll">
-      <i c="3151" l="1695927382513" />
+      <i c="3152" l="1695928093676" />
     </e>
     <e n="SearchEverywhere">
       <i c="4" l="1695130957958" />
@@ -496,7 +496,7 @@
       <i c="3" l="1695824997381" />
     </e>
     <e n="com.intellij.openapi.wm.impl.SquareAnActionButton">
-      <i c="317" l="1695927200992" />
+      <i c="318" l="1695927395939" />
     </e>
     <e n="com.intellij.openapi.wm.impl.customFrameDecorations.header.toolbar.MainMenuButton$ShowMenuAction">
       <i c="37" l="1695133077651" />
@@ -508,7 +508,7 @@
       <i c="6" l="1694106912548" />
     </e>
     <e n="com.intellij.toolWindow.ToolWindowHeader$HideAction">
-      <i c="60" l="1695927198209" />
+      <i c="61" l="1695927394452" />
     </e>
     <e n="com.intellij.toolWindow.ToolWindowHeader$ShowOptionsAction">
       <i c="3" l="1693485301770" />
