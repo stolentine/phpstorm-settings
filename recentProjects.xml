@@ -85,7 +85,7 @@
         <entry key="$USER_HOME$/projects/wbtech">
           <value>
             <RecentProjectMetaInfo frameTitle="wbtech – ~/projects/wbtech/dist/index.html" opened="true" projectWorkspaceId="2VFQeXttvEQDHzcyAeP1RvbeNiv">
-              <option name="activationTimestamp" value="1695924620080" />
+              <option name="activationTimestamp" value="1695927058448" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="build" value="PS-232.9921.55" />
               <option name="buildTimestamp" value="1694765514000" />
@@ -100,8 +100,8 @@
         </entry>
         <entry key="$USER_HOME$/projects/topcargo">
           <value>
-            <RecentProjectMetaInfo frameTitle="topcargo" opened="true" projectWorkspaceId="2PVsHbwxtqMCnpEKyWKNXLGglU0">
-              <option name="activationTimestamp" value="1695924678673" />
+            <RecentProjectMetaInfo frameTitle="topcargo – ListController.php" opened="true" projectWorkspaceId="2PVsHbwxtqMCnpEKyWKNXLGglU0">
+              <option name="activationTimestamp" value="1695927291725" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="build" value="PS-232.9921.55" />
               <option name="buildTimestamp" value="1694765514000" />
@@ -110,7 +110,7 @@
               </option>
               <frame x="1920" y="0" width="2560" height="1396" extendedState="6" />
               <option name="productionCode" value="PS" />
-              <option name="projectOpenTimestamp" value="1695924620282" />
+              <option name="projectOpenTimestamp" value="1695925548705" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
