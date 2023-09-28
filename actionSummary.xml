@@ -43,7 +43,7 @@
       <i c="1" l="1695660103288" />
     </e>
     <e n="CloseAllEditors">
-      <i c="37" l="1695925731868" />
+      <i c="38" l="1695929690729" />
     </e>
     <e n="CloseAllEditorsButActive">
       <i c="21" l="1695923761334" />
@@ -64,7 +64,7 @@
       <i c="3" l="1695828434213" />
     </e>
     <e n="CommentByLineComment">
-      <i c="441" l="1695921361544" />
+      <i c="449" l="1695929891604" />
     </e>
     <e n="Console.Jdbc.Execute">
       <i c="54" l="1695927301456" />
@@ -112,19 +112,19 @@
       <i c="2" l="1695811537556" />
     </e>
     <e n="EditorBackSpace">
-      <i c="5576" l="1695927410668" />
+      <i c="5577" l="1695929763633" />
     </e>
     <e n="EditorChooseLookupItem">
-      <i c="2096" l="1695926962200" />
+      <i c="2097" l="1695929764647" />
     </e>
     <e n="EditorChooseLookupItemReplace">
       <i c="189" l="1695923277015" />
     </e>
     <e n="EditorCopy">
-      <i c="3000" l="1695927361271" />
+      <i c="3003" l="1695929755472" />
     </e>
     <e n="EditorCut">
-      <i c="3234" l="1695927324965" />
+      <i c="3235" l="1695929765583" />
     </e>
     <e n="EditorDelete">
       <i c="242" l="1695927169313" />
@@ -169,7 +169,7 @@
       <i c="1" l="1694558643199" />
     </e>
     <e n="EditorPaste">
-      <i c="5079" l="1695927361841" />
+      <i c="5086" l="1695929760746" />
     </e>
     <e n="EditorPasteFromX11">
       <i c="6" l="1695820566729" />
@@ -211,7 +211,7 @@
       <i c="12" l="1695834505776" />
     </e>
     <e n="EditorUp">
-      <i c="4437" l="1695923933705" />
+      <i c="4438" l="1695929765319" />
     </e>
     <e n="EditorUpWithSelection">
       <i c="252" l="1695923867712" />
@@ -241,7 +241,7 @@
       <i c="2" l="1693834262526" />
     </e>
     <e n="Git.Add">
-      <i c="9" l="1694537411443" />
+      <i c="11" l="1695929736590" />
     </e>
     <e n="Git.Commit.And.Push.Executor">
       <i c="138" l="1695927415983" />
@@ -289,7 +289,7 @@
       <i c="1" l="1695238812911" />
     </e>
     <e n="MoveStatementDown">
-      <i c="5" l="1695922675338" />
+      <i c="7" l="1695929141379" />
     </e>
     <e n="MoveStatementUp">
       <i c="16" l="1695406957973" />
@@ -328,7 +328,7 @@
       <i c="25" l="1695921531569" />
     </e>
     <e n="ReformatCode">
-      <i c="65" l="1695922995997" />
+      <i c="67" l="1695929090462" />
     </e>
     <e n="RenameElement">
       <i c="130" l="1695923474590" />
@@ -346,13 +346,13 @@
       <i c="1" l="1694106774690" />
     </e>
     <e n="RevealIn">
-      <i c="7" l="1695928058971" />
+      <i c="8" l="1695929707648" />
     </e>
     <e n="RunAnything">
       <i c="5" l="1695656441119" />
     </e>
     <e n="SaveAll">
-      <i c="3152" l="1695928093676" />
+      <i c="3161" l="1695929892965" />
     </e>
     <e n="SearchEverywhere">
       <i c="4" l="1695130957958" />
@@ -463,7 +463,7 @@
       <i c="5" l="1695925546398" />
     </e>
     <e n="com.intellij.ide.browsers.actions.BaseOpenInBrowserAction">
-      <i c="23" l="1695924472496" />
+      <i c="25" l="1695929066500" />
     </e>
     <e n="com.intellij.openapi.actionSystem.DefaultActionGroup">
       <i c="3" l="1694443758868" />
@@ -472,7 +472,7 @@
       <i c="2" l="1694000562693" />
     </e>
     <e n="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
-      <i c="298" l="1695924031661" />
+      <i c="299" l="1695929746673" />
     </e>
     <e n="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
       <i c="29" l="1695656442058" />
@@ -496,7 +496,7 @@
       <i c="3" l="1695824997381" />
     </e>
     <e n="com.intellij.openapi.wm.impl.SquareAnActionButton">
-      <i c="318" l="1695927395939" />
+      <i c="319" l="1695928837929" />
     </e>
     <e n="com.intellij.openapi.wm.impl.customFrameDecorations.header.toolbar.MainMenuButton$ShowMenuAction">
       <i c="37" l="1695133077651" />
