@@ -112,16 +112,16 @@
       <i c="2" l="1695811537556" />
     </e>
     <e n="EditorBackSpace">
-      <i c="5568" l="1695924086875" />
+      <i c="5569" l="1695924755999" />
     </e>
     <e n="EditorChooseLookupItem">
-      <i c="2089" l="1695923998124" />
+      <i c="2091" l="1695924776565" />
     </e>
     <e n="EditorChooseLookupItemReplace">
       <i c="189" l="1695923277015" />
     </e>
     <e n="EditorCopy">
-      <i c="2993" l="1695923993444" />
+      <i c="2994" l="1695924744391" />
     </e>
     <e n="EditorCut">
       <i c="3230" l="1695923941881" />
@@ -133,7 +133,7 @@
       <i c="1" l="1695660246956" />
     </e>
     <e n="EditorDown">
-      <i c="5241" l="1695923718327" />
+      <i c="5243" l="1695924761066" />
     </e>
     <e n="EditorDownWithSelection">
       <i c="49" l="1695828506890" />
@@ -151,7 +151,7 @@
       <i c="30" l="1695831822087" />
     </e>
     <e n="EditorLeft">
-      <i c="7080" l="1695923832157" />
+      <i c="7104" l="1695924763053" />
     </e>
     <e n="EditorLeftWithSelection">
       <i c="2101" l="1695923799431" />
@@ -169,7 +169,7 @@
       <i c="1" l="1694558643199" />
     </e>
     <e n="EditorPaste">
-      <i c="5061" l="1695923994551" />
+      <i c="5064" l="1695924748923" />
     </e>
     <e n="EditorPasteFromX11">
       <i c="6" l="1695820566729" />
@@ -181,7 +181,7 @@
       <i c="472" l="1695923366178" />
     </e>
     <e n="EditorRight">
-      <i c="7141" l="1695923811478" />
+      <i c="7155" l="1695924764659" />
     </e>
     <e n="EditorRightWithSelection">
       <i c="1583" l="1695923799064" />
@@ -250,7 +250,7 @@
       <i c="1" l="1693832810200" />
     </e>
     <e n="GitCheckoutAction">
-      <i c="4" l="1695924199585" />
+      <i c="5" l="1695924479475" />
     </e>
     <e n="GitCheckoutFromInputAction">
       <i c="1" l="1693832794918" />
@@ -259,7 +259,7 @@
       <i c="1" l="1695654717144" />
     </e>
     <e n="GotoDeclaration">
-      <i c="754" l="1695924027800" />
+      <i c="757" l="1695924750113" />
     </e>
     <e n="HideAllWindows">
       <i c="9" l="1695920942454" />
@@ -352,7 +352,7 @@
       <i c="5" l="1695656441119" />
     </e>
     <e n="SaveAll">
-      <i c="3147" l="1695924044429" />
+      <i c="3148" l="1695924778352" />
     </e>
     <e n="SearchEverywhere">
       <i c="4" l="1695130957958" />
@@ -460,10 +460,10 @@
       <i c="2" l="1694624739414" />
     </e>
     <e n="com.intellij.ide.ReopenProjectAction">
-      <i c="2" l="1695733612465" />
+      <i c="4" l="1695924618348" />
     </e>
     <e n="com.intellij.ide.browsers.actions.BaseOpenInBrowserAction">
-      <i c="22" l="1695733972717" />
+      <i c="23" l="1695924472496" />
     </e>
     <e n="com.intellij.openapi.actionSystem.DefaultActionGroup">
       <i c="3" l="1694443758868" />
