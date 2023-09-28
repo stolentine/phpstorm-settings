@@ -8077,10 +8077,6 @@
           {
             "pluginIdString": "com.321zou.j2s",
             "nullablePluginName": "j2s"
-          },
-          {
-            "pluginIdString": "j2s",
-            "nullablePluginName": "J2S"
           }
         ]
       },
@@ -19645,7 +19641,7 @@
         ]
       }
     },
-    "lastUpdateTime": 1695809834123
+    "lastUpdateTime": 1695917202041
   },
   "dependencies": {
     "featureMap": {
@@ -21202,7 +21198,7 @@
         ]
       }
     },
-    "lastUpdateTime": 1695809834247
+    "lastUpdateTime": 1695917202157
   }
 }]]></component>
   <component name="PluginFeatureService">{
