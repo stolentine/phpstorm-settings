@@ -18,7 +18,7 @@
     <feature id="vcs.pull.requests" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="vcs.annotate" count="4" last-shown="0" last-used="1695920587312" shown-count="0" />
     <feature id="ui.open.last.tool.window" count="0" last-shown="0" last-used="0" shown-count="0" />
-    <feature id="editing.reformat.code" count="67" last-shown="0" last-used="1695929090471" shown-count="0" />
+    <feature id="editing.reformat.code" count="68" last-shown="0" last-used="1695931133179" shown-count="0" />
     <feature id="editing.completion.show.liveTemplates" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="editing.copy.line" count="134" last-shown="0" last-used="1695837701522" shown-count="0" />
     <feature id="navigation.find.in.files" count="31" last-shown="0" last-used="1695832544556" shown-count="0" />
@@ -27,7 +27,7 @@
     <feature id="navigation.find.replace.in.files.toggle" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="intentions.check.regexp" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="profiler.open.snapshot" count="0" last-shown="0" last-used="0" shown-count="0" />
-    <feature id="codeassists.comment.line" count="449" last-shown="0" last-used="1695929891610" shown-count="0" />
+    <feature id="codeassists.comment.line" count="453" last-shown="0" last-used="1695930634413" shown-count="0" />
     <feature id="SearchEverywhere" count="4" last-shown="0" last-used="1695130958132" shown-count="0" />
     <feature id="editor.delete.line" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="navigation.inheritance.hierarchy" count="0" last-shown="0" last-used="0" shown-count="0" />
@@ -42,7 +42,7 @@
     <feature id="navigation.recent.locations" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="diagram.show.diff" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="editing.select.word" count="1" last-shown="0" last-used="1693563977037" shown-count="0" />
-    <feature id="ui.close.other.editors" count="21" last-shown="0" last-used="1695923761373" shown-count="0" />
+    <feature id="ui.close.other.editors" count="22" last-shown="0" last-used="1695931168218" shown-count="0" />
     <feature id="debugger.evaluate.expression" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="codeassists.highlight.usages" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="codeassists.highlight.implements" count="0" last-shown="0" last-used="0" shown-count="0" />
@@ -79,7 +79,7 @@
     <feature id="codeassists.javadoc.external" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="codeassists.surroundwith.expression" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="codeassists.generate.code" count="2" last-shown="0" last-used="1693834262548" shown-count="0" />
-    <feature id="navigation.goto.declaration" count="765" last-shown="0" last-used="1695927329221" shown-count="0" />
+    <feature id="navigation.goto.declaration" count="766" last-shown="0" last-used="1695931150087" shown-count="0" />
     <feature id="editing.completion.finishByDotEtc" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="ui.open.project.tool.window" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="editing.join.lines" count="0" last-shown="0" last-used="0" shown-count="0" />
