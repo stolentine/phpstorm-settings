@@ -64,7 +64,7 @@
       <i c="3" l="1695828434213" />
     </e>
     <e n="CommentByLineComment">
-      <i c="462" l="1695990279718" />
+      <i c="463" l="1695992985409" />
     </e>
     <e n="Console.Jdbc.Execute">
       <i c="54" l="1695927301456" />
@@ -121,7 +121,7 @@
       <i c="190" l="1695934091094" />
     </e>
     <e n="EditorCopy">
-      <i c="3025" l="1695989078374" />
+      <i c="3026" l="1695992909672" />
     </e>
     <e n="EditorCut">
       <i c="3259" l="1695990243800" />
@@ -169,7 +169,7 @@
       <i c="1" l="1694558643199" />
     </e>
     <e n="EditorPaste">
-      <i c="5140" l="1695990761265" />
+      <i c="5141" l="1695992926261" />
     </e>
     <e n="EditorPasteFromX11">
       <i c="6" l="1695820566729" />
@@ -334,7 +334,7 @@
       <i c="25" l="1695921531569" />
     </e>
     <e n="ReformatCode">
-      <i c="68" l="1695931133170" />
+      <i c="69" l="1695992977507" />
     </e>
     <e n="RenameElement">
       <i c="130" l="1695923474590" />
@@ -358,7 +358,7 @@
       <i c="5" l="1695656441119" />
     </e>
     <e n="SaveAll">
-      <i c="3188" l="1695990762379" />
+      <i c="3189" l="1695992986412" />
     </e>
     <e n="SearchEverywhere">
       <i c="4" l="1695130957958" />
@@ -478,7 +478,7 @@
       <i c="2" l="1694000562693" />
     </e>
     <e n="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
-      <i c="310" l="1695989062737" />
+      <i c="311" l="1695992239905" />
     </e>
     <e n="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
       <i c="29" l="1695656442058" />
@@ -541,7 +541,7 @@
       <i c="98" l="1695816595896" />
     </e>
     <e n="com.intellij.ui.SpeedSearchBase$MySearchAction">
-      <i c="2" l="1695835496044" />
+      <i c="3" l="1695992925968" />
     </e>
     <e n="com.intellij.xdebugger.impl.breakpoints.RemoveBreakpointGutterIconAction">
       <i c="6" l="1695826391782" />
