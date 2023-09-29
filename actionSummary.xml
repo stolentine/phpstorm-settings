@@ -112,7 +112,7 @@
       <i c="2" l="1695811537556" />
     </e>
     <e n="EditorBackSpace">
-      <i c="5670" l="1695996451217" />
+      <i c="5677" l="1695997269474" />
     </e>
     <e n="EditorChooseLookupItem">
       <i c="2098" l="1695988978097" />
@@ -178,7 +178,7 @@
       <i c="355" l="1695995793652" />
     </e>
     <e n="EditorPreviousWordWithSelection">
-      <i c="473" l="1695927381100" />
+      <i c="475" l="1695997261458" />
     </e>
     <e n="EditorRight">
       <i c="7170" l="1695996435285" />
@@ -244,7 +244,7 @@
       <i c="11" l="1695929736590" />
     </e>
     <e n="Git.Commit.And.Push.Executor">
-      <i c="140" l="1695988751401" />
+      <i c="142" l="1695997283614" />
     </e>
     <e n="Git.Log.Branches.Settings">
       <i c="1" l="1693832810200" />
@@ -478,7 +478,7 @@
       <i c="2" l="1694000562693" />
     </e>
     <e n="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
-      <i c="313" l="1695995095362" />
+      <i c="314" l="1695997141743" />
     </e>
     <e n="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
       <i c="29" l="1695656442058" />
@@ -505,7 +505,7 @@
       <i c="3" l="1695824997381" />
     </e>
     <e n="com.intellij.openapi.wm.impl.SquareAnActionButton">
-      <i c="325" l="1695935118938" />
+      <i c="326" l="1695997310807" />
     </e>
     <e n="com.intellij.openapi.wm.impl.customFrameDecorations.header.toolbar.MainMenuButton$ShowMenuAction">
       <i c="37" l="1695133077651" />
