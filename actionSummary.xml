@@ -16,7 +16,7 @@
       <i c="48" l="1695659021024" />
     </e>
     <e n="$SelectAll">
-      <i c="226" l="1695935387303" />
+      <i c="227" l="1695996453674" />
     </e>
     <e n="$Undo">
       <i c="1531" l="1695994556433" />
@@ -112,7 +112,7 @@
       <i c="2" l="1695811537556" />
     </e>
     <e n="EditorBackSpace">
-      <i c="5647" l="1695995795207" />
+      <i c="5670" l="1695996451217" />
     </e>
     <e n="EditorChooseLookupItem">
       <i c="2098" l="1695988978097" />
@@ -181,7 +181,7 @@
       <i c="473" l="1695927381100" />
     </e>
     <e n="EditorRight">
-      <i c="7169" l="1695995790313" />
+      <i c="7170" l="1695996435285" />
     </e>
     <e n="EditorRightWithSelection">
       <i c="1587" l="1695933490129" />
@@ -256,7 +256,7 @@
       <i c="1" l="1693832794918" />
     </e>
     <e n="GitNewBranchAction">
-      <i c="1" l="1695654717144" />
+      <i c="2" l="1695996433179" />
     </e>
     <e n="GotoDeclaration">
       <i c="772" l="1695989001494" />
@@ -334,7 +334,7 @@
       <i c="25" l="1695921531569" />
     </e>
     <e n="ReformatCode">
-      <i c="70" l="1695995254276" />
+      <i c="71" l="1695995920740" />
     </e>
     <e n="RenameElement">
       <i c="130" l="1695923474590" />
@@ -469,7 +469,7 @@
       <i c="5" l="1695925546398" />
     </e>
     <e n="com.intellij.ide.browsers.actions.BaseOpenInBrowserAction">
-      <i c="30" l="1695937149904" />
+      <i c="31" l="1695995930286" />
     </e>
     <e n="com.intellij.openapi.actionSystem.DefaultActionGroup">
       <i c="3" l="1694443758868" />
