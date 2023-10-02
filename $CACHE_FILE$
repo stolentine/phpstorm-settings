@@ -75,6 +75,7 @@
       <feature name="READONLY_CLASSES" />
     </project>
     <project hash="38291294" />
+    <project hash="eb5c72a3" />
   </component>
   <component name="PluginAdvertiserExtensions">{
   &quot;plugins&quot;: {
@@ -3226,8 +3227,16 @@
             "nullablePluginName": "Activiti BPMN visualizer"
           },
           {
+            "pluginIdString": "camunda-bpmn-visualizer",
+            "nullablePluginName": "Camunda BPMN visualizer"
+          },
+          {
             "pluginIdString": "polybpmn-intellij-visualizer",
             "nullablePluginName": "PolyBPMN visualizer"
+          },
+          {
+            "pluginIdString": "com.github.shlaikov.intellijbpmn2plugin",
+            "nullablePluginName": "BPMN Viewer - Free and OpenSource"
           },
           {
             "pluginIdString": "flowable-bpmn-visualizer",
@@ -4397,6 +4406,14 @@
           }
         ]
       },
+      "*.courseignore": {
+        "dataSet": [
+          {
+            "pluginIdString": "com.jetbrains.edu",
+            "nullablePluginName": "JetBrains Academy"
+          }
+        ]
+      },
       "*.cpio": {
         "dataSet": [
           {
@@ -4470,6 +4487,14 @@
           {
             "pluginIdString": "com.illuminatedcloud2.intellij",
             "nullablePluginName": "Illuminated Cloud 2"
+          }
+        ]
+      },
+      "*.cs2": {
+        "dataSet": [
+          {
+            "pluginIdString": "me.waleedyaseen.runescript-plugin",
+            "nullablePluginName": "RuneScript"
           }
         ]
       },
@@ -5136,6 +5161,14 @@
           }
         ]
       },
+      "*.dmn": {
+        "dataSet": [
+          {
+            "pluginIdString": "org.yaoqiang.bpmn.editor.plugin",
+            "nullablePluginName": "Yaoqiang BPMN Editor"
+          }
+        ]
+      },
       "*.dockerfile": {
         "dataSet": [
           {
@@ -5279,6 +5312,10 @@
       },
       "*.dto": {
         "dataSet": [
+          {
+            "pluginIdString": "dev.huyaro.lang",
+            "nullablePluginName": "Jimmer Dto Lang"
+          },
           {
             "pluginIdString": "net.fallingangel.jimmer-dto",
             "nullablePluginName": "JimmerDTO"
@@ -6196,6 +6233,14 @@
           {
             "pluginIdString": "com.github.andreypfau.intellij-ton",
             "nullablePluginName": "TON"
+          }
+        ]
+      },
+      "*.fit": {
+        "dataSet": [
+          {
+            "pluginIdString": "FitLang",
+            "nullablePluginName": "FitLang"
           }
         ]
       },
@@ -7351,6 +7396,10 @@
           {
             "pluginIdString": "org.intellij.plugins.hcl",
             "nullablePluginName": "Terraform and HCL"
+          },
+          {
+            "pluginIdString": "io.ariga.atlas.hcl",
+            "nullablePluginName": "Atlas HCL"
           }
         ]
       },
@@ -7390,11 +7439,27 @@
           }
         ]
       },
+      "*.hfy": {
+        "dataSet": [
+          {
+            "pluginIdString": "com.github.lemick.hoverflyui-intellij-plugin",
+            "nullablePluginName": "Hoverfly Editor"
+          }
+        ]
+      },
       "*.hgignore": {
         "dataSet": [
           {
             "pluginIdString": "hg4idea",
             "nullablePluginName": "Mercurial"
+          }
+        ]
+      },
+      "*.hjson": {
+        "dataSet": [
+          {
+            "pluginIdString": "com.zelaux.hjson",
+            "nullablePluginName": "HJson"
           }
         ]
       },
@@ -7967,6 +8032,10 @@
       "*.ipynb": {
         "dataSet": [
           {
+            "pluginIdString": "intellij.jupyter",
+            "nullablePluginName": "Jupyter"
+          },
+          {
             "pluginIdString": "Pythonid",
             "nullablePluginName": "Python"
           },
@@ -8128,6 +8197,14 @@
           }
         ]
       },
+      "*.jasper": {
+        "dataSet": [
+          {
+            "pluginIdString": "me.klez.jasper-report-support",
+            "nullablePluginName": "Jasper Report Support"
+          }
+        ]
+      },
       "*.java": {
         "dataSet": [
           {
@@ -8269,6 +8346,14 @@
           {
             "pluginIdString": "JFormDesigner-Marketplace-Edition",
             "nullablePluginName": "JFormDesigner (Marketplace Edition)"
+          }
+        ]
+      },
+      "*.jfr": {
+        "dataSet": [
+          {
+            "pluginIdString": "me.bechberger.jfrplugin",
+            "nullablePluginName": "Java JFR Profiler"
           }
         ]
       },
@@ -8621,6 +8706,14 @@
           {
             "pluginIdString": "com.alibabacloud.intellij.toolkit-intellij",
             "nullablePluginName": "Alibaba Cloud Toolkit"
+          }
+        ]
+      },
+      "*.json.gz": {
+        "dataSet": [
+          {
+            "pluginIdString": "me.bechberger.jfrplugin",
+            "nullablePluginName": "Java JFR Profiler"
           }
         ]
       },
@@ -9846,6 +9939,14 @@
           }
         ]
       },
+      "*.lt.hcl": {
+        "dataSet": [
+          {
+            "pluginIdString": "io.ariga.atlas.hcl",
+            "nullablePluginName": "Atlas HCL"
+          }
+        ]
+      },
       "*.ltp": {
         "dataSet": [
           {
@@ -9990,6 +10091,14 @@
           }
         ]
       },
+      "*.mapper": {
+        "dataSet": [
+          {
+            "pluginIdString": "org.aurora.engine",
+            "nullablePluginName": "Aurora Engine"
+          }
+        ]
+      },
       "*.mar": {
         "dataSet": [
           {
@@ -10107,6 +10216,14 @@
           {
             "pluginIdString": "com.perl5.lang.mason.mason2",
             "nullablePluginName": "Mason2 Support"
+          }
+        ]
+      },
+      "*.mcfunction": {
+        "dataSet": [
+          {
+            "pluginIdString": "me.jaffe2718.devkit",
+            "nullablePluginName": "Minecraft Command DevKit"
           }
         ]
       },
@@ -10888,6 +11005,14 @@
           }
         ]
       },
+      "*.my.hcl": {
+        "dataSet": [
+          {
+            "pluginIdString": "io.ariga.atlas.hcl",
+            "nullablePluginName": "Atlas HCL"
+          }
+        ]
+      },
       "*.myDomainDiscoverableLogin": {
         "dataSet": [
           {
@@ -11261,6 +11386,14 @@
           }
         ]
       },
+      "*.nvue": {
+        "dataSet": [
+          {
+            "pluginIdString": "cn.fjdmy.uniapp",
+            "nullablePluginName": "Uniapp Tool"
+          }
+        ]
+      },
       "*.nx": {
         "dataSet": [
           {
@@ -11357,6 +11490,14 @@
           }
         ]
       },
+      "*.op": {
+        "dataSet": [
+          {
+            "pluginIdString": "me.waleedyaseen.runescript-plugin",
+            "nullablePluginName": "RuneScript"
+          }
+        ]
+      },
       "*.openapi-generator-ignore": {
         "dataSet": [
           {
@@ -11373,12 +11514,16 @@
           }
         ]
       },
-      "*.orc": {
+      "*.ora": {
         "dataSet": [
           {
-            "pluginIdString": "com.intellij.bigdatatools",
-            "nullablePluginName": "Big Data Tools"
-          },
+            "pluginIdString": "com.db.database.tool",
+            "nullablePluginName": "Database Tool"
+          }
+        ]
+      },
+      "*.orc": {
+        "dataSet": [
           {
             "pluginIdString": "com.cap.plugin.hadoop",
             "nullablePluginName": "Cap-Hadoop"
@@ -11386,6 +11531,10 @@
           {
             "pluginIdString": "com.intellij.bigdatatools.binary.files",
             "nullablePluginName": "Big Data File Viewer"
+          },
+          {
+            "pluginIdString": "com.intellij.bigdatatools",
+            "nullablePluginName": "Big Data Tools"
           }
         ]
       },
@@ -11846,6 +11995,14 @@
           {
             "pluginIdString": "co.anbora.labs.kse",
             "nullablePluginName": "KS-Explorer"
+          }
+        ]
+      },
+      "*.pg.hcl": {
+        "dataSet": [
+          {
+            "pluginIdString": "io.ariga.atlas.hcl",
+            "nullablePluginName": "Atlas HCL"
           }
         ]
       },
@@ -13156,6 +13313,14 @@
           {
             "pluginIdString": "R4Intellij",
             "nullablePluginName": "R Language for IntelliJ"
+          }
+        ]
+      },
+      "*.raftt": {
+        "dataSet": [
+          {
+            "pluginIdString": "io.raftt",
+            "nullablePluginName": "Raftt"
           }
         ]
       },
@@ -15038,6 +15203,10 @@
           {
             "pluginIdString": "com.kinglozzer.silverstripe",
             "nullablePluginName": "Silverstripe Template Language Support"
+          },
+          {
+            "pluginIdString": "servicestack-rider",
+            "nullablePluginName": "ServiceStack"
           }
         ]
       },
@@ -15408,6 +15577,10 @@
           {
             "pluginIdString": "ai.expert.studio",
             "nullablePluginName": "Expert.ai Studio Core"
+          },
+          {
+            "pluginIdString": "me.waleedyaseen.runescript-plugin",
+            "nullablePluginName": "RuneScript"
           }
         ]
       },
@@ -16354,6 +16527,10 @@
           {
             "pluginIdString": "com.jetbrains.writerside",
             "nullablePluginName": "Writerside"
+          },
+          {
+            "pluginIdString": "com.github.besok.foresterintellijplugin",
+            "nullablePluginName": "Forester"
           }
         ]
       },
@@ -17141,6 +17318,14 @@
           }
         ]
       },
+      "*.w": {
+        "dataSet": [
+          {
+            "pluginIdString": "com.github.olivernybroe.wingidea",
+            "nullablePluginName": "Wing"
+          }
+        ]
+      },
       "*.wacc": {
         "dataSet": [
           {
@@ -17167,6 +17352,14 @@
           {
             "pluginIdString": "com.illuminatedcloud2.intellij",
             "nullablePluginName": "Illuminated Cloud 2"
+          }
+        ]
+      },
+      "*.war": {
+        "dataSet": [
+          {
+            "pluginIdString": "com.yingxingguihai.idea.plugins.polaris.tomcat",
+            "nullablePluginName": "Polaris Tomcat Server"
           }
         ]
       },
@@ -17598,6 +17791,10 @@
       "*.xlf": {
         "dataSet": [
           {
+            "pluginIdString": "vette.neos",
+            "nullablePluginName": "Neos Support"
+          },
+          {
             "pluginIdString": "com.cedricziel.idea.xliff",
             "nullablePluginName": "XLIFF Support"
           },
@@ -17620,6 +17817,10 @@
           {
             "pluginIdString": "org.i18nally.jetbrainsideplugin",
             "nullablePluginName": "i18n Ally"
+          },
+          {
+            "pluginIdString": "vette.neos",
+            "nullablePluginName": "Neos Support"
           },
           {
             "pluginIdString": "de.espend.idea.localization",
@@ -17648,6 +17849,10 @@
           {
             "pluginIdString": "com.github.obiscr.exceleditor",
             "nullablePluginName": "ExcelEditor"
+          },
+          {
+            "pluginIdString": "com.intechcore.scell.ideaplugin",
+            "nullablePluginName": "SCell.Reader"
           },
           {
             "pluginIdString": "com.centurylink.mdw.studio",
@@ -17924,6 +18129,14 @@
           }
         ]
       },
+      "*.yapix": {
+        "dataSet": [
+          {
+            "pluginIdString": "yapix",
+            "nullablePluginName": "Apidocx"
+          }
+        ]
+      },
       "*.yarnignore": {
         "dataSet": [
           {
@@ -17983,6 +18196,14 @@
           {
             "pluginIdString": "com.intellij.tasks",
             "nullablePluginName": "Task Management"
+          }
+        ]
+      },
+      "*.yuck": {
+        "dataSet": [
+          {
+            "pluginIdString": "com.github.h3rmt.intellijyuck",
+            "nullablePluginName": "Yuck"
           }
         ]
       },
@@ -18226,6 +18447,14 @@
           }
         ]
       },
+      "atlas.hcl": {
+        "dataSet": [
+          {
+            "pluginIdString": "io.ariga.atlas.hcl",
+            "nullablePluginName": "Atlas HCL"
+          }
+        ]
+      },
       "biblatex-dm.cfg": {
         "dataSet": [
           {
@@ -18263,6 +18492,14 @@
           {
             "pluginIdString": "JavaScript",
             "nullablePluginName": "JavaScript and TypeScript"
+          }
+        ]
+      },
+      "brakeman.ignore": {
+        "dataSet": [
+          {
+            "pluginIdString": "org.jetbrains.plugins.ruby",
+            "nullablePluginName": "Ruby"
           }
         ]
       },
@@ -18804,6 +19041,14 @@
           }
         ]
       },
+      "haxelib.json": {
+        "dataSet": [
+          {
+            "pluginIdString": "com.intellij.plugins.haxe",
+            "nullablePluginName": "Haxe Toolkit Support"
+          }
+        ]
+      },
       "http-client.cookies": {
         "dataSet": [
           {
@@ -19036,6 +19281,10 @@
           {
             "pluginIdString": "com.nekofar.milad.intellij.nestjs",
             "nullablePluginName": "Nest"
+          },
+          {
+            "pluginIdString": "com.github.dinbtechit.jetbrainsnestjs",
+            "nullablePluginName": "NestJS"
           }
         ]
       },
@@ -19641,7 +19890,7 @@
         ]
       }
     },
-    "lastUpdateTime": 1695917202041
+    "lastUpdateTime": 1696255651153
   },
   "dependencies": {
     "featureMap": {
@@ -21198,7 +21447,7 @@
         ]
       }
     },
-    "lastUpdateTime": 1695917202157
+    "lastUpdateTime": 1696255651291
   }
 }]]></component>
   <component name="PluginFeatureService">{
