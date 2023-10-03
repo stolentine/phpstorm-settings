@@ -28,7 +28,7 @@
     "experimental.ui.first.switch": "true",
     "experimental.ui.on.first.startup": "true",
     "experimental.ui.used.version": "232.9921.55",
-    "file.gist.reindex.count": "101",
+    "file.gist.reindex.count": "106",
     "fileTypeChangedCounter": "4",
     "fontSizeToResetConsole": "16.25",
     "fontSizeToResetEditor": "16.25",
@@ -79,7 +79,7 @@
   <component name="TerminalCommandHistoryManager">
     <command-history-files>
       <command-history-file filename="topcargo-history" project-path="$USER_HOME$/projects/topcargo" last-access-time="1695925548458" />
-      <command-history-file filename="wbtech-history" project-path="$USER_HOME$/projects/wbtech" last-access-time="1696326706130" />
+      <command-history-file filename="wbtech-history" project-path="$USER_HOME$/projects/wbtech" last-access-time="1696341941116" />
       <command-history-file filename="tim.lending-history" project-path="$USER_HOME$/projects/tim.lending" last-access-time="1696318525676" />
     </command-history-files>
   </component>

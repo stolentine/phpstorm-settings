@@ -101,7 +101,7 @@
         <entry key="$USER_HOME$/projects/tim.lending">
           <value>
             <RecentProjectMetaInfo frameTitle="tim.lending – index.scss" opened="true" projectWorkspaceId="2WDMYwpltDXEwbfGWs63nIVFFnD">
-              <option name="activationTimestamp" value="1696341887238" />
+              <option name="activationTimestamp" value="1696345558773" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="build" value="PS-232.9921.55" />
               <option name="buildTimestamp" value="1694765497531" />
@@ -116,8 +116,8 @@
         </entry>
         <entry key="$USER_HOME$/projects/wbtech">
           <value>
-            <RecentProjectMetaInfo frameTitle="wbtech – index.scss" projectWorkspaceId="2VFQeXttvEQDHzcyAeP1RvbeNiv">
-              <option name="activationTimestamp" value="1696328873070" />
+            <RecentProjectMetaInfo frameTitle="wbtech – index.html" projectWorkspaceId="2VFQeXttvEQDHzcyAeP1RvbeNiv">
+              <option name="activationTimestamp" value="1696342077172" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="build" value="PS-232.9921.55" />
               <option name="buildTimestamp" value="1694765497531" />
@@ -126,7 +126,7 @@
               </option>
               <frame x="0" y="0" width="1920" height="1036" extendedState="6" />
               <option name="productionCode" value="PS" />
-              <option name="projectOpenTimestamp" value="1696326706162" />
+              <option name="projectOpenTimestamp" value="1696341941326" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
