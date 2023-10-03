@@ -100,38 +100,38 @@
         </entry>
         <entry key="$USER_HOME$/projects/tim.lending">
           <value>
-            <RecentProjectMetaInfo frameTitle="tim.lending – index.scss" projectWorkspaceId="2WDMYwpltDXEwbfGWs63nIVFFnD">
-              <option name="activationTimestamp" value="1696284217220" />
+            <RecentProjectMetaInfo frameTitle="tim.lending – index.scss" opened="true" projectWorkspaceId="2WDMYwpltDXEwbfGWs63nIVFFnD">
+              <option name="activationTimestamp" value="1696332955549" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="build" value="PS-232.9921.55" />
-              <option name="buildTimestamp" value="1694765477340" />
+              <option name="buildTimestamp" value="1694765497531" />
               <option name="colorInfo">
-                <RecentProjectColorInfo associatedIndex="6" />
+                <RecentProjectColorInfo associatedIndex="3" customColor="00b2f4ff" />
               </option>
               <frame x="2271" y="232" width="1706" height="930" extendedState="6" />
               <option name="productionCode" value="PS" />
-              <option name="projectOpenTimestamp" value="1696262748385" />
+              <option name="projectOpenTimestamp" value="1696318317950" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
         <entry key="$USER_HOME$/projects/wbtech">
           <value>
-            <RecentProjectMetaInfo frameTitle="wbtech – scale.js" opened="true" projectWorkspaceId="2VFQeXttvEQDHzcyAeP1RvbeNiv">
-              <option name="activationTimestamp" value="1696284284563" />
+            <RecentProjectMetaInfo frameTitle="wbtech – index.scss" projectWorkspaceId="2VFQeXttvEQDHzcyAeP1RvbeNiv">
+              <option name="activationTimestamp" value="1696328873070" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="build" value="PS-232.9921.55" />
-              <option name="buildTimestamp" value="1694765477340" />
+              <option name="buildTimestamp" value="1694765497531" />
               <option name="colorInfo">
                 <RecentProjectColorInfo associatedIndex="6" />
               </option>
               <frame x="0" y="0" width="1920" height="1036" extendedState="6" />
               <option name="productionCode" value="PS" />
-              <option name="projectOpenTimestamp" value="1696283637510" />
+              <option name="projectOpenTimestamp" value="1696326706162" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
       </map>
     </option>
-    <option name="lastOpenedProject" value="$USER_HOME$/projects/wbtech" />
+    <option name="lastOpenedProject" value="$USER_HOME$/projects/tim.lending" />
   </component>
 </application>
