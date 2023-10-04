@@ -121,7 +121,7 @@
       <i c="209" l="1696343939942" />
     </e>
     <e n="EditorCopy">
-      <i c="3297" l="1696421258687" />
+      <i c="3300" l="1696421564988" />
     </e>
     <e n="EditorCut">
       <i c="3747" l="1696420693303" />
@@ -235,7 +235,7 @@
       <i c="98" l="1696421184124" />
     </e>
     <e n="FindInPath">
-      <i c="35" l="1696421158552" />
+      <i c="36" l="1696421274943" />
     </e>
     <e n="Generate">
       <i c="2" l="1693834262526" />
@@ -262,7 +262,7 @@
       <i c="2" l="1695996433179" />
     </e>
     <e n="GotoDeclaration">
-      <i c="828" l="1696421181497" />
+      <i c="829" l="1696421559582" />
     </e>
     <e n="HideAllWindows">
       <i c="10" l="1695933643389" />
@@ -502,7 +502,7 @@
       <i c="346" l="1696421225479" />
     </e>
     <e n="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
-      <i c="77" l="1696318393686" />
+      <i c="78" l="1696421286732" />
     </e>
     <e n="com.intellij.openapi.ui.DialogWrapper$5">
       <i c="160" l="1696349625408" />

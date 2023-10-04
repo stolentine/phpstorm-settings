@@ -21,7 +21,7 @@
     <feature id="editing.reformat.code" count="85" last-shown="0" last-used="1696346479444" shown-count="0" />
     <feature id="editing.completion.show.liveTemplates" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="editing.copy.line" count="142" last-shown="0" last-used="1696343493157" shown-count="0" />
-    <feature id="navigation.find.in.files" count="35" last-shown="0" last-used="1696421158630" shown-count="0" />
+    <feature id="navigation.find.in.files" count="36" last-shown="0" last-used="1696421275008" shown-count="0" />
     <feature id="db.copy.table" count="1" last-shown="0" last-used="1695828332863" shown-count="0" />
     <feature id="ui.hide.tool.window" count="69" last-shown="0" last-used="1696280323745" shown-count="0" />
     <feature id="navigation.find.replace.in.files.toggle" count="0" last-shown="0" last-used="0" shown-count="0" />
@@ -79,7 +79,7 @@
     <feature id="codeassists.javadoc.external" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="codeassists.surroundwith.expression" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="codeassists.generate.code" count="2" last-shown="0" last-used="1693834262548" shown-count="0" />
-    <feature id="navigation.goto.declaration" count="828" last-shown="0" last-used="1696421181521" shown-count="0" />
+    <feature id="navigation.goto.declaration" count="829" last-shown="0" last-used="1696421559638" shown-count="0" />
     <feature id="editing.completion.finishByDotEtc" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="ui.open.project.tool.window" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="editing.join.lines" count="0" last-shown="0" last-used="0" shown-count="0" />
