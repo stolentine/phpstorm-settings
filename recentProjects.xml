@@ -117,7 +117,7 @@
         <entry key="$USER_HOME$/projects/wbtech">
           <value>
             <RecentProjectMetaInfo frameTitle="wbtech – index.html" opened="true" projectWorkspaceId="2VFQeXttvEQDHzcyAeP1RvbeNiv">
-              <option name="activationTimestamp" value="1696448056590" />
+              <option name="activationTimestamp" value="1696451512526" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="build" value="PS-232.9921.55" />
               <option name="buildTimestamp" value="1694765502920" />
@@ -127,6 +127,22 @@
               <frame x="0" y="0" width="1920" height="1036" extendedState="6" />
               <option name="productionCode" value="PS" />
               <option name="projectOpenTimestamp" value="1696418648824" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/projects/bomberman-ts">
+          <value>
+            <RecentProjectMetaInfo frameTitle="bomberman-ts – Application/index.ts" projectWorkspaceId="2WJQoNSAA2RMlEeBesCghJ8vvB9">
+              <option name="activationTimestamp" value="1696448376617" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="PS-232.9921.55" />
+              <option name="buildTimestamp" value="1694765502920" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="7" />
+              </option>
+              <frame x="2374" y="140" width="1400" height="1000" extendedState="6" />
+              <option name="productionCode" value="PS" />
+              <option name="projectOpenTimestamp" value="1696448376773" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
