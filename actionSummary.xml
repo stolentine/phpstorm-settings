@@ -64,7 +64,7 @@
       <i c="3" l="1695828434213" />
     </e>
     <e n="CommentByLineComment">
-      <i c="521" l="1696420762703" />
+      <i c="522" l="1696422992340" />
     </e>
     <e n="Console.Jdbc.Execute">
       <i c="54" l="1695927301456" />
@@ -142,7 +142,7 @@
       <i c="2" l="1695811514550" />
     </e>
     <e n="EditorEnter">
-      <i c="3714" l="1696420554471" />
+      <i c="3717" l="1696422976214" />
     </e>
     <e n="EditorEscape">
       <i c="66" l="1696420326468" />
@@ -169,7 +169,7 @@
       <i c="1" l="1694558643199" />
     </e>
     <e n="EditorPaste">
-      <i c="5728" l="1696421259456" />
+      <i c="5729" l="1696422977141" />
     </e>
     <e n="EditorPasteFromX11">
       <i c="7" l="1696329890483" />
@@ -367,7 +367,7 @@
       <i c="5" l="1695656441119" />
     </e>
     <e n="SaveAll">
-      <i c="3502" l="1696421269415" />
+      <i c="3503" l="1696422993120" />
     </e>
     <e n="SearchEverywhere">
       <i c="4" l="1695130957958" />
@@ -499,7 +499,7 @@
       <i c="2" l="1694000562693" />
     </e>
     <e n="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
-      <i c="346" l="1696421225479" />
+      <i c="347" l="1696422960517" />
     </e>
     <e n="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
       <i c="78" l="1696421286732" />
