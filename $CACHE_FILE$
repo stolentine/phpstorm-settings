@@ -13944,10 +13944,6 @@
             "isBundled": true
           },
           {
-            "pluginIdString": "org.rust.lang",
-            "nullablePluginName": "[Deprecated] Rust"
-          },
-          {
             "pluginIdString": "com.jetbrains.rider.android",
             "nullablePluginName": "Rider Xamarin Android Support"
           }
@@ -19890,7 +19886,7 @@
         ]
       }
     },
-    "lastUpdateTime": 1696255651153
+    "lastUpdateTime": 1696418457868
   },
   "dependencies": {
     "featureMap": {
@@ -21447,7 +21443,7 @@
         ]
       }
     },
-    "lastUpdateTime": 1696255651291
+    "lastUpdateTime": 1696418457998
   }
 }]]></component>
   <component name="PluginFeatureService">{
