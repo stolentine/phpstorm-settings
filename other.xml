@@ -8,7 +8,7 @@
   <component name="PropertyService"><![CDATA[{
   "keyToString": {
     "CWM_LOGGING_VERSION": "1",
-    "ColorChooser.RecentColors": "0-178-244-255,,,0-0-255-48,,,15-128-0-34,,,255-0-0-45,,,255-0-0-255,,,255-255-255-10,,,221-221-221-255,,,160-160-160-255,,,29-6-129-255,,,9-103-244-255,,,122-122-122-255",
+    "ColorChooser.RecentColors": "122-122-122-255,,,58-136-2-255,,,3-42-75-255,,,0-178-244-255,,,0-0-255-48,,,15-128-0-34,,,255-0-0-45,,,255-0-0-255,,,255-255-255-10,,,221-221-221-255,,,160-160-160-255,,,29-6-129-255,,,9-103-244-255",
     "FindSplitterProportion": "0.32981277",
     "LAST_CALCULATED_COLOR_INDEX_KEY": "7",
     "LAST_EXTRACTOR_SCRIPTS_CLEANUP_VERSION/data/extractors": "PS-232.9921.55",
@@ -28,7 +28,7 @@
     "experimental.ui.first.switch": "true",
     "experimental.ui.on.first.startup": "true",
     "experimental.ui.used.version": "232.9921.55",
-    "file.gist.reindex.count": "135",
+    "file.gist.reindex.count": "145",
     "fileTypeChangedCounter": "4",
     "fontSizeToResetConsole": "16.25",
     "fontSizeToResetEditor": "16.25",
@@ -42,7 +42,7 @@
     "input.method.disabler.muted": "true",
     "js.rename.search.for.text.occurrences": "false",
     "js.rename.search.in.comments": "false",
-    "last_opened_file_path": "/home/stolentine/projects/topcargo",
+    "last_opened_file_path": "/home/stolentine/projects/wbtech/src/component/study/icon/front/F.svg",
     "migrated.non.roamable.values.from.general.settings": "true",
     "previousColorScheme": "_@user_IntelliJ Light",
     "registry.to.advanced.settings.migration.build": "PS-232.9921.55",
@@ -51,6 +51,15 @@
   },
   "keyToStringList": {
     "file.chooser.recent.files": [
+      "/home/stolentine/projects/wbtech/src/component/study/icon/front/F.svg",
+      "/home/stolentine/projects/wbtech/src/component/header/icon/logo.svg",
+      "/home/stolentine/projects/tim.lending/src/asset/logo.svg",
+      "/home/stolentine/projects/topcargo/src/assets/images/icons/map/map_truck.svg",
+      "/home/stolentine/projects/topcargo/src/assets/images/icons/route/unload-station.svg",
+      "/home/stolentine/projects/topcargo/src/assets/images/icons/route/load-station.svg",
+      "/home/stolentine/projects/topcargo/src/assets/images/icons/check-mark.svg",
+      "/home/stolentine/projects/topcargo/src/assets/images/icons/check-mark-blue.svg",
+      "/home/stolentine/projects/topcargo/public/favicon/safari-pinned-tab.svg",
       "/home/stolentine/projects/bomberman-ts",
       "/home/stolentine/projects/tim.lending",
       "/home/stolentine/Документы",
@@ -79,9 +88,10 @@
 }</component>
   <component name="TerminalCommandHistoryManager">
     <command-history-files>
-      <command-history-file filename="topcargo-history" project-path="$USER_HOME$/projects/topcargo" last-access-time="1695925548458" />
-      <command-history-file filename="wbtech-history" project-path="$USER_HOME$/projects/wbtech" last-access-time="1696594671116" />
-      <command-history-file filename="tim.lending-history" project-path="$USER_HOME$/projects/tim.lending" last-access-time="1696418450392" />
+      <command-history-file filename="monolith-history" project-path="$USER_HOME$/projects/bonus-community/monolith" last-access-time="1696596666065" />
+      <command-history-file filename="topcargo-history" project-path="$USER_HOME$/projects/topcargo" last-access-time="1696595913721" />
+      <command-history-file filename="wbtech-history" project-path="$USER_HOME$/projects/wbtech" last-access-time="1696596310460" />
+      <command-history-file filename="tim.lending-history" project-path="$USER_HOME$/projects/tim.lending" last-access-time="1696596305910" />
     </command-history-files>
   </component>
 </application>

@@ -2,38 +2,6 @@
   <component name="RecentProjectsManager">
     <option name="additionalInfo">
       <map>
-        <entry key="$USER_HOME$/projects/docs">
-          <value>
-            <RecentProjectMetaInfo frameTitle="docs – Commit" projectWorkspaceId="2UhpBbuOtDBUyybXJQQVVEfXt65">
-              <option name="activationTimestamp" value="1693405265352" />
-              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="build" value="PS-232.9559.64" />
-              <option name="buildTimestamp" value="1692986632084" />
-              <option name="colorInfo">
-                <RecentProjectColorInfo associatedIndex="8" />
-              </option>
-              <frame x="2126" y="149" width="1400" height="1000" extendedState="6" />
-              <option name="productionCode" value="PS" />
-              <option name="projectOpenTimestamp" value="1693405058309" />
-            </RecentProjectMetaInfo>
-          </value>
-        </entry>
-        <entry key="$USER_HOME$/projects/bonus-community/monolith">
-          <value>
-            <RecentProjectMetaInfo displayName="monolith, bonus-community..." frameTitle="monolith – RegistrationRequest.php [bonus-community]" projectWorkspaceId="2S9iRz9zTMZpxIaG9ndFICFb3mR">
-              <option name="activationTimestamp" value="1694703725499" />
-              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="build" value="PS-232.9559.64" />
-              <option name="buildTimestamp" value="1692986608582" />
-              <option name="colorInfo">
-                <RecentProjectColorInfo associatedIndex="7" />
-              </option>
-              <frame x="1920" y="0" width="2560" height="1396" extendedState="6" />
-              <option name="productionCode" value="PS" />
-              <option name="projectOpenTimestamp" value="1694620369586" />
-            </RecentProjectMetaInfo>
-          </value>
-        </entry>
         <entry key="$USER_HOME$/projects/bc-mobile">
           <value>
             <RecentProjectMetaInfo frameTitle="bc-mobile – profile.dart" projectWorkspaceId="2VLmRs2Gw2rhP0Ntk6x8rWxym2e">
@@ -66,74 +34,42 @@
             </RecentProjectMetaInfo>
           </value>
         </entry>
-        <entry key="$USER_HOME$/Документы">
+        <entry key="$USER_HOME$/projects/topcargo">
           <value>
-            <RecentProjectMetaInfo frameTitle="Документы – head.built.js" projectWorkspaceId="2VcQrk68Wps2JBfJ6Z6KRPdKhSZ">
-              <option name="activationTimestamp" value="1695137520142" />
+            <RecentProjectMetaInfo frameTitle="topcargo" opened="true" projectWorkspaceId="2PVsHbwxtqMCnpEKyWKNXLGglU0">
+              <option name="activationTimestamp" value="1696598600893" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="build" value="PS-232.9921.55" />
-              <option name="buildTimestamp" value="1694765476934" />
+              <option name="buildTimestamp" value="1694765503872" />
               <option name="colorInfo">
-                <RecentProjectColorInfo associatedIndex="5" />
+                <RecentProjectColorInfo associatedIndex="6" customColor="032a4bff" />
               </option>
-              <frame x="2523" y="206" width="1400" height="1000" extendedState="6" />
+              <frame x="1920" y="0" width="2560" height="1396" extendedState="6" />
               <option name="productionCode" value="PS" />
-              <option name="projectOpenTimestamp" value="1695133089616" />
+              <option name="projectOpenTimestamp" value="1696595743589" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
         <entry key="$USER_HOME$/projects/tim.lending">
           <value>
             <RecentProjectMetaInfo frameTitle="tim.lending – README.md" projectWorkspaceId="2WDMYwpltDXEwbfGWs63nIVFFnD">
-              <option name="activationTimestamp" value="1696418648011" />
+              <option name="activationTimestamp" value="1696596310121" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="build" value="PS-232.9921.55" />
-              <option name="buildTimestamp" value="1694765497531" />
+              <option name="buildTimestamp" value="1694765503872" />
               <option name="colorInfo">
                 <RecentProjectColorInfo associatedIndex="3" customColor="00b2f4ff" />
               </option>
               <frame x="1920" y="0" width="2560" height="1396" extendedState="6" />
               <option name="productionCode" value="PS" />
-              <option name="projectOpenTimestamp" value="1696318317950" />
+              <option name="projectOpenTimestamp" value="1696596306168" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
         <entry key="$USER_HOME$/projects/wbtech">
           <value>
-            <RecentProjectMetaInfo frameTitle="wbtech – statistic/index.scss" projectWorkspaceId="2VFQeXttvEQDHzcyAeP1RvbeNiv">
-              <option name="activationTimestamp" value="1696594687326" />
-              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="build" value="PS-232.9921.55" />
-              <option name="buildTimestamp" value="1694765502920" />
-              <option name="colorInfo">
-                <RecentProjectColorInfo associatedIndex="6" />
-              </option>
-              <frame x="1920" y="0" width="2560" height="1396" extendedState="6" />
-              <option name="productionCode" value="PS" />
-              <option name="projectOpenTimestamp" value="1696418648824" />
-            </RecentProjectMetaInfo>
-          </value>
-        </entry>
-        <entry key="$USER_HOME$/projects/bomberman-ts">
-          <value>
-            <RecentProjectMetaInfo frameTitle="bomberman-ts – Application/index.ts" projectWorkspaceId="2WJQoNSAA2RMlEeBesCghJ8vvB9">
-              <option name="activationTimestamp" value="1696448376617" />
-              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="build" value="PS-232.9921.55" />
-              <option name="buildTimestamp" value="1694765502920" />
-              <option name="colorInfo">
-                <RecentProjectColorInfo associatedIndex="7" />
-              </option>
-              <frame x="2374" y="140" width="1400" height="1000" extendedState="6" />
-              <option name="productionCode" value="PS" />
-              <option name="projectOpenTimestamp" value="1696448376773" />
-            </RecentProjectMetaInfo>
-          </value>
-        </entry>
-        <entry key="$USER_HOME$/projects/topcargo">
-          <value>
-            <RecentProjectMetaInfo frameTitle="topcargo – GroupByLevelLocationQueryBuilder.php" opened="true" projectWorkspaceId="2PVsHbwxtqMCnpEKyWKNXLGglU0">
-              <option name="activationTimestamp" value="1696595455776" />
+            <RecentProjectMetaInfo frameTitle="wbtech – src/index.scss" projectWorkspaceId="2VFQeXttvEQDHzcyAeP1RvbeNiv">
+              <option name="activationTimestamp" value="1696596439143" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="build" value="PS-232.9921.55" />
               <option name="buildTimestamp" value="1694765503872" />
@@ -142,7 +78,71 @@
               </option>
               <frame x="1920" y="0" width="2560" height="1396" extendedState="6" />
               <option name="productionCode" value="PS" />
-              <option name="projectOpenTimestamp" value="1696594689809" />
+              <option name="projectOpenTimestamp" value="1696596310767" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/projects/bomberman-ts">
+          <value>
+            <RecentProjectMetaInfo frameTitle="bomberman-ts – textures.png" projectWorkspaceId="2WJQoNSAA2RMlEeBesCghJ8vvB9">
+              <option name="activationTimestamp" value="1696596486886" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="PS-232.9921.55" />
+              <option name="buildTimestamp" value="1694765503872" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="7" customColor="3a8802ff" />
+              </option>
+              <frame x="1920" y="0" width="2560" height="1396" extendedState="6" />
+              <option name="productionCode" value="PS" />
+              <option name="projectOpenTimestamp" value="1696596439534" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Документы">
+          <value>
+            <RecentProjectMetaInfo frameTitle="Документы – head.built.js" projectWorkspaceId="2VcQrk68Wps2JBfJ6Z6KRPdKhSZ">
+              <option name="activationTimestamp" value="1696596512886" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="PS-232.9921.55" />
+              <option name="buildTimestamp" value="1694765503872" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="5" customColor="7a7a7aff" />
+              </option>
+              <frame x="1920" y="0" width="2560" height="1396" extendedState="6" />
+              <option name="productionCode" value="PS" />
+              <option name="projectOpenTimestamp" value="1696596487282" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/projects/docs">
+          <value>
+            <RecentProjectMetaInfo frameTitle="docs" projectWorkspaceId="2UhpBbuOtDBUyybXJQQVVEfXt65">
+              <option name="activationTimestamp" value="1693405265352" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="PS-232.9921.55" />
+              <option name="buildTimestamp" value="1694765503872" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="8" customColor="7a7a7aff" />
+              </option>
+              <frame x="1920" y="0" width="2560" height="1396" extendedState="6" />
+              <option name="productionCode" value="PS" />
+              <option name="projectOpenTimestamp" value="1696596513126" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/projects/bonus-community/monolith">
+          <value>
+            <RecentProjectMetaInfo displayName="monolith, bonus-community..." frameTitle="monolith – RegistrationRequest.php [bonus-community]" projectWorkspaceId="2S9iRz9zTMZpxIaG9ndFICFb3mR">
+              <option name="activationTimestamp" value="1696596769514" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="PS-232.9921.55" />
+              <option name="buildTimestamp" value="1694765503872" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="7" />
+              </option>
+              <frame x="1920" y="0" width="2560" height="1396" extendedState="6" />
+              <option name="productionCode" value="PS" />
+              <option name="projectOpenTimestamp" value="1696596662839" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
