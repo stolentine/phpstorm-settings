@@ -429,6 +429,9 @@
     <e n="Vcs.UpdateProject">
       <i c="3" l="1695924204706" />
     </e>
+    <e n="WelcomeScreen.ChangeProjectIcon">
+      <i c="1" l="1696595454260" />
+    </e>
     <e n="WelcomeScreen.OpenDirectoryProject">
       <i c="1" l="1693320243925" />
     </e>
@@ -496,7 +499,7 @@
       <i c="1" l="1696015563929" />
     </e>
     <e n="com.intellij.ide.ReopenProjectAction">
-      <i c="11" l="1696418646619" />
+      <i c="12" l="1696594685805" />
     </e>
     <e n="com.intellij.ide.browsers.actions.BaseOpenInBrowserAction">
       <i c="45" l="1696451240754" />
@@ -538,7 +541,7 @@
       <i c="7" l="1696450829249" />
     </e>
     <e n="com.intellij.openapi.wm.impl.SquareAnActionButton">
-      <i c="357" l="1696455209761" />
+      <i c="358" l="1696594694320" />
     </e>
     <e n="com.intellij.openapi.wm.impl.customFrameDecorations.header.toolbar.MainMenuButton$ShowMenuAction">
       <i c="39" l="1696262698893" />
@@ -593,6 +596,9 @@
     </e>
     <e n="git4idea.ignore.actions.AddToGitExcludeAction">
       <i c="2" l="1696349037136" />
+    </e>
+    <e n="git4idea.ui.branch.GitBranchPopupFetchAction">
+      <i c="1" l="1696595445150" />
     </e>
   </component>
 </application>
