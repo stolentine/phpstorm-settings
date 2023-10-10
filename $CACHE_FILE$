@@ -6731,6 +6731,14 @@
           }
         ]
       },
+      "*.gdj": {
+        "dataSet": [
+          {
+            "pluginIdString": "com.utopia-rise.godotjvmideaplugin",
+            "nullablePluginName": "Godot Kotlin/Jvm"
+          }
+        ]
+      },
       "*.gdl": {
         "dataSet": [
           {
@@ -8742,6 +8750,18 @@
           {
             "pluginIdString": "today.movatech.plugins.jsonnet",
             "nullablePluginName": "Jsonnet Pro"
+          },
+          {
+            "pluginIdString": "com.databricks",
+            "nullablePluginName": "Jsonnet"
+          }
+        ]
+      },
+      "*.jsonnet.TEMPLATE": {
+        "dataSet": [
+          {
+            "pluginIdString": "com.databricks",
+            "nullablePluginName": "Jsonnet"
           }
         ]
       },
@@ -9701,6 +9721,10 @@
       },
       "*.libsonnet": {
         "dataSet": [
+          {
+            "pluginIdString": "com.databricks",
+            "nullablePluginName": "Jsonnet"
+          },
           {
             "pluginIdString": "com.github.zzehring.intellijjsonnet",
             "nullablePluginName": "Jsonnet Language Server"
@@ -19886,7 +19910,7 @@
         ]
       }
     },
-    "lastUpdateTime": 1696594680739
+    "lastUpdateTime": 1696944595366
   },
   "dependencies": {
     "featureMap": {
@@ -21443,7 +21467,7 @@
         ]
       }
     },
-    "lastUpdateTime": 1696594680866
+    "lastUpdateTime": 1696944595481
   }
 }]]></component>
   <component name="PluginFeatureService">{
