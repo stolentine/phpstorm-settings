@@ -34,22 +34,6 @@
             </RecentProjectMetaInfo>
           </value>
         </entry>
-        <entry key="$USER_HOME$/projects/topcargo">
-          <value>
-            <RecentProjectMetaInfo frameTitle="topcargo" projectWorkspaceId="2PVsHbwxtqMCnpEKyWKNXLGglU0">
-              <option name="activationTimestamp" value="1697301891709" />
-              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="build" value="PS-232.9921.55" />
-              <option name="buildTimestamp" value="1694765503872" />
-              <option name="colorInfo">
-                <RecentProjectColorInfo associatedIndex="6" customColor="032a4bff" />
-              </option>
-              <frame x="1920" y="0" width="2560" height="1396" extendedState="6" />
-              <option name="productionCode" value="PS" />
-              <option name="projectOpenTimestamp" value="1696595743589" />
-            </RecentProjectMetaInfo>
-          </value>
-        </entry>
         <entry key="$USER_HOME$/projects/tim.lending">
           <value>
             <RecentProjectMetaInfo frameTitle="tim.lending – README.md" projectWorkspaceId="2WDMYwpltDXEwbfGWs63nIVFFnD">
@@ -133,7 +117,7 @@
         <entry key="$USER_HOME$/projects/react-test">
           <value>
             <RecentProjectMetaInfo opened="true" projectWorkspaceId="2WlKnNTMpRcx6fzfxyhcW14V2QL">
-              <option name="activationTimestamp" value="1697302637826" />
+              <option name="activationTimestamp" value="1697305092622" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="build" value="PS-232.9921.55" />
               <option name="buildTimestamp" value="1694765481500" />
@@ -147,8 +131,8 @@
         </entry>
         <entry key="$USER_HOME$/projects/wbtech">
           <value>
-            <RecentProjectMetaInfo frameTitle="wbtech – src/index.scss" opened="true" projectWorkspaceId="2VFQeXttvEQDHzcyAeP1RvbeNiv">
-              <option name="activationTimestamp" value="1697302552189" />
+            <RecentProjectMetaInfo frameTitle="wbtech – docker-compose.yml" projectWorkspaceId="2VFQeXttvEQDHzcyAeP1RvbeNiv">
+              <option name="activationTimestamp" value="1697302889932" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="build" value="PS-232.9921.55" />
               <option name="buildTimestamp" value="1694765481500" />
@@ -158,6 +142,22 @@
               <frame x="1920" y="0" width="2560" height="1396" extendedState="6" />
               <option name="productionCode" value="PS" />
               <option name="projectOpenTimestamp" value="1697302552947" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/projects/topcargo">
+          <value>
+            <RecentProjectMetaInfo frameTitle="topcargo – fronted.sh" projectWorkspaceId="2PVsHbwxtqMCnpEKyWKNXLGglU0">
+              <option name="activationTimestamp" value="1697303612974" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="PS-232.9921.55" />
+              <option name="buildTimestamp" value="1694765481500" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="6" customColor="032a4bff" />
+              </option>
+              <frame x="1920" y="0" width="2560" height="1396" extendedState="6" />
+              <option name="productionCode" value="PS" />
+              <option name="projectOpenTimestamp" value="1697302890311" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
