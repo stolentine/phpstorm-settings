@@ -400,7 +400,7 @@
       <i c="130" l="1696447864369" />
     </e>
     <e n="ShowSettings">
-      <i c="4" l="1694107424100" />
+      <i c="5" l="1697305577756" />
     </e>
     <e n="Stop">
       <i c="3" l="1694108206692" />
@@ -559,7 +559,7 @@
       <i c="378" l="1697303966100" />
     </e>
     <e n="com.intellij.openapi.wm.impl.customFrameDecorations.header.toolbar.MainMenuButton$ShowMenuAction">
-      <i c="39" l="1696262698893" />
+      <i c="40" l="1697305575106" />
     </e>
     <e n="com.intellij.openapi.wm.impl.welcomeScreen.projectActions.ChangeProjectColorAction">
       <i c="3" l="1696596294323" />
