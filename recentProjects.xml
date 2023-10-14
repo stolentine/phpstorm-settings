@@ -36,8 +36,8 @@
         </entry>
         <entry key="$USER_HOME$/projects/topcargo">
           <value>
-            <RecentProjectMetaInfo frameTitle="topcargo – base.blade.php" opened="true" projectWorkspaceId="2PVsHbwxtqMCnpEKyWKNXLGglU0">
-              <option name="activationTimestamp" value="1697195887727" />
+            <RecentProjectMetaInfo frameTitle="topcargo" projectWorkspaceId="2PVsHbwxtqMCnpEKyWKNXLGglU0">
+              <option name="activationTimestamp" value="1697301891709" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="build" value="PS-232.9921.55" />
               <option name="buildTimestamp" value="1694765503872" />
@@ -63,22 +63,6 @@
               <frame x="1920" y="0" width="2560" height="1396" extendedState="6" />
               <option name="productionCode" value="PS" />
               <option name="projectOpenTimestamp" value="1696596306168" />
-            </RecentProjectMetaInfo>
-          </value>
-        </entry>
-        <entry key="$USER_HOME$/projects/wbtech">
-          <value>
-            <RecentProjectMetaInfo frameTitle="wbtech – src/index.scss" projectWorkspaceId="2VFQeXttvEQDHzcyAeP1RvbeNiv">
-              <option name="activationTimestamp" value="1696596439143" />
-              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="build" value="PS-232.9921.55" />
-              <option name="buildTimestamp" value="1694765503872" />
-              <option name="colorInfo">
-                <RecentProjectColorInfo associatedIndex="6" />
-              </option>
-              <frame x="1920" y="0" width="2560" height="1396" extendedState="6" />
-              <option name="productionCode" value="PS" />
-              <option name="projectOpenTimestamp" value="1696596310767" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
@@ -146,8 +130,39 @@
             </RecentProjectMetaInfo>
           </value>
         </entry>
+        <entry key="$USER_HOME$/projects/react-test">
+          <value>
+            <RecentProjectMetaInfo opened="true" projectWorkspaceId="2WlKnNTMpRcx6fzfxyhcW14V2QL">
+              <option name="activationTimestamp" value="1697302637826" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="PS-232.9921.55" />
+              <option name="buildTimestamp" value="1694765481500" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="8" />
+              </option>
+              <option name="productionCode" value="PS" />
+              <option name="projectOpenTimestamp" value="1697301892213" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/projects/wbtech">
+          <value>
+            <RecentProjectMetaInfo frameTitle="wbtech – src/index.scss" opened="true" projectWorkspaceId="2VFQeXttvEQDHzcyAeP1RvbeNiv">
+              <option name="activationTimestamp" value="1697302552189" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="PS-232.9921.55" />
+              <option name="buildTimestamp" value="1694765481500" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="6" />
+              </option>
+              <frame x="1920" y="0" width="2560" height="1396" extendedState="6" />
+              <option name="productionCode" value="PS" />
+              <option name="projectOpenTimestamp" value="1697302552947" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
       </map>
     </option>
-    <option name="lastOpenedProject" value="$USER_HOME$/projects/topcargo" />
+    <option name="lastOpenedProject" value="$USER_HOME$/projects/react-test" />
   </component>
 </application>

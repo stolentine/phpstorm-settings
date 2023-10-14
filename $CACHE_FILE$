@@ -10,6 +10,7 @@
   <component name="PhpLanguageFeatureUsagesStatistics">
     <project hash="cbd18ebb" />
     <project hash="d9d1ab95" />
+    <project hash="487a41fa" />
     <project hash="61699ed7" />
     <project hash="e4db82ff" />
     <project hash="8ec5ffe1">
@@ -2603,12 +2604,12 @@
       "*.asset": {
         "dataSet": [
           {
-            "pluginIdString": "com.intellij.resharper.unity",
-            "nullablePluginName": "Unity Support"
-          },
-          {
             "pluginIdString": "com.windea.stellaris",
             "nullablePluginName": "Stellaris Modding Support"
+          },
+          {
+            "pluginIdString": "com.intellij.resharper.unity",
+            "nullablePluginName": "Unity Support"
           }
         ]
       },
@@ -19589,6 +19590,18 @@
           }
         ]
       },
+      "requirements.txt": {
+        "dataSet": [
+          {
+            "pluginIdString": "Pythonid",
+            "nullablePluginName": "Python"
+          },
+          {
+            "pluginIdString": "PythonCore",
+            "nullablePluginName": "Python Community Edition"
+          }
+        ]
+      },
       "routes": {
         "dataSet": [
           {
@@ -19910,7 +19923,7 @@
         ]
       }
     },
-    "lastUpdateTime": 1697037283501
+    "lastUpdateTime": 1697301873942
   },
   "dependencies": {
     "featureMap": {
@@ -20255,6 +20268,22 @@
           {
             "pluginIdString": "idea.plugin.protoeditor",
             "nullablePluginName": "Protocol Buffers"
+          }
+        ]
+      },
+      "java:com.jetbrains:ideaIC": {
+        "dataSet": [
+          {
+            "pluginIdString": "DevKit",
+            "nullablePluginName": "Plugin DevKit"
+          }
+        ]
+      },
+      "java:com.jetbrains:ideaIU": {
+        "dataSet": [
+          {
+            "pluginIdString": "DevKit",
+            "nullablePluginName": "Plugin DevKit"
           }
         ]
       },
@@ -21467,7 +21496,7 @@
         ]
       }
     },
-    "lastUpdateTime": 1697037283624
+    "lastUpdateTime": 1697301874060
   }
 }]]></component>
   <component name="PluginFeatureService">{
