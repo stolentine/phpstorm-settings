@@ -116,14 +116,15 @@
         </entry>
         <entry key="$USER_HOME$/projects/react-test">
           <value>
-            <RecentProjectMetaInfo opened="true" projectWorkspaceId="2WlKnNTMpRcx6fzfxyhcW14V2QL">
-              <option name="activationTimestamp" value="1697307403074" />
+            <RecentProjectMetaInfo frameTitle="react-test – index.html" opened="true" projectWorkspaceId="2WlKnNTMpRcx6fzfxyhcW14V2QL">
+              <option name="activationTimestamp" value="1697308965053" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="build" value="PS-232.9921.55" />
               <option name="buildTimestamp" value="1694765481500" />
               <option name="colorInfo">
                 <RecentProjectColorInfo associatedIndex="8" />
               </option>
+              <frame x="2500" y="198" width="1400" height="1000" extendedState="6" />
               <option name="productionCode" value="PS" />
               <option name="projectOpenTimestamp" value="1697301892213" />
             </RecentProjectMetaInfo>

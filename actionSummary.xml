@@ -114,8 +114,14 @@
     <e n="Docker.RemoteServers.ConnectServer">
       <i c="1" l="1693817931340" />
     </e>
+    <e n="Docker.RemoteServers.DownComposeApp">
+      <i c="1" l="1697309000485" />
+    </e>
     <e n="Docker.RemoteServers.StopComposeApp">
       <i c="2" l="1695811537556" />
+    </e>
+    <e n="Docker.RemoteServers.StopComposeService">
+      <i c="1" l="1697308980496" />
     </e>
     <e n="EditorBackSpace">
       <i c="6658" l="1697304538204" />
@@ -477,6 +483,9 @@
     <e n="com.intellij.database.run.ui.grid.editors.GridCellEditorTextField$2">
       <i c="1" l="1695818868849" />
     </e>
+    <e n="com.intellij.docker.action.compose.ComposeAllStopAction">
+      <i c="1" l="1697308990040" />
+    </e>
     <e n="com.intellij.docker.action.containers.CreateTerminalAction">
       <i c="10" l="1696948374519" />
     </e>
@@ -556,7 +565,7 @@
       <i c="7" l="1696450829249" />
     </e>
     <e n="com.intellij.openapi.wm.impl.SquareAnActionButton">
-      <i c="378" l="1697303966100" />
+      <i c="380" l="1697308973604" />
     </e>
     <e n="com.intellij.openapi.wm.impl.customFrameDecorations.header.toolbar.MainMenuButton$ShowMenuAction">
       <i c="40" l="1697305575106" />
@@ -580,7 +589,7 @@
       <i c="6" l="1694106912548" />
     </e>
     <e n="com.intellij.toolWindow.ToolWindowHeader$HideAction">
-      <i c="77" l="1696454271868" />
+      <i c="78" l="1697309014286" />
     </e>
     <e n="com.intellij.toolWindow.ToolWindowHeader$ShowOptionsAction">
       <i c="3" l="1693485301770" />
