@@ -4355,6 +4355,14 @@
           }
         ]
       },
+      "*.conversationMessageDefinition": {
+        "dataSet": [
+          {
+            "pluginIdString": "com.illuminatedcloud2.intellij",
+            "nullablePluginName": "Illuminated Cloud 2"
+          }
+        ]
+      },
       "*.coo": {
         "dataSet": [
           {
@@ -6009,6 +6017,14 @@
           {
             "pluginIdString": "net.jangaroo.idea.0.9",
             "nullablePluginName": "Jangaroo 0.9"
+          }
+        ]
+      },
+      "*.experienceContainer": {
+        "dataSet": [
+          {
+            "pluginIdString": "com.illuminatedcloud2.intellij",
+            "nullablePluginName": "Illuminated Cloud 2"
           }
         ]
       },
@@ -10317,6 +10333,14 @@
         ]
       },
       "*.messageChannel": {
+        "dataSet": [
+          {
+            "pluginIdString": "com.illuminatedcloud2.intellij",
+            "nullablePluginName": "Illuminated Cloud 2"
+          }
+        ]
+      },
+      "*.messagingChannel": {
         "dataSet": [
           {
             "pluginIdString": "com.illuminatedcloud2.intellij",
@@ -16293,12 +16317,12 @@
         "dataSet": [
           {
             "pluginIdString": "com.intellij.tapestry",
-            "nullablePluginName": "Tapestry support",
-            "isBundled": true
+            "nullablePluginName": "Tapestry"
           },
           {
             "pluginIdString": "com.intellij.tapestry",
-            "nullablePluginName": "Tapestry"
+            "nullablePluginName": "Tapestry support",
+            "isBundled": true
           }
         ]
       },
@@ -18170,7 +18194,7 @@
         "dataSet": [
           {
             "pluginIdString": "Yggdrasil",
-            "nullablePluginName": "Yggdrasil Support"
+            "nullablePluginName": "Yggdrasil Language"
           }
         ]
       },
@@ -19923,7 +19947,7 @@
         ]
       }
     },
-    "lastUpdateTime": 1697301873942
+    "lastUpdateTime": 1697546618322
   },
   "dependencies": {
     "featureMap": {
@@ -21496,7 +21520,7 @@
         ]
       }
     },
-    "lastUpdateTime": 1697301874060
+    "lastUpdateTime": 1697546618432
   }
 }]]></component>
   <component name="PluginFeatureService">{

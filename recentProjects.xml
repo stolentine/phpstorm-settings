@@ -34,22 +34,6 @@
             </RecentProjectMetaInfo>
           </value>
         </entry>
-        <entry key="$USER_HOME$/projects/tim.lending">
-          <value>
-            <RecentProjectMetaInfo frameTitle="tim.lending – README.md" projectWorkspaceId="2WDMYwpltDXEwbfGWs63nIVFFnD">
-              <option name="activationTimestamp" value="1696596310121" />
-              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="build" value="PS-232.9921.55" />
-              <option name="buildTimestamp" value="1694765503872" />
-              <option name="colorInfo">
-                <RecentProjectColorInfo associatedIndex="3" customColor="00b2f4ff" />
-              </option>
-              <frame x="1920" y="0" width="2560" height="1396" extendedState="6" />
-              <option name="productionCode" value="PS" />
-              <option name="projectOpenTimestamp" value="1696596306168" />
-            </RecentProjectMetaInfo>
-          </value>
-        </entry>
         <entry key="$USER_HOME$/projects/bomberman-ts">
           <value>
             <RecentProjectMetaInfo frameTitle="bomberman-ts – textures.png" projectWorkspaceId="2WJQoNSAA2RMlEeBesCghJ8vvB9">
@@ -116,15 +100,15 @@
         </entry>
         <entry key="$USER_HOME$/projects/react-test">
           <value>
-            <RecentProjectMetaInfo frameTitle="react-test – index.html" opened="true" projectWorkspaceId="2WlKnNTMpRcx6fzfxyhcW14V2QL">
-              <option name="activationTimestamp" value="1697308965053" />
+            <RecentProjectMetaInfo frameTitle="react-test – index.html" projectWorkspaceId="2WlKnNTMpRcx6fzfxyhcW14V2QL">
+              <option name="activationTimestamp" value="1697547467121" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="build" value="PS-232.9921.55" />
               <option name="buildTimestamp" value="1694765481500" />
               <option name="colorInfo">
                 <RecentProjectColorInfo associatedIndex="8" />
               </option>
-              <frame x="2500" y="198" width="1400" height="1000" extendedState="6" />
+              <frame x="1920" y="0" width="2560" height="1396" extendedState="6" />
               <option name="productionCode" value="PS" />
               <option name="projectOpenTimestamp" value="1697301892213" />
             </RecentProjectMetaInfo>
@@ -162,8 +146,24 @@
             </RecentProjectMetaInfo>
           </value>
         </entry>
+        <entry key="$USER_HOME$/projects/tim.lending">
+          <value>
+            <RecentProjectMetaInfo frameTitle="tim.lending – README.md" opened="true" projectWorkspaceId="2WDMYwpltDXEwbfGWs63nIVFFnD">
+              <option name="activationTimestamp" value="1697547761678" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="PS-232.9921.55" />
+              <option name="buildTimestamp" value="1694765484173" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="3" customColor="00b2f4ff" />
+              </option>
+              <frame x="1920" y="0" width="2560" height="1396" extendedState="6" />
+              <option name="productionCode" value="PS" />
+              <option name="projectOpenTimestamp" value="1697547468643" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
       </map>
     </option>
-    <option name="lastOpenedProject" value="$USER_HOME$/projects/react-test" />
+    <option name="lastOpenedProject" value="$USER_HOME$/projects/tim.lending" />
   </component>
 </application>
