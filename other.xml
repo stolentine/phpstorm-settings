@@ -32,7 +32,7 @@
     "experimental.ui.first.switch": "true",
     "experimental.ui.on.first.startup": "true",
     "experimental.ui.used.version": "232.9921.55",
-    "file.gist.reindex.count": "157",
+    "file.gist.reindex.count": "158",
     "fileTypeChangedCounter": "4",
     "find.popup.splitter": "0.5660377",
     "fontSizeToResetConsole": "16.25",
@@ -57,10 +57,10 @@
   },
   "keyToStringList": {
     "file.chooser.recent.files": [
+      "/home/stolentine/projects/react-test",
       "/home/stolentine/projects/tim.lending",
       "/home/stolentine/projects/tim.spa",
       "/home/stolentine/projects/wbtech",
-      "/home/stolentine/projects/react-test",
       "/home/stolentine/projects/wbtech/src/component/study/icon/front/F.svg",
       "/home/stolentine/projects/wbtech/src/component/header/icon/logo.svg",
       "/home/stolentine/projects/tim.lending/src/asset/logo.svg",
@@ -98,7 +98,7 @@
     <command-history-files>
       <command-history-file filename="react-test-history" project-path="$USER_HOME$/projects/react-test" last-access-time="1697308970226" />
       <command-history-file filename="monolith-history" project-path="$USER_HOME$/projects/bonus-community/monolith" last-access-time="1696596666065" />
-      <command-history-file filename="topcargo-history" project-path="$USER_HOME$/projects/topcargo" last-access-time="1697302890310" />
+      <command-history-file filename="topcargo-history" project-path="$USER_HOME$/projects/topcargo" last-access-time="1697560314447" />
       <command-history-file filename="wbtech-history" project-path="$USER_HOME$/projects/wbtech" last-access-time="1697302552314" />
       <command-history-file filename="tim.lending-history" project-path="$USER_HOME$/projects/tim.lending" last-access-time="1697559340253" />
       <command-history-file filename="tim.spa-history" project-path="$USER_HOME$/projects/tim.spa" last-access-time="1697558159397" />
