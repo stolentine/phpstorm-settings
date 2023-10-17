@@ -238,7 +238,7 @@
       <i c="3" l="1697301881520" />
     </e>
     <e n="FileChooser.GotoProject">
-      <i c="6" l="1697301885170" />
+      <i c="7" l="1697556978080" />
     </e>
     <e n="FileChooser.NewFolder">
       <i c="3" l="1696262726237" />
@@ -355,7 +355,7 @@
       <i c="140" l="1697302882533" />
     </e>
     <e n="OpenFile">
-      <i c="25" l="1697302546624" />
+      <i c="26" l="1697556975911" />
     </e>
     <e n="PhpNewClass">
       <i c="25" l="1695921531569" />
@@ -565,10 +565,10 @@
       <i c="7" l="1696450829249" />
     </e>
     <e n="com.intellij.openapi.wm.impl.SquareAnActionButton">
-      <i c="380" l="1697308973604" />
+      <i c="381" l="1697558159351" />
     </e>
     <e n="com.intellij.openapi.wm.impl.customFrameDecorations.header.toolbar.MainMenuButton$ShowMenuAction">
-      <i c="40" l="1697305575106" />
+      <i c="41" l="1697556958518" />
     </e>
     <e n="com.intellij.openapi.wm.impl.welcomeScreen.projectActions.ChangeProjectColorAction">
       <i c="3" l="1696596294323" />
