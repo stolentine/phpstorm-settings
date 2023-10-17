@@ -1,7 +1,7 @@
 <application>
   <component name="ActionsLocalSummary">
     <e n="$Copy">
-      <i c="88" l="1697302633439" />
+      <i c="89" l="1697550481710" />
     </e>
     <e n="$Cut">
       <i c="5" l="1697303733453" />
@@ -10,16 +10,16 @@
       <i c="164" l="1697304316514" />
     </e>
     <e n="$Paste">
-      <i c="116" l="1697303743342" />
+      <i c="117" l="1697550481948" />
     </e>
     <e n="$Redo">
       <i c="202" l="1696449266058" />
     </e>
     <e n="$SelectAll">
-      <i c="310" l="1696948139480" />
+      <i c="311" l="1697550489013" />
     </e>
     <e n="$Undo">
-      <i c="2224" l="1697304593955" />
+      <i c="2227" l="1697550617043" />
     </e>
     <e n="ActivateHierarchyToolWindow">
       <i c="1" l="1694106872138" />
@@ -70,7 +70,7 @@
       <i c="4" l="1696444425076" />
     </e>
     <e n="CommentByLineComment">
-      <i c="615" l="1697304501644" />
+      <i c="616" l="1697550621846" />
     </e>
     <e n="Console.Jdbc.Execute">
       <i c="54" l="1695927301456" />
@@ -124,19 +124,19 @@
       <i c="1" l="1697308980496" />
     </e>
     <e n="EditorBackSpace">
-      <i c="6660" l="1697547788333" />
+      <i c="6665" l="1697550954549" />
     </e>
     <e n="EditorChooseLookupItem">
       <i c="2364" l="1696598210818" />
     </e>
     <e n="EditorChooseLookupItemReplace">
-      <i c="214" l="1696597638251" />
+      <i c="215" l="1697550493023" />
     </e>
     <e n="EditorCopy">
-      <i c="3497" l="1697547792267" />
+      <i c="3506" l="1697550976944" />
     </e>
     <e n="EditorCut">
-      <i c="4036" l="1697547727596" />
+      <i c="4038" l="1697550974743" />
     </e>
     <e n="EditorDelete">
       <i c="273" l="1696944946817" />
@@ -154,7 +154,7 @@
       <i c="3" l="1696444029836" />
     </e>
     <e n="EditorEnter">
-      <i c="3856" l="1696948438832" />
+      <i c="3862" l="1697550935816" />
     </e>
     <e n="EditorEscape">
       <i c="70" l="1696597539544" />
@@ -163,7 +163,7 @@
       <i c="32" l="1696280645582" />
     </e>
     <e n="EditorLeft">
-      <i c="7809" l="1697302921787" />
+      <i c="7814" l="1697550971896" />
     </e>
     <e n="EditorLeftWithSelection">
       <i c="2288" l="1696597200858" />
@@ -175,13 +175,13 @@
       <i c="788" l="1696450401861" />
     </e>
     <e n="EditorNextWordWithSelection">
-      <i c="485" l="1697302755415" />
+      <i c="487" l="1697550484780" />
     </e>
     <e n="EditorPageDown">
       <i c="1" l="1694558643199" />
     </e>
     <e n="EditorPaste">
-      <i c="6046" l="1697547792687" />
+      <i c="6061" l="1697550932775" />
     </e>
     <e n="EditorPasteFromX11">
       <i c="9" l="1696445310794" />
@@ -190,10 +190,10 @@
       <i c="417" l="1696451546996" />
     </e>
     <e n="EditorPreviousWordWithSelection">
-      <i c="612" l="1697302757408" />
+      <i c="616" l="1697550973856" />
     </e>
     <e n="EditorRight">
-      <i c="7819" l="1697303008166" />
+      <i c="7825" l="1697550972339" />
     </e>
     <e n="EditorRightWithSelection">
       <i c="1811" l="1696598133684" />
@@ -382,13 +382,13 @@
       <i c="1" l="1694106774690" />
     </e>
     <e n="RevealIn">
-      <i c="11" l="1697303880083" />
+      <i c="12" l="1697551008489" />
     </e>
     <e n="RunAnything">
       <i c="7" l="1696444537892" />
     </e>
     <e n="SaveAll">
-      <i c="3792" l="1697547797888" />
+      <i c="3794" l="1697550701625" />
     </e>
     <e n="SearchEverywhere">
       <i c="4" l="1695130957958" />
@@ -526,7 +526,7 @@
       <i c="28" l="1697547465816" />
     </e>
     <e n="com.intellij.ide.browsers.actions.BaseOpenInBrowserAction">
-      <i c="45" l="1696451240754" />
+      <i c="46" l="1697550991727" />
     </e>
     <e n="com.intellij.ide.ui.customization.CustomizationUtil$MyDumbAction">
       <i c="2" l="1696595488796" />
