@@ -39,6 +39,7 @@
     "fontSizeToResetEditor": "16.25",
     "got.it.tooltip.builtin.web.server.reload.on.save": "1",
     "got.it.tooltip.database.schema.control.got.it": "1",
+    "got.it.tooltip.js.debugger.terminal.start.debugger.from.url": "1",
     "got.it.tooltip.php.terminal.customization": "1",
     "got.it.tooltip.reader.mode.got.it": "1",
     "got.it.tooltip.terminal.smart_command_execution": "1",
@@ -56,6 +57,7 @@
   },
   "keyToStringList": {
     "file.chooser.recent.files": [
+      "/home/stolentine/projects/tim.lending",
       "/home/stolentine/projects/tim.spa",
       "/home/stolentine/projects/wbtech",
       "/home/stolentine/projects/react-test",
@@ -69,7 +71,6 @@
       "/home/stolentine/projects/topcargo/src/assets/images/icons/check-mark-blue.svg",
       "/home/stolentine/projects/topcargo/public/favicon/safari-pinned-tab.svg",
       "/home/stolentine/projects/bomberman-ts",
-      "/home/stolentine/projects/tim.lending",
       "/home/stolentine/Документы",
       "/home/stolentine/projects/wbday",
       "/home/stolentine/projects/topcargo",
@@ -99,7 +100,7 @@
       <command-history-file filename="monolith-history" project-path="$USER_HOME$/projects/bonus-community/monolith" last-access-time="1696596666065" />
       <command-history-file filename="topcargo-history" project-path="$USER_HOME$/projects/topcargo" last-access-time="1697302890310" />
       <command-history-file filename="wbtech-history" project-path="$USER_HOME$/projects/wbtech" last-access-time="1697302552314" />
-      <command-history-file filename="tim.lending-history" project-path="$USER_HOME$/projects/tim.lending" last-access-time="1697547467846" />
+      <command-history-file filename="tim.lending-history" project-path="$USER_HOME$/projects/tim.lending" last-access-time="1697559340253" />
       <command-history-file filename="tim.spa-history" project-path="$USER_HOME$/projects/tim.spa" last-access-time="1697558159397" />
     </command-history-files>
   </component>

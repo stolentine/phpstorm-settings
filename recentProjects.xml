@@ -146,26 +146,10 @@
             </RecentProjectMetaInfo>
           </value>
         </entry>
-        <entry key="$USER_HOME$/projects/tim.lending">
-          <value>
-            <RecentProjectMetaInfo frameTitle="tim.lending – webpack.config.js" projectWorkspaceId="2WDMYwpltDXEwbfGWs63nIVFFnD">
-              <option name="activationTimestamp" value="1697556982056" />
-              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="build" value="PS-232.9921.55" />
-              <option name="buildTimestamp" value="1694765484173" />
-              <option name="colorInfo">
-                <RecentProjectColorInfo associatedIndex="3" customColor="00b2f4ff" />
-              </option>
-              <frame x="1920" y="0" width="2560" height="1396" extendedState="6" />
-              <option name="productionCode" value="PS" />
-              <option name="projectOpenTimestamp" value="1697547468643" />
-            </RecentProjectMetaInfo>
-          </value>
-        </entry>
         <entry key="$USER_HOME$/projects/tim.spa">
           <value>
             <RecentProjectMetaInfo opened="true" projectWorkspaceId="2WtfptxjxKVsBhgZL9GUoZHQAG5">
-              <option name="activationTimestamp" value="1697558153111" />
+              <option name="activationTimestamp" value="1697560023631" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="build" value="PS-232.9921.55" />
               <option name="buildTimestamp" value="1694765484173" />
@@ -174,6 +158,22 @@
               </option>
               <option name="productionCode" value="PS" />
               <option name="projectOpenTimestamp" value="1697556982399" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/projects/tim.lending">
+          <value>
+            <RecentProjectMetaInfo frameTitle="tim.lending – webpack.config.js" opened="true" projectWorkspaceId="2WDMYwpltDXEwbfGWs63nIVFFnD">
+              <option name="activationTimestamp" value="1697559340120" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="PS-232.9921.55" />
+              <option name="buildTimestamp" value="1694765484173" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="3" customColor="00b2f4ff" />
+              </option>
+              <frame x="1920" y="0" width="2560" height="1396" extendedState="6" />
+              <option name="productionCode" value="PS" />
+              <option name="projectOpenTimestamp" value="1697559340360" />
             </RecentProjectMetaInfo>
           </value>
         </entry>

@@ -22006,6 +22006,83 @@
         <version>4.14.199</version>
       </module>
       <module>
+        <name>@vue/language-server</name>
+        <version>1.8.2</version>
+        <dependencies>
+          <dependency value="vscode-languageserver-protocol" />
+          <dependency value="@volar/typescript" />
+          <dependency value="vue-component-meta" />
+          <dependency value="@vue/language-core" />
+          <dependency value="@vue/language-service" />
+          <dependency value="@volar/language-core" />
+          <dependency value="@volar/language-server" />
+          <dependency value="request-light" />
+          <dependency value="@volar/source-map" />
+          <dependency value="@vscode/l10n" />
+          <dependency value="vscode-uri" />
+          <dependency value="vscode-languageserver-textdocument" />
+          <dependency value="typesafe-path" />
+          <dependency value="@volar/language-service" />
+          <dependency value="vscode-languageserver" />
+          <dependency value="muggle-string" />
+          <dependency value="vscode-jsonrpc" />
+          <dependency value="vscode-nls" />
+          <dependency value="@vue/reactivity" />
+          <dependency value="volar-service-html" />
+          <dependency value="@vue/shared" />
+          <dependency value="vscode-html-languageservice" />
+          <dependency value="volar-service-emmet" />
+          <dependency value="volar-service-pug-beautify" />
+          <dependency value="volar-service-json" />
+          <dependency value="volar-service-typescript" />
+          <dependency value="@vue/compiler-dom" />
+          <dependency value="volar-service-css" />
+          <dependency value="volar-service-pug" />
+          <dependency value="volar-service-typescript-twoslash-queries" />
+          <dependency value="pug-lexer" />
+          <dependency value="pug-parser" />
+          <dependency value="pug-error" />
+          <dependency value="token-stream" />
+          <dependency value="is-expression" />
+          <dependency value="character-parser" />
+          <dependency value="acorn" />
+          <dependency value="is-regex" />
+          <dependency value="call-bind" />
+          <dependency value="has-tostringtag" />
+          <dependency value="has-symbols" />
+          <dependency value="function-bind" />
+          <dependency value="get-intrinsic" />
+          <dependency value="has-proto" />
+          <dependency value="has" />
+          <dependency value="object-assign" />
+          <dependency value="vscode-css-languageservice" />
+          <dependency value="vscode-languageserver-types" />
+          <dependency value="@vue/compiler-core" />
+          <dependency value="source-map-js" />
+          <dependency value="@babel/parser" />
+          <dependency value="estree-walker" />
+          <dependency value="typescript-auto-import-cache" />
+          <dependency value="semver" />
+          <dependency value="lru-cache" />
+          <dependency value="yallist" />
+          <dependency value="vscode-json-languageservice" />
+          <dependency value="jsonc-parser" />
+          <dependency value="@johnsoncodehk/pug-beautify" />
+          <dependency value="@vscode/emmet-helper" />
+          <dependency value="emmet" />
+          <dependency value="@emmetio/abbreviation" />
+          <dependency value="@emmetio/css-abbreviation" />
+          <dependency value="@emmetio/scanner" />
+          <dependency value="vue-template-compiler" />
+          <dependency value="minimatch" />
+          <dependency value="brace-expansion" />
+          <dependency value="balanced-match" />
+          <dependency value="de-indent" />
+          <dependency value="he" />
+          <dependency value="vue-component-type-helpers" />
+        </dependencies>
+      </module>
+      <module>
         <name>@types/lodash</name>
         <version>4.14.198</version>
       </module>
