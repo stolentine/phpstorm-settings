@@ -100,14 +100,15 @@
         </entry>
         <entry key="$USER_HOME$/projects/tim.spa">
           <value>
-            <RecentProjectMetaInfo opened="true" projectWorkspaceId="2WtfptxjxKVsBhgZL9GUoZHQAG5">
-              <option name="activationTimestamp" value="1697566613539" />
+            <RecentProjectMetaInfo frameTitle="tim.spa – webpack.config.js" projectWorkspaceId="2WtfptxjxKVsBhgZL9GUoZHQAG5">
+              <option name="activationTimestamp" value="1697616341791" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="build" value="PS-232.9921.55" />
               <option name="buildTimestamp" value="1694765484173" />
               <option name="colorInfo">
                 <RecentProjectColorInfo associatedIndex="0" />
               </option>
+              <frame x="2500" y="198" width="1400" height="1000" extendedState="6" />
               <option name="productionCode" value="PS" />
               <option name="projectOpenTimestamp" value="1697556982399" />
             </RecentProjectMetaInfo>
@@ -131,8 +132,8 @@
         </entry>
         <entry key="$USER_HOME$/projects/react-test">
           <value>
-            <RecentProjectMetaInfo frameTitle="react-test – index.html" opened="true" projectWorkspaceId="2WlKnNTMpRcx6fzfxyhcW14V2QL">
-              <option name="activationTimestamp" value="1697565257097" />
+            <RecentProjectMetaInfo frameTitle="react-test – package.json" projectWorkspaceId="2WlKnNTMpRcx6fzfxyhcW14V2QL">
+              <option name="activationTimestamp" value="1697616348886" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="build" value="PS-232.9921.55" />
               <option name="buildTimestamp" value="1694765484173" />
@@ -148,7 +149,7 @@
         <entry key="$USER_HOME$/projects/wbtech">
           <value>
             <RecentProjectMetaInfo frameTitle="wbtech – docker-compose.yml" opened="true" projectWorkspaceId="2VFQeXttvEQDHzcyAeP1RvbeNiv">
-              <option name="activationTimestamp" value="1697565269756" />
+              <option name="activationTimestamp" value="1697616469482" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="build" value="PS-232.9921.55" />
               <option name="buildTimestamp" value="1694765484173" />
@@ -163,15 +164,15 @@
         </entry>
         <entry key="$USER_HOME$/projects/tim.lending">
           <value>
-            <RecentProjectMetaInfo frameTitle="tim.lending – package.json" opened="true" projectWorkspaceId="2WDMYwpltDXEwbfGWs63nIVFFnD">
-              <option name="activationTimestamp" value="1697565457592" />
+            <RecentProjectMetaInfo frameTitle="tim.lending – src/index.html" projectWorkspaceId="2WDMYwpltDXEwbfGWs63nIVFFnD">
+              <option name="activationTimestamp" value="1697616363628" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="build" value="PS-232.9921.55" />
               <option name="buildTimestamp" value="1694765484173" />
               <option name="colorInfo">
                 <RecentProjectColorInfo associatedIndex="3" customColor="00b2f4ff" />
               </option>
-              <frame x="0" y="0" width="1920" height="1047" extendedState="6" />
+              <frame x="0" y="0" width="1920" height="1036" extendedState="6" />
               <option name="productionCode" value="PS" />
               <option name="projectOpenTimestamp" value="1697565270374" />
             </RecentProjectMetaInfo>
@@ -179,6 +180,6 @@
         </entry>
       </map>
     </option>
-    <option name="lastOpenedProject" value="$USER_HOME$/projects/tim.spa" />
+    <option name="lastOpenedProject" value="$USER_HOME$/projects/wbtech" />
   </component>
 </application>
