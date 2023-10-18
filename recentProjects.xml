@@ -82,22 +82,6 @@
             </RecentProjectMetaInfo>
           </value>
         </entry>
-        <entry key="$USER_HOME$/projects/bonus-community/monolith">
-          <value>
-            <RecentProjectMetaInfo displayName="monolith, bonus-community..." frameTitle="monolith – RegistrationRequest.php [bonus-community]" projectWorkspaceId="2S9iRz9zTMZpxIaG9ndFICFb3mR">
-              <option name="activationTimestamp" value="1696596769514" />
-              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="build" value="PS-232.9921.55" />
-              <option name="buildTimestamp" value="1694765503872" />
-              <option name="colorInfo">
-                <RecentProjectColorInfo associatedIndex="7" />
-              </option>
-              <frame x="1920" y="0" width="2560" height="1396" extendedState="6" />
-              <option name="productionCode" value="PS" />
-              <option name="projectOpenTimestamp" value="1696596662839" />
-            </RecentProjectMetaInfo>
-          </value>
-        </entry>
         <entry key="$USER_HOME$/projects/tim.spa">
           <value>
             <RecentProjectMetaInfo frameTitle="tim.spa – webpack.config.js" projectWorkspaceId="2WtfptxjxKVsBhgZL9GUoZHQAG5">
@@ -148,15 +132,15 @@
         </entry>
         <entry key="$USER_HOME$/projects/wbtech">
           <value>
-            <RecentProjectMetaInfo frameTitle="wbtech – webpack.config.js" opened="true" projectWorkspaceId="2VFQeXttvEQDHzcyAeP1RvbeNiv">
-              <option name="activationTimestamp" value="1697628129103" />
+            <RecentProjectMetaInfo frameTitle="wbtech – webpack.config.js" projectWorkspaceId="2VFQeXttvEQDHzcyAeP1RvbeNiv">
+              <option name="activationTimestamp" value="1697650095014" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="build" value="PS-232.9921.55" />
               <option name="buildTimestamp" value="1694765484173" />
               <option name="colorInfo">
                 <RecentProjectColorInfo associatedIndex="6" />
               </option>
-              <frame x="2445" y="209" width="1400" height="996" extendedState="6" />
+              <frame x="1920" y="0" width="2560" height="1396" extendedState="6" />
               <option name="productionCode" value="PS" />
               <option name="projectOpenTimestamp" value="1697565114691" />
             </RecentProjectMetaInfo>
@@ -178,8 +162,24 @@
             </RecentProjectMetaInfo>
           </value>
         </entry>
+        <entry key="$USER_HOME$/projects/bonus-community/monolith">
+          <value>
+            <RecentProjectMetaInfo displayName="monolith, bonus-community..." frameTitle="monolith – RegistrationRequest.php [bonus-community]" opened="true" projectWorkspaceId="2S9iRz9zTMZpxIaG9ndFICFb3mR">
+              <option name="activationTimestamp" value="1697652660690" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="PS-232.10072.32" />
+              <option name="buildTimestamp" value="1697202346235" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="7" />
+              </option>
+              <frame x="1920" y="0" width="2560" height="1396" extendedState="6" />
+              <option name="productionCode" value="PS" />
+              <option name="projectOpenTimestamp" value="1697650096125" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
       </map>
     </option>
-    <option name="lastOpenedProject" value="$USER_HOME$/projects/wbtech" />
+    <option name="lastOpenedProject" value="$USER_HOME$/projects/bonus-community/monolith" />
   </component>
 </application>

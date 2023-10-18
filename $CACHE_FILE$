@@ -65,12 +65,15 @@
       <feature name="RETURN_TYPES" />
       <feature name="SCALAR_TYPE_HINTS" />
       <feature name="COALESCE_OPERATOR" />
+      <feature name="KEYWORD_NAMES" />
       <feature name="RETURN_VOID" />
       <feature name="NULLABLES" />
       <feature name="TRAILING_COMMA_IN_FUNCTION_CALL" />
+      <feature name="TYPED_PROPERTIES" />
       <feature name="SPREAD_OPERATOR_IN_ARRAY" />
       <feature name="TRAILING_COMMA_IN_PARAMETER_LIST" />
       <feature name="NAMED_ARGUMENTS" />
+      <feature name="THROW_EXPRESSION" />
       <feature name="ATTRIBUTES" />
       <feature name="PROPERTY_PROMOTION" />
       <feature name="READONLY_PROPERTIES" />
@@ -7878,7 +7881,7 @@
         "dataSet": [
           {
             "pluginIdString": "co.anbora.labs.firebase-syntax-highlighting",
-            "nullablePluginName": "Firebase Rules Syntax Highlighter"
+            "nullablePluginName": "Firebase Rules"
           }
         ]
       },
@@ -11343,6 +11346,14 @@
           }
         ]
       },
+      "*.npl": {
+        "dataSet": [
+          {
+            "pluginIdString": "com.noumenadigital.npl.idea",
+            "nullablePluginName": "Noumena Protocol Language (NPL)"
+          }
+        ]
+      },
       "*.npmignore": {
         "dataSet": [
           {
@@ -11408,6 +11419,14 @@
           {
             "pluginIdString": "com.github.b3er.idea.plugins.arc.browser",
             "nullablePluginName": "Archive Browser"
+          }
+        ]
+      },
+      "*.nu": {
+        "dataSet": [
+          {
+            "pluginIdString": "co.anbora.labs.nushell.community",
+            "nullablePluginName": "NuShell Community"
           }
         ]
       },
@@ -14098,7 +14117,7 @@
           },
           {
             "pluginIdString": "co.anbora.labs.firebase-syntax-highlighting",
-            "nullablePluginName": "Firebase Rules Syntax Highlighter"
+            "nullablePluginName": "Firebase Rules"
           }
         ]
       },
@@ -14106,7 +14125,7 @@
         "dataSet": [
           {
             "pluginIdString": "co.anbora.labs.firebase-syntax-highlighting",
-            "nullablePluginName": "Firebase Rules Syntax Highlighter"
+            "nullablePluginName": "Firebase Rules"
           }
         ]
       },
@@ -19948,7 +19967,7 @@
         ]
       }
     },
-    "lastUpdateTime": 1697546618322
+    "lastUpdateTime": 1697650025291
   },
   "dependencies": {
     "featureMap": {
@@ -21521,7 +21540,7 @@
         ]
       }
     },
-    "lastUpdateTime": 1697546618432
+    "lastUpdateTime": 1697650025460
   }
 }]]></component>
   <component name="PluginFeatureService">{
@@ -22000,6 +22019,10 @@
           <dependency value="@types/scheduler" />
           <dependency value="csstype" />
         </dependencies>
+      </module>
+      <module>
+        <name>@types/lodash</name>
+        <version>4.14.200</version>
       </module>
       <module>
         <name>@types/lodash</name>
@@ -22502,6 +22525,20 @@
         <option name="lastDeliveredChunkUniqueId" value="php-mtdowling_jmespath_php-244665e02735-4eb3ee1e" />
         <option name="lastDownloadDate" value="2023-09-13T18:52:56.157928001+03:00[Europe/Moscow]" />
         <option name="lastDownloadSize" value="95840" />
+      </entry>
+      <entry>
+        <option name="indexId" value="psy/psysh==0.1" />
+        <option name="indexKind" value="php" />
+        <option name="lastDeliveredChunkUniqueId" value="php-psy_psysh-244665e02735-d91bf4af" />
+        <option name="lastDownloadDate" value="2023-10-18T20:48:22.90861295+03:00[Europe/Moscow]" />
+        <option name="lastDownloadSize" value="265588" />
+      </entry>
+      <entry>
+        <option name="indexId" value="friendsofphp/php-cs-fixer==3.3" />
+        <option name="indexKind" value="php" />
+        <option name="lastDeliveredChunkUniqueId" value="php-friendsofphp_php_cs_fixer-244665e02735-c0a63f4c" />
+        <option name="lastDownloadDate" value="2023-10-18T20:48:25.081976618+03:00[Europe/Moscow]" />
+        <option name="lastDownloadSize" value="718716" />
       </entry>
     </option>
   </component>

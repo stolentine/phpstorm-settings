@@ -22,8 +22,8 @@
     "PhpStorm.InitialConfiguration": "true",
     "SettingsSearchHistory": "theme\nthem",
     "TextEditorWithPreview.SplitterProportionKey": "0.62481314",
-    "appcds.runOnSecondStart": "PS-232.9921.55-8707416835c3cc6b9bfe302a6078639c8aed0b7410f5c8d936195e6df23beb5b",
-    "bundled.plugins.list.saved.version": "PS-232.9921.55",
+    "appcds.runOnSecondStart": "PS-232.10072.32-aa0d9cabdb2d5f9781c58ffc3d17a5c8438dad71dbd3ad9f7810d640c677877f",
+    "bundled.plugins.list.saved.version": "PS-232.10072.32",
     "com.intellij.history.integration.ui.views.DirectoryHistoryDialog.0": "300",
     "do.not.show.again.docker.missing.shell.plugin.notification": "true",
     "evlsprt.232": "18aaa17c880",
@@ -31,8 +31,8 @@
     "experimental.ui.first.promotion.localdate": "2023-08-29",
     "experimental.ui.first.switch": "true",
     "experimental.ui.on.first.startup": "true",
-    "experimental.ui.used.version": "232.9921.55",
-    "file.gist.reindex.count": "159",
+    "experimental.ui.used.version": "232.10072.32",
+    "file.gist.reindex.count": "165",
     "fileTypeChangedCounter": "4",
     "find.popup.splitter": "0.5660377",
     "fontSizeToResetConsole": "16.25",
@@ -44,14 +44,14 @@
     "got.it.tooltip.reader.mode.got.it": "1",
     "got.it.tooltip.terminal.smart_command_execution": "1",
     "ide.memory.adjusted": "true",
-    "ide.updates.previous.build.number": "PS-232.9921.55",
+    "ide.updates.previous.build.number": "PS-232.10072.32",
     "input.method.disabler.muted": "true",
     "js.rename.search.for.text.occurrences": "false",
     "js.rename.search.in.comments": "false",
     "last_opened_file_path": "/home/stolentine/projects/wbtech/src/component/study/icon/front/F.svg",
     "migrated.non.roamable.values.from.general.settings": "true",
     "previousColorScheme": "_@user_IntelliJ Light",
-    "registry.to.advanced.settings.migration.build": "PS-232.9921.55",
+    "registry.to.advanced.settings.migration.build": "PS-232.10072.32",
     "tasks.pass.word.conversion.enforced": "true",
     "ts.lib.d.ts.version": "5.1.3"
   },
@@ -97,9 +97,9 @@
   <component name="TerminalCommandHistoryManager">
     <command-history-files>
       <command-history-file filename="react-test-history" project-path="$USER_HOME$/projects/react-test" last-access-time="1697308970226" />
-      <command-history-file filename="monolith-history" project-path="$USER_HOME$/projects/bonus-community/monolith" last-access-time="1696596666065" />
+      <command-history-file filename="monolith-history" project-path="$USER_HOME$/projects/bonus-community/monolith" last-access-time="1697650169475" />
       <command-history-file filename="topcargo-history" project-path="$USER_HOME$/projects/topcargo" last-access-time="1697560314447" />
-      <command-history-file filename="wbtech-history" project-path="$USER_HOME$/projects/wbtech" last-access-time="1697565114229" />
+      <command-history-file filename="wbtech-history" project-path="$USER_HOME$/projects/wbtech" last-access-time="1697650014428" />
       <command-history-file filename="tim.lending-history" project-path="$USER_HOME$/projects/tim.lending" last-access-time="1697565269920" />
       <command-history-file filename="tim.spa-history" project-path="$USER_HOME$/projects/tim.spa" last-access-time="1697558159397" />
     </command-history-files>
