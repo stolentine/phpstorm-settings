@@ -88,6 +88,7 @@
       <feature name="ATTRIBUTES" />
       <feature name="PROPERTY_PROMOTION" />
       <feature name="READONLY_PROPERTIES" />
+      <feature name="NEW_IN_INIT" />
       <feature name="READONLY_CLASSES" />
     </project>
     <project hash="38291294" />
