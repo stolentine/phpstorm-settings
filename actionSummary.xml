@@ -1,16 +1,16 @@
 <application>
   <component name="ActionsLocalSummary">
     <e n="$Copy">
-      <i c="91" l="1697564023478" />
+      <i c="92" l="1697565282320" />
     </e>
     <e n="$Cut">
       <i c="5" l="1697303733453" />
     </e>
     <e n="$Delete">
-      <i c="170" l="1697564366836" />
+      <i c="171" l="1697565314744" />
     </e>
     <e n="$Paste">
-      <i c="118" l="1697564028154" />
+      <i c="120" l="1697565284971" />
     </e>
     <e n="$Redo">
       <i c="202" l="1696449266058" />
@@ -70,7 +70,7 @@
       <i c="4" l="1696444425076" />
     </e>
     <e n="CommentByLineComment">
-      <i c="616" l="1697550621846" />
+      <i c="618" l="1697565227638" />
     </e>
     <e n="Console.Jdbc.Execute">
       <i c="54" l="1695927301456" />
@@ -133,10 +133,10 @@
       <i c="216" l="1697564957241" />
     </e>
     <e n="EditorCopy">
-      <i c="3511" l="1697564078222" />
+      <i c="3514" l="1697565388796" />
     </e>
     <e n="EditorCut">
-      <i c="4042" l="1697565091505" />
+      <i c="4043" l="1697565411563" />
     </e>
     <e n="EditorDelete">
       <i c="273" l="1696944946817" />
@@ -181,7 +181,7 @@
       <i c="1" l="1694558643199" />
     </e>
     <e n="EditorPaste">
-      <i c="6067" l="1697565096705" />
+      <i c="6068" l="1697565393354" />
     </e>
     <e n="EditorPasteFromX11">
       <i c="9" l="1696445310794" />
@@ -193,7 +193,7 @@
       <i c="616" l="1697550973856" />
     </e>
     <e n="EditorRight">
-      <i c="7825" l="1697550972339" />
+      <i c="7826" l="1697565306132" />
     </e>
     <e n="EditorRightWithSelection">
       <i c="1811" l="1696598133684" />
@@ -226,7 +226,7 @@
       <i c="5183" l="1697565086746" />
     </e>
     <e n="EditorUpWithSelection">
-      <i c="333" l="1697564105286" />
+      <i c="337" l="1697565388059" />
     </e>
     <e n="ExpandLiveTemplateByTab">
       <i c="265" l="1697547680731" />
@@ -367,7 +367,7 @@
       <i c="94" l="1697551037384" />
     </e>
     <e n="RenameElement">
-      <i c="204" l="1697303006587" />
+      <i c="205" l="1697565305047" />
     </e>
     <e n="Replace">
       <i c="25" l="1696432601970" />
@@ -388,7 +388,7 @@
       <i c="7" l="1696444537892" />
     </e>
     <e n="SaveAll">
-      <i c="3798" l="1697565097821" />
+      <i c="3799" l="1697565394371" />
     </e>
     <e n="SearchEverywhere">
       <i c="4" l="1695130957958" />
@@ -523,7 +523,7 @@
       <i c="1" l="1696015563929" />
     </e>
     <e n="com.intellij.ide.ReopenProjectAction">
-      <i c="29" l="1697560312953" />
+      <i c="31" l="1697565267901" />
     </e>
     <e n="com.intellij.ide.browsers.actions.BaseOpenInBrowserAction">
       <i c="47" l="1697559395274" />
@@ -565,7 +565,7 @@
       <i c="7" l="1696450829249" />
     </e>
     <e n="com.intellij.openapi.wm.impl.SquareAnActionButton">
-      <i c="381" l="1697558159351" />
+      <i c="384" l="1697566632641" />
     </e>
     <e n="com.intellij.openapi.wm.impl.customFrameDecorations.header.toolbar.MainMenuButton$ShowMenuAction">
       <i c="42" l="1697564530814" />
@@ -589,7 +589,7 @@
       <i c="6" l="1694106912548" />
     </e>
     <e n="com.intellij.toolWindow.ToolWindowHeader$HideAction">
-      <i c="79" l="1697564886474" />
+      <i c="80" l="1697566618129" />
     </e>
     <e n="com.intellij.toolWindow.ToolWindowHeader$ShowOptionsAction">
       <i c="3" l="1693485301770" />

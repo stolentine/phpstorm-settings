@@ -23,11 +23,11 @@
     <feature id="editing.copy.line" count="153" last-shown="0" last-used="1697550589266" shown-count="0" />
     <feature id="navigation.find.in.files" count="79" last-shown="0" last-used="1697559990818" shown-count="0" />
     <feature id="db.copy.table" count="1" last-shown="0" last-used="1695828332863" shown-count="0" />
-    <feature id="ui.hide.tool.window" count="79" last-shown="0" last-used="1697564886487" shown-count="0" />
+    <feature id="ui.hide.tool.window" count="80" last-shown="0" last-used="1697566618138" shown-count="0" />
     <feature id="navigation.find.replace.in.files.toggle" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="intentions.check.regexp" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="profiler.open.snapshot" count="0" last-shown="0" last-used="0" shown-count="0" />
-    <feature id="codeassists.comment.line" count="616" last-shown="0" last-used="1697550621883" shown-count="0" />
+    <feature id="codeassists.comment.line" count="618" last-shown="0" last-used="1697565227652" shown-count="0" />
     <feature id="SearchEverywhere" count="4" last-shown="0" last-used="1695130958132" shown-count="0" />
     <feature id="editor.delete.line" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="navigation.inheritance.hierarchy" count="0" last-shown="0" last-used="0" shown-count="0" />
@@ -58,7 +58,7 @@
     <feature id="navigation.find.usages" count="1" last-shown="0" last-used="1696947933478" shown-count="0" />
     <feature id="editing.clipboard.history" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="editing.compare.editor.with.clipboard" count="0" last-shown="0" last-used="0" shown-count="0" />
-    <feature id="refactoring.rename" count="204" last-shown="0" last-used="1697303010067" shown-count="0" />
+    <feature id="refactoring.rename" count="205" last-shown="0" last-used="1697565306926" shown-count="0" />
     <feature id="navigation.popup.action" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="refactoring.show.quick.list" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="db.forget.cached.schemas" count="0" last-shown="0" last-used="0" shown-count="0" />
