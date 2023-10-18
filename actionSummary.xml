@@ -37,7 +37,7 @@
       <i c="4" l="1697303953661" />
     </e>
     <e n="ChangesView.Revert">
-      <i c="21" l="1697555670637" />
+      <i c="22" l="1697625107215" />
     </e>
     <e n="CheckinFiles">
       <i c="1" l="1695660103288" />
@@ -154,7 +154,7 @@
       <i c="3" l="1696444029836" />
     </e>
     <e n="EditorEnter">
-      <i c="3873" l="1697624352254" />
+      <i c="3874" l="1697625161566" />
     </e>
     <e n="EditorEscape">
       <i c="70" l="1696597539544" />
@@ -166,7 +166,7 @@
       <i c="7814" l="1697550971896" />
     </e>
     <e n="EditorLeftWithSelection">
-      <i c="2288" l="1696597200858" />
+      <i c="2293" l="1697625120057" />
     </e>
     <e n="EditorLineEnd">
       <i c="2" l="1694560805415" />
@@ -181,7 +181,7 @@
       <i c="1" l="1694558643199" />
     </e>
     <e n="EditorPaste">
-      <i c="6076" l="1697624361427" />
+      <i c="6077" l="1697625161865" />
     </e>
     <e n="EditorPasteFromX11">
       <i c="9" l="1696445310794" />
@@ -262,7 +262,7 @@
       <i c="19" l="1697303939668" />
     </e>
     <e n="Git.Commit.And.Push.Executor">
-      <i c="184" l="1696948726172" />
+      <i c="186" l="1697625128851" />
     </e>
     <e n="Git.Log.Branches.Settings">
       <i c="1" l="1693832810200" />
@@ -280,7 +280,7 @@
       <i c="5" l="1696948000237" />
     </e>
     <e n="GotoDeclaration">
-      <i c="916" l="1697624330480" />
+      <i c="917" l="1697625149393" />
     </e>
     <e n="HideAllWindows">
       <i c="10" l="1695933643389" />
@@ -388,7 +388,7 @@
       <i c="7" l="1696444537892" />
     </e>
     <e n="SaveAll">
-      <i c="3812" l="1697624384724" />
+      <i c="3813" l="1697625162653" />
     </e>
     <e n="SearchEverywhere">
       <i c="4" l="1695130957958" />
@@ -538,7 +538,7 @@
       <i c="2" l="1694000562693" />
     </e>
     <e n="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
-      <i c="394" l="1697624113270" />
+      <i c="395" l="1697625132701" />
     </e>
     <e n="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
       <i c="87" l="1696596521695" />
@@ -565,7 +565,7 @@
       <i c="7" l="1696450829249" />
     </e>
     <e n="com.intellij.openapi.wm.impl.SquareAnActionButton">
-      <i c="385" l="1697624172048" />
+      <i c="386" l="1697625096180" />
     </e>
     <e n="com.intellij.openapi.wm.impl.customFrameDecorations.header.toolbar.MainMenuButton$ShowMenuAction">
       <i c="42" l="1697564530814" />
