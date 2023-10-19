@@ -36,6 +36,7 @@
       <feature name="NULLABLES" />
       <feature name="CLASS_CONSTANT_VISIBILITY" />
       <feature name="LIST_ASSIGN" />
+      <feature name="ABSTRACT_FUNCTION_OVERRIDE" />
       <feature name="TRAILING_COMMA_IN_FUNCTION_CALL" />
       <feature name="FLEXIBLE_HEREDOCS" />
       <feature name="TYPED_PROPERTIES" />
