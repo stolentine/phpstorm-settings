@@ -1,7 +1,7 @@
 <application>
   <component name="ExtensionsRootType">
     <pluginVersions>
-      <plugin id="com.intellij.database" version="PS-232.9921.55" />
+      <plugin id="com.intellij.database" version="PS-232.10072.32" />
     </pluginVersions>
   </component>
   <component name="JSRemoteModulesRegistry">
@@ -19980,7 +19980,7 @@
         ]
       }
     },
-    "lastUpdateTime": 1697650025291
+    "lastUpdateTime": 1697749129779
   },
   "dependencies": {
     "featureMap": {
@@ -21553,7 +21553,7 @@
         ]
       }
     },
-    "lastUpdateTime": 1697650025460
+    "lastUpdateTime": 1697749129900
   }
 }]]></component>
   <component name="PluginFeatureService">{

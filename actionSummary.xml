@@ -181,7 +181,7 @@
       <i c="1" l="1694558643199" />
     </e>
     <e n="EditorPaste">
-      <i c="6283" l="1697659912817" />
+      <i c="6285" l="1697750297262" />
     </e>
     <e n="EditorPasteFromX11">
       <i c="9" l="1696445310794" />
@@ -280,7 +280,7 @@
       <i c="5" l="1696948000237" />
     </e>
     <e n="GotoDeclaration">
-      <i c="968" l="1697658607403" />
+      <i c="970" l="1697751035025" />
     </e>
     <e n="HideAllWindows">
       <i c="13" l="1697656670057" />
@@ -418,7 +418,7 @@
       <i c="1" l="1695825116425" />
     </e>
     <e n="Terminal.NewTab">
-      <i c="3" l="1694563702112" />
+      <i c="4" l="1697749886233" />
     </e>
     <e n="TerminalNewPredefinedSession">
       <i c="1" l="1693320367225" />
@@ -475,7 +475,7 @@
       <i c="2" l="1694620408967" />
     </e>
     <e n="com.intellij.database.run.ui.grid.GridEditorPanelBase$ApplyAction">
-      <i c="20" l="1695926874926" />
+      <i c="21" l="1697750269209" />
     </e>
     <e n="com.intellij.database.run.ui.grid.editors.DefaultBooleanEditorFactory$ChooseBooleanAction">
       <i c="1" l="1695831720353" />
@@ -523,7 +523,7 @@
       <i c="4" l="1697653762615" />
     </e>
     <e n="com.intellij.ide.ReopenProjectAction">
-      <i c="35" l="1697659854631" />
+      <i c="36" l="1697749199043" />
     </e>
     <e n="com.intellij.ide.browsers.actions.BaseOpenInBrowserAction">
       <i c="47" l="1697559395274" />
@@ -538,7 +538,7 @@
       <i c="2" l="1694000562693" />
     </e>
     <e n="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
-      <i c="416" l="1697659279745" />
+      <i c="419" l="1697751045453" />
     </e>
     <e n="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
       <i c="90" l="1697656235604" />
@@ -565,7 +565,7 @@
       <i c="8" l="1697650197069" />
     </e>
     <e n="com.intellij.openapi.wm.impl.SquareAnActionButton">
-      <i c="424" l="1697659704545" />
+      <i c="425" l="1697750250012" />
     </e>
     <e n="com.intellij.openapi.wm.impl.customFrameDecorations.header.toolbar.MainMenuButton$ShowMenuAction">
       <i c="42" l="1697564530814" />
@@ -589,7 +589,7 @@
       <i c="6" l="1694106912548" />
     </e>
     <e n="com.intellij.toolWindow.ToolWindowHeader$HideAction">
-      <i c="93" l="1697659511834" />
+      <i c="94" l="1697749919119" />
     </e>
     <e n="com.intellij.toolWindow.ToolWindowHeader$ShowOptionsAction">
       <i c="3" l="1693485301770" />
