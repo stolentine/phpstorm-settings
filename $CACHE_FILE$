@@ -49,10 +49,12 @@
       <feature name="TRAILING_COMMA_IN_PARAMETER_LIST" />
       <feature name="NAMED_ARGUMENTS" />
       <feature name="MATCH_EXPRESSION" />
+      <feature name="NON_CAPTURING_CATCHES" />
       <feature name="CLASS_NAME_LITERAL_ON_OBJECT" />
       <feature name="ATTRIBUTES" />
       <feature name="PROPERTY_PROMOTION" />
       <feature name="ENUM_CLASSES" />
+      <feature name="RETURN_NEVER" />
       <feature name="READONLY_PROPERTIES" />
       <feature name="NEW_IN_INIT" />
       <feature name="FIRST_CLASS_CALLABLE" />
