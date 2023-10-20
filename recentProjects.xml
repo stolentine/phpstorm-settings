@@ -164,15 +164,15 @@
         </entry>
         <entry key="$USER_HOME$/projects/topcargo">
           <value>
-            <RecentProjectMetaInfo frameTitle="topcargo – vue.config.js" opened="true" projectWorkspaceId="2PVsHbwxtqMCnpEKyWKNXLGglU0">
-              <option name="activationTimestamp" value="1697760021461" />
+            <RecentProjectMetaInfo frameTitle="topcargo – MultiSourceSearchHandler.php" opened="true" projectWorkspaceId="2PVsHbwxtqMCnpEKyWKNXLGglU0">
+              <option name="activationTimestamp" value="1697813545591" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="build" value="PS-232.10072.32" />
               <option name="buildTimestamp" value="1697202336224" />
               <option name="colorInfo">
                 <RecentProjectColorInfo associatedIndex="6" customColor="032a4bff" />
               </option>
-              <frame x="0" y="0" width="1920" height="1036" extendedState="6" />
+              <frame x="1920" y="0" width="2560" height="1396" extendedState="6" />
               <option name="productionCode" value="PS" />
               <option name="projectOpenTimestamp" value="1697749201737" />
             </RecentProjectMetaInfo>
