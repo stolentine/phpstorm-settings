@@ -16,7 +16,7 @@
       <i c="204" l="1697761491331" />
     </e>
     <e n="$SelectAll">
-      <i c="315" l="1697650328202" />
+      <i c="317" l="1697829988775" />
     </e>
     <e n="$Undo">
       <i c="2297" l="1697761573514" />
@@ -139,7 +139,7 @@
       <i c="1" l="1697761571901" />
     </e>
     <e n="EditorCopy">
-      <i c="3699" l="1697762399912" />
+      <i c="3709" l="1697832160532" />
     </e>
     <e n="EditorCut">
       <i c="4313" l="1697762307771" />
@@ -532,7 +532,7 @@
       <i c="4" l="1697653762615" />
     </e>
     <e n="com.intellij.ide.ReopenProjectAction">
-      <i c="36" l="1697749199043" />
+      <i c="38" l="1697829600900" />
     </e>
     <e n="com.intellij.ide.browsers.actions.BaseOpenInBrowserAction">
       <i c="47" l="1697559395274" />
@@ -574,7 +574,7 @@
       <i c="8" l="1697650197069" />
     </e>
     <e n="com.intellij.openapi.wm.impl.SquareAnActionButton">
-      <i c="433" l="1697759825928" />
+      <i c="435" l="1697829611098" />
     </e>
     <e n="com.intellij.openapi.wm.impl.customFrameDecorations.header.toolbar.MainMenuButton$ShowMenuAction">
       <i c="43" l="1697757539442" />
