@@ -146,26 +146,10 @@
             </RecentProjectMetaInfo>
           </value>
         </entry>
-        <entry key="$USER_HOME$/projects/bonus-community/monolith">
-          <value>
-            <RecentProjectMetaInfo displayName="monolith, bonus-community..." frameTitle="monolith – app.php [monolith]" projectWorkspaceId="2S9iRz9zTMZpxIaG9ndFICFb3mR">
-              <option name="activationTimestamp" value="1697829602232" />
-              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="build" value="PS-232.10072.32" />
-              <option name="buildTimestamp" value="1697202353678" />
-              <option name="colorInfo">
-                <RecentProjectColorInfo associatedIndex="7" />
-              </option>
-              <frame x="1920" y="0" width="2560" height="1396" extendedState="6" />
-              <option name="productionCode" value="PS" />
-              <option name="projectOpenTimestamp" value="1697829225500" />
-            </RecentProjectMetaInfo>
-          </value>
-        </entry>
         <entry key="$USER_HOME$/projects/topcargo">
           <value>
             <RecentProjectMetaInfo frameTitle="topcargo – hashing.php" opened="true" projectWorkspaceId="2PVsHbwxtqMCnpEKyWKNXLGglU0">
-              <option name="activationTimestamp" value="1697832290330" />
+              <option name="activationTimestamp" value="1697883636995" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="build" value="PS-232.10072.32" />
               <option name="buildTimestamp" value="1697202353678" />
@@ -175,6 +159,22 @@
               <frame x="1920" y="0" width="2560" height="1396" extendedState="6" />
               <option name="productionCode" value="PS" />
               <option name="projectOpenTimestamp" value="1697829603041" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/projects/bonus-community/monolith">
+          <value>
+            <RecentProjectMetaInfo displayName="monolith, bonus-community..." frameTitle="monolith – app.php [monolith]" opened="true" projectWorkspaceId="2S9iRz9zTMZpxIaG9ndFICFb3mR">
+              <option name="activationTimestamp" value="1697882346733" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="PS-232.10072.32" />
+              <option name="buildTimestamp" value="1697202345671" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="7" />
+              </option>
+              <frame x="1920" y="0" width="2560" height="1396" extendedState="6" />
+              <option name="productionCode" value="PS" />
+              <option name="projectOpenTimestamp" value="1697882037314" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
