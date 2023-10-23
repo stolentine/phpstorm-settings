@@ -146,26 +146,10 @@
             </RecentProjectMetaInfo>
           </value>
         </entry>
-        <entry key="$USER_HOME$/projects/topcargo">
-          <value>
-            <RecentProjectMetaInfo frameTitle="topcargo – MultiSourceSearchHandlerTest.php" projectWorkspaceId="2PVsHbwxtqMCnpEKyWKNXLGglU0">
-              <option name="activationTimestamp" value="1697983279638" />
-              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="build" value="PS-232.10072.32" />
-              <option name="buildTimestamp" value="1697202353678" />
-              <option name="colorInfo">
-                <RecentProjectColorInfo associatedIndex="6" customColor="032a4bff" />
-              </option>
-              <frame x="1920" y="0" width="2560" height="1396" extendedState="6" />
-              <option name="productionCode" value="PS" />
-              <option name="projectOpenTimestamp" value="1697829603041" />
-            </RecentProjectMetaInfo>
-          </value>
-        </entry>
         <entry key="$USER_HOME$/projects/bonus-community/monolith">
           <value>
-            <RecentProjectMetaInfo displayName="monolith, bonus-community..." frameTitle="monolith – VerificationCodeBuilder.php [bonus-community]" opened="true" projectWorkspaceId="2S9iRz9zTMZpxIaG9ndFICFb3mR">
-              <option name="activationTimestamp" value="1697983280102" />
+            <RecentProjectMetaInfo displayName="monolith, bonus-community..." frameTitle="VerificationCodeBuilder.php [bonus-community]" projectWorkspaceId="2S9iRz9zTMZpxIaG9ndFICFb3mR">
+              <option name="activationTimestamp" value="1698066468014" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="build" value="PS-232.10072.32" />
               <option name="buildTimestamp" value="1697202345671" />
@@ -178,8 +162,24 @@
             </RecentProjectMetaInfo>
           </value>
         </entry>
+        <entry key="$USER_HOME$/projects/topcargo">
+          <value>
+            <RecentProjectMetaInfo frameTitle="topcargo – SearchSuggestAddressMapper.php" opened="true" projectWorkspaceId="2PVsHbwxtqMCnpEKyWKNXLGglU0">
+              <option name="activationTimestamp" value="1698066556573" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="PS-232.10072.32" />
+              <option name="buildTimestamp" value="1697202335538" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="6" customColor="032a4bff" />
+              </option>
+              <frame x="1920" y="0" width="2560" height="1396" extendedState="6" />
+              <option name="productionCode" value="PS" />
+              <option name="projectOpenTimestamp" value="1698066469225" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
       </map>
     </option>
-    <option name="lastOpenedProject" value="$USER_HOME$/projects/bonus-community/monolith" />
+    <option name="lastOpenedProject" value="$USER_HOME$/projects/topcargo" />
   </component>
 </application>
