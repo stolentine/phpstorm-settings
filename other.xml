@@ -9,6 +9,7 @@
   "keyToString": {
     "CWM_LOGGING_VERSION": "1",
     "ColorChooser.RecentColors": "122-122-122-255,,,58-136-2-255,,,3-42-75-255,,,0-178-244-255,,,0-0-255-48,,,15-128-0-34,,,255-0-0-45,,,255-0-0-255,,,255-255-255-10,,,221-221-221-255,,,160-160-160-255,,,29-6-129-255,,,9-103-244-255",
+    "DBE.Default.Dialect": "PostgreSQL",
     "FindSplitterProportion": "0.32981277",
     "JestJavaScriptTestRunnerSupport.hideIgnoredTests": "true",
     "JestJavaScriptTestRunnerSupport.hidePassedTests": "false",
@@ -32,7 +33,7 @@
     "experimental.ui.first.switch": "true",
     "experimental.ui.on.first.startup": "true",
     "experimental.ui.used.version": "232.10072.32",
-    "file.gist.reindex.count": "205",
+    "file.gist.reindex.count": "210",
     "fileTypeChangedCounter": "4",
     "find.popup.splitter": "0.29011554",
     "fontSizeToResetConsole": "16.25",
