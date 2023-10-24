@@ -160,7 +160,7 @@
       <i c="3" l="1696444029836" />
     </e>
     <e n="EditorEnter">
-      <i c="4551" l="1698087290355" />
+      <i c="4553" l="1698146204107" />
     </e>
     <e n="EditorEscape">
       <i c="80" l="1698087218291" />
@@ -613,7 +613,7 @@
       <i c="6" l="1694106912548" />
     </e>
     <e n="com.intellij.toolWindow.ToolWindowHeader$HideAction">
-      <i c="103" l="1698079100052" />
+      <i c="104" l="1698146162690" />
     </e>
     <e n="com.intellij.toolWindow.ToolWindowHeader$ShowOptionsAction">
       <i c="3" l="1693485301770" />
