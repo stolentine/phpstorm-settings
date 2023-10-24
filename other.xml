@@ -25,6 +25,7 @@
     "PluginConfigurable.selectionTab": "1",
     "SettingsSearchHistory": "browser\ntheme\nthem",
     "TextEditorWithPreview.SplitterProportionKey": "0.6125",
+    "TextEditorWithPreviewLayout": "Editor only",
     "appcds.runOnSecondStart": "PS-232.10072.32-8642bcefad4dc605288997a7d6f96fd0cc62ee2084e93bc01c8bd0bbdb002936",
     "bundled.plugins.list.saved.version": "PS-232.10072.32",
     "com.intellij.history.integration.ui.views.DirectoryHistoryDialog.0": "300",
@@ -35,7 +36,7 @@
     "experimental.ui.first.switch": "true",
     "experimental.ui.on.first.startup": "true",
     "experimental.ui.used.version": "232.10072.32",
-    "file.gist.reindex.count": "218",
+    "file.gist.reindex.count": "219",
     "fileTypeChangedCounter": "4",
     "find.popup.splitter": "0.29011554",
     "fontSizeToResetConsole": "16.25",
@@ -105,7 +106,7 @@
       <command-history-file filename="monolith-history" project-path="$USER_HOME$/projects/bonus-community/monolith" last-access-time="1697650169475" />
       <command-history-file filename="topcargo-history" project-path="$USER_HOME$/projects/topcargo" last-access-time="1698067963661" />
       <command-history-file filename="wbtech-history" project-path="$USER_HOME$/projects/wbtech" last-access-time="1697650014428" />
-      <command-history-file filename="tim.lending-history" project-path="$USER_HOME$/projects/tim.lending" last-access-time="1697565269920" />
+      <command-history-file filename="tim.lending-history" project-path="$USER_HOME$/projects/tim.lending" last-access-time="1698152541987" />
       <command-history-file filename="tim.spa-history" project-path="$USER_HOME$/projects/tim.spa" last-access-time="1697558159397" />
     </command-history-files>
   </component>

@@ -50,6 +50,7 @@
       <feature name="STATIC_RETURN_TYPE_HINT" />
       <feature name="TRAILING_COMMA_IN_PARAMETER_LIST" />
       <feature name="NAMED_ARGUMENTS" />
+      <feature name="TRAILING_COMMA_IN_CLOSURE_USE_LIST" />
       <feature name="MATCH_EXPRESSION" />
       <feature name="NON_CAPTURING_CATCHES" />
       <feature name="CLASS_NAME_LITERAL_ON_OBJECT" />
