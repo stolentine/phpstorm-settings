@@ -17228,6 +17228,14 @@
           }
         ]
       },
+      "*.uvue": {
+        "dataSet": [
+          {
+            "pluginIdString": "cn.fjdmy.uniapp",
+            "nullablePluginName": "Uniapp Tool"
+          }
+        ]
+      },
       "*.ux": {
         "dataSet": [
           {
@@ -20094,7 +20102,7 @@
         ]
       }
     },
-    "lastUpdateTime": 1698066474721
+    "lastUpdateTime": 1698156718676
   },
   "dependencies": {
     "featureMap": {
