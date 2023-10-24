@@ -19,7 +19,7 @@
       <i c="318" l="1698067566976" />
     </e>
     <e n="$Undo">
-      <i c="2500" l="1698150111977" />
+      <i c="2501" l="1698151243997" />
     </e>
     <e n="ActivateHierarchyToolWindow">
       <i c="1" l="1694106872138" />
@@ -73,7 +73,7 @@
       <i c="4" l="1696444425076" />
     </e>
     <e n="CommentByLineComment">
-      <i c="664" l="1698150305798" />
+      <i c="669" l="1698150951534" />
     </e>
     <e n="Console.Jdbc.Execute">
       <i c="63" l="1698075697217" />
@@ -127,10 +127,10 @@
       <i c="1" l="1697308980496" />
     </e>
     <e n="EditorBackSpace">
-      <i c="7944" l="1698150244089" />
+      <i c="7961" l="1698151266901" />
     </e>
     <e n="EditorChooseLookupItem">
-      <i c="3330" l="1698150300814" />
+      <i c="3345" l="1698151274428" />
     </e>
     <e n="EditorChooseLookupItemReplace">
       <i c="273" l="1698147861840" />
@@ -139,19 +139,19 @@
       <i c="1" l="1697761571901" />
     </e>
     <e n="EditorCopy">
-      <i c="4033" l="1698150295679" />
+      <i c="4069" l="1698151270921" />
     </e>
     <e n="EditorCut">
-      <i c="4802" l="1698150120776" />
+      <i c="4854" l="1698151372727" />
     </e>
     <e n="EditorDelete">
-      <i c="427" l="1698150243640" />
+      <i c="429" l="1698150890888" />
     </e>
     <e n="EditorDeleteToWordStart">
       <i c="1" l="1695660246956" />
     </e>
     <e n="EditorDown">
-      <i c="7634" l="1698150302713" />
+      <i c="7640" l="1698151275425" />
     </e>
     <e n="EditorDownWithSelection">
       <i c="117" l="1697881748271" />
@@ -160,7 +160,7 @@
       <i c="3" l="1696444029836" />
     </e>
     <e n="EditorEnter">
-      <i c="4585" l="1698150154329" />
+      <i c="4599" l="1698151293510" />
     </e>
     <e n="EditorEscape">
       <i c="81" l="1698150286686" />
@@ -169,7 +169,7 @@
       <i c="37" l="1698083532011" />
     </e>
     <e n="EditorLeft">
-      <i c="9592" l="1698150291171" />
+      <i c="9609" l="1698150659114" />
     </e>
     <e n="EditorLeftWithSelection">
       <i c="2608" l="1698148876439" />
@@ -178,31 +178,31 @@
       <i c="2" l="1694560805415" />
     </e>
     <e n="EditorNextWord">
-      <i c="1019" l="1698086874894" />
+      <i c="1026" l="1698150833953" />
     </e>
     <e n="EditorNextWordWithSelection">
-      <i c="604" l="1698149001549" />
+      <i c="610" l="1698151265722" />
     </e>
     <e n="EditorPageDown">
       <i c="1" l="1694558643199" />
     </e>
     <e n="EditorPaste">
-      <i c="6821" l="1698150296610" />
+      <i c="6864" l="1698151272272" />
     </e>
     <e n="EditorPasteFromX11">
       <i c="9" l="1696445310794" />
     </e>
     <e n="EditorPreviousWord">
-      <i c="630" l="1698150086584" />
+      <i c="634" l="1698150834287" />
     </e>
     <e n="EditorPreviousWordWithSelection">
-      <i c="773" l="1698148880314" />
+      <i c="774" l="1698150654081" />
     </e>
     <e n="EditorRight">
-      <i c="9729" l="1698150301558" />
+      <i c="9746" l="1698151248805" />
     </e>
     <e n="EditorRightWithSelection">
-      <i c="2206" l="1698149745700" />
+      <i c="2209" l="1698150659454" />
     </e>
     <e n="EditorScrollDown">
       <i c="19" l="1698082525811" />
@@ -220,7 +220,7 @@
       <i c="18" l="1696945100450" />
     </e>
     <e n="EditorTab">
-      <i c="430" l="1698150126667" />
+      <i c="433" l="1698150570806" />
     </e>
     <e n="EditorToggleCase">
       <i c="35" l="1698084278968" />
@@ -229,7 +229,7 @@
       <i c="18" l="1698083960211" />
     </e>
     <e n="EditorUp">
-      <i c="5877" l="1698150125940" />
+      <i c="5879" l="1698151293273" />
     </e>
     <e n="EditorUpWithSelection">
       <i c="398" l="1698084649076" />
@@ -286,7 +286,7 @@
       <i c="6" l="1698076541808" />
     </e>
     <e n="GotoDeclaration">
-      <i c="1160" l="1698150165949" />
+      <i c="1169" l="1698151375812" />
     </e>
     <e n="GotoLine">
       <i c="1" l="1698081538613" />
@@ -337,7 +337,7 @@
       <i c="32" l="1698148917935" />
     </e>
     <e n="NewDir">
-      <i c="70" l="1698079674509" />
+      <i c="71" l="1698150444911" />
     </e>
     <e n="NewDirectoryProject">
       <i c="1" l="1694623602676" />
@@ -364,13 +364,13 @@
       <i c="13" l="1696343622497" />
     </e>
     <e n="NextTemplateVariable">
-      <i c="217" l="1698149106876" />
+      <i c="218" l="1698151063946" />
     </e>
     <e n="OpenFile">
       <i c="28" l="1697564532033" />
     </e>
     <e n="PhpNewClass">
-      <i c="41" l="1698084955117" />
+      <i c="42" l="1698150479085" />
     </e>
     <e n="PhpUnitNewTestFromClass">
       <i c="2" l="1698081211594" />
@@ -379,10 +379,10 @@
       <i c="1" l="1696437402896" />
     </e>
     <e n="ReformatCode">
-      <i c="103" l="1698148328153" />
+      <i c="104" l="1698150908479" />
     </e>
     <e n="RenameElement">
-      <i c="254" l="1698148374162" />
+      <i c="257" l="1698151061686" />
     </e>
     <e n="Replace">
       <i c="25" l="1696432601970" />
@@ -406,7 +406,7 @@
       <i c="1" l="1698075374797" />
     </e>
     <e n="SaveAll">
-      <i c="3861" l="1698150306137" />
+      <i c="3862" l="1698150951952" />
     </e>
     <e n="SearchEverywhere">
       <i c="4" l="1695130957958" />
@@ -421,7 +421,7 @@
       <i c="1" l="1693320318168" />
     </e>
     <e n="ShowIntentionActions">
-      <i c="194" l="1698149629988" />
+      <i c="195" l="1698151015190" />
     </e>
     <e n="ShowPopupMenu">
       <i c="1" l="1698081545428" />
@@ -481,7 +481,7 @@
       <i c="1" l="1697302873152" />
     </e>
     <e n="com.intellij.codeInsight.daemon.NavigateAction">
-      <i c="57" l="1698149262355" />
+      <i c="59" l="1698150989761" />
     </e>
     <e n="com.intellij.codeInsight.daemon.impl.DaemonTooltipWithActionRenderer$addActionsRow$2">
       <i c="3" l="1698080247167" />
@@ -628,7 +628,7 @@
       <i c="6" l="1694106804078" />
     </e>
     <e n="com.intellij.ui.ScrollingUtil$ListMoveDownAction">
-      <i c="24" l="1698149634217" />
+      <i c="26" l="1698151018634" />
     </e>
     <e n="com.intellij.ui.ScrollingUtil$ListMoveUpAction">
       <i c="3" l="1698075697744" />
