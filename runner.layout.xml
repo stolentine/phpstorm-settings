@@ -33,14 +33,6 @@
         <option name="displayName" value="Session" />
       </TabImpl>
       <TabImpl>
-        <option name="defaultIndex" value="1" />
-        <option name="index" value="1" />
-      </TabImpl>
-      <TabImpl>
-        <option name="defaultIndex" value="2" />
-        <option name="index" value="1" />
-      </TabImpl>
-      <TabImpl>
         <option name="defaultIndex" value="2" />
         <option name="index" value="1" />
       </TabImpl>
