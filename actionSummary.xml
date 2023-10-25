@@ -1,7 +1,7 @@
 <application>
   <component name="ActionsLocalSummary">
     <e n="$Copy">
-      <i c="98" l="1698167411729" />
+      <i c="99" l="1698232283893" />
     </e>
     <e n="$Cut">
       <i c="5" l="1697303733453" />
@@ -10,7 +10,7 @@
       <i c="187" l="1698160904981" />
     </e>
     <e n="$Paste">
-      <i c="126" l="1698167433284" />
+      <i c="127" l="1698232289009" />
     </e>
     <e n="$Redo">
       <i c="213" l="1698161131106" />
@@ -127,10 +127,10 @@
       <i c="1" l="1697308980496" />
     </e>
     <e n="EditorBackSpace">
-      <i c="8393" l="1698172040773" />
+      <i c="8395" l="1698232304147" />
     </e>
     <e n="EditorChooseLookupItem">
-      <i c="3628" l="1698171842159" />
+      <i c="3630" l="1698232334181" />
     </e>
     <e n="EditorChooseLookupItemReplace">
       <i c="283" l="1698168426363" />
@@ -139,13 +139,13 @@
       <i c="1" l="1697761571901" />
     </e>
     <e n="EditorCopy">
-      <i c="4229" l="1698171891376" />
+      <i c="4230" l="1698232319539" />
     </e>
     <e n="EditorCut">
-      <i c="5257" l="1698171974794" />
+      <i c="5260" l="1698232327430" />
     </e>
     <e n="EditorDelete">
-      <i c="454" l="1698169467000" />
+      <i c="455" l="1698232296511" />
     </e>
     <e n="EditorDeleteToWordStart">
       <i c="1" l="1695660246956" />
@@ -187,7 +187,7 @@
       <i c="1" l="1694558643199" />
     </e>
     <e n="EditorPaste">
-      <i c="7113" l="1698171918855" />
+      <i c="7114" l="1698232325555" />
     </e>
     <e n="EditorPasteFromX11">
       <i c="9" l="1696445310794" />
@@ -196,10 +196,10 @@
       <i c="697" l="1698169390276" />
     </e>
     <e n="EditorPreviousWordWithSelection">
-      <i c="822" l="1698172036992" />
+      <i c="823" l="1698232403022" />
     </e>
     <e n="EditorRight">
-      <i c="10241" l="1698171852854" />
+      <i c="10243" l="1698232295585" />
     </e>
     <e n="EditorRightWithSelection">
       <i c="2349" l="1698171465815" />
@@ -268,7 +268,7 @@
       <i c="19" l="1697303939668" />
     </e>
     <e n="Git.Commit.And.Push.Executor">
-      <i c="198" l="1698172044759" />
+      <i c="200" l="1698233642272" />
     </e>
     <e n="Git.Log.Branches.Settings">
       <i c="1" l="1693832810200" />
@@ -550,7 +550,7 @@
       <i c="4" l="1697653762615" />
     </e>
     <e n="com.intellij.ide.ReopenProjectAction">
-      <i c="41" l="1698152540006" />
+      <i c="42" l="1698232096864" />
     </e>
     <e n="com.intellij.ide.browsers.actions.BaseOpenInBrowserAction">
       <i c="47" l="1697559395274" />
@@ -589,7 +589,7 @@
       <i c="1" l="1695988926890" />
     </e>
     <e n="com.intellij.openapi.vcs.ex.LocalLineStatusTrackerImpl$LocalLineStatusMarkerRenderer$RollbackLineStatusRangeAction">
-      <i c="10" l="1698069067299" />
+      <i c="11" l="1698232255727" />
     </e>
     <e n="com.intellij.openapi.wm.impl.HideAction">
       <i c="8" l="1697650197069" />
