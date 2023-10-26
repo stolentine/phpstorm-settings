@@ -7,7 +7,7 @@
       <i c="5" l="1697303733453" />
     </e>
     <e n="$Delete">
-      <i c="187" l="1698160904981" />
+      <i c="188" l="1698323628135" />
     </e>
     <e n="$Paste">
       <i c="127" l="1698232289009" />
@@ -46,7 +46,7 @@
       <i c="1" l="1696945084974" />
     </e>
     <e n="CloseAllEditors">
-      <i c="68" l="1698168016494" />
+      <i c="69" l="1698322651980" />
     </e>
     <e n="CloseAllEditorsButActive">
       <i c="37" l="1698153987057" />
@@ -94,7 +94,7 @@
       <i c="19" l="1698171909320" />
     </e>
     <e n="CopyReference">
-      <i c="1" l="1695831329535" />
+      <i c="2" l="1698323793371" />
     </e>
     <e n="DatabaseView.AddActionGroupPopup">
       <i c="2" l="1694620405897" />
@@ -127,7 +127,7 @@
       <i c="1" l="1697308980496" />
     </e>
     <e n="EditorBackSpace">
-      <i c="8395" l="1698232304147" />
+      <i c="8461" l="1698323203909" />
     </e>
     <e n="EditorChooseLookupItem">
       <i c="3630" l="1698232334181" />
@@ -139,10 +139,10 @@
       <i c="1" l="1697761571901" />
     </e>
     <e n="EditorCopy">
-      <i c="4230" l="1698232319539" />
+      <i c="4231" l="1698323307036" />
     </e>
     <e n="EditorCut">
-      <i c="5260" l="1698232327430" />
+      <i c="5261" l="1698323001706" />
     </e>
     <e n="EditorDelete">
       <i c="455" l="1698232296511" />
@@ -160,7 +160,7 @@
       <i c="3" l="1696444029836" />
     </e>
     <e n="EditorEnter">
-      <i c="4847" l="1698171975684" />
+      <i c="4858" l="1698323069629" />
     </e>
     <e n="EditorEscape">
       <i c="84" l="1698169462796" />
@@ -169,7 +169,7 @@
       <i c="43" l="1698170675483" />
     </e>
     <e n="EditorLeft">
-      <i c="10247" l="1698171832715" />
+      <i c="10259" l="1698322939485" />
     </e>
     <e n="EditorLeftWithSelection">
       <i c="2770" l="1698171444815" />
@@ -178,10 +178,10 @@
       <i c="2" l="1694560805415" />
     </e>
     <e n="EditorNextWord">
-      <i c="1071" l="1698169391653" />
+      <i c="1091" l="1698322940838" />
     </e>
     <e n="EditorNextWordWithSelection">
-      <i c="631" l="1698172037396" />
+      <i c="632" l="1698322957451" />
     </e>
     <e n="EditorPageDown">
       <i c="1" l="1694558643199" />
@@ -193,13 +193,13 @@
       <i c="9" l="1696445310794" />
     </e>
     <e n="EditorPreviousWord">
-      <i c="697" l="1698169390276" />
+      <i c="711" l="1698322938005" />
     </e>
     <e n="EditorPreviousWordWithSelection">
-      <i c="823" l="1698232403022" />
+      <i c="831" l="1698322964749" />
     </e>
     <e n="EditorRight">
-      <i c="10243" l="1698232295585" />
+      <i c="10249" l="1698322938651" />
     </e>
     <e n="EditorRightWithSelection">
       <i c="2349" l="1698171465815" />
@@ -217,7 +217,7 @@
       <i c="9" l="1698154783382" />
     </e>
     <e n="EditorStartNewLine">
-      <i c="20" l="1698168853510" />
+      <i c="23" l="1698322820012" />
     </e>
     <e n="EditorTab">
       <i c="469" l="1698170689121" />
@@ -349,7 +349,7 @@
       <i c="1" l="1693834265055" />
     </e>
     <e n="NewFile">
-      <i c="41" l="1697650309196" />
+      <i c="42" l="1698322661385" />
     </e>
     <e n="NewHtmlFile">
       <i c="8" l="1694561308828" />
@@ -460,7 +460,7 @@
       <i c="9" l="1696598320030" />
     </e>
     <e n="Vcs.UpdateProject">
-      <i c="6" l="1697751325656" />
+      <i c="7" l="1698322572478" />
     </e>
     <e n="WelcomeScreen.ChangeProjectIcon">
       <i c="9" l="1696945076086" />
@@ -517,7 +517,7 @@
       <i c="18" l="1698156724339" />
     </e>
     <e n="com.intellij.docker.action.containers.StartContainerAction">
-      <i c="9" l="1698165511467" />
+      <i c="10" l="1698323225080" />
     </e>
     <e n="com.intellij.execution.lineMarker.LineMarkerActionWrapper">
       <i c="17" l="1697304296381" />
@@ -550,7 +550,7 @@
       <i c="4" l="1697653762615" />
     </e>
     <e n="com.intellij.ide.ReopenProjectAction">
-      <i c="44" l="1698233711680" />
+      <i c="45" l="1698322625435" />
     </e>
     <e n="com.intellij.ide.browsers.actions.BaseOpenInBrowserAction">
       <i c="47" l="1697559395274" />
@@ -574,7 +574,7 @@
       <i c="91" l="1698160825917" />
     </e>
     <e n="com.intellij.openapi.ui.DialogWrapper$5">
-      <i c="225" l="1698160905544" />
+      <i c="226" l="1698323628355" />
     </e>
     <e n="com.intellij.openapi.ui.impl.DialogWrapperPeerImpl$AnCancelAction">
       <i c="2" l="1695927246708" />
@@ -595,7 +595,7 @@
       <i c="8" l="1697650197069" />
     </e>
     <e n="com.intellij.openapi.wm.impl.SquareAnActionButton">
-      <i c="485" l="1698172029641" />
+      <i c="488" l="1698323785578" />
     </e>
     <e n="com.intellij.openapi.wm.impl.customFrameDecorations.header.toolbar.MainMenuButton$ShowMenuAction">
       <i c="45" l="1698081495723" />

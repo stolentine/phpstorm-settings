@@ -14594,6 +14594,14 @@
           }
         ]
       },
+      "*.selectors.ts": {
+        "dataSet": [
+          {
+            "pluginIdString": "com.github.dinbtechit.ngxs",
+            "nullablePluginName": "NGXS"
+          }
+        ]
+      },
       "*.sem": {
         "dataSet": [
           {
@@ -15435,6 +15443,14 @@
           {
             "pluginIdString": "io.intino.plugin",
             "nullablePluginName": "Intino"
+          }
+        ]
+      },
+      "*.state.ts": {
+        "dataSet": [
+          {
+            "pluginIdString": "com.github.dinbtechit.ngxs",
+            "nullablePluginName": "NGXS"
           }
         ]
       },
@@ -18523,6 +18539,14 @@
           }
         ]
       },
+      "*actions.ts": {
+        "dataSet": [
+          {
+            "pluginIdString": "com.github.dinbtechit.ngxs",
+            "nullablePluginName": "NGXS"
+          }
+        ]
+      },
       "*constants.txt": {
         "dataSet": [
           {
@@ -20102,7 +20126,7 @@
         ]
       }
     },
-    "lastUpdateTime": 1698156718676
+    "lastUpdateTime": 1698322563894
   },
   "dependencies": {
     "featureMap": {
@@ -21691,7 +21715,7 @@
         ]
       }
     },
-    "lastUpdateTime": 1698232098692
+    "lastUpdateTime": 1698322564009
   }
 }]]></component>
   <component name="PluginFeatureService">{
