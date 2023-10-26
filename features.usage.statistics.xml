@@ -72,7 +72,7 @@
     <feature id="codeassists.overrideimplement" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="db.console.run.intention" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="db.diff" count="0" last-shown="0" last-used="0" shown-count="0" />
-    <feature id="ui.close.all.editors" count="69" last-shown="0" last-used="1698322652128" shown-count="0" />
+    <feature id="ui.close.all.editors" count="70" last-shown="0" last-used="1698334703772" shown-count="0" />
     <feature id="navigation.popup.wildcards" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="refactoring.introduceVariable" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="refactoring.extractMethod" count="1" last-shown="0" last-used="1693411885950" shown-count="0" />
@@ -119,8 +119,8 @@
     <feature id="editing.completion.changeSorting" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="db.assign.color" count="0" last-shown="0" last-used="0" shown-count="0" />
     <completionStatsTag>
-      <option name="sparedCharacters" value="23954" />
-      <option name="invocations" value="3441" />
+      <option name="sparedCharacters" value="23961" />
+      <option name="invocations" value="3442" />
       <option name="startDate" value="1693256400000" />
       <option name="dayCount" value="35" />
       <option name="lastDate" value="1698267600000" />
