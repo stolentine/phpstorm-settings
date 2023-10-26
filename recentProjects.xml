@@ -130,42 +130,10 @@
             </RecentProjectMetaInfo>
           </value>
         </entry>
-        <entry key="$USER_HOME$/projects/wbtech">
-          <value>
-            <RecentProjectMetaInfo frameTitle="wbtech – webpack.config.js" projectWorkspaceId="2VFQeXttvEQDHzcyAeP1RvbeNiv">
-              <option name="activationTimestamp" value="1698322628079" />
-              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="build" value="PS-232.10072.32" />
-              <option name="buildTimestamp" value="1697202305349" />
-              <option name="colorInfo">
-                <RecentProjectColorInfo associatedIndex="6" />
-              </option>
-              <frame x="1920" y="0" width="2560" height="1396" extendedState="6" />
-              <option name="productionCode" value="PS" />
-              <option name="projectOpenTimestamp" value="1698232100103" />
-            </RecentProjectMetaInfo>
-          </value>
-        </entry>
-        <entry key="$USER_HOME$/projects/react-test">
-          <value>
-            <RecentProjectMetaInfo frameTitle="react-test – run" projectWorkspaceId="2WlKnNTMpRcx6fzfxyhcW14V2QL">
-              <option name="activationTimestamp" value="1698233741363" />
-              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="build" value="PS-232.10072.32" />
-              <option name="buildTimestamp" value="1697202305349" />
-              <option name="colorInfo">
-                <RecentProjectColorInfo associatedIndex="8" />
-              </option>
-              <frame x="1920" y="0" width="2560" height="1396" extendedState="6" />
-              <option name="productionCode" value="PS" />
-              <option name="projectOpenTimestamp" value="1698233712965" />
-            </RecentProjectMetaInfo>
-          </value>
-        </entry>
         <entry key="$USER_HOME$/projects/topcargo">
           <value>
-            <RecentProjectMetaInfo frameTitle="topcargo – PublishListQuery.php" opened="true" projectWorkspaceId="2PVsHbwxtqMCnpEKyWKNXLGglU0">
-              <option name="activationTimestamp" value="1698334790747" />
+            <RecentProjectMetaInfo frameTitle="topcargo" projectWorkspaceId="2PVsHbwxtqMCnpEKyWKNXLGglU0">
+              <option name="activationTimestamp" value="1698335501684" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="build" value="PS-232.10072.32" />
               <option name="buildTimestamp" value="1697202349483" />
@@ -178,8 +146,40 @@
             </RecentProjectMetaInfo>
           </value>
         </entry>
+        <entry key="$USER_HOME$/projects/wbtech">
+          <value>
+            <RecentProjectMetaInfo frameTitle="wbtech – webpack.config.js" opened="true" projectWorkspaceId="2VFQeXttvEQDHzcyAeP1RvbeNiv">
+              <option name="activationTimestamp" value="1698344093924" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="PS-232.10072.32" />
+              <option name="buildTimestamp" value="1697202349483" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="6" />
+              </option>
+              <frame x="1920" y="0" width="2560" height="1396" extendedState="6" />
+              <option name="productionCode" value="PS" />
+              <option name="projectOpenTimestamp" value="1698335502221" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/projects/react-test">
+          <value>
+            <RecentProjectMetaInfo frameTitle="react-test – App.tsx" projectWorkspaceId="2WlKnNTMpRcx6fzfxyhcW14V2QL">
+              <option name="activationTimestamp" value="1698335613791" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="PS-232.10072.32" />
+              <option name="buildTimestamp" value="1697202349483" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="8" />
+              </option>
+              <frame x="1920" y="0" width="2560" height="1396" extendedState="6" />
+              <option name="productionCode" value="PS" />
+              <option name="projectOpenTimestamp" value="1698335561053" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
       </map>
     </option>
-    <option name="lastOpenedProject" value="$USER_HOME$/projects/topcargo" />
+    <option name="lastOpenedProject" value="$USER_HOME$/projects/wbtech" />
   </component>
 </application>
