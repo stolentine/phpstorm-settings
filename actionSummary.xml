@@ -16,7 +16,7 @@
       <i c="215" l="1698332926440" />
     </e>
     <e n="$SelectAll">
-      <i c="322" l="1698420306308" />
+      <i c="323" l="1698420342873" />
     </e>
     <e n="$Undo">
       <i c="2728" l="1698419529570" />
@@ -127,7 +127,7 @@
       <i c="1" l="1697308980496" />
     </e>
     <e n="EditorBackSpace">
-      <i c="8551" l="1698419869502" />
+      <i c="8555" l="1698420438974" />
     </e>
     <e n="EditorChooseLookupItem">
       <i c="3662" l="1698419867434" />
@@ -268,13 +268,13 @@
       <i c="19" l="1697303939668" />
     </e>
     <e n="Git.Commit.And.Push.Executor">
-      <i c="202" l="1698420152544" />
+      <i c="204" l="1698420468998" />
     </e>
     <e n="Git.Log.Branches.Settings">
       <i c="1" l="1693832810200" />
     </e>
     <e n="GitCheckoutAction">
-      <i c="10" l="1698418066838" />
+      <i c="11" l="1698420362431" />
     </e>
     <e n="GitCheckoutFromInputAction">
       <i c="1" l="1693832794918" />
@@ -460,7 +460,7 @@
       <i c="9" l="1696598320030" />
     </e>
     <e n="Vcs.UpdateProject">
-      <i c="8" l="1698418068792" />
+      <i c="9" l="1698420365264" />
     </e>
     <e n="WelcomeScreen.ChangeProjectIcon">
       <i c="9" l="1696945076086" />
@@ -514,7 +514,7 @@
       <i c="1" l="1697308990040" />
     </e>
     <e n="com.intellij.docker.action.containers.CreateTerminalAction">
-      <i c="18" l="1698156724339" />
+      <i c="19" l="1698420453143" />
     </e>
     <e n="com.intellij.docker.action.containers.StartContainerAction">
       <i c="10" l="1698323225080" />
@@ -568,7 +568,7 @@
       <i c="2" l="1694000562693" />
     </e>
     <e n="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
-      <i c="484" l="1698418564356" />
+      <i c="485" l="1698420415919" />
     </e>
     <e n="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
       <i c="92" l="1698340010413" />
@@ -595,7 +595,7 @@
       <i c="8" l="1697650197069" />
     </e>
     <e n="com.intellij.openapi.wm.impl.SquareAnActionButton">
-      <i c="503" l="1698416339687" />
+      <i c="505" l="1698420449878" />
     </e>
     <e n="com.intellij.openapi.wm.impl.customFrameDecorations.header.toolbar.MainMenuButton$ShowMenuAction">
       <i c="45" l="1698081495723" />
@@ -619,7 +619,7 @@
       <i c="6" l="1694106912548" />
     </e>
     <e n="com.intellij.toolWindow.ToolWindowHeader$HideAction">
-      <i c="116" l="1698339227909" />
+      <i c="117" l="1698420466376" />
     </e>
     <e n="com.intellij.toolWindow.ToolWindowHeader$ShowOptionsAction">
       <i c="3" l="1693485301770" />
