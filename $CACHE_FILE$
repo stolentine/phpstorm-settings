@@ -12600,6 +12600,10 @@
             "pluginIdString": "org.jetbrains.idea.maven",
             "nullablePluginName": "Maven Integration",
             "isBundled": true
+          },
+          {
+            "pluginIdString": "ru.rzn.gmyasoedov.gmaven",
+            "nullablePluginName": "Gmaven"
           }
         ]
       },
@@ -20126,7 +20130,7 @@
         ]
       }
     },
-    "lastUpdateTime": 1698322563894
+    "lastUpdateTime": 1698415752532
   },
   "dependencies": {
     "featureMap": {
@@ -21715,7 +21719,7 @@
         ]
       }
     },
-    "lastUpdateTime": 1698322564009
+    "lastUpdateTime": 1698415752642
   }
 }]]></component>
   <component name="PluginFeatureService">{
