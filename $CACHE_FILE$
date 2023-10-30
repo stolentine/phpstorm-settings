@@ -10075,14 +10075,6 @@
           }
         ]
       },
-      "*.ltp": {
-        "dataSet": [
-          {
-            "pluginIdString": "org.textmapper.idea",
-            "nullablePluginName": "Textmapper"
-          }
-        ]
-      },
       "*.ltt": {
         "dataSet": [
           {
@@ -16444,14 +16436,6 @@
           }
         ]
       },
-      "*.tm": {
-        "dataSet": [
-          {
-            "pluginIdString": "org.textmapper.idea",
-            "nullablePluginName": "Textmapper"
-          }
-        ]
-      },
       "*.tmdl": {
         "dataSet": [
           {
@@ -16464,12 +16448,12 @@
         "dataSet": [
           {
             "pluginIdString": "com.intellij.tapestry",
-            "nullablePluginName": "Tapestry"
+            "nullablePluginName": "Tapestry support",
+            "isBundled": true
           },
           {
             "pluginIdString": "com.intellij.tapestry",
-            "nullablePluginName": "Tapestry support",
-            "isBundled": true
+            "nullablePluginName": "Tapestry"
           }
         ]
       },
@@ -20130,7 +20114,7 @@
         ]
       }
     },
-    "lastUpdateTime": 1698415752532
+    "lastUpdateTime": 1698665878927
   },
   "dependencies": {
     "featureMap": {
@@ -21719,7 +21703,7 @@
         ]
       }
     },
-    "lastUpdateTime": 1698415752642
+    "lastUpdateTime": 1698665879043
   }
 }]]></component>
   <component name="PluginFeatureService">{

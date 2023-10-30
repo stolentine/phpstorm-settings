@@ -36,7 +36,7 @@
     "experimental.ui.first.switch": "true",
     "experimental.ui.on.first.startup": "true",
     "experimental.ui.used.version": "232.10072.32",
-    "file.gist.reindex.count": "236",
+    "file.gist.reindex.count": "237",
     "fileTypeChangedCounter": "5",
     "find.popup.splitter": "0.29011554",
     "fontSizeToResetConsole": "16.25",
@@ -59,7 +59,8 @@
     "previousColorScheme": "_@user_IntelliJ Light",
     "registry.to.advanced.settings.migration.build": "PS-232.10072.32",
     "tasks.pass.word.conversion.enforced": "true",
-    "ts.lib.d.ts.version": "5.1.3"
+    "ts.lib.d.ts.version": "5.1.3",
+    "vcs.history.diff.splitter.proportion": "0.43784377"
   },
   "keyToStringList": {
     "file.chooser.recent.files": [
@@ -105,7 +106,7 @@
       <command-history-file filename="react-test-history" project-path="$USER_HOME$/projects/react-test" last-access-time="1697308970226" />
       <command-history-file filename="monolith-history" project-path="$USER_HOME$/projects/bonus-community/monolith" last-access-time="1697650169475" />
       <command-history-file filename="topcargo-history" project-path="$USER_HOME$/projects/topcargo" last-access-time="1698416317972" />
-      <command-history-file filename="wbtech-history" project-path="$USER_HOME$/projects/wbtech" last-access-time="1698415744845" />
+      <command-history-file filename="wbtech-history" project-path="$USER_HOME$/projects/wbtech" last-access-time="1698666161011" />
       <command-history-file filename="tim.lending-history" project-path="$USER_HOME$/projects/tim.lending" last-access-time="1698152541987" />
       <command-history-file filename="tim.spa-history" project-path="$USER_HOME$/projects/tim.spa" last-access-time="1697558159397" />
     </command-history-files>

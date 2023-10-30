@@ -7,10 +7,10 @@
       <i c="5" l="1697303733453" />
     </e>
     <e n="$Delete">
-      <i c="189" l="1698419888806" />
+      <i c="190" l="1698666268066" />
     </e>
     <e n="$Paste">
-      <i c="129" l="1698335565766" />
+      <i c="130" l="1698666372983" />
     </e>
     <e n="$Redo">
       <i c="215" l="1698332926440" />
@@ -73,7 +73,7 @@
       <i c="4" l="1696444425076" />
     </e>
     <e n="CommentByLineComment">
-      <i c="805" l="1698420306954" />
+      <i c="806" l="1698668407171" />
     </e>
     <e n="Console.Jdbc.Execute">
       <i c="92" l="1698170460710" />
@@ -127,7 +127,7 @@
       <i c="1" l="1697308980496" />
     </e>
     <e n="EditorBackSpace">
-      <i c="8555" l="1698420438974" />
+      <i c="8560" l="1698668213472" />
     </e>
     <e n="EditorChooseLookupItem">
       <i c="3662" l="1698419867434" />
@@ -139,7 +139,7 @@
       <i c="1" l="1697761571901" />
     </e>
     <e n="EditorCopy">
-      <i c="4269" l="1698419439201" />
+      <i c="4270" l="1698668392790" />
     </e>
     <e n="EditorCut">
       <i c="5319" l="1698419908352" />
@@ -154,13 +154,13 @@
       <i c="8307" l="1698419867085" />
     </e>
     <e n="EditorDownWithSelection">
-      <i c="179" l="1698337955057" />
+      <i c="186" l="1698668212659" />
     </e>
     <e n="EditorDuplicate">
       <i c="3" l="1696444029836" />
     </e>
     <e n="EditorEnter">
-      <i c="4933" l="1698419268648" />
+      <i c="4936" l="1698668215977" />
     </e>
     <e n="EditorEscape">
       <i c="84" l="1698169462796" />
@@ -229,10 +229,10 @@
       <i c="18" l="1698083960211" />
     </e>
     <e n="EditorUp">
-      <i c="6386" l="1698342072325" />
+      <i c="6390" l="1698668408104" />
     </e>
     <e n="EditorUpWithSelection">
-      <i c="465" l="1698340722999" />
+      <i c="466" l="1698668209370" />
     </e>
     <e n="ExpandLiveTemplateByTab">
       <i c="312" l="1698343299634" />
@@ -250,7 +250,7 @@
       <i c="3" l="1696262726237" />
     </e>
     <e n="Find">
-      <i c="144" l="1698418580189" />
+      <i c="145" l="1698668376462" />
     </e>
     <e n="FindInPath">
       <i c="126" l="1698419413327" />
@@ -459,6 +459,9 @@
     <e n="Vcs.Push">
       <i c="9" l="1696598320030" />
     </e>
+    <e n="Vcs.ShowTabbedFileHistory">
+      <i c="1" l="1698668316684" />
+    </e>
     <e n="Vcs.UpdateProject">
       <i c="9" l="1698420365264" />
     </e>
@@ -550,7 +553,7 @@
       <i c="4" l="1697653762615" />
     </e>
     <e n="com.intellij.ide.ReopenProjectAction">
-      <i c="49" l="1698415911777" />
+      <i c="50" l="1698666159136" />
     </e>
     <e n="com.intellij.ide.browsers.actions.BaseOpenInBrowserAction">
       <i c="47" l="1697559395274" />
@@ -568,7 +571,7 @@
       <i c="2" l="1694000562693" />
     </e>
     <e n="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
-      <i c="485" l="1698420415919" />
+      <i c="488" l="1698666380365" />
     </e>
     <e n="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
       <i c="92" l="1698340010413" />
@@ -653,6 +656,9 @@
     </e>
     <e n="com.intellij.util.ui.tree.PerFileConfigurableBase$9">
       <i c="2" l="1698074691583" />
+    </e>
+    <e n="com.intellij.vcs.log.history.FileHistoryPanel$4">
+      <i c="1" l="1698668336189" />
     </e>
     <e n="com.intellij.xdebugger.impl.breakpoints.RemoveBreakpointGutterIconAction">
       <i c="7" l="1698074793809" />
