@@ -73,7 +73,7 @@
       <i c="4" l="1696444425076" />
     </e>
     <e n="CommentByLineComment">
-      <i c="858" l="1698748913754" />
+      <i c="867" l="1698750771686" />
     </e>
     <e n="Console.Jdbc.Execute">
       <i c="92" l="1698170460710" />
@@ -130,7 +130,7 @@
       <i c="8701" l="1698748626656" />
     </e>
     <e n="EditorChooseLookupItem">
-      <i c="3706" l="1698748685799" />
+      <i c="3709" l="1698750629331" />
     </e>
     <e n="EditorChooseLookupItemReplace">
       <i c="300" l="1698683389794" />
@@ -142,7 +142,7 @@
       <i c="4314" l="1698749706092" />
     </e>
     <e n="EditorCut">
-      <i c="5534" l="1698749895860" />
+      <i c="5535" l="1698750604421" />
     </e>
     <e n="EditorDelete">
       <i c="457" l="1698325213899" />
@@ -151,7 +151,7 @@
       <i c="1" l="1695660246956" />
     </e>
     <e n="EditorDown">
-      <i c="9129" l="1698748684697" />
+      <i c="9130" l="1698750616520" />
     </e>
     <e n="EditorDownWithSelection">
       <i c="221" l="1698672444711" />
@@ -160,7 +160,7 @@
       <i c="3" l="1696444029836" />
     </e>
     <e n="EditorEnter">
-      <i c="5064" l="1698749663119" />
+      <i c="5066" l="1698750614665" />
     </e>
     <e n="EditorEscape">
       <i c="88" l="1698670788605" />
@@ -187,7 +187,7 @@
       <i c="1" l="1694558643199" />
     </e>
     <e n="EditorPaste">
-      <i c="7339" l="1698749708432" />
+      <i c="7340" l="1698750609661" />
     </e>
     <e n="EditorPasteFromX11">
       <i c="9" l="1696445310794" />
@@ -229,7 +229,7 @@
       <i c="18" l="1698083960211" />
     </e>
     <e n="EditorUp">
-      <i c="7304" l="1698748762844" />
+      <i c="7308" l="1698750769880" />
     </e>
     <e n="EditorUpWithSelection">
       <i c="495" l="1698681071659" />
@@ -406,13 +406,13 @@
       <i c="1" l="1698075374797" />
     </e>
     <e n="SaveAll">
-      <i c="4080" l="1698749896411" />
+      <i c="4083" l="1698750772807" />
     </e>
     <e n="SearchEverywhere">
       <i c="5" l="1698340009355" />
     </e>
     <e n="SelectInProjectView">
-      <i c="139" l="1698748730514" />
+      <i c="140" l="1698750588688" />
     </e>
     <e n="ServiceView.AddService">
       <i c="1" l="1693322996017" />
@@ -571,7 +571,7 @@
       <i c="2" l="1694000562693" />
     </e>
     <e n="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
-      <i c="493" l="1698748734385" />
+      <i c="495" l="1698750638271" />
     </e>
     <e n="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
       <i c="92" l="1698340010413" />
