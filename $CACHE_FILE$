@@ -3089,6 +3089,10 @@
           {
             "pluginIdString": "com.microsoft.tooling.msservices.intellij.azure",
             "nullablePluginName": "Azure Toolkit for IntelliJ"
+          },
+          {
+            "pluginIdString": "com.intellij.bicep",
+            "nullablePluginName": "Bicep"
           }
         ]
       },
@@ -20114,7 +20118,7 @@
         ]
       }
     },
-    "lastUpdateTime": 1698665878927
+    "lastUpdateTime": 1698835058294
   },
   "dependencies": {
     "featureMap": {
@@ -21703,7 +21707,7 @@
         ]
       }
     },
-    "lastUpdateTime": 1698665879043
+    "lastUpdateTime": 1698835058405
   }
 }]]></component>
   <component name="PluginFeatureService">{
