@@ -18,22 +18,6 @@
             </RecentProjectMetaInfo>
           </value>
         </entry>
-        <entry key="$USER_HOME$/projects/wbday">
-          <value>
-            <RecentProjectMetaInfo frameTitle="wbday – index.html" projectWorkspaceId="2N3qqZ0lBPrzOkSctPV1J7LvWtd">
-              <option name="activationTimestamp" value="1694716340107" />
-              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="build" value="PS-232.9559.64" />
-              <option name="buildTimestamp" value="1692986593997" />
-              <option name="colorInfo">
-                <RecentProjectColorInfo associatedIndex="3" />
-              </option>
-              <frame x="2490" y="147" width="1400" height="1000" extendedState="6" />
-              <option name="productionCode" value="PS" />
-              <option name="projectOpenTimestamp" value="1694715061955" />
-            </RecentProjectMetaInfo>
-          </value>
-        </entry>
         <entry key="$USER_HOME$/projects/bomberman-ts">
           <value>
             <RecentProjectMetaInfo frameTitle="bomberman-ts – textures.png" projectWorkspaceId="2WJQoNSAA2RMlEeBesCghJ8vvB9">
@@ -165,7 +149,7 @@
         <entry key="$USER_HOME$/projects/wbtech">
           <value>
             <RecentProjectMetaInfo frameTitle="wbtech – curses/index.scss" opened="true" projectWorkspaceId="2VFQeXttvEQDHzcyAeP1RvbeNiv">
-              <option name="activationTimestamp" value="1699279069759" />
+              <option name="activationTimestamp" value="1699282206099" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="build" value="PS-232.10072.32" />
               <option name="buildTimestamp" value="1697202345200" />
@@ -175,6 +159,22 @@
               <frame x="2494" y="255" width="1280" height="690" extendedState="6" />
               <option name="productionCode" value="PS" />
               <option name="projectOpenTimestamp" value="1698666161440" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/projects/wbday">
+          <value>
+            <RecentProjectMetaInfo frameTitle="wbday – index.html" projectWorkspaceId="2N3qqZ0lBPrzOkSctPV1J7LvWtd">
+              <option name="activationTimestamp" value="1699279385335" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="PS-232.10072.32" />
+              <option name="buildTimestamp" value="1697202340959" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="3" />
+              </option>
+              <frame x="1920" y="0" width="2560" height="1396" extendedState="6" />
+              <option name="productionCode" value="PS" />
+              <option name="projectOpenTimestamp" value="1699279133355" />
             </RecentProjectMetaInfo>
           </value>
         </entry>

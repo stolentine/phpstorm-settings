@@ -18,19 +18,19 @@
     <size key="GridCell.Tab.0.bottom.0.0.1920.1080@120dpi" width="1491" height="381" />
   </component>
   <component name="WindowManager">
-    <frame x="2494" y="255" width="1280" height="690" extendedState="6" />
+    <frame x="1920" y="0" width="2560" height="1396" extendedState="6" />
   </component>
   <component name="WindowStateApplicationService">
     <state x="2926" y="298" width="538" height="611" key="FileChooserDialogImpl" timestamp="1693320250387">
       <screen x="1920" y="0" width="2560" height="1396" />
     </state>
     <state x="2926" y="298" width="538" height="611" key="FileChooserDialogImpl/1920.0.2560.1396/0.0.1920.1080" timestamp="1693320250387" />
-    <state width="2174" height="175" key="ShowUsagesActions.dimensionServiceKey" timestamp="1698683379721">
+    <state width="2174" height="175" key="ShowUsagesActions.dimensionServiceKey" timestamp="1699281659708">
       <screen x="1920" y="0" width="2560" height="1396" />
     </state>
     <state width="1631" height="175" key="ShowUsagesActions.dimensionServiceKey/0.0.1920.1036" timestamp="1698161826884" />
     <state width="1951" height="865" key="ShowUsagesActions.dimensionServiceKey/0.0.1920.1080/1920.0.2560.1440" timestamp="1698171355953" />
-    <state width="2174" height="175" key="ShowUsagesActions.dimensionServiceKey/1920.0.2560.1396/0.0.1920.1080" timestamp="1698683379721" />
+    <state width="2174" height="175" key="ShowUsagesActions.dimensionServiceKey/1920.0.2560.1396/0.0.1920.1080" timestamp="1699281659708" />
     <state x="3200" y="600" width="1000" height="813" key="WELCOME_SCREEN" timestamp="1693320231636">
       <screen x="1920" y="0" width="2560" height="1396" />
     </state>

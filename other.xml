@@ -36,7 +36,7 @@
     "experimental.ui.first.switch": "true",
     "experimental.ui.on.first.startup": "true",
     "experimental.ui.used.version": "232.10072.32",
-    "file.gist.reindex.count": "242",
+    "file.gist.reindex.count": "243",
     "fileTypeChangedCounter": "5",
     "find.popup.splitter": "0.29011554",
     "fontSizeToResetConsole": "16.25",
@@ -64,6 +64,7 @@
   },
   "keyToStringList": {
     "file.chooser.recent.files": [
+      "/home/stolentine/projects/wbday",
       "/home/stolentine/projects/react-test",
       "/home/stolentine/projects/tim.lending",
       "/home/stolentine/projects/tim.spa",
@@ -79,7 +80,6 @@
       "/home/stolentine/projects/topcargo/public/favicon/safari-pinned-tab.svg",
       "/home/stolentine/projects/bomberman-ts",
       "/home/stolentine/Документы",
-      "/home/stolentine/projects/wbday",
       "/home/stolentine/projects/topcargo",
       "/home/stolentine/projects/bc-mobile",
       "/home/stolentine/projects/bonus-community/monolith",
