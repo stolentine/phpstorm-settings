@@ -149,14 +149,14 @@
         <entry key="$USER_HOME$/projects/wbtech">
           <value>
             <RecentProjectMetaInfo frameTitle="wbtech – curses/index.scss" opened="true" projectWorkspaceId="2VFQeXttvEQDHzcyAeP1RvbeNiv">
-              <option name="activationTimestamp" value="1699284020892" />
+              <option name="activationTimestamp" value="1699292436990" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="build" value="PS-232.10072.32" />
               <option name="buildTimestamp" value="1697202345200" />
               <option name="colorInfo">
                 <RecentProjectColorInfo associatedIndex="6" />
               </option>
-              <frame x="2494" y="255" width="1280" height="690" extendedState="6" />
+              <frame x="1920" y="0" width="2560" height="1396" extendedState="6" />
               <option name="productionCode" value="PS" />
               <option name="projectOpenTimestamp" value="1698666161440" />
             </RecentProjectMetaInfo>
