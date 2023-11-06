@@ -5666,6 +5666,14 @@
           }
         ]
       },
+      "*.edge": {
+        "dataSet": [
+          {
+            "pluginIdString": "io.stouder.adonis",
+            "nullablePluginName": "Adonis"
+          }
+        ]
+      },
       "*.edn": {
         "dataSet": [
           {
@@ -20514,7 +20522,7 @@
         ]
       }
     },
-    "lastUpdateTime": 1698944618876
+    "lastUpdateTime": 1699265276602
   },
   "dependencies": {
     "featureMap": {
@@ -22279,7 +22287,7 @@
         ]
       }
     },
-    "lastUpdateTime": 1698944619057
+    "lastUpdateTime": 1699265276715
   }
 }]]></component>
   <component name="PluginFeatureService">{
