@@ -130,7 +130,7 @@
       <i c="9174" l="1699383854886" />
     </e>
     <e n="EditorChooseLookupItem">
-      <i c="3950" l="1699383934507" />
+      <i c="3952" l="1699385161735" />
     </e>
     <e n="EditorChooseLookupItemReplace">
       <i c="311" l="1699282008400" />
@@ -139,10 +139,10 @@
       <i c="1" l="1697761571901" />
     </e>
     <e n="EditorCopy">
-      <i c="4602" l="1699383837978" />
+      <i c="4604" l="1699385157223" />
     </e>
     <e n="EditorCut">
-      <i c="6151" l="1699383789764" />
+      <i c="6156" l="1699385152741" />
     </e>
     <e n="EditorDelete">
       <i c="464" l="1699383555352" />
@@ -160,7 +160,7 @@
       <i c="4" l="1698757360619" />
     </e>
     <e n="EditorEnter">
-      <i c="5678" l="1699383935818" />
+      <i c="5680" l="1699385362301" />
     </e>
     <e n="EditorEscape">
       <i c="91" l="1699280164949" />
@@ -187,7 +187,7 @@
       <i c="1" l="1694558643199" />
     </e>
     <e n="EditorPaste">
-      <i c="7977" l="1699383863361" />
+      <i c="7983" l="1699385362463" />
     </e>
     <e n="EditorPasteFromX11">
       <i c="9" l="1696445310794" />
@@ -199,7 +199,7 @@
       <i c="994" l="1699383786109" />
     </e>
     <e n="EditorRight">
-      <i c="11123" l="1699383786921" />
+      <i c="11130" l="1699383954468" />
     </e>
     <e n="EditorRightWithSelection">
       <i c="2620" l="1699383776665" />
@@ -409,7 +409,7 @@
       <i c="1" l="1698075374797" />
     </e>
     <e n="SaveAll">
-      <i c="4530" l="1699383935988" />
+      <i c="4533" l="1699385362943" />
     </e>
     <e n="SearchEverywhere">
       <i c="6" l="1699376896239" />
@@ -574,7 +574,7 @@
       <i c="2" l="1694000562693" />
     </e>
     <e n="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
-      <i c="538" l="1699383929891" />
+      <i c="539" l="1699385341730" />
     </e>
     <e n="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
       <i c="93" l="1698946564928" />
