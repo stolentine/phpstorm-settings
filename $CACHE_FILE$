@@ -10519,6 +10519,14 @@
           }
         ]
       },
+      "*.mbms": {
+        "dataSet": [
+          {
+            "pluginIdString": "com.nosqlnavigator.mongo",
+            "nullablePluginName": "NoSQL Navigator For MongoDB"
+          }
+        ]
+      },
       "*.mbsp": {
         "dataSet": [
           {
@@ -11221,6 +11229,14 @@
           {
             "pluginIdString": "ru.investflow.mql",
             "nullablePluginName": "MQL Idea"
+          }
+        ]
+      },
+      "*.ms": {
+        "dataSet": [
+          {
+            "pluginIdString": "com.nosqlnavigator.mongo",
+            "nullablePluginName": "NoSQL Navigator For MongoDB"
           }
         ]
       },
@@ -15300,6 +15316,14 @@
           {
             "pluginIdString": "org.jetbrains.plugins.slim",
             "nullablePluginName": "Slim"
+          }
+        ]
+      },
+      "*.slint": {
+        "dataSet": [
+          {
+            "pluginIdString": "dev.slint.ideaplugin",
+            "nullablePluginName": "Slint"
           }
         ]
       },
@@ -20522,7 +20546,7 @@
         ]
       }
     },
-    "lastUpdateTime": 1699265276602
+    "lastUpdateTime": 1699376486330
   },
   "dependencies": {
     "featureMap": {
@@ -22287,7 +22311,7 @@
         ]
       }
     },
-    "lastUpdateTime": 1699265276715
+    "lastUpdateTime": 1699376486461
   }
 }]]></component>
   <component name="PluginFeatureService">{
