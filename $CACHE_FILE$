@@ -88,6 +88,7 @@
       <feature name="ARROW_FUNCTION_SYNTAX" />
       <feature name="UNION_TYPES" />
       <feature name="NAMESPACED_NAME_AS_SINGLE_TOKEN" />
+      <feature name="NULLSAFE_DEREFERENCING" />
       <feature name="STATIC_RETURN_TYPE_HINT" />
       <feature name="TRAILING_COMMA_IN_PARAMETER_LIST" />
       <feature name="NAMED_ARGUMENTS" />
@@ -95,6 +96,7 @@
       <feature name="CLASS_NAME_LITERAL_ON_OBJECT" />
       <feature name="ATTRIBUTES" />
       <feature name="PROPERTY_PROMOTION" />
+      <feature name="FINAL_CLASS_CONSTANTS" />
       <feature name="READONLY_PROPERTIES" />
       <feature name="NEW_IN_INIT" />
       <feature name="READONLY_CLASSES" />
