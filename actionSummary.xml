@@ -46,7 +46,7 @@
       <i c="1" l="1696945084974" />
     </e>
     <e n="CloseAllEditors">
-      <i c="70" l="1698334703720" />
+      <i c="71" l="1699459355536" />
     </e>
     <e n="CloseAllEditorsButActive">
       <i c="38" l="1698957097094" />
@@ -292,7 +292,7 @@
       <i c="8" l="1698419626262" />
     </e>
     <e n="GotoDeclaration">
-      <i c="1343" l="1699389295770" />
+      <i c="1348" l="1699459653852" />
     </e>
     <e n="GotoLine">
       <i c="1" l="1698081538613" />
@@ -421,7 +421,7 @@
       <i c="6" l="1699376896239" />
     </e>
     <e n="SelectInProjectView">
-      <i c="143" l="1699389142163" />
+      <i c="148" l="1699459549142" />
     </e>
     <e n="ServiceView.AddService">
       <i c="1" l="1693322996017" />
@@ -610,7 +610,7 @@
       <i c="11" l="1699387193852" />
     </e>
     <e n="com.intellij.openapi.wm.impl.SquareAnActionButton">
-      <i c="513" l="1699387912429" />
+      <i c="514" l="1699459315385" />
     </e>
     <e n="com.intellij.openapi.wm.impl.customFrameDecorations.header.toolbar.MainMenuButton$ShowMenuAction">
       <i c="49" l="1698680460276" />
@@ -634,7 +634,7 @@
       <i c="6" l="1694106912548" />
     </e>
     <e n="com.intellij.toolWindow.ToolWindowHeader$HideAction">
-      <i c="120" l="1699387306793" />
+      <i c="121" l="1699459319382" />
     </e>
     <e n="com.intellij.toolWindow.ToolWindowHeader$ShowOptionsAction">
       <i c="3" l="1693485301770" />
