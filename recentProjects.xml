@@ -164,8 +164,8 @@
         </entry>
         <entry key="$USER_HOME$/projects/bonus-community/monolith">
           <value>
-            <RecentProjectMetaInfo displayName="monolith, bonus-community..." frameTitle="monolith – VerificationCodeBuilder.php [bonus-community]" opened="true" projectWorkspaceId="2S9iRz9zTMZpxIaG9ndFICFb3mR">
-              <option name="activationTimestamp" value="1699459312722" />
+            <RecentProjectMetaInfo displayName="monolith, bonus-community..." frameTitle="monolith – AuthenticationModuleWithRoleModuleUserRepository.php [bonus-community]" opened="true" projectWorkspaceId="2S9iRz9zTMZpxIaG9ndFICFb3mR">
+              <option name="activationTimestamp" value="1699459662000" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="build" value="PS-232.10072.32" />
               <option name="buildTimestamp" value="1697202328306" />
