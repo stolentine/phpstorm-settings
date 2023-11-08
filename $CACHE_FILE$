@@ -71,6 +71,7 @@
       <feature name="CLASS_MEMBER_ACCESS_ON_INSTANTIATION" />
       <feature name="THIS_IN_CLOSURE" />
       <feature name="GENERATORS" />
+      <feature name="IMMEDIATE_DEREFERENCING" />
       <feature name="CLASS_NAME_CONST" />
       <feature name="VARIADIC_FUNCTIONS" />
       <feature name="ARGUMENT_UNPACKING" />
@@ -82,6 +83,7 @@
       <feature name="RETURN_VOID" />
       <feature name="NULLABLES" />
       <feature name="CATCH_MULTIPLE" />
+      <feature name="ABSTRACT_FUNCTION_OVERRIDE" />
       <feature name="TRAILING_COMMA_IN_FUNCTION_CALL" />
       <feature name="TYPED_PROPERTIES" />
       <feature name="SPREAD_OPERATOR_IN_ARRAY" />
