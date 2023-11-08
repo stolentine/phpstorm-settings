@@ -81,6 +81,7 @@
       <feature name="UNIFORM_VARIABLE_SYNTAX" />
       <feature name="RETURN_VOID" />
       <feature name="NULLABLES" />
+      <feature name="CATCH_MULTIPLE" />
       <feature name="TRAILING_COMMA_IN_FUNCTION_CALL" />
       <feature name="TYPED_PROPERTIES" />
       <feature name="SPREAD_OPERATOR_IN_ARRAY" />
