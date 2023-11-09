@@ -164,15 +164,15 @@
         </entry>
         <entry key="$USER_HOME$/projects/bonus-community/monolith">
           <value>
-            <RecentProjectMetaInfo displayName="monolith, bonus-community..." frameTitle="monolith – AuthenticationModuleWithRoleModuleUserRepository.php [bonus-community]" opened="true" projectWorkspaceId="2S9iRz9zTMZpxIaG9ndFICFb3mR">
-              <option name="activationTimestamp" value="1699474048912" />
+            <RecentProjectMetaInfo displayName="monolith, bonus-community..." frameTitle="monolith – PersonalDataApiTest.php [bonus-community]" opened="true" projectWorkspaceId="2S9iRz9zTMZpxIaG9ndFICFb3mR">
+              <option name="activationTimestamp" value="1699532111637" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="build" value="PS-232.10072.32" />
               <option name="buildTimestamp" value="1697202328306" />
               <option name="colorInfo">
                 <RecentProjectColorInfo associatedIndex="7" />
               </option>
-              <frame x="1920" y="0" width="2560" height="1396" extendedState="6" />
+              <frame x="1920" y="0" width="1706" height="930" extendedState="6" />
               <option name="productionCode" value="PS" />
               <option name="projectOpenTimestamp" value="1699387135916" />
             </RecentProjectMetaInfo>

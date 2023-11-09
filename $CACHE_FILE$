@@ -103,6 +103,7 @@
       <feature name="FINAL_CLASS_CONSTANTS" />
       <feature name="READONLY_PROPERTIES" />
       <feature name="NEW_IN_INIT" />
+      <feature name="FIRST_CLASS_CALLABLE" />
       <feature name="READONLY_CLASSES" />
     </project>
     <project hash="38291294" />
