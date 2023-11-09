@@ -149,7 +149,7 @@
         <entry key="$USER_HOME$/projects/bonus-community/monolith">
           <value>
             <RecentProjectMetaInfo displayName="monolith, bonus-community..." frameTitle="monolith – PersonalDataApiTest.php [bonus-community]" opened="true" projectWorkspaceId="2S9iRz9zTMZpxIaG9ndFICFb3mR">
-              <option name="activationTimestamp" value="1699533925667" />
+              <option name="activationTimestamp" value="1699535723073" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="build" value="PS-232.10072.32" />
               <option name="buildTimestamp" value="1697202328306" />
@@ -165,7 +165,7 @@
         <entry key="$USER_HOME$/projects/topcargo">
           <value>
             <RecentProjectMetaInfo frameTitle="topcargo – Location.php" opened="true" projectWorkspaceId="2PVsHbwxtqMCnpEKyWKNXLGglU0">
-              <option name="activationTimestamp" value="1699533120033" />
+              <option name="activationTimestamp" value="1699535762969" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="build" value="PS-232.10072.32" />
               <option name="buildTimestamp" value="1697202306718" />
@@ -180,6 +180,6 @@
         </entry>
       </map>
     </option>
-    <option name="lastOpenedProject" value="$USER_HOME$/projects/bonus-community/monolith" />
+    <option name="lastOpenedProject" value="$USER_HOME$/projects/topcargo" />
   </component>
 </application>
