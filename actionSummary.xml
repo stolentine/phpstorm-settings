@@ -1,7 +1,7 @@
 <application>
   <component name="ActionsLocalSummary">
     <e n="$Copy">
-      <i c="115" l="1699530515227" />
+      <i c="116" l="1699532639694" />
     </e>
     <e n="$Cut">
       <i c="6" l="1698957757136" />
@@ -10,7 +10,7 @@
       <i c="208" l="1699473320560" />
     </e>
     <e n="$Paste">
-      <i c="143" l="1699530515895" />
+      <i c="144" l="1699532640305" />
     </e>
     <e n="$Redo">
       <i c="231" l="1699464510827" />
@@ -148,7 +148,7 @@
       <i c="1" l="1697761571901" />
     </e>
     <e n="EditorCopy">
-      <i c="4743" l="1699531849791" />
+      <i c="4744" l="1699532615674" />
     </e>
     <e n="EditorCut">
       <i c="6464" l="1699532151081" />
@@ -196,7 +196,7 @@
       <i c="1" l="1694558643199" />
     </e>
     <e n="EditorPaste">
-      <i c="8183" l="1699531878100" />
+      <i c="8184" l="1699532185310" />
     </e>
     <e n="EditorPasteFromX11">
       <i c="9" l="1696445310794" />
@@ -205,7 +205,7 @@
       <i c="874" l="1699473535114" />
     </e>
     <e n="EditorPreviousWordWithSelection">
-      <i c="1058" l="1699473246125" />
+      <i c="1059" l="1699532641480" />
     </e>
     <e n="EditorRight">
       <i c="11420" l="1699530546600" />
@@ -391,7 +391,7 @@
       <i c="1" l="1696437402896" />
     </e>
     <e n="RedesignedRunConfigurationSelector">
-      <i c="21" l="1699532071143" />
+      <i c="22" l="1699532452364" />
     </e>
     <e n="ReformatCode">
       <i c="121" l="1699530448333" />
@@ -415,7 +415,7 @@
       <i c="14" l="1697559511764" />
     </e>
     <e n="Run">
-      <i c="7" l="1699531965773" />
+      <i c="8" l="1699532468576" />
     </e>
     <e n="RunAnything">
       <i c="8" l="1697883180898" />
@@ -445,7 +445,7 @@
       <i c="1" l="1698081545428" />
     </e>
     <e n="ShowSettings">
-      <i c="21" l="1699532080952" />
+      <i c="22" l="1699532325354" />
     </e>
     <e n="Stop">
       <i c="3" l="1694108206692" />
@@ -544,13 +544,13 @@
       <i c="1" l="1697308990040" />
     </e>
     <e n="com.intellij.docker.action.containers.CreateTerminalAction">
-      <i c="21" l="1699468469703" />
+      <i c="23" l="1699532586200" />
     </e>
     <e n="com.intellij.docker.action.containers.StartContainerAction">
       <i c="10" l="1698323225080" />
     </e>
     <e n="com.intellij.execution.lineMarker.LineMarkerActionWrapper">
-      <i c="33" l="1699532157359" />
+      <i c="37" l="1699532565942" />
     </e>
     <e n="com.intellij.find.SearchReplaceComponent$CloseAction">
       <i c="25" l="1699468138059" />
@@ -600,11 +600,14 @@
     <e n="com.intellij.openapi.actionSystem.EmptyAction$MyDelegatingAction">
       <i c="3" l="1699531158825" />
     </e>
+    <e n="com.intellij.openapi.editor.impl.EditorMarkupModelImpl$TrafficLightAction">
+      <i c="2" l="1699532384804" />
+    </e>
     <e n="com.intellij.openapi.fileEditor.TextEditorWithPreview$ChangeViewModeAction">
       <i c="2" l="1699467086550" />
     </e>
     <e n="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
-      <i c="581" l="1699532007992" />
+      <i c="588" l="1699532574177" />
     </e>
     <e n="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
       <i c="94" l="1699530589647" />
@@ -631,13 +634,13 @@
       <i c="22" l="1699468566846" />
     </e>
     <e n="com.intellij.openapi.wm.impl.HideAction">
-      <i c="11" l="1699387193852" />
+      <i c="13" l="1699532390627" />
     </e>
     <e n="com.intellij.openapi.wm.impl.SquareAnActionButton">
-      <i c="551" l="1699473563176" />
+      <i c="554" l="1699532580207" />
     </e>
     <e n="com.intellij.openapi.wm.impl.customFrameDecorations.header.toolbar.MainMenuButton$ShowMenuAction">
-      <i c="60" l="1699532079597" />
+      <i c="61" l="1699532324272" />
     </e>
     <e n="com.intellij.openapi.wm.impl.welcomeScreen.projectActions.ChangeProjectColorAction">
       <i c="3" l="1696596294323" />
@@ -658,19 +661,19 @@
       <i c="6" l="1694106912548" />
     </e>
     <e n="com.intellij.toolWindow.ToolWindowHeader$HideAction">
-      <i c="138" l="1699530686189" />
+      <i c="140" l="1699532578878" />
     </e>
     <e n="com.intellij.toolWindow.ToolWindowHeader$ShowOptionsAction">
       <i c="3" l="1693485301770" />
     </e>
     <e n="com.intellij.ui.AnActionButton$AnActionButtonWrapper">
-      <i c="14" l="1699531764323" />
+      <i c="15" l="1699532338031" />
     </e>
     <e n="com.intellij.ui.CommonActionsPanel$AddButton">
       <i c="5" l="1699530756660" />
     </e>
     <e n="com.intellij.ui.CommonActionsPanel$RemoveButton">
-      <i c="14" l="1699531941318" />
+      <i c="18" l="1699532460751" />
     </e>
     <e n="com.intellij.ui.ScrollingUtil$ListMoveDownAction">
       <i c="41" l="1699462256898" />
@@ -699,6 +702,9 @@
     <e n="com.intellij.xdebugger.impl.breakpoints.RemoveBreakpointGutterIconAction">
       <i c="7" l="1698074793809" />
     </e>
+    <e n="com.jetbrains.php.debug.validation.PhpValidateWebServerAction">
+      <i c="1" l="1699532357813" />
+    </e>
     <e n="com.jetbrains.php.eval.scratch.PhpEvalVersionsToRunComboBoxAction$EvalBranchVersion">
       <i c="1" l="1697756253719" />
     </e>
@@ -709,7 +715,7 @@
       <i c="3" l="1699531564387" />
     </e>
     <e n="editRunConfigurations">
-      <i c="18" l="1699532072515" />
+      <i c="19" l="1699532454535" />
     </e>
     <e n="git4idea.ignore.actions.AddToGitExcludeAction">
       <i c="2" l="1696349037136" />
