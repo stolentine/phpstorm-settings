@@ -22813,6 +22813,10 @@
       </module>
       <module>
         <name>@types/lodash</name>
+        <version>4.14.201</version>
+      </module>
+      <module>
+        <name>@types/lodash</name>
         <version>4.14.200</version>
       </module>
       <module>
