@@ -48,6 +48,7 @@
       <mapping ext="a9oqss" type="PLAIN_TEXT" />
       <mapping ext="assets" type="PLAIN_TEXT" />
       <mapping ext="dbf" type="PLAIN_TEXT" />
+      <mapping ext="woff" type="PLAIN_TEXT" />
       <mapping ext="ttf" type="PLAIN_TEXT" />
       <mapping pattern="asda" type="TypeScript JSX" />
       <removed_mapping ext="bash" approved="true" type="Shell Script" />
