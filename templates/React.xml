@@ -1,0 +1,6 @@
+<templateSet group="React">
+  <template name="fsf" value="type Props = {&#10; $END$&#10;};&#10;&#10;export default function $TM_FILENAME_BASE$(props: Props) {&#10; return (&#10;  &lt;div&gt;&#10;   &#10;  &lt;/div&gt;&#10; );&#10;};" description="Creates a stateless React component as a named function with FlowTypes" toReformat="true" toShortenFQNames="true">
+    <variable name="TM_FILENAME_BASE" expression="capitalize(camelCase(fileNameWithoutExtension()))" defaultValue="&quot;&quot;" alwaysStopAt="true" />
+    <context />
+  </template>
+</templateSet>
