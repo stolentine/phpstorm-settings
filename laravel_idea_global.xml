@@ -1,0 +1,5 @@
+<application>
+  <component name="LaravelIdea.CodeGeneration">
+    <option name="newModelIdFieldType" value="uuid" />
+  </component>
+</application>
