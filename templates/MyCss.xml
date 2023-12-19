@@ -1,0 +1,12 @@
+<templateSet group="MyCss">
+  <template name="mmb" value="@media screen and (max-width: $maxMobileWidth) {&#10;    $END$&#10;}" description="media mobile" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS" value="true" />
+    </context>
+  </template>
+  <template name="mds" value="@media screen and (min-width: $minDesktopWidth) {&#10;    $END$&#10;}" description="media desktop" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS" value="true" />
+    </context>
+  </template>
+</templateSet>
