@@ -2,6 +2,7 @@
   <template name="clg" value="console.log($END$)" description="console.log()" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JAVA_SCRIPT" value="true" />
+      <option name="TypeScript" value="true" />
       <option name="Vue" value="true" />
     </context>
   </template>
