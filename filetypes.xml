@@ -38,6 +38,7 @@
       <mapping ext="dex" type="PLAIN_TEXT" />
       <mapping ext="br" type="PLAIN_TEXT" />
       <mapping ext="so" type="PLAIN_TEXT" />
+      <mapping ext="p" type="PLAIN_TEXT" />
       <mapping ext="z" type="PLAIN_TEXT" />
       <mapping ext="class" type="PLAIN_TEXT" />
       <mapping ext="dll" type="PLAIN_TEXT" />
