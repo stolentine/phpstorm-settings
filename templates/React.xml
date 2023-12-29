@@ -3,7 +3,7 @@
     <variable name="TM_FILENAME_BASE" expression="capitalize(camelCase(fileNameWithoutExtension()))" defaultValue="&quot;&quot;" alwaysStopAt="true" />
     <context />
   </template>
-  <template name="fsc" value="import * as React from 'react';&#10;import css from &quot;./$CSS_FILENAME_BASE$.module.scss&quot;&#10;&#10;type Props = {&#10;    className?: string,&#10;    $END$&#10;};&#10;&#10;export const $TM_FILENAME_BASE$ = ({className = ''}: Props) =&gt; {&#10;    return (&#10;        &lt;div className={`${css.root} ${className}`}&gt;&#10;&#10;        &lt;/div&gt;&#10;    );&#10;};" description="React Flow arrow function component" toReformat="true" toShortenFQNames="true">
+  <template name="fsc" value="import css from &quot;./$CSS_FILENAME_BASE$.module.scss&quot;&#10;&#10;type Props = {&#10;    className?: string,&#10;    $END$&#10;};&#10;&#10;export const $TM_FILENAME_BASE$ = ({className = ''}: Props) =&gt; {&#10;    return (&#10;        &lt;div className={`${css.root} ${className}`}&gt;&#10;&#10;        &lt;/div&gt;&#10;    );&#10;};" description="React Flow arrow function component" toReformat="true" toShortenFQNames="true">
     <variable name="CSS_FILENAME_BASE" expression="camelCase(fileNameWithoutExtension())" defaultValue="" alwaysStopAt="true" />
     <variable name="TM_FILENAME_BASE" expression="capitalize(camelCase(fileNameWithoutExtension()))" defaultValue="&quot;&quot;" alwaysStopAt="true" />
     <context />
