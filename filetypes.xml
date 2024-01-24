@@ -1,19 +1,24 @@
 <application>
   <component name="FileTypeManager" version="19">
     <extensionMap>
+      <mapping pattern="run-dev" type="AUTO_DETECTED" />
       <mapping pattern="deptrac" type="AUTO_DETECTED" />
       <mapping pattern="run" type="AUTO_DETECTED" />
       <mapping pattern="unity_builtin_extra" type="AUTO_DETECTED" />
+      <mapping pattern="down" type="AUTO_DETECTED" />
       <mapping pattern="asdxfg" type="AUTO_DETECTED" />
       <mapping pattern="112" type="AUTO_DETECTED" />
       <mapping pattern="tmp" type="AUTO_DETECTED" />
+      <mapping pattern="up" type="AUTO_DETECTED" />
       <mapping pattern="2102021" type="AUTO_DETECTED" />
       <mapping pattern="group-smile-mobile" type="AUTO_DETECTED" />
       <mapping pattern="emoji-haha" type="AUTO_DETECTED" />
+      <mapping pattern="install" type="AUTO_DETECTED" />
       <mapping pattern="PayloadPayload" type="AUTO_DETECTED" />
       <mapping pattern="hello" type="AUTO_DETECTED" />
       <mapping pattern="github-token" type="AUTO_DETECTED" />
       <mapping pattern="lol" type="AUTO_DETECTED" />
+      <mapping pattern="update" type="AUTO_DETECTED" />
       <mapping pattern="drop-down.swg" type="AUTO_DETECTED" />
       <mapping pattern="sd" type="AUTO_DETECTED" />
       <mapping pattern="ScriptsScripts" type="AUTO_DETECTED" />
