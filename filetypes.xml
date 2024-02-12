@@ -43,6 +43,7 @@
       <mapping pattern=".env osm" type="PLAIN_TEXT" />
       <mapping pattern=".phpmetrics" type="PLAIN_TEXT" />
       <mapping ext="dex" type="PLAIN_TEXT" />
+      <mapping ext="example" type="PLAIN_TEXT" />
       <mapping ext="br" type="PLAIN_TEXT" />
       <mapping ext="so" type="PLAIN_TEXT" />
       <mapping ext="p" type="PLAIN_TEXT" />
