@@ -31,7 +31,6 @@
       <mapping ext="14gsr3" type="AUTO_DETECTED" />
       <mapping ext="fb" type="AUTO_DETECTED" />
       <mapping ext="docker" type="Dockerfile" />
-      <mapping ext="conf" type="Nginx Configuration" />
       <mapping pattern=".php_cs" type="PHP" />
       <mapping pattern=".gitattributes" type="PLAIN_TEXT" />
       <mapping pattern=".set_host123.tmp" type="PLAIN_TEXT" />
