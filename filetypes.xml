@@ -7,6 +7,7 @@
       <mapping pattern="unity_builtin_extra" type="AUTO_DETECTED" />
       <mapping pattern="down" type="AUTO_DETECTED" />
       <mapping pattern="asdxfg" type="AUTO_DETECTED" />
+      <mapping pattern="run-anonim" type="AUTO_DETECTED" />
       <mapping pattern="112" type="AUTO_DETECTED" />
       <mapping pattern="tmp" type="AUTO_DETECTED" />
       <mapping pattern="up" type="AUTO_DETECTED" />
