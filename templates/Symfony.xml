@@ -1,16 +1,16 @@
 <templateSet group="Symfony">
-  <template name="action" value="#[Route(path: '/$PATH$', name: '$ROUTE_NAME$')]&#10;public function $NAME$Action() {&#10;   $END$&#10;}" description="Symfony: creates a controller action." toReformat="true" toShortenFQNames="true">
+  <template name="action" value="#[Route(path: '/$PATH$', name: '$ROUTE_NAME$')]&#10;public function $NAME$Action() {&#10;   $END$&#10;}" description="Symfony: creates a controller action." toReformat="true" toShortenFQNames="true" deactivated="true">
     <variable name="PATH" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="ROUTE_NAME" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
     <context />
   </template>
-  <template name="add" value="-&gt;add('$FIELD$', $CLASSNAME$::class)" description="Symfony: adds new field to the form builder" toReformat="true" toShortenFQNames="true">
+  <template name="add" value="-&gt;add('$FIELD$', $CLASSNAME$::class)" description="Symfony: adds new field to the form builder" toReformat="true" toShortenFQNames="true" deactivated="true">
     <variable name="FIELD" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="CLASSNAME" expression="" defaultValue="&quot;ClassName&quot;" alwaysStopAt="true" />
     <context />
   </template>
-  <template name="command" value=" namespace $NAMESPACE$;&#10; use Symfony\Component\Console\Attribute\AsCommand;&#10; use Symfony\Component\Console\Command\Command;&#10; use Symfony\Component\Console\Input\InputInterface;&#10; use Symfony\Component\Console\Output\OutputInterface;&#10; #[AsCommand(name: '$COMMANDNAME$', description: '$DESCRIPTION$')]&#10; class $CLASSNAME$ extends Command {&#10;   protected function configure(): void {&#10;        $TODO$&#10;   }&#10;   protected function execute(InputInterface $input, OutputInterface $output): int {&#10;       return Command::SUCCESS;&#10;   }&#10; }" description="Creates a new symfony command" toReformat="true" toShortenFQNames="true">
+  <template name="command" value=" namespace $NAMESPACE$;&#10; use Symfony\Component\Console\Attribute\AsCommand;&#10; use Symfony\Component\Console\Command\Command;&#10; use Symfony\Component\Console\Input\InputInterface;&#10; use Symfony\Component\Console\Output\OutputInterface;&#10; #[AsCommand(name: '$COMMANDNAME$', description: '$DESCRIPTION$')]&#10; class $CLASSNAME$ extends Command {&#10;   protected function configure(): void {&#10;        $TODO$&#10;   }&#10;   protected function execute(InputInterface $input, OutputInterface $output): int {&#10;       return Command::SUCCESS;&#10;   }&#10; }" description="Creates a new symfony command" toReformat="true" toShortenFQNames="true" deactivated="true">
     <variable name="NAMESPACE" expression="" defaultValue="&quot;App\\Command&quot;" alwaysStopAt="true" />
     <variable name="COMMANDNAME" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="DESCRIPTION" expression="" defaultValue="" alwaysStopAt="true" />
@@ -18,14 +18,14 @@
     <variable name="TODO" expression="" defaultValue="&quot;// todo: configure your command&quot;" alwaysStopAt="true" />
     <context />
   </template>
-  <template name="controller" value=" namespace $NAMESPACE$;&#10; use Symfony\Bundle\FrameworkBundle\Controller\AbstractController;&#10; use Symfony\Component\Routing\Annotation\Route;&#10; class $CLASSNAME$ extends AbstractController {&#10;   #[Route(path: '/$PATH$', name: '$NAME$')]&#10;   public function someAction($name) {&#10;       $END$&#10;   }&#10; }" description="Creates a new symfony controller" toReformat="true" toShortenFQNames="true">
+  <template name="controller" value=" namespace $NAMESPACE$;&#10; use Symfony\Bundle\FrameworkBundle\Controller\AbstractController;&#10; use Symfony\Component\Routing\Annotation\Route;&#10; class $CLASSNAME$ extends AbstractController {&#10;   #[Route(path: '/$PATH$', name: '$NAME$')]&#10;   public function someAction($name) {&#10;       $END$&#10;   }&#10; }" description="Creates a new symfony controller" toReformat="true" toShortenFQNames="true" deactivated="true">
     <variable name="NAMESPACE" expression="" defaultValue="&quot;App\\Controller&quot;" alwaysStopAt="true" />
     <variable name="CLASSNAME" expression="" defaultValue="&quot;Controller&quot;" alwaysStopAt="true" />
     <variable name="PATH" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
     <context />
   </template>
-  <template name="createquery" value="$this-&gt;getEntityManager()             &#10;-&gt;createQuery('SELECT $ALIAS$ FROM $ENTITY$ $ALIAS$ WHERE $ALIAS$.$PROPERTY$ = :$PARAMETER$')             &#10;-&gt;setParameter('$PARAMETER$', $ARGUMENT$)             &#10;-&gt;execute();" description="Symfony: query objects in repositories with DQL" toReformat="false" toShortenFQNames="true">
+  <template name="createquery" value="$this-&gt;getEntityManager()             &#10;-&gt;createQuery('SELECT $ALIAS$ FROM $ENTITY$ $ALIAS$ WHERE $ALIAS$.$PROPERTY$ = :$PARAMETER$')             &#10;-&gt;setParameter('$PARAMETER$', $ARGUMENT$)             &#10;-&gt;execute();" description="Symfony: query objects in repositories with DQL" toReformat="false" toShortenFQNames="true" deactivated="true">
     <variable name="ALIAS" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="ENTITY" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="PROPERTY" expression="" defaultValue="" alwaysStopAt="true" />
@@ -33,12 +33,12 @@
     <variable name="ARGUMENT" expression="" defaultValue="" alwaysStopAt="true" />
     <context />
   </template>
-  <template name="formbuilder" value="$formBuilder = $this-&gt;createFormBuilder();             &#10;return $formBuilder&#10;    -&gt;add('$FIELD$', $CLASSNAME$::class)$END$;" description="Creates and returns a form builder instance." toReformat="true" toShortenFQNames="true">
+  <template name="formbuilder" value="$formBuilder = $this-&gt;createFormBuilder();             &#10;return $formBuilder&#10;    -&gt;add('$FIELD$', $CLASSNAME$::class)$END$;" description="Creates and returns a form builder instance." toReformat="true" toShortenFQNames="true" deactivated="true">
     <variable name="FIELD" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="CLASSNAME" expression="" defaultValue="&quot;ClassName&quot;" alwaysStopAt="true" />
     <context />
   </template>
-  <template name="querybuilder" value="$QB$ = $this-&gt;createQueryBuilder('p')                &#10;-&gt;where('p.$PROPERTY$ = :$PARAMETER$')                &#10;-&gt;setParameter('$PARAM$', $ARGUMENT$)                &#10;-&gt;getQuery();" description="Symfony: query objects in repositories using query builder" toReformat="true" toShortenFQNames="true">
+  <template name="querybuilder" value="$QB$ = $this-&gt;createQueryBuilder('p')                &#10;-&gt;where('p.$PROPERTY$ = :$PARAMETER$')                &#10;-&gt;setParameter('$PARAM$', $ARGUMENT$)                &#10;-&gt;getQuery();" description="Symfony: query objects in repositories using query builder" toReformat="true" toShortenFQNames="true" deactivated="true">
     <variable name="QB" expression="" defaultValue="&quot;$qb&quot;" alwaysStopAt="true" />
     <variable name="PROPERTY" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="PARAMETER" expression="" defaultValue="" alwaysStopAt="true" />
@@ -46,24 +46,24 @@
     <variable name="ARGUMENT" expression="" defaultValue="" alwaysStopAt="true" />
     <context />
   </template>
-  <template name="removeflush" value="$EM$-&gt;remove($ENTITY$);&#10;$EM2$-&gt;flush();" description="Symfony: removes an object instance." toReformat="true" toShortenFQNames="true">
+  <template name="removeflush" value="$EM$-&gt;remove($ENTITY$);&#10;$EM2$-&gt;flush();" description="Symfony: removes an object instance." toReformat="true" toShortenFQNames="true" deactivated="true">
     <variable name="EM" expression="" defaultValue="&quot;$this-&gt;entityManager&quot;" alwaysStopAt="true" />
     <variable name="ENTITY" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="EM2" expression="" defaultValue="&quot;$this-&gt;entityManager&quot;" alwaysStopAt="true" />
     <context />
   </template>
-  <template name="redirect" value="return $this-&gt;redirect('$URL$');" description="Symfony: redirects to URL." toReformat="true" toShortenFQNames="true">
+  <template name="redirect" value="return $this-&gt;redirect('$URL$');" description="Symfony: redirects to URL." toReformat="true" toShortenFQNames="true" deactivated="true">
     <variable name="URL" expression="" defaultValue="" alwaysStopAt="true" />
     <context />
   </template>
-  <template name="repofind" value="$VAR$ = $this-&gt;getDoctrine()             &#10;-&gt;getRepository('$REPO$')             &#10;-&gt;$METHOD$($ARG$);" description="Symfony: queries from a doctrine repository in a controller" toReformat="true" toShortenFQNames="true">
+  <template name="repofind" value="$VAR$ = $this-&gt;getDoctrine()             &#10;-&gt;getRepository('$REPO$')             &#10;-&gt;$METHOD$($ARG$);" description="Symfony: queries from a doctrine repository in a controller" toReformat="true" toShortenFQNames="true" deactivated="true">
     <variable name="VAR" expression="" defaultValue="&quot;$var&quot;" alwaysStopAt="true" />
     <variable name="REPO" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="METHOD" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="ARG" expression="" defaultValue="" alwaysStopAt="true" />
     <context />
   </template>
-  <template name="404unless" value="if ($CONDITION$) { throw $this-&gt;createNotFoundException($MESSAGE$); }" description="Symfony: 404 if statement for your controller" toReformat="true" toShortenFQNames="true">
+  <template name="404unless" value="if ($CONDITION$) { throw $this-&gt;createNotFoundException($MESSAGE$); }" description="Symfony: 404 if statement for your controller" toReformat="true" toShortenFQNames="true" deactivated="true">
     <variable name="CONDITION" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="MESSAGE" expression="" defaultValue="" alwaysStopAt="true" />
     <context />
