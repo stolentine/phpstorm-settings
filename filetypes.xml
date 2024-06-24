@@ -32,6 +32,7 @@
       <mapping ext="14gsr3" type="AUTO_DETECTED" />
       <mapping ext="fb" type="AUTO_DETECTED" />
       <mapping ext="pub" type="AUTO_DETECTED" />
+      <mapping ext="new" type="AUTO_DETECTED" />
       <mapping ext="docker" type="Dockerfile" />
       <mapping pattern=".php_cs" type="PHP" />
       <mapping pattern=".gitattributes" type="PLAIN_TEXT" />
