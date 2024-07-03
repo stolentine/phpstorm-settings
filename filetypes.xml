@@ -14,6 +14,7 @@
       <mapping pattern="2102021" type="AUTO_DETECTED" />
       <mapping pattern="group-smile-mobile" type="AUTO_DETECTED" />
       <mapping pattern="emoji-haha" type="AUTO_DETECTED" />
+      <mapping pattern="exec_db" type="AUTO_DETECTED" />
       <mapping pattern="install" type="AUTO_DETECTED" />
       <mapping pattern="PayloadPayload" type="AUTO_DETECTED" />
       <mapping pattern="hello" type="AUTO_DETECTED" />
