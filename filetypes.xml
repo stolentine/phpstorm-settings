@@ -39,6 +39,7 @@
       <mapping ext="qwe" type="AUTO_DETECTED" />
       <mapping ext="work" type="AUTO_DETECTED" />
       <mapping ext="wer" type="AUTO_DETECTED" />
+      <mapping ext="token" type="AUTO_DETECTED" />
       <mapping ext="new" type="AUTO_DETECTED" />
       <mapping ext="docker" type="Dockerfile" />
       <mapping pattern=".php_cs" type="PHP" />
