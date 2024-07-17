@@ -1,4 +1,4 @@
-<templateSet group="user">
+<templateSet group="MyHtml">
   <template name="spaceCode" value="&amp;#x20;" description="unicode space" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="ANY_OPENAPI_JSON_FILE" value="false" />
