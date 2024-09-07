@@ -31,6 +31,7 @@
       <mapping pattern="2b932d3890a22d97f290706bf3b001fdee0ea7" type="AUTO_DETECTED" />
       <mapping pattern="restart" type="AUTO_DETECTED" />
       <mapping pattern="awd" type="AUTO_DETECTED" />
+      <mapping pattern="build" type="AUTO_DETECTED" />
       <mapping ext="conf2" type="AUTO_DETECTED" />
       <mapping ext="meta" type="AUTO_DETECTED" />
       <mapping ext="14gsr3" type="AUTO_DETECTED" />
