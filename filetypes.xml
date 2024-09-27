@@ -18,6 +18,7 @@
       <mapping pattern="install" type="AUTO_DETECTED" />
       <mapping pattern="PayloadPayload" type="AUTO_DETECTED" />
       <mapping pattern="hello" type="AUTO_DETECTED" />
+      <mapping pattern="exec" type="AUTO_DETECTED" />
       <mapping pattern="_chown" type="AUTO_DETECTED" />
       <mapping pattern="github-token" type="AUTO_DETECTED" />
       <mapping pattern="lol" type="AUTO_DETECTED" />
