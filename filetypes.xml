@@ -34,6 +34,8 @@
       <mapping pattern="awd" type="AUTO_DETECTED" />
       <mapping pattern="help" type="AUTO_DETECTED" />
       <mapping pattern="build" type="AUTO_DETECTED" />
+      <mapping pattern="help2" type="AUTO_DETECTED" />
+      <mapping pattern="help3" type="AUTO_DETECTED" />
       <mapping ext="conf2" type="AUTO_DETECTED" />
       <mapping ext="meta" type="AUTO_DETECTED" />
       <mapping ext="14gsr3" type="AUTO_DETECTED" />
