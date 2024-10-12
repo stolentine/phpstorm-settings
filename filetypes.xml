@@ -15,6 +15,7 @@
       <mapping pattern="group-smile-mobile" type="AUTO_DETECTED" />
       <mapping pattern="emoji-haha" type="AUTO_DETECTED" />
       <mapping pattern="exec_db" type="AUTO_DETECTED" />
+      <mapping pattern="stop" type="AUTO_DETECTED" />
       <mapping pattern="install" type="AUTO_DETECTED" />
       <mapping pattern="PayloadPayload" type="AUTO_DETECTED" />
       <mapping pattern="hello" type="AUTO_DETECTED" />
@@ -35,6 +36,7 @@
       <mapping pattern="help" type="AUTO_DETECTED" />
       <mapping pattern="build" type="AUTO_DETECTED" />
       <mapping pattern="help2" type="AUTO_DETECTED" />
+      <mapping pattern="clone" type="AUTO_DETECTED" />
       <mapping pattern="help3" type="AUTO_DETECTED" />
       <mapping ext="conf2" type="AUTO_DETECTED" />
       <mapping ext="meta" type="AUTO_DETECTED" />
